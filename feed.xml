@@ -9,11 +9,11 @@
   <link>https://maltanews.great-site.net/</link>
   <description>Daily Malta news digest, automated. Curated from local Maltese news sources.</description>
   <language>en-mt</language>
-  <lastBuildDate>Tue, 20 Oct 2026 09:36:07 +0200</lastBuildDate>
+  <lastBuildDate>Tue, 20 Oct 2026 09:38:39 +0200</lastBuildDate>
   <pubDate>Mon, 19 Oct 2026 12:00:00 +0200</pubDate>
   <generator>Hermes Malta News pipeline v3 + RSS</generator>
   <managingEditor>dejjem@gmail.com (Mark Micallef)</managingEditor>
-  <atom:link href="https://cdn.jsdelivr.net/gh/dejjem/maltanews-feed@e978c2ae/feed.xml" rel="self" type="application/rss+xml" />
+  <atom:link href="https://cdn.jsdelivr.net/gh/dejjem/maltanews-feed@901b9063/feed.xml" rel="self" type="application/rss+xml" />
   <image>
     <url>https://maltanews.great-site.net/img/news-icon.png</url>
     <title>Malta News Today</title>
@@ -27,7 +27,7 @@
     <pubDate>Mon, 19 Oct 2026 12:00:00 +0200</pubDate>
     <guid isPermaLink="false">ea1359b915257edca1b36fb9378cc863</guid>
     <category>Politics</category>
-    <source url="https://cdn.jsdelivr.net/gh/dejjem/maltanews-feed@e978c2ae/feed.xml">Malta News — 2026-10-19</source>
+    <source url="https://cdn.jsdelivr.net/gh/dejjem/maltanews-feed@901b9063/feed.xml">Malta News — 2026-10-19</source>
     <media:content url="https://maltanews.great-site.net/img/pr261747b.jpg" medium="image" />
     <enclosure url="https://maltanews.great-site.net/img/pr261747b.jpg" length="0" type="image/jpeg" />
   </item>
@@ -39,7 +39,7 @@
     <pubDate>Mon, 19 Oct 2026 12:00:00 +0200</pubDate>
     <guid isPermaLink="false">1a30917c078b3cb2ae7b9d69adce5dc9</guid>
     <category>Courts &amp; Crime</category>
-    <source url="https://cdn.jsdelivr.net/gh/dejjem/maltanews-feed@e978c2ae/feed.xml">Malta News — 2026-10-19</source>
+    <source url="https://cdn.jsdelivr.net/gh/dejjem/maltanews-feed@901b9063/feed.xml">Malta News — 2026-10-19</source>
     <media:content url="https://maltanews.great-site.net/img/151038030162d39c44e11c2c6628a8b2a0aec039-1792415736-0d80d6a9-1200x630.png" medium="image" />
     <enclosure url="https://maltanews.great-site.net/img/151038030162d39c44e11c2c6628a8b2a0aec039-1792415736-0d80d6a9-1200x630.png" length="0" type="image/jpeg" />
   </item>
@@ -51,7 +51,7 @@
     <pubDate>Mon, 19 Oct 2026 12:00:00 +0200</pubDate>
     <guid isPermaLink="false">8c68a8723b408370fd160803a7220b3d</guid>
     <category>Politics</category>
-    <source url="https://cdn.jsdelivr.net/gh/dejjem/maltanews-feed@e978c2ae/feed.xml">Malta News — 2026-10-19</source>
+    <source url="https://cdn.jsdelivr.net/gh/dejjem/maltanews-feed@901b9063/feed.xml">Malta News — 2026-10-19</source>
     <media:content url="https://maltanews.great-site.net/img/c7cb91ea03fe.jpg" medium="image" />
     <enclosure url="https://maltanews.great-site.net/img/c7cb91ea03fe.jpg" length="0" type="image/jpeg" />
   </item>
@@ -63,7 +63,7 @@
     <pubDate>Mon, 19 Oct 2026 12:00:00 +0200</pubDate>
     <guid isPermaLink="false">b0a5189ba7de929aa21ce42aeb58a744</guid>
     <category>Courts &amp; Crime</category>
-    <source url="https://cdn.jsdelivr.net/gh/dejjem/maltanews-feed@e978c2ae/feed.xml">Malta News — 2026-10-19</source>
+    <source url="https://cdn.jsdelivr.net/gh/dejjem/maltanews-feed@901b9063/feed.xml">Malta News — 2026-10-19</source>
     <media:content url="https://maltanews.great-site.net/img/20d9b3c47774a8ee3b97b945eb7e767c78b9bc8d-1792390721-92e9cb17-1200x630.jpg" medium="image" />
     <enclosure url="https://maltanews.great-site.net/img/20d9b3c47774a8ee3b97b945eb7e767c78b9bc8d-1792390721-92e9cb17-1200x630.jpg" length="0" type="image/jpeg" />
   </item>
@@ -75,7 +75,7 @@
     <pubDate>Mon, 19 Oct 2026 12:00:00 +0200</pubDate>
     <guid isPermaLink="false">5bf317bc2672fe290f5676ffae63c6b6</guid>
     <category>Politics</category>
-    <source url="https://cdn.jsdelivr.net/gh/dejjem/maltanews-feed@e978c2ae/feed.xml">Malta News — 2026-10-19</source>
+    <source url="https://cdn.jsdelivr.net/gh/dejjem/maltanews-feed@901b9063/feed.xml">Malta News — 2026-10-19</source>
     <media:content url="https://maltanews.great-site.net/img/b761d842c9ccdf6332673db030e4f181f4f8a505-1792403664-b9678ab2-1200x630.png" medium="image" />
     <enclosure url="https://maltanews.great-site.net/img/b761d842c9ccdf6332673db030e4f181f4f8a505-1792403664-b9678ab2-1200x630.png" length="0" type="image/jpeg" />
   </item>
