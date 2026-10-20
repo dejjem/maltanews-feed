@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Malta News Today — RSS Feed</title>
+<link rel="alternate" type="application/rss+xml" title="Malta News Today" href="/maltanews-feed/feed.xml">
+<style>
+  body {
+    background: #000000;
+    color: #e8e8e8;
+    font-family: Georgia, 'Times New Roman', serif;
+    margin: 0;
+    padding: 48px 24px;
+    max-width: 720px;
+    margin-inline: auto;
+    -webkit-text-size-adjust: 100%;
+  }
+  h1 {
+    font-size: 40px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: #FF5C3A;
+    text-align: center;
+    margin: 0 0 6px 0;
+  }
+  .sub {
+    text-align: center;
+    color: #8a8a8a;
+    font-size: 13px;
+    letter-spacing: 1px;
+    margin: 0 0 32px 0;
+  }
+  .feed-url {
+    display: block;
+    background: #111111;
+    border: 1px solid #FF5C3A;
+    color: #FF5C3A;
+    padding: 14px 16px;
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Courier New', monospace;
+    font-size: 14px;
+    word-break: break-all;
+    margin: 0 0 28px 0;
+  }
+  .feed-url:hover { background: #FF5C3A; color: #000000; }
+  h2 {
+    font-size: 20px;
+    color: #ffffff;
+    border-bottom: 1px solid #3a3a3a;
+    padding-bottom: 8px;
+    margin: 28px 0 12px 0;
+  }
+  ul { padding-left: 20px; }
+  li { margin-bottom: 8px; line-height: 1.5; }
+  a { color: #FF5C3A; }
+  p.note { color: #8a8a8a; font-size: 14px; line-height: 1.6; }
+</style>
+</head>
+<body>
+
+<h1>Malta News</h1>
+<p class="sub">AUTOMATED DAILY DIGEST &middot; RSS 2.0</p>
+
+<a class="feed-url" href="/maltanews-feed/feed.xml">https://dejjem.github.io/maltanews-feed/feed.xml</a>
+
+<h2>Subscribe</h2>
+<ul>
+  <li><strong>Reeder</strong> — Add Feed Manually &rarr; paste the URL above</li>
+  <li><strong>NetNewsWire</strong> — File &rarr; Add Feed &rarr; paste the URL above</li>
+  <li><strong>Feedly</strong> / <strong>Inoreader</strong> / <strong>Feedbin</strong> — search for "Malta News Today" or paste the URL</li>
+  <li><strong>Browser</strong> — most browsers show a subscribe icon in the address bar because of the <code>rel="alternate"</code> autodiscovery link</li>
+</ul>
+
+<h2>About</h2>
+<p class="note">
+  This feed carries the daily Malta news digest produced by an automated pipeline
+  (draft &rarr; validate &rarr; publish) running three times daily. Each digest is
+  reviewed against strict date-integrity rules: only stories published today, Malta-related,
+  non-sports, and non-opinion are retained. Duplicate coverage of the same event is merged
+  into a single item with all contributing publications listed.
+</p>
+
+<p class="note">
+  The feed keeps a rolling window of the most recent 50 items. It is generated fresh on
+  every publish and committed to the repository that backs this page.
+</p>
+
+<h2>Validation</h2>
+<p class="note">
+  The feed passes the W3C Feed Validator. To check it yourself, paste the feed URL into
+  <a href="https://validator.w3.org/feed/">validator.w3.org/feed</a>.
+</p>
+
+<h2>Also available</h2>
+<ul>
+  <li><a href="https://maltanews.great-site.net/">Daily digest (HTML)</a> — the human-readable version</li>
+  <li><a href="https://maltanews.great-site.net/feed.xml">Origin feed</a> — same content, served from the digest site itself</li>
+</ul>
+
+</body>
+</html>
