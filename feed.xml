@@ -9,7 +9,7 @@
   <link>https://maltanews.great-site.net/</link>
   <description>Daily Malta news digest, automated. Curated from local Maltese news sources.</description>
   <language>en-mt</language>
-  <lastBuildDate>Wed, 21 Oct 2026 13:32:30 +0200</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 16:33:06 +0200</lastBuildDate>
   <pubDate>Wed, 21 Oct 2026 12:00:00 +0200</pubDate>
   <generator>Hermes Malta News pipeline v3 + RSS</generator>
   <managingEditor>dejjem@gmail.com (Mark Micallef)</managingEditor>
@@ -82,8 +82,8 @@
   <item>
     <title>Fish-farm fines must make operators think twice, EU fisheries chief says</title>
     <link>https://timesofmalta.com/article/fish-farm-fines-make-operators-think-twice-eu-fisheries-chief-says.1135398</link>
-    <description>EU Commissioner for Fisheries Costas Kadis, on a visit to Malta, said penalties for aquaculture operators should act as a real deterrent given the value of the industry, after four tuna farms were collectively fined just €14,000 in 2025 over fish-farm slime on the eastern coast. He promised continued EU support for Maltese fishermen facing Tunisian competition, citing 25 suspected infringements detected this season via a drone operation, and warned that climate change and invasive species are reshaping Mediterranean fisheries.</description>
-    <content:encoded><![CDATA[<p>EU Commissioner for Fisheries Costas Kadis, on a visit to Malta, said penalties for aquaculture operators should act as a real deterrent given the value of the industry, after four tuna farms were collectively fined just €14,000 in 2025 over fish-farm slime on the eastern coast. He promised continued EU support for Maltese fishermen facing Tunisian competition, citing 25 suspected infringements detected this season via a drone operation, and warned that climate change and invasive species are reshaping Mediterranean fisheries.</p><p><img src="https://maltanews.great-site.net/img/e3fc9636774cf40cb3937fedeeb37c16c1b675da-1791636910-a762a388-1200x630.jpg" alt="Maltese fish-farm coastline" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <description>EU Commissioner for Fisheries Costas Kads, on a visit to Malta, said penalties for aquaculture operators should act as a real deterrent given the value of the industry, after four tuna farms were collectively fined just 14,000 in 2025 over fish-farm slime on the eastern coast. He promised continued EU support for Maltese fishermen facing Tunisian competition, citing 25 suspected infringements detected this season via a drone operation, and warned that climate change and invasive species are reshaping Mediterranean fisheries.</description>
+    <content:encoded><![CDATA[<p>EU Commissioner for Fisheries Costas Kads, on a visit to Malta, said penalties for aquaculture operators should act as a real deterrent given the value of the industry, after four tuna farms were collectively fined just 14,000 in 2025 over fish-farm slime on the eastern coast. He promised continued EU support for Maltese fishermen facing Tunisian competition, citing 25 suspected infringements detected this season via a drone operation, and warned that climate change and invasive species are reshaping Mediterranean fisheries.</p><p><img src="https://maltanews.great-site.net/img/e3fc9636774cf40cb3937fedeeb37c16c1b675da-1791636910-a762a388-1200x630.jpg" alt="Maltese fish-farm coastline" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
     <pubDate>Wed, 21 Oct 2026 12:00:00 +0200</pubDate>
     <guid isPermaLink="false">ef08e8b743295bef2f8f812ba7cad524</guid>
     <category>Politics</category>
@@ -162,6 +162,54 @@
     <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-21</source>
     <media:content url="https://maltanews.great-site.net/img/14fb7c094c32647c5b0352aebf91037a290183ae-1792573474-724bb1b9-1200x630.jpg" medium="image" />
     <enclosure url="https://maltanews.great-site.net/img/14fb7c094c32647c5b0352aebf91037a290183ae-1792573474-724bb1b9-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Malta climbs rule of law rankings to 29th despite drop in key freedoms</title>
+    <link>https://timesofmalta.com/article/malta-climbs-rule-law-rankings-despite-decline-key-freedoms.1135894</link>
+    <description>Malta climbed two places to 29th out of 143 countries in the World Justice Projects 2026 Rule of Law Index, despite a less-than-one-per-cent drop in its overall score to 0.67. The report flagged declines in freedom of expression, freedom of assembly and public participation, with Maltas ranking on constraints on government powers sliding to 49th this year from 39th in 2024, and noted government powers limited by the judiciary fell in 63 per cent of countries, including Malta. Malta rose two places to 38th globally for absence of corruption and ranked 10th for order and security, retaining 7th in the EU/North America region.</description>
+    <content:encoded><![CDATA[<p>Malta climbed two places to 29th out of 143 countries in the World Justice Projects 2026 Rule of Law Index, despite a less-than-one-per-cent drop in its overall score to 0.67. The report flagged declines in freedom of expression, freedom of assembly and public participation, with Maltas ranking on constraints on government powers sliding to 49th this year from 39th in 2024, and noted government powers limited by the judiciary fell in 63 per cent of countries, including Malta. Malta rose two places to 38th globally for absence of corruption and ranked 10th for order and security, retaining 7th in the EU/North America region.</p><p><img src="https://maltanews.great-site.net/img/36c17e6932609e5b69b3031157835ff4e2659639-1792574263-b34bfbc8-1200x630.jpg" alt="Government finance" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Wed, 21 Oct 2026 12:00:00 +0200</pubDate>
+    <guid isPermaLink="false">cce1dfc8044d68bdf56f5f04dc918cd1</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-21</source>
+    <media:content url="https://maltanews.great-site.net/img/36c17e6932609e5b69b3031157835ff4e2659639-1792574263-b34bfbc8-1200x630.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/36c17e6932609e5b69b3031157835ff4e2659639-1792574263-b34bfbc8-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Hungry crocodiles threaten EU climate goals, PM Abela warns</title>
+    <link>https://timesofmalta.com/article/subsidies-prolong-dependence-fossil-fuels-pm-says.1135930</link>
+    <description>Prime Minister Robert Abela on Wednesday likened the EUs 2050 climate-neutrality ambition to a castle surrounded by hungry crocodiles, insisting that protecting households from rising energy costs is compatible with the clean-energy transition. Speaking at the EY attractiveness-survey conference, he acknowledged subsidies prolong dependence on fossil fuels but rejected the idea that consumer protection and decarbonisation are mutually exclusive, projecting a 2.2% GDP contraction if subsidies were removed. A third Sicily interconnector will be operational by end of Q1 2027, he said; opposition leader Alex Borg welcomed investor-confidence figures but warned they do not measure investment actually delivered.</description>
+    <content:encoded><![CDATA[<p>Prime Minister Robert Abela on Wednesday likened the EUs 2050 climate-neutrality ambition to a castle surrounded by hungry crocodiles, insisting that protecting households from rising energy costs is compatible with the clean-energy transition. Speaking at the EY attractiveness-survey conference, he acknowledged subsidies prolong dependence on fossil fuels but rejected the idea that consumer protection and decarbonisation are mutually exclusive, projecting a 2.2% GDP contraction if subsidies were removed. A third Sicily interconnector will be operational by end of Q1 2027, he said; opposition leader Alex Borg welcomed investor-confidence figures but warned they do not measure investment actually delivered.</p><p><img src="https://maltanews.great-site.net/img/b9b84b8f862ad4eb2ba1941cdb63f2dadeaf060e-1792583442-6467a991-1200x630.jpg" alt="Prime Minister Robert Abela at conference podium" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Wed, 21 Oct 2026 12:00:00 +0200</pubDate>
+    <guid isPermaLink="false">65dace1da229b89fb32373642f137d27</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-21</source>
+    <media:content url="https://maltanews.great-site.net/img/b9b84b8f862ad4eb2ba1941cdb63f2dadeaf060e-1792583442-6467a991-1200x630.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/b9b84b8f862ad4eb2ba1941cdb63f2dadeaf060e-1792583442-6467a991-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>€1.5m CPD headquarters enlargement unveiled with AI-equipped control room</title>
+    <link>https://timesofmalta.com/article/cpd-headquarters-enlargement-unveiled-15-million-renovation-works.1135932</link>
+    <description>Home affairs minister Glenn Bedingfield on Wednesday unveiled a 1.5million renovation of the Civil Protection Department headquarters that doubles its size and upgrades its emergency-response control room with state-of-the-art equipment. Fire engines are now fitted with cameras allowing officials to track operations in real time, with an AI-assisted system able to transmit data and, if needed, be extended to another three or four rooms. CPD director general Peter Paul Coleiro said the expanded premises match the departments wider remit since the original 1990s build.</description>
+    <content:encoded><![CDATA[<p>Home affairs minister Glenn Bedingfield on Wednesday unveiled a 1.5million renovation of the Civil Protection Department headquarters that doubles its size and upgrades its emergency-response control room with state-of-the-art equipment. Fire engines are now fitted with cameras allowing officials to track operations in real time, with an AI-assisted system able to transmit data and, if needed, be extended to another three or four rooms. CPD director general Peter Paul Coleiro said the expanded premises match the departments wider remit since the original 1990s build.</p><p><img src="https://maltanews.great-site.net/img/01f9ef0bdd5c3d044c6b6c1e321a2431d31d4392-1792583739-50cee7cb-1200x630.jpg" alt="Civil Protection Department headquarters control room" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Wed, 21 Oct 2026 12:00:00 +0200</pubDate>
+    <guid isPermaLink="false">ade01faa8ec5c29d19221cb2fd3650f3</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-21</source>
+    <media:content url="https://maltanews.great-site.net/img/01f9ef0bdd5c3d044c6b6c1e321a2431d31d4392-1792583739-50cee7cb-1200x630.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/01f9ef0bdd5c3d044c6b6c1e321a2431d31d4392-1792583739-50cee7cb-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Government unveils seven-point, 1m plan to tackle Oriental hornets</title>
+    <link>https://timesofmalta.com/article/sevenpoint-plan-tackle-hornets-announced.1135929</link>
+    <description>The government on Wednesday announced a 1million, seven-point plan to tackle a surge in Oriental hornets and support the beekeeping sector, after beekeepers warned throughout the summer that hornets were devastating their colonies. The plan covers a research programme into hornet-control technologies, a new-colony support scheme that prioritises the native Maltese honey bee (Apis mellifera ruttneri), per-colony financial aid for losses during 2026, conservation breeding, a national nest-reporting hotline and a public-awareness campaign. Implementation begins immediately, the Agriculture Ministry said.</description>
+    <content:encoded><![CDATA[<p>The government on Wednesday announced a 1million, seven-point plan to tackle a surge in Oriental hornets and support the beekeeping sector, after beekeepers warned throughout the summer that hornets were devastating their colonies. The plan covers a research programme into hornet-control technologies, a new-colony support scheme that prioritises the native Maltese honey bee (Apis mellifera ruttneri), per-colony financial aid for losses during 2026, conservation breeding, a national nest-reporting hotline and a public-awareness campaign. Implementation begins immediately, the Agriculture Ministry said.</p><p><img src="https://maltanews.great-site.net/img/7e0f86a5daeccccde94926afe51ab38debd65506-1792582854-14381b01-1200x630.jpg" alt="Oriental hornet on a flower" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Wed, 21 Oct 2026 12:00:00 +0200</pubDate>
+    <guid isPermaLink="false">f4d4cdd2318b73c7cdf9b36b0a528004</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-21</source>
+    <media:content url="https://maltanews.great-site.net/img/7e0f86a5daeccccde94926afe51ab38debd65506-1792582854-14381b01-1200x630.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/7e0f86a5daeccccde94926afe51ab38debd65506-1792582854-14381b01-1200x630.jpg" length="0" type="image/jpeg" />
   </item>
   <item>
     <title>Prosecution Lays Out Case in Scicluna Murder Trial: 'There's a Body on the Street'</title>
