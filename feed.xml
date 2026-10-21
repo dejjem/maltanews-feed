@@ -9,8 +9,8 @@
   <link>https://maltanews.great-site.net/</link>
   <description>Daily Malta news digest, automated. Curated from local Maltese news sources.</description>
   <language>en-mt</language>
-  <lastBuildDate>Tue, 20 Oct 2026 16:32:56 +0200</lastBuildDate>
-  <pubDate>Tue, 20 Oct 2026 12:00:00 +0200</pubDate>
+  <lastBuildDate>Wed, 21 Oct 2026 13:31:45 +0200</lastBuildDate>
+  <pubDate>Wed, 21 Oct 2026 12:00:00 +0200</pubDate>
   <generator>Hermes Malta News pipeline v3 + RSS</generator>
   <managingEditor>dejjem@gmail.com (Mark Micallef)</managingEditor>
   <atom:link href="https://dejjem.github.io/maltanews-feed/feed.xml" rel="self" type="application/rss+xml" />
@@ -19,6 +19,114 @@
     <title>Malta News Today</title>
     <link>https://maltanews.great-site.net/</link>
   </image>
+  <item>
+    <title>Lassana Cissé murder trial: accused breaks down in tears as crime-scene photos shown</title>
+    <link>https://timesofmalta.com/article/live-witnesses-tesify-lassane-cisse-murder-trial.1135901</link>
+    <description>Lorin Scicluna, charged with the 2019 murder of Lassana Cissé in Birżebbuġa and three counts of attempted murder, broke down and was briefly escorted out of the courtroom on Wednesday as jurors were shown 59 graphic photographs from the crime scene, including autopsy close-ups and bullet-entry wounds. The day also featured 112-call recordings from taxi driver Christopher Bernard Farrugia, who first reported Cissés body, and testimony from emergency nurse Patrick Bonnett and scene-of-crime officers Michelle Camilleri and Mario Azzopardi.</description>
+    <content:encoded><![CDATA[<p>Lorin Scicluna, charged with the 2019 murder of Lassana Cissé in Birżebbuġa and three counts of attempted murder, broke down and was briefly escorted out of the courtroom on Wednesday as jurors were shown 59 graphic photographs from the crime scene, including autopsy close-ups and bullet-entry wounds. The day also featured 112-call recordings from taxi driver Christopher Bernard Farrugia, who first reported Cissés body, and testimony from emergency nurse Patrick Bonnett and scene-of-crime officers Michelle Camilleri and Mario Azzopardi.</p><p><img src="https://maltanews.great-site.net/img/f8c53f1e06f07fdaba55e4cfb05926ecd3bd4735-1792567991-6979a8f1-1200x630.jpeg" alt="Lassana Cissé murder trial courtroom" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Wed, 21 Oct 2026 12:00:00 +0200</pubDate>
+    <guid isPermaLink="false">6ac783d3b05a47eb4bf4685fca551080</guid>
+    <category>Courts &amp; Crime</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-21</source>
+    <media:content url="https://maltanews.great-site.net/img/f8c53f1e06f07fdaba55e4cfb05926ecd3bd4735-1792567991-6979a8f1-1200x630.jpeg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/f8c53f1e06f07fdaba55e4cfb05926ecd3bd4735-1792567991-6979a8f1-1200x630.jpeg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Q2 government deficit down €35.2m after accounting adjustment</title>
+    <link>https://timesofmalta.com/article/government-deficit-352-million-accounting-adjustment.1135917</link>
+    <description>Maltas consolidated government deficit stood at €344.1million in the second quarter of 2026, the NSO said on Wednesday €35.2million lower than the cash-based figure after the Consolidated Fund was restated under ESA2010 accrual accounting. Government revenue rose €212.3million year-on-year, led by income/wealth tax (+€141.2m), while expenditure climbed €321.5m on higher intermediate consumption and salaries; government debt reached €11.98billion or 47.0% of GDP at the end of June.</description>
+    <content:encoded><![CDATA[<p>Maltas consolidated government deficit stood at €344.1million in the second quarter of 2026, the NSO said on Wednesday €35.2million lower than the cash-based figure after the Consolidated Fund was restated under ESA2010 accrual accounting. Government revenue rose €212.3million year-on-year, led by income/wealth tax (+€141.2m), while expenditure climbed €321.5m on higher intermediate consumption and salaries; government debt reached €11.98billion or 47.0% of GDP at the end of June.</p><p><img src="https://maltanews.great-site.net/img/36c17e6932609e5b69b3031157835ff4e2659639-1792574263-b34bfbc8-1200x630.jpg" alt="Government finance" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Wed, 21 Oct 2026 12:00:00 +0200</pubDate>
+    <guid isPermaLink="false">8b238a7ea0f96868b6f7dd8109dcdeb0</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-21</source>
+    <media:content url="https://maltanews.great-site.net/img/36c17e6932609e5b69b3031157835ff4e2659639-1792574263-b34bfbc8-1200x630.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/36c17e6932609e5b69b3031157835ff4e2659639-1792574263-b34bfbc8-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Aquilina names ex-police sergeant as kingpin behind AI smear campaign</title>
+    <link>https://timesofmalta.com/article/robert-aquilina-points-retired-police-sergeant-derogatory-image.1135904</link>
+    <description>Former Repubblika head Robert Aquilina on Wednesday said retired sergeant Joseph Abela father of a serving inspector and brother of retired judge Toni Abela was behind an AI-generated image that portrayed him as Lord of the Rings Gollum, part of a wider dehumanisation campaign against government critics. Aquilina said he has reported Abela to police and asked for a separate inquiry into claims of suppression; Repubblika backed him and urged police to act without fear or favour.</description>
+    <content:encoded><![CDATA[<p>Former Repubblika head Robert Aquilina on Wednesday said retired sergeant Joseph Abela father of a serving inspector and brother of retired judge Toni Abela was behind an AI-generated image that portrayed him as Lord of the Rings Gollum, part of a wider dehumanisation campaign against government critics. Aquilina said he has reported Abela to police and asked for a separate inquiry into claims of suppression; Repubblika backed him and urged police to act without fear or favour.</p><p><img src="https://maltanews.great-site.net/img/be38d9d56633b67dd458ef353d80b7845c12b887-1792567877-d0f1aa8f-1200x630.jpg" alt="Robert Aquilina speaking" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Wed, 21 Oct 2026 12:00:00 +0200</pubDate>
+    <guid isPermaLink="false">a3f1288b37d46b04bc27e26fce182837</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-21</source>
+    <media:content url="https://maltanews.great-site.net/img/be38d9d56633b67dd458ef353d80b7845c12b887-1792567877-d0f1aa8f-1200x630.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/be38d9d56633b67dd458ef353d80b7845c12b887-1792567877-d0f1aa8f-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Bedingfield backs prisons chief after mobile-phone breach</title>
+    <link>https://timesofmalta.com/article/bedingfield-backs-prisons-director-mobile-phone-security-breach.1135926</link>
+    <description>Home affairs minister Glenn Bedingfield on Wednesday reiterated confidence in prisons director Christopher Siegersma after three inmates George Degiorgio, Robert Agius and Damiano Torrisi were found with mobile phones in their cells over the weekend, with two suspected of using them to plot a murder. The minister announced a new internal professional-standards unit and a draft law that would make using or smuggling a phone into prison a criminal offence rather than a disciplinary breach.</description>
+    <content:encoded><![CDATA[<p>Home affairs minister Glenn Bedingfield on Wednesday reiterated confidence in prisons director Christopher Siegersma after three inmates George Degiorgio, Robert Agius and Damiano Torrisi were found with mobile phones in their cells over the weekend, with two suspected of using them to plot a murder. The minister announced a new internal professional-standards unit and a draft law that would make using or smuggling a phone into prison a criminal offence rather than a disciplinary breach.</p><p><img src="https://maltanews.great-site.net/img/5a92a47debc28d7186bfec0cf2e82b493bbf0f78-1792577878-c19f540e-1200x630.png" alt="Glenn Bedingfield at the podium" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Wed, 21 Oct 2026 12:00:00 +0200</pubDate>
+    <guid isPermaLink="false">dd3467cd7a88809ea60e112a2fc61a27</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-21</source>
+    <media:content url="https://maltanews.great-site.net/img/5a92a47debc28d7186bfec0cf2e82b493bbf0f78-1792577878-c19f540e-1200x630.png" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/5a92a47debc28d7186bfec0cf2e82b493bbf0f78-1792577878-c19f540e-1200x630.png" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Malta must shift from workforce growth to productivity, Chamber president warns</title>
+    <link>https://lovinmalta.com/news/local/malta-must-shift-from-workforce-growth-to-productivity-chamber-president-warns-at-ey-conference/</link>
+    <description>Malta Chamber president William Spiteri Bailey told the EY Future Realised Conference on Wednesday that Maltas economic growth has been propped up by an expanding workforce rather than productivity, and warned that infrastructure, education and skills gaps risk undermining the countrys attractiveness. He pointed to investor satisfaction with transport infrastructure falling to 14%, 69% of investors unable to find specialised skills locally, and PISA 2025 scores dropping by 1331 points across science, maths and reading.</description>
+    <content:encoded><![CDATA[<p>Malta Chamber president William Spiteri Bailey told the EY Future Realised Conference on Wednesday that Maltas economic growth has been propped up by an expanding workforce rather than productivity, and warned that infrastructure, education and skills gaps risk undermining the countrys attractiveness. He pointed to investor satisfaction with transport infrastructure falling to 14%, 69% of investors unable to find specialised skills locally, and PISA 2025 scores dropping by 1331 points across science, maths and reading.</p><p><img src="https://maltanews.great-site.net/img/GABE-FB-COVER-36-1024x536.jpg" alt="William Spiteri Bailey at EY conference" /></p><p><em>Sources: Lovin Malta, Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Wed, 21 Oct 2026 12:00:00 +0200</pubDate>
+    <guid isPermaLink="false">502aa4b35b5c56352bb26467c8596841</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-21</source>
+    <media:content url="https://maltanews.great-site.net/img/GABE-FB-COVER-36-1024x536.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/GABE-FB-COVER-36-1024x536.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Fish-farm fines must make operators think twice, EU fisheries chief says</title>
+    <link>https://timesofmalta.com/article/fish-farm-fines-make-operators-think-twice-eu-fisheries-chief-says.1135398</link>
+    <description>EU Commissioner for Fisheries Costas Kadis, on a visit to Malta, said penalties for aquaculture operators should act as a real deterrent given the value of the industry, after four tuna farms were collectively fined just €14,000 in 2025 over fish-farm slime on the eastern coast. He promised continued EU support for Maltese fishermen facing Tunisian competition, citing 25 suspected infringements detected this season via a drone operation, and warned that climate change and invasive species are reshaping Mediterranean fisheries.</description>
+    <content:encoded><![CDATA[<p>EU Commissioner for Fisheries Costas Kadis, on a visit to Malta, said penalties for aquaculture operators should act as a real deterrent given the value of the industry, after four tuna farms were collectively fined just €14,000 in 2025 over fish-farm slime on the eastern coast. He promised continued EU support for Maltese fishermen facing Tunisian competition, citing 25 suspected infringements detected this season via a drone operation, and warned that climate change and invasive species are reshaping Mediterranean fisheries.</p><p><img src="https://maltanews.great-site.net/img/e3fc9636774cf40cb3937fedeeb37c16c1b675da-1791636910-a762a388-1200x630.jpg" alt="Maltese fish-farm coastline" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Wed, 21 Oct 2026 12:00:00 +0200</pubDate>
+    <guid isPermaLink="false">ef08e8b743295bef2f8f812ba7cad524</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-21</source>
+    <media:content url="https://maltanews.great-site.net/img/e3fc9636774cf40cb3937fedeeb37c16c1b675da-1791636910-a762a388-1200x630.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/e3fc9636774cf40cb3937fedeeb37c16c1b675da-1791636910-a762a388-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Bolt failure probably contributed to Swiss climbers fatal Zurrieq fall</title>
+    <link>https://timesofmalta.com/article/bolt-failure-probably-contributed-climber-fatal-fall.1135899</link>
+    <description>ClimbMT said on Wednesday that a failure of a 316-stainless belay bolt at the first belay of the Plunder route at Wied Fulija, Zurrieq most probably caused the October11 fall that killed 55-year-old Swiss climber Daniel Fransson. The federation has alerted the UIAA and will prioritise inspections on coastal crags, urging climbers never to rely on a single bolt as their only protection.</description>
+    <content:encoded><![CDATA[<p>ClimbMT said on Wednesday that a failure of a 316-stainless belay bolt at the first belay of the Plunder route at Wied Fulija, Zurrieq most probably caused the October11 fall that killed 55-year-old Swiss climber Daniel Fransson. The federation has alerted the UIAA and will prioritise inspections on coastal crags, urging climbers never to rely on a single bolt as their only protection.</p><p><img src="https://maltanews.great-site.net/img/078f6d69fff425c3fe701dab78e1c1d5b0116148-1792561040-0b1bbe3d-1200x630.png" alt="Climbing anchor at Wied Fulija" /></p><p><em>Sources: Times of Malta, Lovin Malta</em></p>]]></content:encoded>
+    <pubDate>Wed, 21 Oct 2026 12:00:00 +0200</pubDate>
+    <guid isPermaLink="false">094cccdea68e90bbaf9298a5d317741d</guid>
+    <category>Infrastructure &amp; Transport</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-21</source>
+    <media:content url="https://maltanews.great-site.net/img/078f6d69fff425c3fe701dab78e1c1d5b0116148-1792561040-0b1bbe3d-1200x630.png" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/078f6d69fff425c3fe701dab78e1c1d5b0116148-1792561040-0b1bbe3d-1200x630.png" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Sicily strike: PN says empty shelves expose need for more local production</title>
+    <link>https://timesofmalta.com/article/empty-shelves-sicily-strike-shows-need-higher-local-production-pn.1135923</link>
+    <description>The Nationalist Party said on Wednesday that supermarket shelves emptied by the Sicilian truckers fuel-price strike prove Malta must produce more of its own food, calling on the government to give farmers, livestock breeders, self-employed workers and small businesses more tools to compete. Shadow agriculture minister Toni Bezzina and shadow small-enterprise minister Michael Piccinino warned that local production is a matter of national security and peace of mind for Maltese and Gozitan families.</description>
+    <content:encoded><![CDATA[<p>The Nationalist Party said on Wednesday that supermarket shelves emptied by the Sicilian truckers fuel-price strike prove Malta must produce more of its own food, calling on the government to give farmers, livestock breeders, self-employed workers and small businesses more tools to compete. Shadow agriculture minister Toni Bezzina and shadow small-enterprise minister Michael Piccinino warned that local production is a matter of national security and peace of mind for Maltese and Gozitan families.</p><p><img src="https://maltanews.great-site.net/img/f3d65d12e3bf0080144d2641731e7043c3ceb201-1792576693-88da8d28-1200x630.jpeg" alt="Empty supermarket shelves in Malta" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Wed, 21 Oct 2026 12:00:00 +0200</pubDate>
+    <guid isPermaLink="false">0382753ae9fe449ebd502a520a9be1a7</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-21</source>
+    <media:content url="https://maltanews.great-site.net/img/f3d65d12e3bf0080144d2641731e7043c3ceb201-1792576693-88da8d28-1200x630.jpeg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/f3d65d12e3bf0080144d2641731e7043c3ceb201-1792576693-88da8d28-1200x630.jpeg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Renewables now 18.8% of Maltas energy consumption, Eurostat data shows</title>
+    <link>https://timesofmalta.com/article/renewable-energy-accounting-onefifth-malta-consumption.1135916</link>
+    <description>Maltas renewable-energy share rose 1.6 percentage points to 18.8% of final energy consumption in 2025, provisional Eurostat data cited by the Energy Ministry on Wednesday showed, leaving it ahead of Belgium, Slovakia and Ireland. Energy minister Miriam Dalli said the trend underlines the value of sustained investment and the role of households and businesses in making renewable energy more accessible and affordable while strengthening energy security.</description>
+    <content:encoded><![CDATA[<p>Maltas renewable-energy share rose 1.6 percentage points to 18.8% of final energy consumption in 2025, provisional Eurostat data cited by the Energy Ministry on Wednesday showed, leaving it ahead of Belgium, Slovakia and Ireland. Energy minister Miriam Dalli said the trend underlines the value of sustained investment and the role of households and businesses in making renewable energy more accessible and affordable while strengthening energy security.</p><p><img src="https://maltanews.great-site.net/img/14fb7c094c32647c5b0352aebf91037a290183ae-1792573474-724bb1b9-1200x630.jpg" alt="Renewable energy infrastructure" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Wed, 21 Oct 2026 12:00:00 +0200</pubDate>
+    <guid isPermaLink="false">44ebc50be76fedac39574fdf5563f859</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-21</source>
+    <media:content url="https://maltanews.great-site.net/img/14fb7c094c32647c5b0352aebf91037a290183ae-1792573474-724bb1b9-1200x630.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/14fb7c094c32647c5b0352aebf91037a290183ae-1792573474-724bb1b9-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
   <item>
     <title>Prosecution Lays Out Case in Scicluna Murder Trial: 'There's a Body on the Street'</title>
     <link>https://timesofmalta.com/article/live-prosecutors-lay-case-lorin-scicluna.1135849</link>
