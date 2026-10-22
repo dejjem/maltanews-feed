@@ -9,8 +9,8 @@
   <link>https://maltanews.great-site.net/</link>
   <description>Daily Malta news digest, automated. Curated from local Maltese news sources.</description>
   <language>en-mt</language>
-  <lastBuildDate>Wed, 21 Oct 2026 16:33:55 +0200</lastBuildDate>
-  <pubDate>Wed, 21 Oct 2026 12:00:00 +0200</pubDate>
+  <lastBuildDate>Thu, 22 Oct 2026 13:32:54 +0200</lastBuildDate>
+  <pubDate>Thu, 22 Oct 2026 12:00:00 +0200</pubDate>
   <generator>Hermes Malta News pipeline v3 + RSS</generator>
   <managingEditor>dejjem@gmail.com (Mark Micallef)</managingEditor>
   <atom:link href="https://dejjem.github.io/maltanews-feed/feed.xml" rel="self" type="application/rss+xml" />
@@ -440,6 +440,174 @@
     <enclosure url="https://maltanews.great-site.net/img/1ce8e2f961d4040f8a79a585196faf8a4f900ede-1792487838-06d4bc88-1200x630.jpg" length="0" type="image/jpeg" />
   </item>
   <item>
+    <title>Government opens two new electricity distribution centres, upgrades Msida</title>
+    <link>https://timesofmalta.com/article/government-inaugurates-two-new-energy-distribution-centres.1135952</link>
+    <description>The government inaugurated distribution centres in Naxxar and Siġġiewi on Wednesday and announced the upgrading of the Msida centre, together serving some 33,000 households and businesses across 11 localities. The Naxxar centre will feed Naxxar, Għargħur and Burmarrad while easing pressure on Mosta, and the Siġġiewi centre comes with 70km of new medium-voltage cable to strengthen supply for around 12,000 consumers in Siġġiewi, Mqabba, Qrendi, Żebbuġ and Qormi. Works in Msida doubled capacity from 30 MVA to 60 MVA, improving reliability for Mater Dei Hospital and the University of Malta. Malta now has 23 distribution centres.</description>
+    <content:encoded><![CDATA[<p>The government inaugurated distribution centres in Naxxar and Siġġiewi on Wednesday and announced the upgrading of the Msida centre, together serving some 33,000 households and businesses across 11 localities. The Naxxar centre will feed Naxxar, Għargħur and Burmarrad while easing pressure on Mosta, and the Siġġiewi centre comes with 70km of new medium-voltage cable to strengthen supply for around 12,000 consumers in Siġġiewi, Mqabba, Qrendi, Żebbuġ and Qormi. Works in Msida doubled capacity from 30 MVA to 60 MVA, improving reliability for Mater Dei Hospital and the University of Malta. Malta now has 23 distribution centres.</p><p><img src="https://maltanews.great-site.net/img/92407d7efc9d59fb50a611ec355495979e85ea79-1792608440-84e2d10e-1200x630.jpeg" alt="New electricity distribution infrastructure" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Thu, 22 Oct 2026 12:00:00 +0200</pubDate>
+    <guid isPermaLink="false">9af19a458820301f3672caf01c4b899f</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-22</source>
+    <media:content url="https://maltanews.great-site.net/img/92407d7efc9d59fb50a611ec355495979e85ea79-1792608440-84e2d10e-1200x630.jpeg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/92407d7efc9d59fb50a611ec355495979e85ea79-1792608440-84e2d10e-1200x630.jpeg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>BCA seals off uninhabitable Paceville block after owners ignore warnings</title>
+    <link>https://timesofmalta.com/article/bca-steps-shield-dangerous-paceville-block-after-owners-fail-act.1135947</link>
+    <description>The Building and Construction Authority has begun emergency works on the evacuated Seaview Apartments in Paceville, saying owners must pay after ignoring repeated warnings. Concrete blocks were placed around the former Burger King entrance and a temporary shield is being built to stabilise the building and seal off access. Residents were evacuated in August after the block was declared no longer fit for habitation, following a long-running dispute among owners over who should carry out maintenance.</description>
+    <content:encoded><![CDATA[<p>The Building and Construction Authority has begun emergency works on the evacuated Seaview Apartments in Paceville, saying owners must pay after ignoring repeated warnings. Concrete blocks were placed around the former Burger King entrance and a temporary shield is being built to stabilise the building and seal off access. Residents were evacuated in August after the block was declared no longer fit for habitation, following a long-running dispute among owners over who should carry out maintenance.</p><p><img src="https://maltanews.great-site.net/img/cb0d78a7486f46b8c30ecd25e2723865e49786bc-1792600223-a5718f6a-1200x630.png" alt="Seaview Apartments block in Paceville" /></p><p><em>Sources: Times of Malta, Malta Independent, Newsbook</em></p>]]></content:encoded>
+    <pubDate>Thu, 22 Oct 2026 12:00:00 +0200</pubDate>
+    <guid isPermaLink="false">85c2e1d3a3ec1abb5f63d69e7e77d4ad</guid>
+    <category>Infrastructure &amp; Transport</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-22</source>
+    <media:content url="https://maltanews.great-site.net/img/cb0d78a7486f46b8c30ecd25e2723865e49786bc-1792600223-a5718f6a-1200x630.png" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/cb0d78a7486f46b8c30ecd25e2723865e49786bc-1792600223-a5718f6a-1200x630.png" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Lorin Scicluna murder trial enters fourth day with further witnesses due to testify</title>
+    <link>https://timesofmalta.com/article/live-lorin-scicluna-trial-enters-fourth-day.1135957</link>
+    <description>The trial of former soldier Lorin Scicluna resumed on Thursday morning at the Valletta law courts, with prosecutors expected to call further witnesses in the case over the racially motivated murder of Lassana Cisse. Scicluna, 46, faces nine charges including the murder of Cisse and the attempted murder of Mohammed Jallow, Ibrahim Bah and May Malimi, and could face life imprisonment if convicted. He denies all charges. Jurors were shown on Wednesday graphic photographs of Cisse’s body, and the trial is being presided over by Judge Natasha Galea Sciberras.</description>
+    <content:encoded><![CDATA[<p>The trial of former soldier Lorin Scicluna resumed on Thursday morning at the Valletta law courts, with prosecutors expected to call further witnesses in the case over the racially motivated murder of Lassana Cisse. Scicluna, 46, faces nine charges including the murder of Cisse and the attempted murder of Mohammed Jallow, Ibrahim Bah and May Malimi, and could face life imprisonment if convicted. He denies all charges. Jurors were shown on Wednesday graphic photographs of Cisse’s body, and the trial is being presided over by Judge Natasha Galea Sciberras.</p><p><img src="https://maltanews.great-site.net/img/6b32b96906c635ef26c9bc2365841f809210d296-1792651086-9cf3b9f2-1200x630.jpg" alt="Maltese law court during the Cisse murder trial" /></p><p><em>Sources: Times of Malta, Malta Independent</em></p>]]></content:encoded>
+    <pubDate>Thu, 22 Oct 2026 12:00:00 +0200</pubDate>
+    <guid isPermaLink="false">f12293195b560d96292cce0d21311904</guid>
+    <category>Courts &amp; Crime</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-22</source>
+    <media:content url="https://maltanews.great-site.net/img/6b32b96906c635ef26c9bc2365841f809210d296-1792651086-9cf3b9f2-1200x630.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/6b32b96906c635ef26c9bc2365841f809210d296-1792651086-9cf3b9f2-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Planning Authority defers 13-storey Palazzina Vincenti hotel conversion amid heritage campaign</title>
+    <link>https://timesofmalta.com/article/planning-authority-defers-plans-13storey-palazzina-vincenti-hotel.1135964</link>
+    <description>The Planning Authority deferred a decision on developer Carlo Stivali’s application (PA/07761/21) to turn the Grade 2 listed postwar modernist Palazzina Vincenti in St Julian’s into a 13-storey hotel, citing a lack of consent and contracts with neighbouring owners. Kamra tal-Periti, the Flimkien għal-Ambjent Aħjar NGO, St Julian’s residents and the KTP have all called for the building’s protection to be upgraded to Grade 1 or for it to be expropriated for public use. Architect Gustavo R Vincenti designed the St Julian’s property as his own home in 1952, and a 2021 Superintendence of Cultural Heritage report described it as one of the best modernist examples in Malta.</description>
+    <content:encoded><![CDATA[<p>The Planning Authority deferred a decision on developer Carlo Stivali’s application (PA/07761/21) to turn the Grade 2 listed postwar modernist Palazzina Vincenti in St Julian’s into a 13-storey hotel, citing a lack of consent and contracts with neighbouring owners. Kamra tal-Periti, the Flimkien għal-Ambjent Aħjar NGO, St Julian’s residents and the KTP have all called for the building’s protection to be upgraded to Grade 1 or for it to be expropriated for public use. Architect Gustavo R Vincenti designed the St Julian’s property as his own home in 1952, and a 2021 Superintendence of Cultural Heritage report described it as one of the best modernist examples in Malta.</p><p><img src="https://maltanews.great-site.net/img/d6bb77a0eecea784468e278ca2b8e0494664e2f9-1792655390-8d6e99d7-1200x630.jpeg" alt="Palazzina Vincenti modernist building in St Julian’s" /></p><p><em>Sources: Times of Malta, Times of Malta, Malta Independent, Lovin Malta</em></p>]]></content:encoded>
+    <pubDate>Thu, 22 Oct 2026 12:00:00 +0200</pubDate>
+    <guid isPermaLink="false">a34f66f4b814c9f32535667d620034dd</guid>
+    <category>Infrastructure &amp; Transport</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-22</source>
+    <media:content url="https://maltanews.great-site.net/img/d6bb77a0eecea784468e278ca2b8e0494664e2f9-1792655390-8d6e99d7-1200x630.jpeg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/d6bb77a0eecea784468e278ca2b8e0494664e2f9-1792655390-8d6e99d7-1200x630.jpeg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Swedish socialist MEP accuses EPP of exploiting Daphne murder in rule of law clash</title>
+    <link>https://timesofmalta.com/article/mickey-mouse-parliament-swedish-mep-slams-epp-rule-law-debate.1135975</link>
+    <description>A Swedish socialist MEP accused the European People Party, which Malta’s PN MEPs sit within, of exploiting the murder of Daphne Caruana Galizia for political gain, and questioned whether the European Parliament had become a "Mickey Mouse parliament". The intervention came as Malta’s two MEPs traded blows in the Strasbourg plenary debate on the rule of law, held to mark nine years since Caruana Galizia’s assassination. Prime Minister Robert Abela separately criticised PN MEPs over their stance.</description>
+    <content:encoded><![CDATA[<p>A Swedish socialist MEP accused the European People Party, which Malta’s PN MEPs sit within, of exploiting the murder of Daphne Caruana Galizia for political gain, and questioned whether the European Parliament had become a &quot;Mickey Mouse parliament&quot;. The intervention came as Malta’s two MEPs traded blows in the Strasbourg plenary debate on the rule of law, held to mark nine years since Caruana Galizia’s assassination. Prime Minister Robert Abela separately criticised PN MEPs over their stance.</p><p><img src="https://maltanews.great-site.net/img/01c26dde106a3a020e56b1f20131cca7cfb5440b-1792664203-86de75fa-1200x630.jpeg" alt="European Parliament plenary in Strasbourg" /></p><p><em>Sources: Times of Malta, Lovin Malta, Lovin Malta</em></p>]]></content:encoded>
+    <pubDate>Thu, 22 Oct 2026 12:00:00 +0200</pubDate>
+    <guid isPermaLink="false">afdbca890b8a12ef0f79a268b6278ecb</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-22</source>
+    <media:content url="https://maltanews.great-site.net/img/01c26dde106a3a020e56b1f20131cca7cfb5440b-1792664203-86de75fa-1200x630.jpeg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/01c26dde106a3a020e56b1f20131cca7cfb5440b-1792664203-86de75fa-1200x630.jpeg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Daphne Caruana Galizia journalism prize awarded in Strasbourg as her family attends</title>
+    <link>https://lovinmalta.com/news/local/watch-italy-albania-migrant-deal-investigation-wins-prestigious-daphne-caruana-galizia-prize/</link>
+    <description>Caruana Galizia’s family attended the presentation in Strasbourg of the European Parliament’s Daphne Caruana Galizia prize for journalism, awarded to Giacomo Zandonini and Maite Vermeulen for an 18-month investigation into Italy’s migrant detention deal with Albania. The reporters, published by De Correspondent, filed over 30 freedom of information requests across six European countries and to the Commission, the Council and Frontex, and were denied access to the Italian-run facilities. The award was presented during the same sitting at which Malta’s rule of law was debated.</description>
+    <content:encoded><![CDATA[<p>Caruana Galizia’s family attended the presentation in Strasbourg of the European Parliament’s Daphne Caruana Galizia prize for journalism, awarded to Giacomo Zandonini and Maite Vermeulen for an 18-month investigation into Italy’s migrant detention deal with Albania. The reporters, published by De Correspondent, filed over 30 freedom of information requests across six European countries and to the Commission, the Council and Frontex, and were denied access to the Italian-run facilities. The award was presented during the same sitting at which Malta’s rule of law was debated.</p><p><img src="https://maltanews.great-site.net/img/GABE-FB-COVER-50-1024x536.jpg" alt="Daphne Caruana Galizia prize ceremony in Strasbourg" /></p><p><em>Sources: Lovin Malta, Lovin Malta</em></p>]]></content:encoded>
+    <pubDate>Thu, 22 Oct 2026 12:00:00 +0200</pubDate>
+    <guid isPermaLink="false">e7f6d35a2612485c2262f36999d99757</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-22</source>
+    <media:content url="https://maltanews.great-site.net/img/GABE-FB-COVER-50-1024x536.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/GABE-FB-COVER-50-1024x536.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Labour MEPs welcome €3.7m in EU funds for Storm Harry damage</title>
+    <link>https://timesofmalta.com/article/pl-meps-welcome-37m-eu-funds-storm-harry-devastation.1135956</link>
+    <description>Labour MEPs Alex Agius Saliba, Daniel Attard and Thomas Bajada welcomed the allocation of €3.7 million in EU funds to Malta following the damage caused by Storm Harry in January. Malta had calculated the storm’s total cost at around €128 million, with extensive harm to public infrastructure, homes, businesses and livelihoods across Malta and Gozo. The MEPs described the assistance as a concrete demonstration of European solidarity in the recovery effort.</description>
+    <content:encoded><![CDATA[<p>Labour MEPs Alex Agius Saliba, Daniel Attard and Thomas Bajada welcomed the allocation of €3.7 million in EU funds to Malta following the damage caused by Storm Harry in January. Malta had calculated the storm’s total cost at around €128 million, with extensive harm to public infrastructure, homes, businesses and livelihoods across Malta and Gozo. The MEPs described the assistance as a concrete demonstration of European solidarity in the recovery effort.</p><p><img src="https://maltanews.great-site.net/img/4ed994473ee0656db566903a2357c6a0e53f1969-1792657217-0de21a51-1200x630.jpeg" alt="Storm damage in Malta" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Thu, 22 Oct 2026 12:00:00 +0200</pubDate>
+    <guid isPermaLink="false">307fd749527e7078b1d1508aefa6aca0</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-22</source>
+    <media:content url="https://maltanews.great-site.net/img/4ed994473ee0656db566903a2357c6a0e53f1969-1792657217-0de21a51-1200x630.jpeg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/4ed994473ee0656db566903a2357c6a0e53f1969-1792657217-0de21a51-1200x630.jpeg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Malta’s investor attractiveness climbs to 81%, EY survey shows</title>
+    <link>https://lovinmalta.com/news/local/maltas-attractiveness-to-foreign-investors-climbs-to-81-ey-survey-reveals/</link>
+    <description>Malta’s attractiveness as a destination for foreign direct investment has risen for a second consecutive year, with 81% of surveyed investors viewing the country positively, according to EY’s Malta Attractiveness Survey. That is up from 79% in 2025 and 54% in 2024, and the highest rating recorded since 2016, when it stood at 87%. Only 13% of respondents now consider Malta unattractive, down from 25% two years ago. Investor sentiment had bottomed out at 37% in 2021.</description>
+    <content:encoded><![CDATA[<p>Malta’s attractiveness as a destination for foreign direct investment has risen for a second consecutive year, with 81% of surveyed investors viewing the country positively, according to EY’s Malta Attractiveness Survey. That is up from 79% in 2025 and 54% in 2024, and the highest rating recorded since 2016, when it stood at 87%. Only 13% of respondents now consider Malta unattractive, down from 25% two years ago. Investor sentiment had bottomed out at 37% in 2021.</p><p><img src="https://maltanews.great-site.net/img/1-17-1024x577.jpg" alt="Foreign investment in Malta" /></p><p><em>Sources: Lovin Malta</em></p>]]></content:encoded>
+    <pubDate>Thu, 22 Oct 2026 12:00:00 +0200</pubDate>
+    <guid isPermaLink="false">700fa558eecf8d069d292ac0c01a412f</guid>
+    <category>General</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-22</source>
+    <media:content url="https://maltanews.great-site.net/img/1-17-1024x577.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/1-17-1024x577.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Maltese rank joint second in world for daily worry, Gallup report finds</title>
+    <link>https://timesofmalta.com/article/maltese-people-among-world-biggest-worriers.1135974</link>
+    <description>Maltese adults are among the world’s biggest worriers, with 58% saying they worried "a lot" on the previous day, placing Malta joint second out of 140 countries and territories in Gallup’s 2025 State of the World’s Emotional Health report. The figure compares with a global average of 38%, behind only the Republic of the Congo at 60%. Malta nonetheless scored above global averages on feeling respected (93% against 83%), smiling or laughing (77% against 72%) and feeling well-rested (76% against 71%).</description>
+    <content:encoded><![CDATA[<p>Maltese adults are among the world’s biggest worriers, with 58% saying they worried &quot;a lot&quot; on the previous day, placing Malta joint second out of 140 countries and territories in Gallup’s 2025 State of the World’s Emotional Health report. The figure compares with a global average of 38%, behind only the Republic of the Congo at 60%. Malta nonetheless scored above global averages on feeling respected (93% against 83%), smiling or laughing (77% against 72%) and feeling well-rested (76% against 71%).</p><p><img src="https://maltanews.great-site.net/img/1461d9efc461ca7925e0e5b67758b6cc1a44c16b-1792662358-4c94d5cb-1200x630.jpeg" alt="Gallup global emotions report" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Thu, 22 Oct 2026 12:00:00 +0200</pubDate>
+    <guid isPermaLink="false">7a29434e33d7218bc6f7a49393eb6586</guid>
+    <category>Infrastructure &amp; Transport</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-22</source>
+    <media:content url="https://maltanews.great-site.net/img/1461d9efc461ca7925e0e5b67758b6cc1a44c16b-1792662358-4c94d5cb-1200x630.jpeg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/1461d9efc461ca7925e0e5b67758b6cc1a44c16b-1792662358-4c94d5cb-1200x630.jpeg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Cerviola Hotel in Marsascala to be demolished and replaced with eight-storey, 99-room complex</title>
+    <link>https://timesofmalta.com/article/plans-demolish-marsascala-hotel-replace-eightstorey-complex.1135978</link>
+    <description>Cerviola Holidays Ltd has applied to the Planning Authority to demolish the existing 50-room Cerviola Hotel in Triq il-Qaliet, Marsascala, and replace it with an eight-storey, 99-room four-star hotel. The application (PA/07388/26), drawn up by architect Edwin Mintoff, would add two swimming pools, a spa, gym, restaurant, rooftop bar and a 101-square-metre multipurpose hall. The ground floor would hold a restaurant of about 188 square metres, and 93 of the 99 rooms would be twins.</description>
+    <content:encoded><![CDATA[<p>Cerviola Holidays Ltd has applied to the Planning Authority to demolish the existing 50-room Cerviola Hotel in Triq il-Qaliet, Marsascala, and replace it with an eight-storey, 99-room four-star hotel. The application (PA/07388/26), drawn up by architect Edwin Mintoff, would add two swimming pools, a spa, gym, restaurant, rooftop bar and a 101-square-metre multipurpose hall. The ground floor would hold a restaurant of about 188 square metres, and 93 of the 99 rooms would be twins.</p><p><img src="https://maltanews.great-site.net/img/ee7779a3cd97db74be4fa552d0105adc9e696f84-1792663332-5e6bfd20-1200x630.png" alt="Architects’ rendering of the proposed Marsascala hotel" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Thu, 22 Oct 2026 12:00:00 +0200</pubDate>
+    <guid isPermaLink="false">a32568ea1862423097fb8dd501a65abe</guid>
+    <category>Sports</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-22</source>
+    <media:content url="https://maltanews.great-site.net/img/ee7779a3cd97db74be4fa552d0105adc9e696f84-1792663332-5e6bfd20-1200x630.png" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/ee7779a3cd97db74be4fa552d0105adc9e696f84-1792663332-5e6bfd20-1200x630.png" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Abela declines to guarantee Nigret and Żebbuġ services will avoid government land</title>
+    <link>https://newsbook.com.mt/ara-il-pm-bl-ebda-garanzija-li-s-servizzi-fin-nigret-mhux-se-jghaddu-fuq-art-tal-gvern/</link>
+    <description>Prime Minister Robert Abela refused to say whether government land in the Nigret area would be used for the roads, mains, electrical cables and drainage infrastructure needed to serve a block of private apartments in Żurrieq that is being approved. Asked directly whether the policy of no private development on government land also covers such public works, Abela pointed instead to the 2006 rationalisation process and repeated that he had been very clear on the policy, without addressing the question directly.</description>
+    <content:encoded><![CDATA[<p>Prime Minister Robert Abela refused to say whether government land in the Nigret area would be used for the roads, mains, electrical cables and drainage infrastructure needed to serve a block of private apartments in Żurrieq that is being approved. Asked directly whether the policy of no private development on government land also covers such public works, Abela pointed instead to the 2006 rationalisation process and repeated that he had been very clear on the policy, without addressing the question directly.</p><p><img src="https://maltanews.great-site.net/img/nigret-zurrieq-robert-abela-1.jpg" alt="Robert Abela speaking about the Nigret area" /></p><p><em>Sources: Newsbook</em></p>]]></content:encoded>
+    <pubDate>Thu, 22 Oct 2026 12:00:00 +0200</pubDate>
+    <guid isPermaLink="false">dea59573e0d3a30f811fc0e8ff706294</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-22</source>
+    <media:content url="https://maltanews.great-site.net/img/nigret-zurrieq-robert-abela-1.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/nigret-zurrieq-robert-abela-1.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Gozo records the most community police patrol hours in Malta</title>
+    <link>https://newsbook.com.mt/ghawdex-bl-iktar-sighat-ta-rondi-mill-pulizija-tal-komunita-hattard-bl-inqas/</link>
+    <description>Gozo leads the localities with the highest number of community police patrol hours, according to a table presented in parliament by Home Affairs Minister Glenn Bedingfield covering January to September 2026. Gozo recorded 6,529 patrol hours and 189.4km covered on bicycle, followed by Rabat Malta/Imdina/Ħad-Dingli/Imtarfa with 4,568.4 hours and Marsaxlokk/Birżebbuġa with 4,207.65 hours. Ħaż-Żebbuġ and Siġġiewi covered the most kilometres on patrol. The figures came in response to a question by Nationalist MP Bernice Bonello.</description>
+    <content:encoded><![CDATA[<p>Gozo leads the localities with the highest number of community police patrol hours, according to a table presented in parliament by Home Affairs Minister Glenn Bedingfield covering January to September 2026. Gozo recorded 6,529 patrol hours and 189.4km covered on bicycle, followed by Rabat Malta/Imdina/Ħad-Dingli/Imtarfa with 4,568.4 hours and Marsaxlokk/Birżebbuġa with 4,207.65 hours. Ħaż-Żebbuġ and Siġġiewi covered the most kilometres on patrol. The figures came in response to a question by Nationalist MP Bernice Bonello.</p><p><img src="https://maltanews.great-site.net/img/Patrol-Community-Support-Officer-Pulizija-Ufficjali.jpg" alt="Community police patrol" /></p><p><em>Sources: Newsbook</em></p>]]></content:encoded>
+    <pubDate>Thu, 22 Oct 2026 12:00:00 +0200</pubDate>
+    <guid isPermaLink="false">7d61c07438ccc48804fa3318a5813179</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-22</source>
+    <media:content url="https://maltanews.great-site.net/img/Patrol-Community-Support-Officer-Pulizija-Ufficjali.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/Patrol-Community-Support-Officer-Pulizija-Ufficjali.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Clocks go back an hour at 3am on Sunday</title>
+    <link>https://timesofmalta.com/article/dont-forget-clocks-go-back-sunday.1135961</link>
+    <description>Summer time in Malta ends at 3am on Sunday 25 October, when clocks go back by one hour, leaving the country on UTC+1. All EU states currently switch to winter time on the last Sunday of October. Most phones, tablets and laptops will adjust automatically, but clocks elsewhere will need to be reset manually.</description>
+    <content:encoded><![CDATA[<p>Summer time in Malta ends at 3am on Sunday 25 October, when clocks go back by one hour, leaving the country on UTC+1. All EU states currently switch to winter time on the last Sunday of October. Most phones, tablets and laptops will adjust automatically, but clocks elsewhere will need to be reset manually.</p><p><img src="https://maltanews.great-site.net/img/2402d4b76296f1fe552134a5fd8f68d4e84d8fda-1792652176-50f5d7ae-1200x630.jpg" alt="Clocks changing to winter time" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Thu, 22 Oct 2026 12:00:00 +0200</pubDate>
+    <guid isPermaLink="false">cdc128fd9fc65956b23f3225e8a8f2c6</guid>
+    <category>General</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-22</source>
+    <media:content url="https://maltanews.great-site.net/img/2402d4b76296f1fe552134a5fd8f68d4e84d8fda-1792652176-50f5d7ae-1200x630.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/2402d4b76296f1fe552134a5fd8f68d4e84d8fda-1792652176-50f5d7ae-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Hornets may pose a danger to Malta’s stray cats, parliamentary secretary says</title>
+    <link>https://lovinmalta.com/news/local/hornets-could-also-pose-danger-to-maltas-stray-cats-alicia-bugeja-said-warns/</link>
+    <description>Parliamentary Secretary Alicia Bugeja Said has met the Malta Beekeepers Association to discuss the oriental hornet population in Malta and the risk the insects pose to stray cats as well as bees. The discussions covered how cat feeders and volunteers could be supported in reducing conditions that attract hornets to areas where stray animals are fed. Bugeja Said said further meetings would be held to identify practical solutions.</description>
+    <content:encoded><![CDATA[<p>Parliamentary Secretary Alicia Bugeja Said has met the Malta Beekeepers Association to discuss the oriental hornet population in Malta and the risk the insects pose to stray cats as well as bees. The discussions covered how cat feeders and volunteers could be supported in reducing conditions that attract hornets to areas where stray animals are fed. Bugeja Said said further meetings would be held to identify practical solutions.</p><p><img src="https://maltanews.great-site.net/img/GABE-FB-COVER-54-1024x536.jpg" alt="Stray cat feeding in Malta" /></p><p><em>Sources: Lovin Malta</em></p>]]></content:encoded>
+    <pubDate>Thu, 22 Oct 2026 12:00:00 +0200</pubDate>
+    <guid isPermaLink="false">93159c41e163312d2ad891075a419c21</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-22</source>
+    <media:content url="https://maltanews.great-site.net/img/GABE-FB-COVER-54-1024x536.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/GABE-FB-COVER-54-1024x536.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
     <title>Government says 86% of Budget 2026 measures implemented</title>
     <link>https://www.independent.com.mt/articles/2026-10-19/local-news/86-of-Budget-2026-measures-implemented-target-set-for-90-by-year-end-government-6736293915</link>
     <description>Government has implemented 86% of the measures announced in Budget 2026, with the figure expected to reach 90% by year-end, according to a Budget 2026 Implementation Report presented to Finance Minister Clyde Caruana on Monday by Head of the Public Service Tony Sultana as preparations for Budget 2027 enter their final stages. Implemented measures highlighted 10 weekly pension increases for more than 100,000 pensioners, 160 million in tax reductions for parents, 15% stipend increases for 16,800 students and extensions of the Pink Card scheme to over-65s on Supplementary Allowance. The document covers measures announced in Budget 2026 and those carried over from budgets between 2022 and 2025.</description>
@@ -450,54 +618,6 @@
     <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-19</source>
     <media:content url="https://maltanews.great-site.net/img/pr261747b.jpg" medium="image" />
     <enclosure url="https://maltanews.great-site.net/img/pr261747b.jpg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Agius pointed gun at workers before shooting at police, court hears</title>
-    <link>https://timesofmalta.com/article/john-agius-pointed-gun-workers-shooting-police-court-hears.1135828</link>
-    <description>John Agius pointed a gun at workers before shooting at police during a St Julians incident, a court heard on Monday, with a developer testifying that approximately 45 minutes passed between two episodes of gunfire before Agius eventually surrendered. The court also heard of long-running disputes over construction works adjacent to Agiuss property, particularly a dividing wall, with repeated complaints about contractors working close to his home. A forensic expert identified petrol among substances found in exhibits, and the case continues on November 23 and 30.</description>
-    <content:encoded><![CDATA[<p>John Agius pointed a gun at workers before shooting at police during a St Julians incident, a court heard on Monday, with a developer testifying that approximately 45 minutes passed between two episodes of gunfire before Agius eventually surrendered. The court also heard of long-running disputes over construction works adjacent to Agiuss property, particularly a dividing wall, with repeated complaints about contractors working close to his home. A forensic expert identified petrol among substances found in exhibits, and the case continues on November 23 and 30.</p><p><img src="https://maltanews.great-site.net/img/151038030162d39c44e11c2c6628a8b2a0aec039-1792415736-0d80d6a9-1200x630.png" alt="Court illustration showing firearms evidence." /></p><p><em>Sources: Times of Malta, Malta Independent</em></p>]]></content:encoded>
-    <pubDate>Mon, 19 Oct 2026 12:00:00 +0200</pubDate>
-    <guid isPermaLink="false">1a30917c078b3cb2ae7b9d69adce5dc9</guid>
-    <category>Courts &amp; Crime</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-19</source>
-    <media:content url="https://maltanews.great-site.net/img/151038030162d39c44e11c2c6628a8b2a0aec039-1792415736-0d80d6a9-1200x630.png" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/151038030162d39c44e11c2c6628a8b2a0aec039-1792415736-0d80d6a9-1200x630.png" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>€930k EU-funded olive oil facility opens in Rabat</title>
-    <link>https://www.independent.com.mt/articles/2026-10-19/local-news/930-000-investment-to-strengthen-Maltese-olive-oil-production-6736293917</link>
-    <description>A new 930,000 olive processing facility in Rabat, financed under Maltas Common Agricultural Policy Strategic Plan, was inaugurated on Monday by ministers Keith Azzopardi Tanti and Anton Refalo. The project is expected to serve around 2,000 farms and olive growers annually, providing modern processing technology to improve productivity, quality and innovation in Maltese olive oil production.</description>
-    <content:encoded><![CDATA[<p>A new 930,000 olive processing facility in Rabat, financed under Maltas Common Agricultural Policy Strategic Plan, was inaugurated on Monday by ministers Keith Azzopardi Tanti and Anton Refalo. The project is expected to serve around 2,000 farms and olive growers annually, providing modern processing technology to improve productivity, quality and innovation in Maltese olive oil production.</p><p><img src="https://maltanews.great-site.net/img/c7cb91ea03fe.jpg" alt="Olive oil production facility inauguration." /></p><p><em>Sources: Malta Independent</em></p>]]></content:encoded>
-    <pubDate>Mon, 19 Oct 2026 12:00:00 +0200</pubDate>
-    <guid isPermaLink="false">8c68a8723b408370fd160803a7220b3d</guid>
-    <category>Politics</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-19</source>
-    <media:content url="https://maltanews.great-site.net/img/c7cb91ea03fe.jpg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/c7cb91ea03fe.jpg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Ex-soldier goes on trial for Malta’s first racial killing</title>
-    <link>https://timesofmalta.com/article/former-soldier-goes-trial-racially-motivated-driveby-murder.1135797</link>
-    <description>Lorin Scicluna, 29, of Paola has pleaded not guilty before a jury to the 2019 drive-by shooting of Ivorian national Lassana Cisse Souleymane and the attempted murder of three others in Triq il-ebel, al Far. Prosecutors told the court that Scicluna, then a serving AFM soldier, and Francesco Fenech went to al Far to target people of a dark complexion whose presence in Malta they objected to. Scicluna faces life imprisonment if convicted.</description>
-    <content:encoded><![CDATA[<p>Lorin Scicluna, 29, of Paola has pleaded not guilty before a jury to the 2019 drive-by shooting of Ivorian national Lassana Cisse Souleymane and the attempted murder of three others in Triq il-ebel, al Far. Prosecutors told the court that Scicluna, then a serving AFM soldier, and Francesco Fenech went to al Far to target people of a dark complexion whose presence in Malta they objected to. Scicluna faces life imprisonment if convicted.</p><p><img src="https://maltanews.great-site.net/img/20d9b3c47774a8ee3b97b945eb7e767c78b9bc8d-1792390721-92e9cb17-1200x630.jpg" alt="A memorial in Hal Far at the scene of the 2019 drive-by shooting." /></p><p><em>Sources: Times of Malta, Malta Independent</em></p>]]></content:encoded>
-    <pubDate>Mon, 19 Oct 2026 12:00:00 +0200</pubDate>
-    <guid isPermaLink="false">b0a5189ba7de929aa21ce42aeb58a744</guid>
-    <category>Courts &amp; Crime</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-19</source>
-    <media:content url="https://maltanews.great-site.net/img/20d9b3c47774a8ee3b97b945eb7e767c78b9bc8d-1792390721-92e9cb17-1200x630.jpg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/20d9b3c47774a8ee3b97b945eb7e767c78b9bc8d-1792390721-92e9cb17-1200x630.jpg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Police alert suspected target in prison-phone murder plot</title>
-    <link>https://timesofmalta.com/article/police-alert-suspected-target-inmates-questioned-murder-plot.1135810</link>
-    <description>Convicted murderer Robert Agius and fellow inmate Damiano Torrisi were questioned about an alleged murder plot after police found mobile phones in their prison cells, with officers identifying and contacting the suspected target so precautionary safety measures could be taken. Home Affairs Minister Glenn Bedingfield said he had asked for a legal amendment to make possession of a mobile phone in prison a crime, prompting fresh opposition calls for an inquiry into how phones enter Corradino.</description>
-    <content:encoded><![CDATA[<p>Convicted murderer Robert Agius and fellow inmate Damiano Torrisi were questioned about an alleged murder plot after police found mobile phones in their prison cells, with officers identifying and contacting the suspected target so precautionary safety measures could be taken. Home Affairs Minister Glenn Bedingfield said he had asked for a legal amendment to make possession of a mobile phone in prison a crime, prompting fresh opposition calls for an inquiry into how phones enter Corradino.</p><p><img src="https://maltanews.great-site.net/img/b761d842c9ccdf6332673db030e4f181f4f8a505-1792403664-b9678ab2-1200x630.png" alt="Corradino Correctional Facility." /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
-    <pubDate>Mon, 19 Oct 2026 12:00:00 +0200</pubDate>
-    <guid isPermaLink="false">5bf317bc2672fe290f5676ffae63c6b6</guid>
-    <category>Politics</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-19</source>
-    <media:content url="https://maltanews.great-site.net/img/b761d842c9ccdf6332673db030e4f181f4f8a505-1792403664-b9678ab2-1200x630.png" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/b761d842c9ccdf6332673db030e4f181f4f8a505-1792403664-b9678ab2-1200x630.png" length="0" type="image/jpeg" />
   </item>
 </channel>
 </rss>
