@@ -9,7 +9,7 @@
   <link>https://maltanews.great-site.net/</link>
   <description>Daily Malta news digest, automated. Curated from local Maltese news sources.</description>
   <language>en-mt</language>
-  <lastBuildDate>Sat, 24 Oct 2026 16:31:37 +0200</lastBuildDate>
+  <lastBuildDate>Sat, 24 Oct 2026 16:32:42 +0200</lastBuildDate>
   <pubDate>Sat, 24 Oct 2026 15:44:00 +0200</pubDate>
   <generator>Hermes Malta News pipeline v3 + RSS</generator>
   <managingEditor>dejjem@gmail.com (Mark Micallef)</managingEditor>
@@ -38,6 +38,18 @@
     <content:encoded><![CDATA[<p>Shirley Al Omar of Mosta was placed on three years probation with three years treatment after the court accepted her guilty plea to a series of robberies committed in 2020, when she accompanied by her 12-year-old son knocked on the doors of elderly victims asking for money and fled once the victims realised they had been robbed. The magistrate noted significant progress since the offences, including overcoming drug addiction, finding work and living a stable life, and ordered a 2,000 personal guarantee that she not approach her victims for a year.</p><p><img src="https://maltanews.great-site.net/img/Court-Qorti.jpeg" alt="Malta court building" /></p><p><em>Sources: Newsbook</em></p>]]></content:encoded>
     <pubDate>Sat, 24 Oct 2026 15:20:00 +0200</pubDate>
     <guid isPermaLink="false">f0b140c5faf924ee417b90a71491d69f</guid>
+    <category>Courts &amp; Crime</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-24</source>
+    <media:content url="https://maltanews.great-site.net/img/Court-Qorti.jpeg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/Court-Qorti.jpeg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Woman given three years’ probation over string of robberies</title>
+    <link>https://newsbook.com.mt/probation-ghal-serq-li-wettqet-ma-binha-ta-12-il-sena/</link>
+    <description>Shirley Al Omar of Mosta was placed on three years probation with three years treatment after the court accepted her guilty plea to a series of robberies committed in 2020, when she accompanied by her 12-year-old son knocked on the doors of elderly victims asking for money and fled once the victims realised they had been robbed. The magistrate noted significant progress since the offences, including overcoming drug addiction, finding work and living a stable life, and ordered a 2,000 personal guarantee that she not approach her victims for a year.</description>
+    <content:encoded><![CDATA[<p>Shirley Al Omar of Mosta was placed on three years probation with three years treatment after the court accepted her guilty plea to a series of robberies committed in 2020, when she accompanied by her 12-year-old son knocked on the doors of elderly victims asking for money and fled once the victims realised they had been robbed. The magistrate noted significant progress since the offences, including overcoming drug addiction, finding work and living a stable life, and ordered a 2,000 personal guarantee that she not approach her victims for a year.</p><p><img src="https://maltanews.great-site.net/img/Court-Qorti.jpeg" alt="Malta court building" /></p><p><em>Sources: Newsbook</em></p>]]></content:encoded>
+    <pubDate>Sat, 24 Oct 2026 15:20:00 +0200</pubDate>
+    <guid isPermaLink="false">ed77132901083437542a5356cc77f1d7</guid>
     <category>Courts &amp; Crime</category>
     <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-24</source>
     <media:content url="https://maltanews.great-site.net/img/Court-Qorti.jpeg" medium="image" />
@@ -116,10 +128,22 @@
     <enclosure url="https://maltanews.great-site.net/img/14_copy_of_article_covers_-_new_(23).png" length="0" type="image/jpeg" />
   </item>
   <item>
+    <title>Court says bank should have stepped in after man lost €70,000 in deepfake Abela scam</title>
+    <link>https://www.maltatoday.com.mt/news/court_and_police/145227/man_lured_by_fake_robert_abela_video_lost_70000_in_eight_days__bov_should_have_stepped_in_court_rules</link>
+    <description>The Court of Appeal said Bank of Valletta must partly compensate a 45-year-old man who lost about 70,000 in eight days in November 2023, after falling for a pig-butchering scam built on a fake Facebook video of Prime Minister Robert Abela promoting an investment scheme. The man, who had barely used his account before, was coached by a trader on WhatsApp and used remote-access software to hand over security codes. The court found the bank failed in its duty to monitor his payments and flag that something was badly amiss.</description>
+    <content:encoded><![CDATA[<p>The Court of Appeal said Bank of Valletta must partly compensate a 45-year-old man who lost about 70,000 in eight days in November 2023, after falling for a pig-butchering scam built on a fake Facebook video of Prime Minister Robert Abela promoting an investment scheme. The man, who had barely used his account before, was coached by a trader on WhatsApp and used remote-access software to hand over security codes. The court found the bank failed in its duty to monitor his payments and flag that something was badly amiss.</p><p><img src="https://maltanews.great-site.net/img/14_copy_of_article_covers_-_new_(23).png" alt="Cover image for the deepfake investment scam court ruling" /></p><p><em>Sources: Malta Today</em></p>]]></content:encoded>
+    <pubDate>Sat, 24 Oct 2026 13:34:00 +0200</pubDate>
+    <guid isPermaLink="false">279a7a07a4ae61fb9f758f133772362a</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-24</source>
+    <media:content url="https://maltanews.great-site.net/img/14_copy_of_article_covers_-_new_(23).png" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/14_copy_of_article_covers_-_new_(23).png" length="0" type="image/jpeg" />
+  </item>
+  <item>
     <title>Cutajar reports TikTok user who praised Cisse’s alleged killers</title>
     <link>https://timesofmalta.com/article/minister-reports-tiktok-user-praised-lassane-cisse-alleged-killers.1136102</link>
     <description>Equality Minister Rosianne Cutajar has reported to the police a man who praised two former soldiers accused of murdering Lassane Cisse because he was black. The comment, posted under a Times of Malta video about the 2019 killing, said the alleged shooters were defending their country against trash black people and that it was a pity they killed only one of three men. Cutajars intervention came hours after the trial of one of the accused, Lorin Scicluna, opened with testimony naming his friend as the shooter.</description>
-    <content:encoded><![CDATA[<p>Equality Minister Rosianne Cutajar has reported to the police a man who praised two former soldiers accused of murdering Lassane Cisse because he was black. The comment, posted under a Times of Malta video about the 2019 killing, said the alleged shooters were defending their country against trash black people and that it was a pity they killed only one of three men. Cutajars intervention came hours after the trial of one of the accused, Lorin Scicluna, opened with testimony naming his friend as the shooter.</p><p><img src="https://maltanews.great-site.net/img/9689e0aafd4c8cb91c0980a5512b731569c86c62-1792837424-42450689-1200x630.png" alt="Screenshot of the TikTok comment reported by Equality Minister Rosianne Cutajar" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <content:encoded><![CDATA[<p>Equality Minister Rosianne Cutajar has reported to the police a man who praised two former soldiers accused of murdering Lassane Cisse because he was black. The comment, posted under a Times of Malta video about the 2019 killing, said the alleged shooters were defending their country against trash black people and that it was a pity they killed only one of three men. Cutajars intervention came hours after the trial of one of the accused, Lorin Scicluna, opened with testimony naming his friend as the shooter.</p><p><img src="https://maltanews.great-site.net/img/9689e0aafd4c8cb91c0980a5512b731569c86c62-1792837424-42450689-1200x630.png" alt="Screenshot of the TikTok comment reported by Equality Minister Rosianne Cutajar" /></p><p><em>Sources: Times of Malta, Malta Today</em></p>]]></content:encoded>
     <pubDate>Sat, 24 Oct 2026 13:00:00 +0200</pubDate>
     <guid isPermaLink="false">963a4e11a9707243e878e1b2fbc7615d</guid>
     <category>Politics</category>
@@ -188,6 +212,18 @@
     <enclosure url="https://maltanews.great-site.net/img/9eb9f2788405fe7fa234b5b08f45f890fac2d2c9-1792834939-de8cd65d-1200x630.jpg" length="0" type="image/jpeg" />
   </item>
   <item>
+    <title>BCA’s new mascot designed by a student to promote construction careers</title>
+    <link>https://timesofmalta.com/article/meet-nestu-nnemlu-bca-new-studentdesigned-mascot.1136095</link>
+    <description>An ant designed by a Maltese school student will become the face of a Building and Construction Authority campaign introducing children to construction careers. Jamie Casha of the Malta Visual and Performing Arts School chose an ant to symbolise strength and designed its hands to represent the practical skills needed to use construction tools. A 3D model of the winning design was presented to Infrastructure Minister Jonathan Attard and BCA CEO Roderick Bonnici.</description>
+    <content:encoded><![CDATA[<p>An ant designed by a Maltese school student will become the face of a Building and Construction Authority campaign introducing children to construction careers. Jamie Casha of the Malta Visual and Performing Arts School chose an ant to symbolise strength and designed its hands to represent the practical skills needed to use construction tools. A 3D model of the winning design was presented to Infrastructure Minister Jonathan Attard and BCA CEO Roderick Bonnici.</p><p><img src="https://maltanews.great-site.net/img/9eb9f2788405fe7fa234b5b08f45f890fac2d2c9-1792834939-de8cd65d-1200x630.jpg" alt="The student-designed BCA mascot Nestu n-Nemlu with officials" /></p><p><em>Sources: Times of Malta, Malta Independent</em></p>]]></content:encoded>
+    <pubDate>Sat, 24 Oct 2026 11:45:00 +0200</pubDate>
+    <guid isPermaLink="false">30c97e2261d11a1de8f7586b43d67634</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-24</source>
+    <media:content url="https://maltanews.great-site.net/img/9eb9f2788405fe7fa234b5b08f45f890fac2d2c9-1792834939-de8cd65d-1200x630.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/9eb9f2788405fe7fa234b5b08f45f890fac2d2c9-1792834939-de8cd65d-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
     <title>Turkish health delegation visits Gozo General Hospital</title>
     <link>https://timesofmalta.com/article/turkish-delegation-visits-gozo-general-hospital.1136094</link>
     <description>A delegation led by Turkeys deputy health minister Şuayip Birinci visited Gozo General Hospital during a two-day official visit to Malta. Parliamentary Secretary for Active Ageing Deo Debattista said the visit was intended to strengthen cooperation between the two countries in healthcare. Turkish officials were given an overview of the hospitals facilities and medical services, and the two sides exchanged knowledge on healthcare investment and developing medical services.</description>
@@ -206,6 +242,18 @@
     <content:encoded><![CDATA[<p>European Commissioners Piotr Serafin and Glenn Micallef visited Nadur Primary School in Gozo to see how EU funding has improved its facilities, accessibility and energy efficiency. The school, funded through Maltas Recovery and Resilience Plan and the EUs NextGenerationEU programme, cut its primary energy demand by 82.6% and moved from an energy efficiency rating of Class D to Class A. The works formed part of a wider 10 million allocation that also included Għaxaq Primary School.</p><p><img src="https://maltanews.great-site.net/img/FB-COVER-RIANA-5-1-1024x536.jpg" alt="European Commissioners visiting Nadur Primary School in Gozo" /></p><p><em>Sources: Lovin Malta</em></p>]]></content:encoded>
     <pubDate>Sat, 24 Oct 2026 11:32:00 +0200</pubDate>
     <guid isPermaLink="false">09a84c702beba89b909280be1c9ff955</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-24</source>
+    <media:content url="https://maltanews.great-site.net/img/FB-COVER-RIANA-5-1-1024x536.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/FB-COVER-RIANA-5-1-1024x536.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>EU commissioners inspect Nadur school after €10m of upgrades</title>
+    <link>https://lovinmalta.com/news/two-eu-commissioners-visit-nadur-primary-school-following-major-eu-funded-upgrades</link>
+    <description>European Commissioners Piotr Serafin and Glenn Micallef visited Nadur Primary School in Gozo to see how EU funding has improved its facilities, accessibility and energy efficiency. The school, funded through Maltas Recovery and Resilience Plan and the EUs NextGenerationEU programme, cut its primary energy demand by 82.6% and moved from an energy efficiency rating of Class D to Class A. The works formed part of a wider 10 million allocation that also included Għaxaq Primary School.</description>
+    <content:encoded><![CDATA[<p>European Commissioners Piotr Serafin and Glenn Micallef visited Nadur Primary School in Gozo to see how EU funding has improved its facilities, accessibility and energy efficiency. The school, funded through Maltas Recovery and Resilience Plan and the EUs NextGenerationEU programme, cut its primary energy demand by 82.6% and moved from an energy efficiency rating of Class D to Class A. The works formed part of a wider 10 million allocation that also included Għaxaq Primary School.</p><p><img src="https://maltanews.great-site.net/img/FB-COVER-RIANA-5-1-1024x536.jpg" alt="European Commissioners visiting Nadur Primary School in Gozo" /></p><p><em>Sources: Lovin Malta</em></p>]]></content:encoded>
+    <pubDate>Sat, 24 Oct 2026 11:32:00 +0200</pubDate>
+    <guid isPermaLink="false">5eb6c97328e7d1f205fc7c3554e500dd</guid>
     <category>Politics</category>
     <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-24</source>
     <media:content url="https://maltanews.great-site.net/img/FB-COVER-RIANA-5-1-1024x536.jpg" medium="image" />
