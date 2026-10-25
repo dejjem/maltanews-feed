@@ -9,8 +9,8 @@
   <link>https://maltanews.great-site.net/</link>
   <description>Daily Malta news digest, automated. Curated from local Maltese news sources.</description>
   <language>en-mt</language>
-  <lastBuildDate>Sun, 25 Oct 2026 06:51:06 +0100</lastBuildDate>
-  <pubDate>Sun, 25 Oct 2026 05:59:00 +0100</pubDate>
+  <lastBuildDate>Sun, 25 Oct 2026 13:44:56 +0100</lastBuildDate>
+  <pubDate>Sun, 25 Oct 2026 12:00:00 +0100</pubDate>
   <generator>Hermes Malta News pipeline v3 + RSS</generator>
   <managingEditor>dejjem@gmail.com (Mark Micallef)</managingEditor>
   <atom:link href="https://dejjem.github.io/maltanews-feed/feed.xml" rel="self" type="application/rss+xml" />
@@ -19,6 +19,150 @@
     <title>Malta News Today</title>
     <link>https://maltanews.great-site.net/</link>
   </image>
+  <item>
+    <title>Budget 2027: Abela doubles income tax cut for working parents and adds 10 a week for pensioners</title>
+    <link>https://timesofmalta.com/article/tax-cuts-working-parents-set-double-robert-abela.1136132</link>
+    <description>Prime Minister Robert Abela said on Sunday that Mondays Budget 2027 will double the income tax cut for working parents and give all pensioners an additional 10 a week, equivalent to 520 a year. He said a middle-class family with two children would become exempt from income tax, describing Malta as the first country to introduce such a measure, and that the government would keep energy subsidies despite pressure to revisit them. Abela, speaking at a Labour political activity at the Orpheum Theatre in Gzira on the eve of his seventh budget as prime minister, contrasted Maltas position with European governments he said were being forced into austerity. The budget speech is delivered by Finance Minister Clyde Caruana on Monday.</description>
+    <content:encoded><![CDATA[<p>Prime Minister Robert Abela said on Sunday that Mondays Budget 2027 will double the income tax cut for working parents and give all pensioners an additional 10 a week, equivalent to 520 a year. He said a middle-class family with two children would become exempt from income tax, describing Malta as the first country to introduce such a measure, and that the government would keep energy subsidies despite pressure to revisit them. Abela, speaking at a Labour political activity at the Orpheum Theatre in Gzira on the eve of his seventh budget as prime minister, contrasted Maltas position with European governments he said were being forced into austerity. The budget speech is delivered by Finance Minister Clyde Caruana on Monday.</p><p><img src="https://maltanews.great-site.net/img/7e6d2e5ab9222d5dc69c96c609f8080c46995e8f-1792924678-2b1ac11b-1200x630.jpeg" alt="Prime Minister Robert Abela speaking at a Labour political activity at the Orpheum Theatre in Gzira" /></p><p><em>Sources: Times of Malta, Malta Today, Malta Independent, Lovin Malta, Newsbook</em></p>]]></content:encoded>
+    <pubDate>Sun, 25 Oct 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">f9f824eba243d18a71abddc77ed59576</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-25</source>
+    <media:content url="https://maltanews.great-site.net/img/7e6d2e5ab9222d5dc69c96c609f8080c46995e8f-1792924678-2b1ac11b-1200x630.jpeg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/7e6d2e5ab9222d5dc69c96c609f8080c46995e8f-1792924678-2b1ac11b-1200x630.jpeg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Free bus travel to end for most third-country nationals from next year</title>
+    <link>https://timesofmalta.com/article/buses-no-longer-free-tcns.1136121</link>
+    <description>The government is set to scrap free public transport for most third-country nationals residing in Malta, with the measure expected to be announced in Mondays budget and to apply from next year. Maltese and EU nationals, and British nationals in Malta under the pre-Brexit agreement, would keep travelling free, while the Tal-Linja card for others would rise to around 33 a month. Times of Malta reported that limiting the service could save a couple of tens of millions a year. The proposal has drawn sharp criticism, with opponents describing it as a populist and apartheid policy that risks pushing workers towards cars and scooters.</description>
+    <content:encoded><![CDATA[<p>The government is set to scrap free public transport for most third-country nationals residing in Malta, with the measure expected to be announced in Mondays budget and to apply from next year. Maltese and EU nationals, and British nationals in Malta under the pre-Brexit agreement, would keep travelling free, while the Tal-Linja card for others would rise to around 33 a month. Times of Malta reported that limiting the service could save a couple of tens of millions a year. The proposal has drawn sharp criticism, with opponents describing it as a populist and apartheid policy that risks pushing workers towards cars and scooters.</p><p><img src="https://maltanews.great-site.net/img/6d073d62d6f517c692a8fd81dbab876b18f3e005-1792861969-37e6cda8-1200x630.jpg" alt="Malta public transport buses" /></p><p><em>Sources: Times of Malta, Times of Malta, Newsbook</em></p>]]></content:encoded>
+    <pubDate>Sun, 25 Oct 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">ddb21e14d26857effd848857f1193bfa</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-25</source>
+    <media:content url="https://maltanews.great-site.net/img/6d073d62d6f517c692a8fd81dbab876b18f3e005-1792861969-37e6cda8-1200x630.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/6d073d62d6f517c692a8fd81dbab876b18f3e005-1792861969-37e6cda8-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Health ministry ends 1400 referrals to private hospital emergency rooms</title>
+    <link>https://timesofmalta.com/article/1400-callers-no-longer-sent-private-hospital-emergency-rooms.1136118</link>
+    <description>People calling the 1400 telemedicine hotline will no longer be sent to private hospital emergency rooms, as the health ministry seeks to make better use of underused health centres. The decision followed figures showing patients were sometimes directed to private hospitals even when health centres were available and better equipped. Separately, the Health Ministry has suspended the outsourcing of non-complicated emergency care to private hospitals while it reviews the scheme, a scheme started in January 2025 that sent non-complicated cases from Mater Dei or via 1400 to St Thomas, St James and DaVinci hospitals with government reimbursing the cost.</description>
+    <content:encoded><![CDATA[<p>People calling the 1400 telemedicine hotline will no longer be sent to private hospital emergency rooms, as the health ministry seeks to make better use of underused health centres. The decision followed figures showing patients were sometimes directed to private hospitals even when health centres were available and better equipped. Separately, the Health Ministry has suspended the outsourcing of non-complicated emergency care to private hospitals while it reviews the scheme, a scheme started in January 2025 that sent non-complicated cases from Mater Dei or via 1400 to St Thomas, St James and DaVinci hospitals with government reimbursing the cost.</p><p><img src="https://maltanews.great-site.net/img/803e946ecb68c0375a671fa7f89859847e7cde3e-1792857965-4934424a-1200x630.jpg" alt="The 1400 telemedicine helpline" /></p><p><em>Sources: Times of Malta, Malta Today</em></p>]]></content:encoded>
+    <pubDate>Sun, 25 Oct 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">a008db549d8d1b5a2b7b63e1667bb2e3</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-25</source>
+    <media:content url="https://maltanews.great-site.net/img/803e946ecb68c0375a671fa7f89859847e7cde3e-1792857965-4934424a-1200x630.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/803e946ecb68c0375a671fa7f89859847e7cde3e-1792857965-4934424a-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>PNs Alex Borg: economic model has not delivered better quality of life for families</title>
+    <link>https://newsbook.com.mt/qabel-l-elezzjoni-kollox-ward-u-zahar-issa-ssikkaw-ic-cinturin-borg/</link>
+    <description>Opposition leader Alex Borg said Budget 2027 must address Maltas long-term challenges with greater investment in education, productivity and infrastructure, rather than continued reliance on population growth to sustain the economy. Speaking at a National Party activity in Zebbug, he questioned whether the model pursued since Labour came to power is delivering meaningful improvements in peoples everyday lives, and said he had noticed a change in the governments message, with businesses now told spending needs to be restrained. He argued the public deserves the full picture of the countrys economic performance, successes and shortcomings included, and closed with the warning that before the election everything went smoothly and now the belt is being tightened.</description>
+    <content:encoded><![CDATA[<p>Opposition leader Alex Borg said Budget 2027 must address Maltas long-term challenges with greater investment in education, productivity and infrastructure, rather than continued reliance on population growth to sustain the economy. Speaking at a National Party activity in Zebbug, he questioned whether the model pursued since Labour came to power is delivering meaningful improvements in peoples everyday lives, and said he had noticed a change in the governments message, with businesses now told spending needs to be restrained. He argued the public deserves the full picture of the countrys economic performance, successes and shortcomings included, and closed with the warning that before the election everything went smoothly and now the belt is being tightened.</p><p><img src="https://maltanews.great-site.net/img/WhatsApp-Image-2026-10-25-at-11.22.21.jpeg" alt="National Party leader Alex Borg at a party activity in Zebbug" /></p><p><em>Sources: Newsbook, Malta Independent</em></p>]]></content:encoded>
+    <pubDate>Sun, 25 Oct 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">1fdff9e099d4e9e16d9c3422c6a274f6</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-25</source>
+    <media:content url="https://maltanews.great-site.net/img/WhatsApp-Image-2026-10-25-at-11.22.21.jpeg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/WhatsApp-Image-2026-10-25-at-11.22.21.jpeg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Budget to be shorter and built on three pillars, says Caruana</title>
+    <link>https://timesofmalta.com/article/shorter-budget-three-main-pillars.1136117</link>
+    <description>Finance Minister Clyde Caruana plans a shorter, more technical budget speech on Monday, built on three pillars: stability, economic direction and one based on socialist principles. He said some measures would be introduced to realign the economy, while particular sectors would receive additional benefits, and that the government has a five-year mandate to implement its electoral programme with priority given to energy subsidies and public finances. Both Caruana and the prime minister declined to confirm whether the package will include the 1,000 annual superbonus pledged to workers resident in Malta for more than five years.</description>
+    <content:encoded><![CDATA[<p>Finance Minister Clyde Caruana plans a shorter, more technical budget speech on Monday, built on three pillars: stability, economic direction and one based on socialist principles. He said some measures would be introduced to realign the economy, while particular sectors would receive additional benefits, and that the government has a five-year mandate to implement its electoral programme with priority given to energy subsidies and public finances. Both Caruana and the prime minister declined to confirm whether the package will include the 1,000 annual superbonus pledged to workers resident in Malta for more than five years.</p><p><img src="https://maltanews.great-site.net/img/2c44cb60dabbadd4f46badc9a774cd3b3276883e-1792856264-d38f74a3-1200x630.jpg" alt="Finance Minister Clyde Caruana" /></p><p><em>Sources: Times of Malta, Newsbook</em></p>]]></content:encoded>
+    <pubDate>Sun, 25 Oct 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">4b6eaf50cb97f714b9f80911f34a4c4d</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-25</source>
+    <media:content url="https://maltanews.great-site.net/img/2c44cb60dabbadd4f46badc9a774cd3b3276883e-1792856264-d38f74a3-1200x630.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/2c44cb60dabbadd4f46badc9a774cd3b3276883e-1792856264-d38f74a3-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Mater Dei emergency department to get multisensory space for children</title>
+    <link>https://www.maltatoday.com.mt/news/national/145259/mater_dei_emergency_department_to_get_multisensory_space_for_children</link>
+    <description>A multisensory space is to be created in Mater Dei Hospitals emergency department to give children with autism, additional needs and sensory processing difficulties a calmer setting. Deputy Prime Minister and Health Minister Ian Borg announced the initiative, supported by the Chinese Embassy and the Malta Trust Foundation, at the fourth Family Centred Care Conference organised by Ronald McDonald House Charities Malta with the Malta Paediatric Association. The space will sit within the existing department and feed into plans for its expansion. Borg also outlined an evening volunteer service on paediatric wards and new consultant appointments.</description>
+    <content:encoded><![CDATA[<p>A multisensory space is to be created in Mater Dei Hospitals emergency department to give children with autism, additional needs and sensory processing difficulties a calmer setting. Deputy Prime Minister and Health Minister Ian Borg announced the initiative, supported by the Chinese Embassy and the Malta Trust Foundation, at the fourth Family Centred Care Conference organised by Ronald McDonald House Charities Malta with the Malta Paediatric Association. The space will sit within the existing department and feed into plans for its expansion. Borg also outlined an evening volunteer service on paediatric wards and new consultant appointments.</p><p><img src="https://maltanews.great-site.net/img/pr261799c.jpeg" alt="Mater Dei Hospital" /></p><p><em>Sources: Malta Today, Lovin Malta, Malta Independent</em></p>]]></content:encoded>
+    <pubDate>Sun, 25 Oct 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">47db63a219f4f662a779f36029870967</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-25</source>
+    <media:content url="https://maltanews.great-site.net/img/pr261799c.jpeg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/pr261799c.jpeg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Armenia wins Junior Eurovision hosted in Malta; Beppe Caruana finishes seventh</title>
+    <link>https://newsbook.com.mt/ara-l-armenja-tirbah-il-junior-eurovision-fmalta-beppe-caruana-fis-seba-post-b136-punt/</link>
+    <description>Armenia won the 24th Junior Eurovision Song Contest, held at the MFCC in Ta Qali, with 13-year-old Nare from Yerevan taking 202 points with the song BOO!, the countrys third win after 2010 and 2021. Malta was represented by 11-year-old Beppe Caruana with Blue Bird, placing seventh of 16 countries on 136 points, 86 from the national juries and 50 from the online vote. Spain finished second on 184 points and France third on 165.</description>
+    <content:encoded><![CDATA[<p>Armenia won the 24th Junior Eurovision Song Contest, held at the MFCC in Ta Qali, with 13-year-old Nare from Yerevan taking 202 points with the song BOO!, the countrys third win after 2010 and 2021. Malta was represented by 11-year-old Beppe Caruana with Blue Bird, placing seventh of 16 countries on 136 points, 86 from the national juries and 50 from the online vote. Spain finished second on 184 points and France third on 165.</p><p><img src="https://maltanews.great-site.net/img/Junior_Eurovision_2026_Winner_Beppe.jpg" alt="Junior Eurovision 2026, held at the MFCC in Ta Qali" /></p><p><em>Sources: Newsbook, Lovin Malta</em></p>]]></content:encoded>
+    <pubDate>Sun, 25 Oct 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">528c013480c4396d2d3655090e1bbb31</guid>
+    <category>General</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-25</source>
+    <media:content url="https://maltanews.great-site.net/img/Junior_Eurovision_2026_Winner_Beppe.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/Junior_Eurovision_2026_Winner_Beppe.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Police stopped over 16,000 vehicles in summer road checks</title>
+    <link>https://lovinmalta.com/news/over-16000-vehicles-stopped-during-720-police-road-checks-this-summer/</link>
+    <description>More than 16,000 vehicles were stopped by police during approximately 720 road checks carried out across Malta and Gozo between June and September 2026, according to figures released by the Malta Police Force. Officers issued around 880 traffic contraventions and 104 charges, and conducted 98 drug and alcohol tests on drivers suspected of driving under the influence, with 16 testing positive for alcohol. Common offences included driving without a valid licence or insurance, not wearing a seatbelt and using a mobile phone while driving.</description>
+    <content:encoded><![CDATA[<p>More than 16,000 vehicles were stopped by police during approximately 720 road checks carried out across Malta and Gozo between June and September 2026, according to figures released by the Malta Police Force. Officers issued around 880 traffic contraventions and 104 charges, and conducted 98 drug and alcohol tests on drivers suspected of driving under the influence, with 16 testing positive for alcohol. Common offences included driving without a valid licence or insurance, not wearing a seatbelt and using a mobile phone while driving.</p><p><img src="https://maltanews.great-site.net/img/7eea2ce2e0a6e1f35f6a705de259f5765863906c-1792859549-d7d1b647-1200x630.jpg" alt="Police road checks on a Maltese road" /></p><p><em>Sources: Lovin Malta, Times of Malta, Malta Today</em></p>]]></content:encoded>
+    <pubDate>Sun, 25 Oct 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">ecee1ae8db19a04288eb8ef6fc912bfe</guid>
+    <category>Courts &amp; Crime</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-25</source>
+    <media:content url="https://maltanews.great-site.net/img/7eea2ce2e0a6e1f35f6a705de259f5765863906c-1792859549-d7d1b647-1200x630.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/7eea2ce2e0a6e1f35f6a705de259f5765863906c-1792859549-d7d1b647-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Malta Employers survey: SMEs see AI as route to productivity, not cost cutting</title>
+    <link>https://thebusinesspicture.com/2026/10/25/smes-see-ai-as-route-to-greater-productivity-malta-employers-survey/</link>
+    <description>Maltese small and medium-sized businesses view artificial intelligence primarily as a tool to improve efficiency and productivity rather than to cut costs or jobs, according to a Malta Employers survey due to be presented in full at the associations annual conference next month. The study found 76.3% of respondents cited improved efficiency or productivity as the main motivation behind their approach to AI, with only 2.4% pointing to cost reduction. The most popular applications were marketing, client communication, data analytics and process automation, and Malta Employers has asked government to support businesses through the AI and digital transition in its Budget 2027 proposals.</description>
+    <content:encoded><![CDATA[<p>Maltese small and medium-sized businesses view artificial intelligence primarily as a tool to improve efficiency and productivity rather than to cut costs or jobs, according to a Malta Employers survey due to be presented in full at the associations annual conference next month. The study found 76.3% of respondents cited improved efficiency or productivity as the main motivation behind their approach to AI, with only 2.4% pointing to cost reduction. The most popular applications were marketing, client communication, data analytics and process automation, and Malta Employers has asked government to support businesses through the AI and digital transition in its Budget 2027 proposals.</p><p><img src="https://maltanews.great-site.net/img/VFDGuP8aTLm5B3zA.png" alt="Malta Employers survey results on artificial intelligence" /></p><p><em>Sources: The Business Picture</em></p>]]></content:encoded>
+    <pubDate>Sun, 25 Oct 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">1fee2b17ae726b335de78ceb4e4b641e</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-25</source>
+    <media:content url="https://maltanews.great-site.net/img/VFDGuP8aTLm5B3zA.png" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/VFDGuP8aTLm5B3zA.png" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Maritime Forum urges Ro-Ro cargo link between Freeport, Grand Harbour and Mgarr</title>
+    <link>https://thebusinesspicture.com/2026/10/25/mmf-calls-for-cargo-service-linking-malta-freeport-grand-harbour-and-mgarr-harbour/</link>
+    <description>The Malta Maritime Forum is calling for a roll-on roll-off cargo service linking Malta Freeport with the Grand Harbour and Mgarr Harbour in Gozo, arguing that shifting freight from roads to sea would cut heavy traffic between Birzebbuga and Cirkewwa, ease congestion and lower emissions. The proposal is part of the forums pre-Budget 2027 recommendations, which also cover strengthening the maritime workforce and protecting critical port infrastructure. Citing a study, the forum estimates trucks emit 0.218kg of CO2 per tonne-mile against 0.04kg for ships, and notes trailer traffic has grown from about 35,000 to 75,000 TIR units over 20 years.</description>
+    <content:encoded><![CDATA[<p>The Malta Maritime Forum is calling for a roll-on roll-off cargo service linking Malta Freeport with the Grand Harbour and Mgarr Harbour in Gozo, arguing that shifting freight from roads to sea would cut heavy traffic between Birzebbuga and Cirkewwa, ease congestion and lower emissions. The proposal is part of the forums pre-Budget 2027 recommendations, which also cover strengthening the maritime workforce and protecting critical port infrastructure. Citing a study, the forum estimates trucks emit 0.218kg of CO2 per tonne-mile against 0.04kg for ships, and notes trailer traffic has grown from about 35,000 to 75,000 TIR units over 20 years.</p><p><img src="https://maltanews.great-site.net/img/kU5t3RlwuyhHbUXF.jpg" alt="Cargo freight at Malta Freeport" /></p><p><em>Sources: The Business Picture</em></p>]]></content:encoded>
+    <pubDate>Sun, 25 Oct 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">e5a1e10e82e4296faf1c8d1da08782aa</guid>
+    <category>Economy</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-25</source>
+    <media:content url="https://maltanews.great-site.net/img/kU5t3RlwuyhHbUXF.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/kU5t3RlwuyhHbUXF.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Two-year suspended sentence for 21-year-old who admitted assaulting a man in Xghajra</title>
+    <link>https://newsbook.com.mt/sentejn-habs-sospizi-ghal-tfajla-li-hebbet-ghal-ragel-fix-xghajra/</link>
+    <description>A 21-year-old woman resident in Attard was sentenced to two years imprisonment, suspended for four years, after admitting she assaulted a foreign man in her Xghajra residence on 21 December 2025. She was charged with grievous bodily harm and with beating and ill-treating the victim during an argument. Magistrate Nadine Sant Lia considered her criminal responsibility not extinguished but not entirely inculpatory, and concluded that a suspended sentence was appropriate given the circumstances. Prosecution was conducted by Advocate Krista Spiteri Lucas.</description>
+    <content:encoded><![CDATA[<p>A 21-year-old woman resident in Attard was sentenced to two years imprisonment, suspended for four years, after admitting she assaulted a foreign man in her Xghajra residence on 21 December 2025. She was charged with grievous bodily harm and with beating and ill-treating the victim during an argument. Magistrate Nadine Sant Lia considered her criminal responsibility not extinguished but not entirely inculpatory, and concluded that a suspended sentence was appropriate given the circumstances. Prosecution was conducted by Advocate Krista Spiteri Lucas.</p><p><img src="https://maltanews.great-site.net/img/sikkina-demm.jpg" alt="Court and justice" /></p><p><em>Sources: Newsbook</em></p>]]></content:encoded>
+    <pubDate>Sun, 25 Oct 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">fa5d7ffb890565ce5c35537716cc8086</guid>
+    <category>Courts &amp; Crime</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-25</source>
+    <media:content url="https://maltanews.great-site.net/img/sikkina-demm.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/sikkina-demm.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Gzira shop illegally converted and let as 690-a-month studio apartment</title>
+    <link>https://timesofmalta.com/article/windowless-shop-illegally-converted-690amonth-apartment.1136111</link>
+    <description>A windowless shop in Rue dArgens, Gzira, is being advertised as a studio apartment for 690 a month despite planning records showing no approval for its conversion into a residence. The 36 square metre property was previously a shoe repair shop and approved for use only as a food outlet. A Facebook advert posted earlier this month described it as an independent studio with air conditioning, a washing machine and a refrigerator, with bills included, and the owner is understood to have let it before securing the necessary planning permission.</description>
+    <content:encoded><![CDATA[<p>A windowless shop in Rue dArgens, Gzira, is being advertised as a studio apartment for 690 a month despite planning records showing no approval for its conversion into a residence. The 36 square metre property was previously a shoe repair shop and approved for use only as a food outlet. A Facebook advert posted earlier this month described it as an independent studio with air conditioning, a washing machine and a refrigerator, with bills included, and the owner is understood to have let it before securing the necessary planning permission.</p><p><img src="https://maltanews.great-site.net/img/8bb6d906f2348d552e469c86e5e73b73ffd73f05-1792846688-4c1c54da-1200x630.jpg" alt="A shopfront in Gzira" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Sun, 25 Oct 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">f7be8ab52f1d4f69bce0072a0e4504f0</guid>
+    <category>General</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-25</source>
+    <media:content url="https://maltanews.great-site.net/img/8bb6d906f2348d552e469c86e5e73b73ffd73f05-1792846688-4c1c54da-1200x630.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/8bb6d906f2348d552e469c86e5e73b73ffd73f05-1792846688-4c1c54da-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
   <item>
     <title>Health Ministry suspends outsourcing of non-complicated emergency care to private hospitals</title>
     <link>https://www.maltatoday.com.mt/news/national/145232/emergency_care_outsourcing_to_private_hospitals_suspended_amid_spending_review__</link>
