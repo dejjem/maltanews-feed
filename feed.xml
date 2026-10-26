@@ -9,7 +9,7 @@
   <link>https://maltanews.great-site.net/</link>
   <description>Daily Malta news digest, automated. Curated from local Maltese news sources.</description>
   <language>en-mt</language>
-  <lastBuildDate>Mon, 26 Oct 2026 06:32:08 +0100</lastBuildDate>
+  <lastBuildDate>Mon, 26 Oct 2026 13:31:05 +0100</lastBuildDate>
   <pubDate>Mon, 26 Oct 2026 12:00:00 +0100</pubDate>
   <generator>Hermes Malta News pipeline v3 + RSS</generator>
   <managingEditor>dejjem@gmail.com (Mark Micallef)</managingEditor>
@@ -30,6 +30,102 @@
     <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-26</source>
     <media:content url="https://maltanews.great-site.net/img/Clyde-Caruana-Pre-Budget-Document-2027-11-218x150.jpg" medium="image" />
     <enclosure url="https://maltanews.great-site.net/img/Clyde-Caruana-Pre-Budget-Document-2027-11-218x150.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Budget 2027: Caruana to present the budget this evening as the superbonus question hangs over the government</title>
+    <link>https://timesofmalta.com/article/budget-2027-speech-live-blog.1136165</link>
+    <description>Finance Minister Clyde Caruana is scheduled to deliver the Budget 2027 address at 6.30pm, after presenting the package to President Myriam Spiteri Debono at 5pm and entering Parliament at 5.45pm. The most closely watched measure is Labour's pledged €1,000 yearly superbonus for workers, with Caruana indicating taxpayers may have to wait while government messaging has stayed deliberately coy. He has also said the deficit cannot rise beyond 3% of GDP, even as energy subsidies cost up to €400 million a year, with a further €400 million allocated for next year. Prime Minister Robert Abela has said tax cuts for working parents will double and that pensioners are in line for an extra €10 a week, while Newsbook Malta and RTK103 said they will carry live updates, hourly radio bulletins and a live blog through the evening.</description>
+    <content:encoded><![CDATA[<p>Finance Minister Clyde Caruana is scheduled to deliver the Budget 2027 address at 6.30pm, after presenting the package to President Myriam Spiteri Debono at 5pm and entering Parliament at 5.45pm. The most closely watched measure is Labour&#x27;s pledged €1,000 yearly superbonus for workers, with Caruana indicating taxpayers may have to wait while government messaging has stayed deliberately coy. He has also said the deficit cannot rise beyond 3% of GDP, even as energy subsidies cost up to €400 million a year, with a further €400 million allocated for next year. Prime Minister Robert Abela has said tax cuts for working parents will double and that pensioners are in line for an extra €10 a week, while Newsbook Malta and RTK103 said they will carry live updates, hourly radio bulletins and a live blog through the evening.</p><p><img src="https://maltanews.great-site.net/img/55048621c91e5fb646f1fc245ae677ddb6f844cb-1793015244-e45c181f-1200x630.jpg" alt="Budget 2027 day in Malta" /></p><p><em>Sources: Times of Malta, Times of Malta, Newsbook</em></p>]]></content:encoded>
+    <pubDate>Mon, 26 Oct 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">331f1b82fa3ab6a5bd3b9913336387c0</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-26</source>
+    <media:content url="https://maltanews.great-site.net/img/55048621c91e5fb646f1fc245ae677ddb6f844cb-1793015244-e45c181f-1200x630.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/55048621c91e5fb646f1fc245ae677ddb6f844cb-1793015244-e45c181f-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Social security benefit spending up 10% in first nine months of 2026</title>
+    <link>https://timesofmalta.com/article/spending-social-security-benefits-10.1136164</link>
+    <description>National data published on Monday show that spending on social security benefits between January and September reached €1,329.2 million, 10% more than the €1,208.2 million recorded by the same point in 2025. Non-contributory benefits accounted for €1,042.4 million, a 9.5% rise, while contributory spending grew by €90.8 million and non-contributory spending by €30.2 million. Retirement pensions recorded the largest increase, at €60.3 million, driven by a €73.5 million rise in the two-thirds pension, and the number of two-thirds pensioners reached 65,543, 2,690 more than last year. Child allowance also rose by €10.9 million after the grant was extended to families with children in years 10 and 11.</description>
+    <content:encoded><![CDATA[<p>National data published on Monday show that spending on social security benefits between January and September reached €1,329.2 million, 10% more than the €1,208.2 million recorded by the same point in 2025. Non-contributory benefits accounted for €1,042.4 million, a 9.5% rise, while contributory spending grew by €90.8 million and non-contributory spending by €30.2 million. Retirement pensions recorded the largest increase, at €60.3 million, driven by a €73.5 million rise in the two-thirds pension, and the number of two-thirds pensioners reached 65,543, 2,690 more than last year. Child allowance also rose by €10.9 million after the grant was extended to families with children in years 10 and 11.</p><p><img src="https://maltanews.great-site.net/img/03d2b156aa218480a3baba28607ce4984997e7e1-1793015691-c3b99c27-1200x630.jpeg" alt="Social security benefits spending data" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Mon, 26 Oct 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">6d196b4bc70d521ffb19f9ed4d097682</guid>
+    <category>General</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-26</source>
+    <media:content url="https://maltanews.great-site.net/img/03d2b156aa218480a3baba28607ce4984997e7e1-1793015691-c3b99c27-1200x630.jpeg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/03d2b156aa218480a3baba28607ce4984997e7e1-1793015691-c3b99c27-1200x630.jpeg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Jurors shown video of the route retraced by murder accused Lorin Scicluna</title>
+    <link>https://timesofmalta.com/article/jurors-shown-video-route-retraced-murder-accused-lorin-scicluna.1136160</link>
+    <description>Jurors in the Lassana Cisse murder trial were on Monday shown footage of a journey carried out by police with the accused, Lorin Scicluna, retracing the route he allegedly took on the night of the killing. The video was recorded on 19 May 2019, two days after his arrest, and was played during the testimony of police superintendent Josric Mifsud, who accompanied him. It showed officers driving with Scicluna from the Attard pastizzeria where he worked, along the Marsa-Ħamrun bypass and through Paola, where he had a garage, and places he indicated he collected a firearm and removed his car's registration plates.</description>
+    <content:encoded><![CDATA[<p>Jurors in the Lassana Cisse murder trial were on Monday shown footage of a journey carried out by police with the accused, Lorin Scicluna, retracing the route he allegedly took on the night of the killing. The video was recorded on 19 May 2019, two days after his arrest, and was played during the testimony of police superintendent Josric Mifsud, who accompanied him. It showed officers driving with Scicluna from the Attard pastizzeria where he worked, along the Marsa-Ħamrun bypass and through Paola, where he had a garage, and places he indicated he collected a firearm and removed his car&#x27;s registration plates.</p><p><img src="https://maltanews.great-site.net/img/371829389ab16e88bf1efa875fd96b9520a2a016-1793009761-04cbfe8d-1200x630.png" alt="Murder trial in Malta" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Mon, 26 Oct 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">b79dab76aca52841429065b3ce22dfca</guid>
+    <category>Courts &amp; Crime</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-26</source>
+    <media:content url="https://maltanews.great-site.net/img/371829389ab16e88bf1efa875fd96b9520a2a016-1793009761-04cbfe8d-1200x630.png" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/371829389ab16e88bf1efa875fd96b9520a2a016-1793009761-04cbfe8d-1200x630.png" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Murder trial opens with evidence compilation in the case of John Cassar</title>
+    <link>https://newsbook.com.mt/live-john-cassar-lura-l-qorti-ghall-kumpilazzjoni-tal-evidenza/</link>
+    <description>Evidence compilation opened on Monday before Magistrate Ingrid Bianco in the case of John Cassar, 47, a resident of Siġġiewi accused of the murder of his mother, Mary Grace Cassar, 72, and the attempted murder of his father, also known as Ġanni, 74. The alleged killing took place on 15 October at a residence in Imqabba. Cassar pleaded not guilty to the charges and was remanded in custody. During the hearing, the prosecution began examining the evidence and witnesses so that the court can determine whether there is sufficient proof to send the accused to trial, and ultimately to the jury.</description>
+    <content:encoded><![CDATA[<p>Evidence compilation opened on Monday before Magistrate Ingrid Bianco in the case of John Cassar, 47, a resident of Siġġiewi accused of the murder of his mother, Mary Grace Cassar, 72, and the attempted murder of his father, also known as Ġanni, 74. The alleged killing took place on 15 October at a residence in Imqabba. Cassar pleaded not guilty to the charges and was remanded in custody. During the hearing, the prosecution began examining the evidence and witnesses so that the court can determine whether there is sufficient proof to send the accused to trial, and ultimately to the jury.</p><p><img src="https://maltanews.great-site.net/img/John-Cassar-1.jpeg" alt="John Cassar court case" /></p><p><em>Sources: Newsbook</em></p>]]></content:encoded>
+    <pubDate>Mon, 26 Oct 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">d621e4980f5a1023fb4a3b85888948a7</guid>
+    <category>Courts &amp; Crime</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-26</source>
+    <media:content url="https://maltanews.great-site.net/img/John-Cassar-1.jpeg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/John-Cassar-1.jpeg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Disciplinary proceedings against magistrate Monica Vella have begun</title>
+    <link>https://timesofmalta.com/article/disciplinary-proceedings-magistrate-start.1136141</link>
+    <description>Judicial authorities have opened disciplinary proceedings against Magistrate Monica Vella over alleged inefficiency in handling cases, including extensive delays and other administrative failings. Vella will be given the opportunity to respond, and if the shortcomings are confirmed she could face measures ranging from suspension to removal from the bench. Court statistics issued in August show she had 1,672 pending criminal cases, second only to Magistrate Yana Micallef Stafrace, with more than 93% of them district-related cases. She was suspended from the bench for a month last year over delays in issuing written sentences, and a constitutional court has separately referred a case she presided over to the standards commissioner for the judiciary.</description>
+    <content:encoded><![CDATA[<p>Judicial authorities have opened disciplinary proceedings against Magistrate Monica Vella over alleged inefficiency in handling cases, including extensive delays and other administrative failings. Vella will be given the opportunity to respond, and if the shortcomings are confirmed she could face measures ranging from suspension to removal from the bench. Court statistics issued in August show she had 1,672 pending criminal cases, second only to Magistrate Yana Micallef Stafrace, with more than 93% of them district-related cases. She was suspended from the bench for a month last year over delays in issuing written sentences, and a constitutional court has separately referred a case she presided over to the standards commissioner for the judiciary.</p><p><img src="https://maltanews.great-site.net/img/855673f227ba720ea54eb4e8883eea9363c946f3-1792947638-6f2dd34a-1200x630.jpg" alt="Malta judiciary" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Mon, 26 Oct 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">8c1f4b736b0e7d9a145bc5d5f9b5996e</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-26</source>
+    <media:content url="https://maltanews.great-site.net/img/855673f227ba720ea54eb4e8883eea9363c946f3-1792947638-6f2dd34a-1200x630.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/855673f227ba720ea54eb4e8883eea9363c946f3-1792947638-6f2dd34a-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Man gets suspended sentence over unauthorised passports and is ordered deported to Lebanon</title>
+    <link>https://timesofmalta.com/article/man-admits-seeking-better-life-family-germany-unauthorised-passports.1136157</link>
+    <description>Sadek Hamze, 53, admitted in court on Monday to attempting to travel to Germany with unauthorised passports for himself, his wife and their two young children, seeking a better life for his family. He pleaded guilty to all charges and was sentenced to two years in prison, suspended for four years, and fined €450, with the court ordering his deportation to Lebanon. The case surfaced when a boarding agent at the airport noticed the documents did not match the identities of the people presenting them. Magistrate Tanya Sammut expressed concern over whether the family could face conflict in Lebanon, with an interpreter noting the fighting is concentrated in the south of the country, near the Israeli border.</description>
+    <content:encoded><![CDATA[<p>Sadek Hamze, 53, admitted in court on Monday to attempting to travel to Germany with unauthorised passports for himself, his wife and their two young children, seeking a better life for his family. He pleaded guilty to all charges and was sentenced to two years in prison, suspended for four years, and fined €450, with the court ordering his deportation to Lebanon. The case surfaced when a boarding agent at the airport noticed the documents did not match the identities of the people presenting them. Magistrate Tanya Sammut expressed concern over whether the family could face conflict in Lebanon, with an interpreter noting the fighting is concentrated in the south of the country, near the Israeli border.</p><p><img src="https://maltanews.great-site.net/img/591c9e08739ac3cd36257bc0df505d1cd48a85e5-1793008677-2779c33b-1200x630.jpg" alt="Malta court sentencing" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Mon, 26 Oct 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">45bf7a25467ca2c2186e38882be1509a</guid>
+    <category>Courts &amp; Crime</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-26</source>
+    <media:content url="https://maltanews.great-site.net/img/591c9e08739ac3cd36257bc0df505d1cd48a85e5-1793008677-2779c33b-1200x630.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/591c9e08739ac3cd36257bc0df505d1cd48a85e5-1793008677-2779c33b-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Momentum says request for information on Gozo valley works was refused</title>
+    <link>https://newsbook.com.mt/momentum-jghid-li-gie-rifjutat-informazzjoni-fuq-xoghlijiet-fil-widien/</link>
+    <description>Momentum said its request for information on cleaning and rehabilitation works in Gozo valleys was refused after the Ministry rejected the general request as insufficiently specific, and the party suspects the documents sought may not exist. The party had asked for details of the sites and dates of the works, technical and environmental assessments, expert advice, machinery and methods used, material removal and disposal, and inspection and monitoring reports. Momentum is asking what measures were taken to protect native biodiversity and prevent invasive alien species from returning, and its spokeswoman Graziella Spiteri said the public is entitled to an explanation of works affecting the natural environment.</description>
+    <content:encoded><![CDATA[<p>Momentum said its request for information on cleaning and rehabilitation works in Gozo valleys was refused after the Ministry rejected the general request as insufficiently specific, and the party suspects the documents sought may not exist. The party had asked for details of the sites and dates of the works, technical and environmental assessments, expert advice, machinery and methods used, material removal and disposal, and inspection and monitoring reports. Momentum is asking what measures were taken to protect native biodiversity and prevent invasive alien species from returning, and its spokeswoman Graziella Spiteri said the public is entitled to an explanation of works affecting the natural environment.</p><p><img src="https://maltanews.great-site.net/img/momentum-widien.jpg" alt="Momentum on Gozo valley works" /></p><p><em>Sources: Newsbook</em></p>]]></content:encoded>
+    <pubDate>Mon, 26 Oct 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">5720d1587a7be1d71c19bcedddc26cda</guid>
+    <category>Infrastructure &amp; Transport</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-26</source>
+    <media:content url="https://maltanews.great-site.net/img/momentum-widien.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/momentum-widien.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Study finds many of Malta's mysterious cart ruts date to the Classical era</title>
+    <link>https://timesofmalta.com/article/study-offers-new-clues-malta-mysterious-cart-ruts.1136098</link>
+    <description>A new study of Malta's cart ruts has added weight to the argument that many of the parallel grooves cut into the islands' rocky landscape are far younger than some have claimed. Archaeologist Joel Grima of the University of Malta examined evidence relating to 2,628 individual tracks, drawing on three-dimensional models of 155 sites and digitised records from another 88, and concluded that a considerable proportion were formed between 700BC and AD 870, during the Phoenician, Punic, Roman and Byzantine eras. Grima said there is no solid evidence confirming a prehistoric date for any pair of Maltese cart ruts, though the possibility cannot at present be excluded. The work has been published in the Journal of Archaeological Science.</description>
+    <content:encoded><![CDATA[<p>A new study of Malta&#x27;s cart ruts has added weight to the argument that many of the parallel grooves cut into the islands&#x27; rocky landscape are far younger than some have claimed. Archaeologist Joel Grima of the University of Malta examined evidence relating to 2,628 individual tracks, drawing on three-dimensional models of 155 sites and digitised records from another 88, and concluded that a considerable proportion were formed between 700BC and AD 870, during the Phoenician, Punic, Roman and Byzantine eras. Grima said there is no solid evidence confirming a prehistoric date for any pair of Maltese cart ruts, though the possibility cannot at present be excluded. The work has been published in the Journal of Archaeological Science.</p><p><img src="https://maltanews.great-site.net/img/493462c63706591310336f0ec191f1a2f484b73b-1792835973-2565c865-1200x630.jpg" alt="Maltese cart ruts" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Mon, 26 Oct 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">2a9f0023b38923ea41fee3e54c125e8c</guid>
+    <category>Infrastructure &amp; Transport</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-26</source>
+    <media:content url="https://maltanews.great-site.net/img/493462c63706591310336f0ec191f1a2f484b73b-1792835973-2565c865-1200x630.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/493462c63706591310336f0ec191f1a2f484b73b-1792835973-2565c865-1200x630.jpg" length="0" type="image/jpeg" />
   </item>
 </channel>
 </rss>
