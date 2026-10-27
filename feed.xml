@@ -9,7 +9,7 @@
   <link>https://maltanews.great-site.net/</link>
   <description>Daily Malta news digest, automated. Curated from local Maltese news sources.</description>
   <language>en-mt</language>
-  <lastBuildDate>Tue, 27 Oct 2026 16:30:49 +0100</lastBuildDate>
+  <lastBuildDate>Tue, 27 Oct 2026 16:33:14 +0100</lastBuildDate>
   <pubDate>Tue, 27 Oct 2026 12:00:00 +0100</pubDate>
   <generator>Hermes Malta News pipeline v3 + RSS</generator>
   <managingEditor>dejjem@gmail.com (Mark Micallef)</managingEditor>
@@ -294,6 +294,18 @@
     <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-27</source>
     <media:content url="https://maltanews.great-site.net/img/WhatsApp-Image-2026-10-27-at-14.40.531.jpeg" medium="image" />
     <enclosure url="https://maltanews.great-site.net/img/WhatsApp-Image-2026-10-27-at-14.40.531.jpeg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Falzon: Budget measure to give 3,200 women their first pension</title>
+    <link>https://www.maltatoday.com.mt/news/national/145317/around_3200_women_to_receive_pensions_for_first_time</link>
+    <description>Social Policy Minister Michael Falzon said about 3,200 women will receive a pension for the first time under a Budget 2027 measure allowing up to 260 social security contributions, equivalent to five years, to be transferred between spouses, civil union partners and registered cohabitants. The measure, announced by Finance Minister Clyde Caruana on Monday, is backed by a 13 million investment; where transferred contributions still fall short of the 520 needed, they count towards the Deficiency Contributory Bonus, and eligible people will be notified by the Department of Social Security without applying. Falzon also said pensioners will receive an extra 10 a week from January including the Cost-of-Living Adjustment, that weekly pensions will rise by 50 in total over the legislature, and that the tax-free pension threshold increases by 520 to 37,624 a year. He added that more than 7,000 widows and widowers benefit from completed two-thirds pensions.</description>
+    <content:encoded><![CDATA[<p>Social Policy Minister Michael Falzon said about 3,200 women will receive a pension for the first time under a Budget 2027 measure allowing up to 260 social security contributions, equivalent to five years, to be transferred between spouses, civil union partners and registered cohabitants. The measure, announced by Finance Minister Clyde Caruana on Monday, is backed by a 13 million investment; where transferred contributions still fall short of the 520 needed, they count towards the Deficiency Contributory Bonus, and eligible people will be notified by the Department of Social Security without applying. Falzon also said pensioners will receive an extra 10 a week from January including the Cost-of-Living Adjustment, that weekly pensions will rise by 50 in total over the legislature, and that the tax-free pension threshold increases by 520 to 37,624 a year. He added that more than 7,000 widows and widowers benefit from completed two-thirds pensions.</p><p><img src="https://maltanews.great-site.net/img/21c1d57c2fb2.jpg" alt="Social Policy Minister Michael Falzon at a press conference" /></p><p><em>Sources: Malta Today, Malta Independent</em></p>]]></content:encoded>
+    <pubDate>Tue, 27 Oct 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">10a279b45639b8b826fd8eb869c32a2c</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-27</source>
+    <media:content url="https://maltanews.great-site.net/img/21c1d57c2fb2.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/21c1d57c2fb2.jpg" length="0" type="image/jpeg" />
   </item>
 </channel>
 </rss>
