@@ -9,8 +9,8 @@
   <link>https://maltanews.great-site.net/</link>
   <description>Daily Malta news digest, automated. Curated from local Maltese news sources.</description>
   <language>en-mt</language>
-  <lastBuildDate>Wed, 28 Oct 2026 06:32:01 +0100</lastBuildDate>
-  <pubDate>Wed, 28 Oct 2026 06:00:00 +0100</pubDate>
+  <lastBuildDate>Wed, 28 Oct 2026 13:33:00 +0100</lastBuildDate>
+  <pubDate>Wed, 28 Oct 2026 12:00:00 +0100</pubDate>
   <generator>Hermes Malta News pipeline v3 + RSS</generator>
   <managingEditor>dejjem@gmail.com (Mark Micallef)</managingEditor>
   <atom:link href="https://dejjem.github.io/maltanews-feed/feed.xml" rel="self" type="application/rss+xml" />
@@ -22,14 +22,206 @@
   <item>
     <title>Inside MITA's war room where cyberattacks are detected and repelled</title>
     <link>https://www.maltatoday.com.mt/news/national/145238/inside_mitas_war_room_where_cyberattacks_are_detected_anticipated_and_repelled</link>
-    <description>MaltaToday visited the Malta Information Technology Agency's security operations centre in Santa Venera, the body tasked with safeguarding the state's IT infrastructure. A MITA agent said no country or organisation can eliminate cyberattack risk, and that the objective is to reduce risk, detect malicious activity early, respond effectively and recover services quickly. Ransomware, phishing, social engineering, credential theft and insider risks were identified as the key concerns, with national incident-response arrangements also being strengthened.</description>
-    <content:encoded><![CDATA[<p>MaltaToday visited the Malta Information Technology Agency&#x27;s security operations centre in Santa Venera, the body tasked with safeguarding the state&#x27;s IT infrastructure. A MITA agent said no country or organisation can eliminate cyberattack risk, and that the objective is to reduce risk, detect malicious activity early, respond effectively and recover services quickly. Ransomware, phishing, social engineering, credential theft and insider risks were identified as the key concerns, with national incident-response arrangements also being strengthened.</p><p><img src="https://maltanews.great-site.net/img/1_security_operations_centre.jpg" alt="MITA security operations centre" /></p><p><em>Sources: Malta Today</em></p>]]></content:encoded>
-    <pubDate>Wed, 28 Oct 2026 06:00:00 +0100</pubDate>
+    <description>A feature published on Wednesday examines how the Malta Information Technology Agency guards the state's IT infrastructure from its headquarters in Santa Venera, as artificial intelligence reshapes cyberwarfare. The report focuses on the risks posed by rapidly evolving technology to government workers handling sensitive data, and on MITA's detection, anticipation and repelling of cyberattacks.</description>
+    <content:encoded><![CDATA[<p>A feature published on Wednesday examines how the Malta Information Technology Agency guards the state&#x27;s IT infrastructure from its headquarters in Santa Venera, as artificial intelligence reshapes cyberwarfare. The report focuses on the risks posed by rapidly evolving technology to government workers handling sensitive data, and on MITA&#x27;s detection, anticipation and repelling of cyberattacks.</p><p><img src="https://maltanews.great-site.net/img/1_security_operations_centre.jpg" alt="MITA security operations centre" /></p><p><em>Sources: Malta Today</em></p>]]></content:encoded>
+    <pubDate>Wed, 28 Oct 2026 12:00:00 +0100</pubDate>
     <guid isPermaLink="false">faf6b8473390f06e7b38be0add7db1a9</guid>
-    <category>General</category>
+    <category>Politics</category>
     <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-28</source>
     <media:content url="https://maltanews.great-site.net/img/1_security_operations_centre.jpg" medium="image" />
     <enclosure url="https://maltanews.great-site.net/img/1_security_operations_centre.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Three Malta consortia bid for the €1.8 billion St Vincent de Paul hospital tender</title>
+    <link>https://timesofmalta.com/article/three-bids-submitted-tender-sir-temi-zammit-billion-euro-hospital.1136273</link>
+    <description>Three Malta-based joint ventures submitted bids on Wednesday for one of the largest tenders in Maltese history, covering the build, operation and running of the new hospital at St Vincent de Paul. The government had estimated the contract at around €1.38 billion, but all three bids came in hundreds of millions of euros higher. CareLink Medical Group, involving the Saint James hospital group and Corinthia group shareholders, bid €1.74 billion; Custodia Care, led by Vassallo Group's CareMalta with care home firm CareRise, bid €1.79 billion; and Proxima, led by a firm owned by James Caterers, submitted the highest bid at €1.87 billion. The award is not yet decided.</description>
+    <content:encoded><![CDATA[<p>Three Malta-based joint ventures submitted bids on Wednesday for one of the largest tenders in Maltese history, covering the build, operation and running of the new hospital at St Vincent de Paul. The government had estimated the contract at around €1.38 billion, but all three bids came in hundreds of millions of euros higher. CareLink Medical Group, involving the Saint James hospital group and Corinthia group shareholders, bid €1.74 billion; Custodia Care, led by Vassallo Group&#x27;s CareMalta with care home firm CareRise, bid €1.79 billion; and Proxima, led by a firm owned by James Caterers, submitted the highest bid at €1.87 billion. The award is not yet decided.</p><p><img src="https://maltanews.great-site.net/img/693cf4f42718f839203892804ce174b0a1118267-1793187197-734baf0b-630x420.png" alt="Three hospital consortium bids" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Wed, 28 Oct 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">5d10f663ac19f69249317af22be99369</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-28</source>
+    <media:content url="https://maltanews.great-site.net/img/693cf4f42718f839203892804ce174b0a1118267-1793187197-734baf0b-630x420.png" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/693cf4f42718f839203892804ce174b0a1118267-1793187197-734baf0b-630x420.png" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Murder accused Lorin Scicluna taken to scene of Lassana Cisse killing, breaks down in tears</title>
+    <link>https://timesofmalta.com/article/lassana-murder-accused-accompanies-jurors-crime-scene.1136255</link>
+    <description>Seven years after Lassana Cisse was shot dead on a road in Birżebbuġa, the man accused of his murder visited the scene on Wednesday, accompanied by the judge and jurors hearing his trial. The 29-year-old former soldier broke down in tears during the visit, Newsbook reported. Cisse, a 42-year-old father of two from the Ivory Coast, was killed on April 6, 2019 while walking home after watching football with friends; he was shot three times and died on the spot. Scicluna, arrested in May 2019 while accompanying an Armed Forces of Malta marching band in Naxxar, is also charged with the attempted murder of two other men and a hit-and-run; all four victims are Black.</description>
+    <content:encoded><![CDATA[<p>Seven years after Lassana Cisse was shot dead on a road in Birżebbuġa, the man accused of his murder visited the scene on Wednesday, accompanied by the judge and jurors hearing his trial. The 29-year-old former soldier broke down in tears during the visit, Newsbook reported. Cisse, a 42-year-old father of two from the Ivory Coast, was killed on April 6, 2019 while walking home after watching football with friends; he was shot three times and died on the spot. Scicluna, arrested in May 2019 while accompanying an Armed Forces of Malta marching band in Naxxar, is also charged with the attempted murder of two other men and a hit-and-run; all four victims are Black.</p><p><img src="https://maltanews.great-site.net/img/8980bbe184879197c51f96929b9f22af61593a2d-1793185153-1dc7b5c4-630x420.jpeg" alt="Crime scene in Birzebbuga where Lassana Cisse was shot" /></p><p><em>Sources: Times of Malta, Newsbook</em></p>]]></content:encoded>
+    <pubDate>Wed, 28 Oct 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">1de03d2e338c6700f9ec2a879ef13739</guid>
+    <category>Courts &amp; Crime</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-28</source>
+    <media:content url="https://maltanews.great-site.net/img/8980bbe184879197c51f96929b9f22af61593a2d-1793185153-1dc7b5c4-630x420.jpeg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/8980bbe184879197c51f96929b9f22af61593a2d-1793185153-1dc7b5c4-630x420.jpeg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Cutajar 'not personally comfortable' with Budget 2027 measures on TCNs</title>
+    <link>https://timesofmalta.com/article/rosianne-cutajar-not-personally-comfortable-tcn-budget-measures.1136266</link>
+    <description>Equality and Civil Rights Minister Rosianne Cutajar said she is not personally comfortable with the Budget 2027 measures affecting third-country nationals, though she understands the difficult decision the finance minister had to make. Under the measures, TCNs without long-term residency lose free childcare and public transport, and face a €996 annual charge to drive private vehicles plus a €400 annual work permit renewal fee. Cutajar said she had raised her concerns with Finance Minister Clyde Caruana and warned the measures risk fuelling anti-foreigner sentiment and a deeper division between people.</description>
+    <content:encoded><![CDATA[<p>Equality and Civil Rights Minister Rosianne Cutajar said she is not personally comfortable with the Budget 2027 measures affecting third-country nationals, though she understands the difficult decision the finance minister had to make. Under the measures, TCNs without long-term residency lose free childcare and public transport, and face a €996 annual charge to drive private vehicles plus a €400 annual work permit renewal fee. Cutajar said she had raised her concerns with Finance Minister Clyde Caruana and warned the measures risk fuelling anti-foreigner sentiment and a deeper division between people.</p><p><img src="https://maltanews.great-site.net/img/316f46f6c5ebdae71dc31315e206aee38e39468b-1793182926-f36d6dee-630x420.png" alt="Equality Minister Rosianne Cutajar" /></p><p><em>Sources: Times of Malta, Malta Independent, Malta Today</em></p>]]></content:encoded>
+    <pubDate>Wed, 28 Oct 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">1c99710e0fd9d519f981c586183bbb52</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-28</source>
+    <media:content url="https://maltanews.great-site.net/img/316f46f6c5ebdae71dc31315e206aee38e39468b-1793182926-f36d6dee-630x420.png" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/316f46f6c5ebdae71dc31315e206aee38e39468b-1793182926-f36d6dee-630x420.png" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Total tax revenue reached almost €7.5 billion in 2025, NSO says</title>
+    <link>https://www.independent.com.mt/articles/2026-10-28/local-news/Total-tax-revenue-reaches-almost-7-5bn-NSO-says-6736294147</link>
+    <description>Total tax revenue stood at €7,471.6 million in 2025, an increase of €698.9 million over the previous year, the National Statistics Office said on Wednesday. The figure equalled a tax burden of 30.3 per cent, up from 29.3 per cent of GDP in 2024, and accounted for 86.4 per cent of total general government revenue. Direct taxes contributed €3,757.0 million, with personal income tax at €1,920.3 million and corporate income tax at €1,635.8 million, while VAT rose €234.6 million to reach €1.64 billion. Households accounted for 54 per cent of income tax collected.</description>
+    <content:encoded><![CDATA[<p>Total tax revenue stood at €7,471.6 million in 2025, an increase of €698.9 million over the previous year, the National Statistics Office said on Wednesday. The figure equalled a tax burden of 30.3 per cent, up from 29.3 per cent of GDP in 2024, and accounted for 86.4 per cent of total general government revenue. Direct taxes contributed €3,757.0 million, with personal income tax at €1,920.3 million and corporate income tax at €1,635.8 million, while VAT rose €234.6 million to reach €1.64 billion. Households accounted for 54 per cent of income tax collected.</p><p><img src="https://maltanews.great-site.net/img/ca48d55d6346.jpg" alt="National Statistics Office tax revenue data" /></p><p><em>Sources: Malta Independent, Lovin Malta</em></p>]]></content:encoded>
+    <pubDate>Wed, 28 Oct 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">e41bf10752c3ab34a38107417be88a77</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-28</source>
+    <media:content url="https://maltanews.great-site.net/img/ca48d55d6346.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/ca48d55d6346.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Over 1,000 sign petition urging Malta to scrap new TCN work permit fees</title>
+    <link>https://lovinmalta.com/news/local/over-1000-sign-petition-urging-malta-to-scrap-new-work-permit-fees-for-tcns/</link>
+    <description>A Change.org petition calling on the Maltese government to scrap the planned increases in work permit fees and a new €400 annual contribution for third-country nationals had gathered 1,056 verified signatures by Wednesday. The petition was launched by a foreign worker who says they have lived and worked legally in Malta since 2022, paying taxes and social security contributions throughout. The author warns the additional costs would hit workers earning between €1,200 and €1,600 a month particularly hard, especially those already struggling with rising rents and utility bills.</description>
+    <content:encoded><![CDATA[<p>A Change.org petition calling on the Maltese government to scrap the planned increases in work permit fees and a new €400 annual contribution for third-country nationals had gathered 1,056 verified signatures by Wednesday. The petition was launched by a foreign worker who says they have lived and worked legally in Malta since 2022, paying taxes and social security contributions throughout. The author warns the additional costs would hit workers earning between €1,200 and €1,600 a month particularly hard, especially those already struggling with rising rents and utility bills.</p><p><img src="https://maltanews.great-site.net/img/Dylan-Covers-2-2026-10-28T114617.213-1024x536.jpg" alt="Petition against new work permit fees for TCNs" /></p><p><em>Sources: Lovin Malta, Newsbook</em></p>]]></content:encoded>
+    <pubDate>Wed, 28 Oct 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">3deadae14edef8714f6232d5f83129bd</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-28</source>
+    <media:content url="https://maltanews.great-site.net/img/Dylan-Covers-2-2026-10-28T114617.213-1024x536.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/Dylan-Covers-2-2026-10-28T114617.213-1024x536.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Missing 13-year-old girl last seen in Tarxien has been found</title>
+    <link>https://lovinmalta.com/news/local/police-appeal-for-help-finding-missing-13-year-old-girl-last-seen-in-tarxien/</link>
+    <description>Police appealed for help on Wednesday to locate 13-year-old Shanyrielle Formosa, who had been reported missing and was last seen in the Tarxien area, before updating the appeal to confirm she had been found. The initial police statement invited anyone with information about her whereabouts to contact the police on 2122 4001 or 119, or to visit the nearest police station. Newsbook reported the girl had been located earlier on Wednesday.</description>
+    <content:encoded><![CDATA[<p>Police appealed for help on Wednesday to locate 13-year-old Shanyrielle Formosa, who had been reported missing and was last seen in the Tarxien area, before updating the appeal to confirm she had been found. The initial police statement invited anyone with information about her whereabouts to contact the police on 2122 4001 or 119, or to visit the nearest police station. Newsbook reported the girl had been located earlier on Wednesday.</p><p><img src="https://maltanews.great-site.net/img/Dylan-Covers-2-2026-10-28T115907.027-1024x536.jpg" alt="Police appeal for missing teenager" /></p><p><em>Sources: Lovin Malta, Newsbook</em></p>]]></content:encoded>
+    <pubDate>Wed, 28 Oct 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">d9f2f88542deb3bbfc7facb2a9de0aa4</guid>
+    <category>Courts &amp; Crime</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-28</source>
+    <media:content url="https://maltanews.great-site.net/img/Dylan-Covers-2-2026-10-28T115907.027-1024x536.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/Dylan-Covers-2-2026-10-28T115907.027-1024x536.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Court urges authorities to help foreign worker despite rejecting permit appeal</title>
+    <link>https://timesofmalta.com/article/court-urges-authorities-help-foreign-worker-despite-rejecting-permit.1136267</link>
+    <description>A court has urged immigration authorities to give a foreign worker another chance to obtain a residence and work permit, despite dismissing his appeal as filed too late. The case follows Dan Bahadur Khamcha's single permit application, which Identità refused because his immigration status in Malta was irregular when it was submitted, after his employer Royal Brothers Group failed to renew its licence. The Immigration Appeals Board declared his appeal null and void in October 2025, and he appealed to the Court of Appeal in February 2026.</description>
+    <content:encoded><![CDATA[<p>A court has urged immigration authorities to give a foreign worker another chance to obtain a residence and work permit, despite dismissing his appeal as filed too late. The case follows Dan Bahadur Khamcha&#x27;s single permit application, which Identità refused because his immigration status in Malta was irregular when it was submitted, after his employer Royal Brothers Group failed to renew its licence. The Immigration Appeals Board declared his appeal null and void in October 2025, and he appealed to the Court of Appeal in February 2026.</p><p><img src="https://maltanews.great-site.net/img/191763e5ac82dd4365c9495cab110a4ee256c4b2-1793182762-bff8b3b3-630x420.jpg" alt="Court ruling on foreign worker residence permit" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Wed, 28 Oct 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">1a944f22a7f1e66e00ba3a38509c3882</guid>
+    <category>Courts &amp; Crime</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-28</source>
+    <media:content url="https://maltanews.great-site.net/img/191763e5ac82dd4365c9495cab110a4ee256c4b2-1793182762-bff8b3b3-630x420.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/191763e5ac82dd4365c9495cab110a4ee256c4b2-1793182762-bff8b3b3-630x420.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>'I'm living from pay to pay': TCNs worried about budget measures</title>
+    <link>https://timesofmalta.com/article/i-m-living-pay-pay-tcns-worried-budget-measures.1136241</link>
+    <description>Third-country nationals interviewed by Times of Malta described mounting financial anxiety over the new budget measures. American Kyle Thomas, who has been in Malta for six years and works in sales in Ħal Far, said he was already living from paycheque to paycheque and relies on buses to get to work each day. A Moroccan man who studied in Malta and holds a master's degree said he may have to give up his car and is considering leaving the island. An Indian mother said she and her husband may not be able to save for a better future for their daughter.</description>
+    <content:encoded><![CDATA[<p>Third-country nationals interviewed by Times of Malta described mounting financial anxiety over the new budget measures. American Kyle Thomas, who has been in Malta for six years and works in sales in Ħal Far, said he was already living from paycheque to paycheque and relies on buses to get to work each day. A Moroccan man who studied in Malta and holds a master&#x27;s degree said he may have to give up his car and is considering leaving the island. An Indian mother said she and her husband may not be able to save for a better future for their daughter.</p><p><img src="https://maltanews.great-site.net/img/c052cc259a01cb44233092cd4a99fd03e14a1b84-1793118697-560f0185-630x420.jpg" alt="Third-country nationals interviewed on budget measures" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Wed, 28 Oct 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">842f63a5a7e08567ac0584deb253315c</guid>
+    <category>Economy</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-28</source>
+    <media:content url="https://maltanews.great-site.net/img/c052cc259a01cb44233092cd4a99fd03e14a1b84-1793118697-560f0185-630x420.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/c052cc259a01cb44233092cd4a99fd03e14a1b84-1793118697-560f0185-630x420.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Project Green's urban greening budget gets a €20 million trim</title>
+    <link>https://timesofmalta.com/article/project-green-urban-greening-budget-slashed-third-20-million.1136247</link>
+    <description>Project Green's budget for urban greening has been cut by a third, from €30 million this year to €20 million in 2027, after years of underspending on flagship projects. Urban greening was a government priority ahead of the 2022 general election, when Robert Abela pledged €700 million to create urban 'green lungs'. The agency says it has completed 36 open spaces, with 25 further projects underway, but several flagship schemes have yet to fully get off the ground. An environment ministry spokesperson said urban greening remains a priority beyond Project Green's specific remit.</description>
+    <content:encoded><![CDATA[<p>Project Green&#x27;s budget for urban greening has been cut by a third, from €30 million this year to €20 million in 2027, after years of underspending on flagship projects. Urban greening was a government priority ahead of the 2022 general election, when Robert Abela pledged €700 million to create urban &#x27;green lungs&#x27;. The agency says it has completed 36 open spaces, with 25 further projects underway, but several flagship schemes have yet to fully get off the ground. An environment ministry spokesperson said urban greening remains a priority beyond Project Green&#x27;s specific remit.</p><p><img src="https://maltanews.great-site.net/img/6db44e1d9dcdb4b8186860f23444a2e73d03e385-1793124566-39e54dd5-630x420.jpg" alt="Urban greening in Malta" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Wed, 28 Oct 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">ffaca9a12ce385c39fd49f2e253bb180</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-28</source>
+    <media:content url="https://maltanews.great-site.net/img/6db44e1d9dcdb4b8186860f23444a2e73d03e385-1793124566-39e54dd5-630x420.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/6db44e1d9dcdb4b8186860f23444a2e73d03e385-1793124566-39e54dd5-630x420.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Momentum calls for national plan to strengthen dementia care</title>
+    <link>https://newsbook.com.mt/momentum-jitlob-pjan-nazzjonali-biex-tissahhah-il-kura-ghad-dimensja/</link>
+    <description>Momentum has called for a clear national plan to strengthen dementia care in Malta, following the death of Charles Zammit, a serving police sergeant who retired after 35 years and died after a long hospital stay awaiting a secure specialist ward. Dementia experts Dr Anthony Scerri and Professor Charles Scerri estimated around 8,000 people were living with dementia in Malta in 2021, a figure expected to rise to more than 21,500 by 2060. The party argues general hospital wards are not designed to provide long-term care in a specialised, safe residential environment.</description>
+    <content:encoded><![CDATA[<p>Momentum has called for a clear national plan to strengthen dementia care in Malta, following the death of Charles Zammit, a serving police sergeant who retired after 35 years and died after a long hospital stay awaiting a secure specialist ward. Dementia experts Dr Anthony Scerri and Professor Charles Scerri estimated around 8,000 people were living with dementia in Malta in 2021, a figure expected to rise to more than 21,500 by 2060. The party argues general hospital wards are not designed to provide long-term care in a specialised, safe residential environment.</p><p><img src="https://maltanews.great-site.net/img/Risk_Factors_for_Dementia-732x549-Thumbnail.jpg" alt="Dementia care in Malta" /></p><p><em>Sources: Newsbook</em></p>]]></content:encoded>
+    <pubDate>Wed, 28 Oct 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">6f3920457cb69606d99d139df7926996</guid>
+    <category>Courts &amp; Crime</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-28</source>
+    <media:content url="https://maltanews.great-site.net/img/Risk_Factors_for_Dementia-732x549-Thumbnail.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/Risk_Factors_for_Dementia-732x549-Thumbnail.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Women's Lobby welcomes Budget measures but flags childcare and parental leave gaps</title>
+    <link>https://www.maltatoday.com.mt/news/national/145335/womens_lobby_welcomes_budget_measures_but_flags_gaps_in_childcare_and_parental_leave</link>
+    <description>The Malta Women's Lobby welcomed Budget 2027 measures that it said will make a difference to women's lives, but expressed disappointment over the omission of parental leave reforms, free childcare for some third-country nationals, and therapy for children experiencing trauma. The lobby noted Labour's electoral manifesto had pledged to extend maternity and paternity leave and introduce six months of state-paid parental leave, none of which featured in the Budget speech. It said care-related challenges cannot be addressed through tax incentives alone.</description>
+    <content:encoded><![CDATA[<p>The Malta Women&#x27;s Lobby welcomed Budget 2027 measures that it said will make a difference to women&#x27;s lives, but expressed disappointment over the omission of parental leave reforms, free childcare for some third-country nationals, and therapy for children experiencing trauma. The lobby noted Labour&#x27;s electoral manifesto had pledged to extend maternity and paternity leave and introduce six months of state-paid parental leave, none of which featured in the Budget speech. It said care-related challenges cannot be addressed through tax incentives alone.</p><p><img src="https://maltanews.great-site.net/img/migrant.png" alt="Malta Women&#x27;s Lobby statement on Budget 2027" /></p><p><em>Sources: Malta Today</em></p>]]></content:encoded>
+    <pubDate>Wed, 28 Oct 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">a31276b2d298047c11fccd188c5fa5b1</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-28</source>
+    <media:content url="https://maltanews.great-site.net/img/migrant.png" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/migrant.png" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Organisations express anger over Montekristo Park permit to reopen</title>
+    <link>https://newsbook.com.mt/organizzazzjonijiet-jesprimu-rabja-ghall-permess-lil-montekristo-biex-jerga-jiftah/</link>
+    <description>Several organisations expressed disgust and anger on Wednesday over the decision to grant Montekristo Park a permit to reopen to the public, and called for more transparency on how the decision was taken. In a joint statement, the organisations said the case raises questions about accountability, equality before the law and the exercise of political power in Malta. They noted the operator already has a conviction for breaching animal welfare laws and asked for the permit, its legal basis and assessment details to be published.</description>
+    <content:encoded><![CDATA[<p>Several organisations expressed disgust and anger on Wednesday over the decision to grant Montekristo Park a permit to reopen to the public, and called for more transparency on how the decision was taken. In a joint statement, the organisations said the case raises questions about accountability, equality before the law and the exercise of political power in Malta. They noted the operator already has a conviction for breaching animal welfare laws and asked for the permit, its legal basis and assessment details to be published.</p><p><img src="https://maltanews.great-site.net/img/montekristo-zoo-park-Animal-Park-9-scaled-1.webp" alt="Montekristo Park" /></p><p><em>Sources: Newsbook</em></p>]]></content:encoded>
+    <pubDate>Wed, 28 Oct 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">3007919948a547457b760f9683adcc92</guid>
+    <category>General</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-28</source>
+    <media:content url="https://maltanews.great-site.net/img/montekristo-zoo-park-Animal-Park-9-scaled-1.webp" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/montekristo-zoo-park-Animal-Park-9-scaled-1.webp" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Malta undecided on participation in new EU Lebanon mission</title>
+    <link>https://www.maltatoday.com.mt/news/national/145235/malta_undecided_on_participation_in_new_eu_lebanon_mission</link>
+    <description>Malta supports a newly agreed EU civilian and military mission in Lebanon, but any decision on participation will depend on further assessment, the Foreign Affairs Ministry said. EU foreign ministers decided on 11 October to set up the EU Support Mission in Lebanon, which has an initial mandate of three years to strengthen the country's security forces. A ministry spokesperson said further discussions within the EU Foreign Affairs Council and operational planning are required before the mission can be deployed.</description>
+    <content:encoded><![CDATA[<p>Malta supports a newly agreed EU civilian and military mission in Lebanon, but any decision on participation will depend on further assessment, the Foreign Affairs Ministry said. EU foreign ministers decided on 11 October to set up the EU Support Mission in Lebanon, which has an initial mandate of three years to strengthen the country&#x27;s security forces. A ministry spokesperson said further discussions within the EU Foreign Affairs Council and operational planning are required before the mission can be deployed.</p><p><img src="https://maltanews.great-site.net/img/11_afm_soldiers_alert.jpeg" alt="EU mission in Lebanon" /></p><p><em>Sources: Malta Today</em></p>]]></content:encoded>
+    <pubDate>Wed, 28 Oct 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">42a2d4f4b08ba3dd3e7c8ab6167bb1b2</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-28</source>
+    <media:content url="https://maltanews.great-site.net/img/11_afm_soldiers_alert.jpeg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/11_afm_soldiers_alert.jpeg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Son accused of threatening parents for drug money found hiding on boat</title>
+    <link>https://www.independent.com.mt/articles/2026-10-28/local-news/Son-accused-of-threatening-parents-for-drug-money-found-hiding-on-boat-after-two-day-search-6736294151</link>
+    <description>A 24-year-old man from Żabbar was remanded in custody on Wednesday after pleading not guilty to threatening and intimidating his parents for money to sustain his drug addiction, before allegedly fleeing the family home and hiding on a boat for two days. He was arraigned under arrest facing charges including domestic violence, harassment, causing fear of violence, breaching bail conditions, disturbing the public peace, threats and insults, and recidivism. The prosecution said the situation escalated on Monday, 26 October.</description>
+    <content:encoded><![CDATA[<p>A 24-year-old man from Żabbar was remanded in custody on Wednesday after pleading not guilty to threatening and intimidating his parents for money to sustain his drug addiction, before allegedly fleeing the family home and hiding on a boat for two days. He was arraigned under arrest facing charges including domestic violence, harassment, causing fear of violence, breaching bail conditions, disturbing the public peace, threats and insults, and recidivism. The prosecution said the situation escalated on Monday, 26 October.</p><p><img src="https://maltanews.great-site.net/img/jjb00132.jpg" alt="Man remanded on charges of threatening his parents" /></p><p><em>Sources: Malta Independent, Malta Today</em></p>]]></content:encoded>
+    <pubDate>Wed, 28 Oct 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">9c251b192b7fb891931a68cf0ac6e88d</guid>
+    <category>Courts &amp; Crime</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-28</source>
+    <media:content url="https://maltanews.great-site.net/img/jjb00132.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/jjb00132.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Police appeal for help finding Sammy Alwakil wanted over a court case</title>
+    <link>https://newsbook.com.mt/ragel-imfittex-brabta-ma-kaz-fil-qorti-6/</link>
+    <description>The police are asking the public for help to find Sammy Alwakil under a court order related to a case currently before the courts. Anyone with any information about the person is asked to contact the police via Messenger, or by calling even anonymously on the General Police District numbers 21 224001 or 119, or at the nearest police station, quoting warrant number 48/2026. The appeal was issued on Wednesday.</description>
+    <content:encoded><![CDATA[<p>The police are asking the public for help to find Sammy Alwakil under a court order related to a case currently before the courts. Anyone with any information about the person is asked to contact the police via Messenger, or by calling even anonymously on the General Police District numbers 21 224001 or 119, or at the nearest police station, quoting warrant number 48/2026. The appeal was issued on Wednesday.</p><p><img src="https://maltanews.great-site.net/img/persuna-mfittxija.jpg" alt="Police appeal for a wanted man" /></p><p><em>Sources: Newsbook</em></p>]]></content:encoded>
+    <pubDate>Wed, 28 Oct 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">dfeffc8df7b12436a85d3e12b6a783c4</guid>
+    <category>Courts &amp; Crime</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-28</source>
+    <media:content url="https://maltanews.great-site.net/img/persuna-mfittxija.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/persuna-mfittxija.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Over 5,300 patients to get two mental health medications for free</title>
+    <link>https://lovinmalta.com/lifestyle/health/over-5300-patients-in-malta-to-get-two-mental-health-medications-for-free/</link>
+    <description>More than 5,300 patients are expected to benefit from two mental health medications being made available free of charge through the government's Pharmacy of Your Choice scheme. The Health Ministry said Escitalopram and Alprazolam will be added to the Government Formulary, with an annual investment of approximately €355,000. The initiative forms part of Malta's National Mental Health Strategy, and treatment can be initiated by consultants in psychiatry, neurology and geriatrics as well as family doctors.</description>
+    <content:encoded><![CDATA[<p>More than 5,300 patients are expected to benefit from two mental health medications being made available free of charge through the government&#x27;s Pharmacy of Your Choice scheme. The Health Ministry said Escitalopram and Alprazolam will be added to the Government Formulary, with an annual investment of approximately €355,000. The initiative forms part of Malta&#x27;s National Mental Health Strategy, and treatment can be initiated by consultants in psychiatry, neurology and geriatrics as well as family doctors.</p><p><img src="https://maltanews.great-site.net/img/Ally-Covers-40-1024x601.jpg" alt="Mental health medication available free of charge" /></p><p><em>Sources: Lovin Malta</em></p>]]></content:encoded>
+    <pubDate>Wed, 28 Oct 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">8ac4327bb469ef4d236f1695fa55f0be</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-28</source>
+    <media:content url="https://maltanews.great-site.net/img/Ally-Covers-40-1024x601.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/Ally-Covers-40-1024x601.jpg" length="0" type="image/jpeg" />
   </item>
 </channel>
 </rss>
