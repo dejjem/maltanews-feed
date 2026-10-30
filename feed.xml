@@ -9,8 +9,8 @@
   <link>https://maltanews.great-site.net/</link>
   <description>Daily Malta news digest, automated. Curated from local Maltese news sources.</description>
   <language>en-mt</language>
-  <lastBuildDate>Fri, 30 Oct 2026 06:45:48 +0100</lastBuildDate>
-  <pubDate>Fri, 30 Oct 2026 12:00:00 +0100</pubDate>
+  <lastBuildDate>Fri, 30 Oct 2026 13:31:45 +0100</lastBuildDate>
+  <pubDate>Fri, 30 Oct 2026 12:36:00 +0100</pubDate>
   <generator>Hermes Malta News pipeline v3 + RSS</generator>
   <managingEditor>dejjem@gmail.com (Mark Micallef)</managingEditor>
   <atom:link href="https://dejjem.github.io/maltanews-feed/feed.xml" rel="self" type="application/rss+xml" />
@@ -19,6 +19,30 @@
     <title>Malta News Today</title>
     <link>https://maltanews.great-site.net/</link>
   </image>
+  <item>
+    <title>Witness tells court Valletta assault accused was "a great kid"</title>
+    <link>https://timesofmalta.com/article/man-accused-assaulting-police-a-great-kid-court-hears.1136379</link>
+    <description>A witness told a court that James Manfre, 32, behaved out of character when he allegedly assaulted police officers during a disturbance in St Mark Street, Valletta on 30 September. John Pierre Farrugia, who has known the accused since he was a baby, described him as "a great kid" while testifying before Magistrate Giannella Camilleri Busuttil. Manfre denies 16 charges including assaulting and injuring police officers, damaging public property, resisting arrest and breaching bail conditions.</description>
+    <content:encoded><![CDATA[<p>A witness told a court that James Manfre, 32, behaved out of character when he allegedly assaulted police officers during a disturbance in St Mark Street, Valletta on 30 September. John Pierre Farrugia, who has known the accused since he was a baby, described him as &quot;a great kid&quot; while testifying before Magistrate Giannella Camilleri Busuttil. Manfre denies 16 charges including assaulting and injuring police officers, damaging public property, resisting arrest and breaching bail conditions.</p><p><img src="https://maltanews.great-site.net/img/073790b45407517b14cfc5bc5d72abd472c9b58b-1793359244-56fccf0e-630x420.png" alt="Court hearing over the Valletta police assault case" /></p><p><em>Sources: Times of Malta, Malta Today</em></p>]]></content:encoded>
+    <pubDate>Fri, 30 Oct 2026 12:36:00 +0100</pubDate>
+    <guid isPermaLink="false">2677cfabdf27ffd013efb6ff8ef2f9f9</guid>
+    <category>Courts &amp; Crime</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-30</source>
+    <media:content url="https://maltanews.great-site.net/img/073790b45407517b14cfc5bc5d72abd472c9b58b-1793359244-56fccf0e-630x420.png" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/073790b45407517b14cfc5bc5d72abd472c9b58b-1793359244-56fccf0e-630x420.png" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Central Government debt hits nearly €12bn at end of Q3</title>
+    <link>https://www.independent.com.mt/articles/2026-10-30/local-news/At-end-Q3-government-debt-at-nearly-12bn-NSO-6736294238</link>
+    <description>Central Government debt stood at €11,956.6 million at the end of September 2026, up €846.4 million on the same point in 2025, the National Statistics Office said. The rise was driven mainly by Malta Government Stocks, up €658.9 million, and by Treasury Bills, with euro coins issued in the name of the Treasury also higher. The Consolidated Fund reported a deficit of €484.8 million, while recurrent revenue rose €704.2 million and total expenditure rose €935.8 million over the first nine months.</description>
+    <content:encoded><![CDATA[<p>Central Government debt stood at €11,956.6 million at the end of September 2026, up €846.4 million on the same point in 2025, the National Statistics Office said. The rise was driven mainly by Malta Government Stocks, up €658.9 million, and by Treasury Bills, with euro coins issued in the name of the Treasury also higher. The Consolidated Fund reported a deficit of €484.8 million, while recurrent revenue rose €704.2 million and total expenditure rose €935.8 million over the first nine months.</p><p><img src="https://maltanews.great-site.net/img/bd10c1cc33c9.jpg" alt="Chart illustrating Malta central government debt" /></p><p><em>Sources: Malta Independent</em></p>]]></content:encoded>
+    <pubDate>Fri, 30 Oct 2026 12:06:00 +0100</pubDate>
+    <guid isPermaLink="false">c5a06c6f1a6c156fcc9edb4713c534c5</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-30</source>
+    <media:content url="https://maltanews.great-site.net/img/bd10c1cc33c9.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/bd10c1cc33c9.jpg" length="0" type="image/jpeg" />
+  </item>
   <item>
     <title>Paola mayors bank freeze order withdrawn, PM says</title>
     <link>https://timesofmalta.com/article/garnishee-order-paola-mayor-revoked-pm-says.1136347</link>
@@ -138,6 +162,196 @@
     <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-30</source>
     <media:content url="https://maltanews.great-site.net/img/GABE-FB-COVER-85-1024x536.jpg" medium="image" />
     <enclosure url="https://maltanews.great-site.net/img/GABE-FB-COVER-85-1024x536.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>One in seven Maltese firms use AI to hire, promote or dismiss staff</title>
+    <link>https://www.maltatoday.com.mt/news/national/145234/maltese_firms_use_ai_in_hiring_firing_and_promotion_decisions</link>
+    <description>One in seven Maltese businesses uses or plans to use artificial intelligence in decisions affecting employees, a Eurobarometer survey found. Around 15 per cent of Maltese SMEs and mid-caps deploy AI in human resources decisions, well above the EU average of 9 per cent, while 12 per cent use it for recruitment and candidate screening. Overall workplace AI use stands at 41 per cent, close to the EU average, and human oversight remains the norm, with only 2 per cent of businesses allowing fully automated decisions.</description>
+    <content:encoded><![CDATA[<p>One in seven Maltese businesses uses or plans to use artificial intelligence in decisions affecting employees, a Eurobarometer survey found. Around 15 per cent of Maltese SMEs and mid-caps deploy AI in human resources decisions, well above the EU average of 9 per cent, while 12 per cent use it for recruitment and candidate screening. Overall workplace AI use stands at 41 per cent, close to the EU average, and human oversight remains the norm, with only 2 per cent of businesses allowing fully automated decisions.</p><p><em>Sources: Malta Today</em></p>]]></content:encoded>
+    <pubDate>Fri, 30 Oct 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">6a15ea24802b9d3879ea8569ff2aa821</guid>
+    <category>Infrastructure &amp; Transport</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-30</source>
+  </item>
+  <item>
+    <title>Constitutional Court upholds five-year minimum sentence for sex with minors</title>
+    <link>https://www.maltatoday.com.mt/news/court_and_police/145369/constitutional_court_rejects_challenge_to_fiveyear_minimum_sentence_for_sexual_activity_with_minors</link>
+    <description>The Constitutional Court dismissed Adrian Piscopo's challenge to the mandatory five-year minimum prison sentence for sexual activity with a person under 16, ruling the statutory minimum does not amount to inhuman or degrading punishment under Article 3 of the European Convention on Human Rights. The court, presided over by Chief Justice Mark Chetcuti, also rejected the argument that proceedings should not continue if the alleged victim no longer wishes to pursue the case. Judges described the appeal as frivolous and vexatious, ordering Piscopo to pay €2,500 in costs.</description>
+    <content:encoded><![CDATA[<p>The Constitutional Court dismissed Adrian Piscopo&#x27;s challenge to the mandatory five-year minimum prison sentence for sexual activity with a person under 16, ruling the statutory minimum does not amount to inhuman or degrading punishment under Article 3 of the European Convention on Human Rights. The court, presided over by Chief Justice Mark Chetcuti, also rejected the argument that proceedings should not continue if the alleged victim no longer wishes to pursue the case. Judges described the appeal as frivolous and vexatious, ordering Piscopo to pay €2,500 in costs.</p><p><img src="https://maltanews.great-site.net/img/2_8_court.jpg" alt="The Constitutional Court building in Valletta" /></p><p><em>Sources: Malta Today</em></p>]]></content:encoded>
+    <pubDate>Fri, 30 Oct 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">f5055c21a119fefcb959ce0c55997707</guid>
+    <category>Courts &amp; Crime</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-30</source>
+    <media:content url="https://maltanews.great-site.net/img/2_8_court.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/2_8_court.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Prosecution closes case in Lassane Cisse murder trial</title>
+    <link>https://www.maltatoday.com.mt/news/court_and_police/145365/prosecution_to_continue_closing_address_in_lassane_cisse_murder_trial</link>
+    <description>Prosecutor Abigail Caruana Vella asked the jury to hold Lorin Scicluna responsible for the murder of Lassane Cisse when she resumed her closing address on Friday. She argued that Scicluna cannot escape responsibility simply by claiming his co-accused Francesco Fenech fired the fatal shots, and questioned unexplained gaps in CCTV footage showing the movements of the vehicle and the victim. The two men are being tried separately, a choice the prosecution acknowledged would have made a single trial easier.</description>
+    <content:encoded><![CDATA[<p>Prosecutor Abigail Caruana Vella asked the jury to hold Lorin Scicluna responsible for the murder of Lassane Cisse when she resumed her closing address on Friday. She argued that Scicluna cannot escape responsibility simply by claiming his co-accused Francesco Fenech fired the fatal shots, and questioned unexplained gaps in CCTV footage showing the movements of the vehicle and the victim. The two men are being tried separately, a choice the prosecution acknowledged would have made a single trial easier.</p><p><img src="https://maltanews.great-site.net/img/loriin_scicluna_trial.png" alt="The Lassane Cisse murder trial at the Courts of Justice" /></p><p><em>Sources: Malta Today</em></p>]]></content:encoded>
+    <pubDate>Fri, 30 Oct 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">743ee8e1b67b52920b81303358857c7a</guid>
+    <category>Courts &amp; Crime</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-30</source>
+    <media:content url="https://maltanews.great-site.net/img/loriin_scicluna_trial.png" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/loriin_scicluna_trial.png" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Malta elected co-facilitator for UN convention on older persons</title>
+    <link>https://www.maltatoday.com.mt/news/national/145373/malta_elected_cofacilitator_for_un_convention_on_older_persons_rights</link>
+    <description>Malta has been elected co-facilitator for the drafting of a United Nations convention on the rights of older persons, Foreign Affairs Minister Chris Fearne announced. Malta will work alongside Lesotho on the treaty's implementation and review mechanisms as the UN Intergovernmental Working Group on the Human Rights of Older Persons concludes its second session in Geneva. The proposed convention aims to establish a legally binding framework protecting older persons from discrimination, abuse and neglect.</description>
+    <content:encoded><![CDATA[<p>Malta has been elected co-facilitator for the drafting of a United Nations convention on the rights of older persons, Foreign Affairs Minister Chris Fearne announced. Malta will work alongside Lesotho on the treaty&#x27;s implementation and review mechanisms as the UN Intergovernmental Working Group on the Human Rights of Older Persons concludes its second session in Geneva. The proposed convention aims to establish a legally binding framework protecting older persons from discrimination, abuse and neglect.</p><p><img src="https://maltanews.great-site.net/img/2_flag_of_malta._the_coat_of_arms_of_castille_and_leon__valletta_original_2848283.jpg" alt="The coat of arms of Malta" /></p><p><em>Sources: Malta Today</em></p>]]></content:encoded>
+    <pubDate>Fri, 30 Oct 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">8ab0c1901ae86d5067d48d1194dd6dd8</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-30</source>
+    <media:content url="https://maltanews.great-site.net/img/2_flag_of_malta._the_coat_of_arms_of_castille_and_leon__valletta_original_2848283.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/2_flag_of_malta._the_coat_of_arms_of_castille_and_leon__valletta_original_2848283.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Ten primary schools to get air conditioning under €6m programme</title>
+    <link>https://timesofmalta.com/article/ten-primary-schools-get-air-conditioning-june-2028.1136367</link>
+    <description>Education Minister Byron Camilleri said ten primary schools will be fitted with air conditioning under a €6 million programme, with installation targeted over the next scholastic year. The schools named are Baħrija, Pembroke, Luqa, Mġarr, Xgħajra, Gudja, Għargħur, Żebbuġ, Naxxar and Qormi, and 30 schools already have systems installed. Speaking at a Budget 2027 conference, Camilleri said Malta's PISA results were unsatisfactory and that the measures aim to address the country's reading culture.</description>
+    <content:encoded><![CDATA[<p>Education Minister Byron Camilleri said ten primary schools will be fitted with air conditioning under a €6 million programme, with installation targeted over the next scholastic year. The schools named are Baħrija, Pembroke, Luqa, Mġarr, Xgħajra, Gudja, Għargħur, Żebbuġ, Naxxar and Qormi, and 30 schools already have systems installed. Speaking at a Budget 2027 conference, Camilleri said Malta&#x27;s PISA results were unsatisfactory and that the measures aim to address the country&#x27;s reading culture.</p><p><img src="https://maltanews.great-site.net/img/6b43c7278a0639961cb5dff1117fd4dbf2e7809a-1793360179-133ed511-630x420.jpeg" alt="Education Minister Byron Camilleri at a Budget 2027 conference" /></p><p><em>Sources: Times of Malta, Malta Independent, Newsbook, Malta Today</em></p>]]></content:encoded>
+    <pubDate>Fri, 30 Oct 2026 11:55:00 +0100</pubDate>
+    <guid isPermaLink="false">e47f2cd267900dd8602287f162190cc9</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-30</source>
+    <media:content url="https://maltanews.great-site.net/img/6b43c7278a0639961cb5dff1117fd4dbf2e7809a-1793360179-133ed511-630x420.jpeg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/6b43c7278a0639961cb5dff1117fd4dbf2e7809a-1793360179-133ed511-630x420.jpeg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Shop ceiling collapses in Valletta; man inside escapes uninjured</title>
+    <link>https://timesofmalta.com/article/valletta-shop-ceiling-collapses.1136374</link>
+    <description>Part of the ceiling of a shop in South Street, Valletta collapsed on Friday morning while a man was inside. Police and the Occupational Health and Safety Authority attended after officers were alerted at 10.20am; the man was uninjured and declined an ambulance, with a medical team also on site. The street was closed while authorities assessed the building.</description>
+    <content:encoded><![CDATA[<p>Part of the ceiling of a shop in South Street, Valletta collapsed on Friday morning while a man was inside. Police and the Occupational Health and Safety Authority attended after officers were alerted at 10.20am; the man was uninjured and declined an ambulance, with a medical team also on site. The street was closed while authorities assessed the building.</p><p><img src="https://maltanews.great-site.net/img/7b38c8c30dec4137e0847ca7e70c7a57d1c9aa43-1793359851-0dca6bfa-630x420.png" alt="Emergency services at the collapsed shop ceiling in Valletta" /></p><p><em>Sources: Times of Malta, Malta Independent, Newsbook, Malta Today</em></p>]]></content:encoded>
+    <pubDate>Fri, 30 Oct 2026 11:41:00 +0100</pubDate>
+    <guid isPermaLink="false">ef68c71930383ddc0903da5ee37fb881</guid>
+    <category>Courts &amp; Crime</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-30</source>
+    <media:content url="https://maltanews.great-site.net/img/7b38c8c30dec4137e0847ca7e70c7a57d1c9aa43-1793359851-0dca6bfa-630x420.png" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/7b38c8c30dec4137e0847ca7e70c7a57d1c9aa43-1793359851-0dca6bfa-630x420.png" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Paceville glass attacker has five-year jail term suspended</title>
+    <link>https://timesofmalta.com/article/paceville-glass-attacker-fiveyear-jail-term-changed.1136371</link>
+    <description>A man originally sentenced to five years in prison for smashing a glass into another man's head at Bar Native in Paceville in October 2020 has had his jail term converted to a suspended sentence. The court found there was insufficient proof that the assault caused the victim serious and permanent disfigurement, which changed the legal classification of the injury. His five-year term became two years, suspended for four years.</description>
+    <content:encoded><![CDATA[<p>A man originally sentenced to five years in prison for smashing a glass into another man&#x27;s head at Bar Native in Paceville in October 2020 has had his jail term converted to a suspended sentence. The court found there was insufficient proof that the assault caused the victim serious and permanent disfigurement, which changed the legal classification of the injury. His five-year term became two years, suspended for four years.</p><p><img src="https://maltanews.great-site.net/img/542fba2cb071a22f7a1934072b112ec71fe885ab-1793359922-f6c85f00-630x420.jpg" alt="Paceville bar where the glass attack took place" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Fri, 30 Oct 2026 11:30:00 +0100</pubDate>
+    <guid isPermaLink="false">9933adae0cf188d8fa808562f19abffc</guid>
+    <category>Courts &amp; Crime</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-30</source>
+    <media:content url="https://maltanews.great-site.net/img/542fba2cb071a22f7a1934072b112ec71fe885ab-1793359922-f6c85f00-630x420.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/542fba2cb071a22f7a1934072b112ec71fe885ab-1793359922-f6c85f00-630x420.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>More tourists, but spending per head falls in first nine months</title>
+    <link>https://www.independent.com.mt/articles/2026-10-30/local-news/More-tourists-but-lower-per-capita-expenditure-in-first-9-months-NSO-6736294233</link>
+    <description>Inbound tourists for the first nine months of 2026 reached 3,599,493, up 17.0 per cent on the same period of 2025, the National Statistics Office said. Total tourist expenditure rose 13.9 per cent to €3,450.5 million and nights spent increased 9.6 per cent to 21.5 million. Spending per capita nevertheless fell to €959 from €985, with British, Italian and Polish residents accounting for 47.4 per cent of arrivals.</description>
+    <content:encoded><![CDATA[<p>Inbound tourists for the first nine months of 2026 reached 3,599,493, up 17.0 per cent on the same period of 2025, the National Statistics Office said. Total tourist expenditure rose 13.9 per cent to €3,450.5 million and nights spent increased 9.6 per cent to 21.5 million. Spending per capita nevertheless fell to €959 from €985, with British, Italian and Polish residents accounting for 47.4 per cent of arrivals.</p><p><img src="https://maltanews.great-site.net/img/6b9600d1abc8.jpg" alt="Chart illustrating inbound tourism statistics for Malta" /></p><p><em>Sources: Malta Independent</em></p>]]></content:encoded>
+    <pubDate>Fri, 30 Oct 2026 11:21:00 +0100</pubDate>
+    <guid isPermaLink="false">b1d41277edd492de94f58201631af976</guid>
+    <category>General</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-30</source>
+    <media:content url="https://maltanews.great-site.net/img/6b9600d1abc8.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/6b9600d1abc8.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Over a third of Maltese young adults still live with their parents</title>
+    <link>https://lovinmalta.com/news/local/over-one-in-three-young-adults-in-malta-still-live-with-their-parents/</link>
+    <description>More than one in three young adults in Malta are still living with their parents, according to new Eurostat figures. Data for 2025 shows 37.1 per cent of people aged between 25 and 34 remained in the parental home, seven percentage points above the EU average of 30.1 per cent, ranking Malta 12th of the EU's 27 member states. Croatia recorded the highest share at 62.3 per cent, while Denmark was lowest at 3.9 per cent.</description>
+    <content:encoded><![CDATA[<p>More than one in three young adults in Malta are still living with their parents, according to new Eurostat figures. Data for 2025 shows 37.1 per cent of people aged between 25 and 34 remained in the parental home, seven percentage points above the EU average of 30.1 per cent, ranking Malta 12th of the EU&#x27;s 27 member states. Croatia recorded the highest share at 62.3 per cent, while Denmark was lowest at 3.9 per cent.</p><p><img src="https://maltanews.great-site.net/img/Dylan-Covers-2-2026-10-30T103244.505-1024x536.jpg" alt="Young adults in Malta" /></p><p><em>Sources: Lovin Malta</em></p>]]></content:encoded>
+    <pubDate>Fri, 30 Oct 2026 10:41:00 +0100</pubDate>
+    <guid isPermaLink="false">9970aea8eca936f78967acbc23049580</guid>
+    <category>General</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-30</source>
+    <media:content url="https://maltanews.great-site.net/img/Dylan-Covers-2-2026-10-30T103244.505-1024x536.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/Dylan-Covers-2-2026-10-30T103244.505-1024x536.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Four acquitted over 2015 Paqpaqli crash</title>
+    <link>https://timesofmalta.com/article/four-cleared-2015-paqpaqli-crash.1136366</link>
+    <description>Four men were acquitted of all criminal charges over the 2015 Paqpaqli għall-Istrina crash that injured dozens of spectators at Malta International Airport. Prosecutors failed to prove that the defendants, the last individuals facing proceedings over the incident, were personally responsible for public safety at the charity motoring event, though the court acknowledged serious shortcomings in how it was organised. About 26 people were injured, some critically, when a Porsche 918 Spyder crashed into the crowd.</description>
+    <content:encoded><![CDATA[<p>Four men were acquitted of all criminal charges over the 2015 Paqpaqli għall-Istrina crash that injured dozens of spectators at Malta International Airport. Prosecutors failed to prove that the defendants, the last individuals facing proceedings over the incident, were personally responsible for public safety at the charity motoring event, though the court acknowledged serious shortcomings in how it was organised. About 26 people were injured, some critically, when a Porsche 918 Spyder crashed into the crowd.</p><p><img src="https://maltanews.great-site.net/img/a268c0532c7cdfb03e1d84a24d88fc9b08d44ac2-1793352603-b03f1b82-630x420.jpg" alt="Court proceedings over the 2015 Paqpaqli crash" /></p><p><em>Sources: Times of Malta, Malta Today</em></p>]]></content:encoded>
+    <pubDate>Fri, 30 Oct 2026 10:21:00 +0100</pubDate>
+    <guid isPermaLink="false">7a6f1d3fc56cc00c23e6208ee5d814fb</guid>
+    <category>Courts &amp; Crime</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-30</source>
+    <media:content url="https://maltanews.great-site.net/img/a268c0532c7cdfb03e1d84a24d88fc9b08d44ac2-1793352603-b03f1b82-630x420.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/a268c0532c7cdfb03e1d84a24d88fc9b08d44ac2-1793352603-b03f1b82-630x420.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Paola mayor's bank freeze order withdrawn after PM's pledge</title>
+    <link>https://lovinmalta.com/news/local/paola-mayors-bank-accounts-unfrozen-as-robert-abela-pledges-support/</link>
+    <description>Paola Mayor Jason Silvio has had the garnishee order against him withdrawn, following controversy over a developer's decision to target him personally amid a planning dispute. Prime Minister Robert Abela said he had been informed that the order was withdrawn, adding that the mayor can continue his work with greater peace of mind. The freeze followed a Paola Local Council appeal against a Planning Authority decision on a development in Triq Ninu Cremona, and came after the State Advocate intervened.</description>
+    <content:encoded><![CDATA[<p>Paola Mayor Jason Silvio has had the garnishee order against him withdrawn, following controversy over a developer&#x27;s decision to target him personally amid a planning dispute. Prime Minister Robert Abela said he had been informed that the order was withdrawn, adding that the mayor can continue his work with greater peace of mind. The freeze followed a Paola Local Council appeal against a Planning Authority decision on a development in Triq Ninu Cremona, and came after the State Advocate intervened.</p><p><img src="https://maltanews.great-site.net/img/Dylan-Covers-2-2026-10-30T101041.040-1024x536.jpg" alt="Paola Mayor Jason Silvio" /></p><p><em>Sources: Lovin Malta</em></p>]]></content:encoded>
+    <pubDate>Fri, 30 Oct 2026 10:12:00 +0100</pubDate>
+    <guid isPermaLink="false">00b0d4d6367c92b0c5a02e96228727f0</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-30</source>
+    <media:content url="https://maltanews.great-site.net/img/Dylan-Covers-2-2026-10-30T101041.040-1024x536.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/Dylan-Covers-2-2026-10-30T101041.040-1024x536.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Free Maltese lessons for foreign residents under Budget measures</title>
+    <link>https://newsbook.com.mt/toffri-lezzjonijiet-tal-malti-bxejn-lil-persuni-barranin/</link>
+    <description>Free Maltese language lessons for foreign residents are being offered as part of the new Budget 2027 measures, in a move intended to ease integration. Kay Lee Micallef, who does not live in Malta, proposed the initiative, which will run two classes of about 15 people each, weekly, over four or five months. The lessons will teach Maltese as a foreign language without leading to a certificate, focusing instead on learning and practice.</description>
+    <content:encoded><![CDATA[<p>Free Maltese language lessons for foreign residents are being offered as part of the new Budget 2027 measures, in a move intended to ease integration. Kay Lee Micallef, who does not live in Malta, proposed the initiative, which will run two classes of about 15 people each, weekly, over four or five months. The lessons will teach Maltese as a foreign language without leading to a certificate, focusing instead on learning and practice.</p><p><img src="https://maltanews.great-site.net/img/lingwa_maltija.jpg" alt="The Maltese language" /></p><p><em>Sources: Newsbook</em></p>]]></content:encoded>
+    <pubDate>Fri, 30 Oct 2026 09:52:00 +0100</pubDate>
+    <guid isPermaLink="false">123e624824d35d25b6b4c5f0cf05b36c</guid>
+    <category>Economy</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-30</source>
+    <media:content url="https://maltanews.great-site.net/img/lingwa_maltija.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/lingwa_maltija.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Xjenza Malta and ESA open fifth call for space research projects</title>
+    <link>https://newsbook.com.mt/en/xjenza-malta-and-the-european-space-agency-esa-launch-the-5th-pecs-call-for-space-research-and-industry-development/</link>
+    <description>Xjenza Malta and the European Space Agency have opened the fifth call for proposals under the European Cooperative Programme for Space Research and Industry, with the call opening on 2 November. Maltese companies, researchers and research organisations will be able to apply for funding to turn research into space-related innovation. The agency held an information session on 13 October covering how to prepare competitive proposals and avoid common application errors.</description>
+    <content:encoded><![CDATA[<p>Xjenza Malta and the European Space Agency have opened the fifth call for proposals under the European Cooperative Programme for Space Research and Industry, with the call opening on 2 November. Maltese companies, researchers and research organisations will be able to apply for funding to turn research into space-related innovation. The agency held an information session on 13 October covering how to prepare competitive proposals and avoid common application errors.</p><p><img src="https://maltanews.great-site.net/img/Xjenza-Malta-CEO-Silvio-Scerri.jpg" alt="Xjenza Malta chief executive Silvio Scerri" /></p><p><em>Sources: Newsbook, Newsbook (Malti)</em></p>]]></content:encoded>
+    <pubDate>Fri, 30 Oct 2026 09:43:00 +0100</pubDate>
+    <guid isPermaLink="false">b31d1141d6d7b0c108d05ba381536201</guid>
+    <category>General</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-30</source>
+    <media:content url="https://maltanews.great-site.net/img/Xjenza-Malta-CEO-Silvio-Scerri.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/Xjenza-Malta-CEO-Silvio-Scerri.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>AFM gives no answer on 30 people allegedly pushed back to Libya</title>
+    <link>https://newsbook.com.mt/en/afm-stonewalls-questions-over-30-people-allegedly-pushed-back-to-libya/</link>
+    <description>The Armed Forces of Malta said it has no information on a boat carrying around 30 people that was intercepted and returned to Libya from Malta's search and rescue zone, in a reply to Newsbook questions that took two days to arrive. Alarm Phone said MRCC Rome identified RCC Malta as the responsible authority and that the group was pushed back to Libya on 24 October. The charity described the pushback as a violent violation and said it is pressing for answers.</description>
+    <content:encoded><![CDATA[<p>The Armed Forces of Malta said it has no information on a boat carrying around 30 people that was intercepted and returned to Libya from Malta&#x27;s search and rescue zone, in a reply to Newsbook questions that took two days to arrive. Alarm Phone said MRCC Rome identified RCC Malta as the responsible authority and that the group was pushed back to Libya on 24 October. The charity described the pushback as a violent violation and said it is pressing for answers.</p><p><img src="https://maltanews.great-site.net/img/alarm-phone-malta-sar-libya-pushback.jpeg" alt="Alarm Phone record of the boat in distress on 24 October" /></p><p><em>Sources: Newsbook, Newsbook (Malti)</em></p>]]></content:encoded>
+    <pubDate>Fri, 30 Oct 2026 07:57:00 +0100</pubDate>
+    <guid isPermaLink="false">870911c574f3c3c177e41ca1b4b80fe1</guid>
+    <category>General</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-30</source>
+    <media:content url="https://maltanews.great-site.net/img/alarm-phone-malta-sar-libya-pushback.jpeg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/alarm-phone-malta-sar-libya-pushback.jpeg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Economists say Budget 2027 "pressed the panic button" on TCNs and tourists</title>
+    <link>https://timesofmalta.com/article/government-pressed-panic-button-noneu-workers-fund-promises.1136240</link>
+    <description>Two leading economists said the government had "pressed the panic button" on non-EU workers and squeezed tourists to help fund costly election promises, reacting to Budget 2027. Philip von Brockdorff and Marisa Xuereb said the government needed to find new revenue for rising expenses, including a €1,000 super bonus pledge and continued blanket energy subsidies. Xuereb said the budget applied some "reverse logic" to the country's economic model.</description>
+    <content:encoded><![CDATA[<p>Two leading economists said the government had &quot;pressed the panic button&quot; on non-EU workers and squeezed tourists to help fund costly election promises, reacting to Budget 2027. Philip von Brockdorff and Marisa Xuereb said the government needed to find new revenue for rising expenses, including a €1,000 super bonus pledge and continued blanket energy subsidies. Xuereb said the budget applied some &quot;reverse logic&quot; to the country&#x27;s economic model.</p><p><img src="https://maltanews.great-site.net/img/152e00e6a84426e01afbf8cb76d31d82f27ad2c7-1793118083-dfbc151c-630x420.jpg" alt="Budget 2027 presented to Parliament" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Fri, 30 Oct 2026 06:35:00 +0100</pubDate>
+    <guid isPermaLink="false">74b0f53c3b07d68a9cab47bb1dd01b5e</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-30</source>
+    <media:content url="https://maltanews.great-site.net/img/152e00e6a84426e01afbf8cb76d31d82f27ad2c7-1793118083-dfbc151c-630x420.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/152e00e6a84426e01afbf8cb76d31d82f27ad2c7-1793118083-dfbc151c-630x420.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Hungarian court orders Vatican Bank to pay €20m over Malta fund dispute</title>
+    <link>https://timesofmalta.com/article/vatican-bank-told-pay-20-million-property-wrangle-malta-fund.1136342</link>
+    <description>A Hungarian court has ordered the Vatican Bank to pay over €20 million in damages in a long-running dispute involving Malta-based investment fund Futura Investment Management, after the Institute for Works of Religion failed to submit a written defence in time. Futura says the bank reneged on legal commitments to fund the stalled sale of the historic Budapest Stock Exchange palace, and that the order reinforces its efforts to protect investors. The Vatican Bank downplayed the measure, saying it is an order in default rather than a judgment on the merits.</description>
+    <content:encoded><![CDATA[<p>A Hungarian court has ordered the Vatican Bank to pay over €20 million in damages in a long-running dispute involving Malta-based investment fund Futura Investment Management, after the Institute for Works of Religion failed to submit a written defence in time. Futura says the bank reneged on legal commitments to fund the stalled sale of the historic Budapest Stock Exchange palace, and that the order reinforces its efforts to protect investors. The Vatican Bank downplayed the measure, saying it is an order in default rather than a judgment on the merits.</p><p><img src="https://maltanews.great-site.net/img/0d4deb20b8498dfefe586a2c5bc862d1bffa66eb-1793287122-2fe3012b-630x420.jpg" alt="The Institute for Works of Religion, known as the Vatican Bank" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Fri, 30 Oct 2026 06:30:00 +0100</pubDate>
+    <guid isPermaLink="false">38733929a4ad2193d8c9cc405d49fc25</guid>
+    <category>Courts &amp; Crime</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-10-30</source>
+    <media:content url="https://maltanews.great-site.net/img/0d4deb20b8498dfefe586a2c5bc862d1bffa66eb-1793287122-2fe3012b-630x420.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/0d4deb20b8498dfefe586a2c5bc862d1bffa66eb-1793287122-2fe3012b-630x420.jpg" length="0" type="image/jpeg" />
   </item>
 </channel>
 </rss>
