@@ -9,8 +9,8 @@
   <link>https://maltanews.great-site.net/</link>
   <description>Daily Malta news digest, automated. Curated from local Maltese news sources.</description>
   <language>en-mt</language>
-  <lastBuildDate>Mon, 02 Nov 2026 17:06:27 +0100</lastBuildDate>
-  <pubDate>Mon, 02 Nov 2026 14:21:00 +0100</pubDate>
+  <lastBuildDate>Tue, 03 Nov 2026 13:31:10 +0100</lastBuildDate>
+  <pubDate>Tue, 03 Nov 2026 12:50:00 +0100</pubDate>
   <generator>Hermes Malta News pipeline v3 + RSS</generator>
   <managingEditor>dejjem@gmail.com (Mark Micallef)</managingEditor>
   <atom:link href="https://dejjem.github.io/maltanews-feed/feed.xml" rel="self" type="application/rss+xml" />
@@ -20,244 +20,160 @@
     <link>https://maltanews.great-site.net/</link>
   </image>
   <item>
-    <title>Woman dies after collision between four vehicles in al Luqa</title>
-    <link>https://newsbook.com.mt/mara-l-isptar-wara-habta-bejn-4-vetturi/</link>
-    <description>A woman involved in a collision between four vehicles at around 1pm on Triq al Qormi, al Luqa, was later pronounced dead in hospital. Police said initial investigations indicated that, for reasons still unknown, the collision occurred between the four vehicles, one of which was considerably larger than the others. More details are expected in the course of the investigation.</description>
-    <content:encoded><![CDATA[<p>A woman involved in a collision between four vehicles at around 1pm on Triq al Qormi, al Luqa, was later pronounced dead in hospital. Police said initial investigations indicated that, for reasons still unknown, the collision occurred between the four vehicles, one of which was considerably larger than the others. More details are expected in the course of the investigation.</p><p><img src="https://maltanews.great-site.net/img/airbag-incident-karozza.jpg" alt="Scene of a collision between four vehicles" /></p><p><em>Sources: Newsbook Malta</em></p>]]></content:encoded>
-    <pubDate>Mon, 02 Nov 2026 14:21:00 +0100</pubDate>
-    <guid isPermaLink="false">1c872bdf0e83aeba80eb9a5cb3e7151e</guid>
-    <category>Courts &amp; Crime</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-02</source>
-    <media:content url="https://maltanews.great-site.net/img/airbag-incident-karozza.jpg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/airbag-incident-karozza.jpg" length="0" type="image/jpeg" />
+    <title>Enemalta cable works to close Sliema seafront bus lane for two months</title>
+    <link>https://timesofmalta.com/article/sliema-seafront-roadworks-cause-traffic-disruption-two-months.1136556</link>
+    <description>Enemalta begins works on Wednesday to lay a new 4.5-kilometre 11kV cable from the Manoel Island distribution centre in Gżira to the Sliema Ferries area, with a further 2.7km of low-voltage cables to strengthen supply. During the roughly two-month project the bus lane running parallel to the seafront will be closed for excavation and cable-laying, and traffic heading out of Sliema will be reduced to a single lane. Enemalta said the existing cable had accumulated numerous joints over the years and had become increasingly vulnerable to faults, with demand having grown considerably.</description>
+    <content:encoded><![CDATA[<p>Enemalta begins works on Wednesday to lay a new 4.5-kilometre 11kV cable from the Manoel Island distribution centre in Gżira to the Sliema Ferries area, with a further 2.7km of low-voltage cables to strengthen supply. During the roughly two-month project the bus lane running parallel to the seafront will be closed for excavation and cable-laying, and traffic heading out of Sliema will be reduced to a single lane. Enemalta said the existing cable had accumulated numerous joints over the years and had become increasingly vulnerable to faults, with demand having grown considerably.</p><p><img src="https://maltanews.great-site.net/img/8283a8c19b81d677ffc6a1fce6dfcbc7a30a36d9-1793705698-e9149ec2-1200x630.png" alt="Sliema seafront roadworks" /></p><p><em>Sources: Times of Malta, MaltaToday, Lovin Malta</em></p>]]></content:encoded>
+    <pubDate>Tue, 03 Nov 2026 12:50:00 +0100</pubDate>
+    <guid isPermaLink="false">db38a94d0f0596729310fd959cb81e3f</guid>
+    <category>Infrastructure &amp; Transport</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-03</source>
+    <media:content url="https://maltanews.great-site.net/img/8283a8c19b81d677ffc6a1fce6dfcbc7a30a36d9-1793705698-e9149ec2-1200x630.png" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/8283a8c19b81d677ffc6a1fce6dfcbc7a30a36d9-1793705698-e9149ec2-1200x630.png" length="0" type="image/jpeg" />
   </item>
   <item>
-    <title>Record 16.6m wave between Malta and Sicily was highest ever in the Mediterranean</title>
-    <link>https://timesofmalta.com/article/record-16-metre-wave-malta-sicily-storm-harry.1136514</link>
-    <description>Research published in Nature by Maltese and Italian scientists found Storm Harry, which battered Malta in January, produced the highest wave ever documented in the Mediterranean, with a buoy between Malta and Sicily recording an individual wave of 16.6 metres. The Grand Harbour saw 0.85 square kilometres of flooding, with water reaching 2.9 metres above sea level at the Marsamxett Harbour entrance, and south-eastern Sicily was the most heavily impacted region, with more than seven kilometres of land flooded.</description>
-    <content:encoded><![CDATA[<p>Research published in Nature by Maltese and Italian scientists found Storm Harry, which battered Malta in January, produced the highest wave ever documented in the Mediterranean, with a buoy between Malta and Sicily recording an individual wave of 16.6 metres. The Grand Harbour saw 0.85 square kilometres of flooding, with water reaching 2.9 metres above sea level at the Marsamxett Harbour entrance, and south-eastern Sicily was the most heavily impacted region, with more than seven kilometres of land flooded.</p><p><img src="https://maltanews.great-site.net/img/e72db4a03ba6a2f65922ff4551babc811fb74639-1793623957-9bc6d8e9-1200x630.jpg" alt="Storm Harry flooding on the Maltese coast" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
-    <pubDate>Mon, 02 Nov 2026 14:03:00 +0100</pubDate>
-    <guid isPermaLink="false">201245234a6a2331ea3ab3baf9ea2d0a</guid>
+    <title>Malta Tourism Authority carried out over 1,200 inspections in three localities</title>
+    <link>https://newsbook.com.mt/l-awtorita-tat-turizmu-twettaq-iktar-minn-1200-spezzjoni-fsan-pawl-il-bahar-tas-sliema-u-san-giljan/</link>
+    <description>The Malta Tourism Authority carried out more than 1,200 inspections in San Pawl il-Baħar, Tas-Sliema and San Ġiljan, Tourism Minister Jo Etienne Abela told parliament in reply to a question by MP Graziella Galea. More than 500 of the inspections were carried out in Tas-Sliema, the highest number of the three localities.</description>
+    <content:encoded><![CDATA[<p>The Malta Tourism Authority carried out more than 1,200 inspections in San Pawl il-Baħar, Tas-Sliema and San Ġiljan, Tourism Minister Jo Etienne Abela told parliament in reply to a question by MP Graziella Galea. More than 500 of the inspections were carried out in Tas-Sliema, the highest number of the three localities.</p><p><img src="https://maltanews.great-site.net/img/Hotel-bed-accommodation.jpg" alt="Hotel accommodation inspections" /></p><p><em>Sources: Newsbook</em></p>]]></content:encoded>
+    <pubDate>Tue, 03 Nov 2026 12:50:00 +0100</pubDate>
+    <guid isPermaLink="false">a30119116b3286ba90eba9d08919d850</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-03</source>
+    <media:content url="https://maltanews.great-site.net/img/Hotel-bed-accommodation.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/Hotel-bed-accommodation.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Xjenza Malta steps up investment in cultural heritage research</title>
+    <link>https://newsbook.com.mt/xjenza-malta-ssahhah-l-investiment-fir-ricerka-dwar-il-wirt-kulturali/</link>
+    <description>Xjenza Malta has increased its investment in research into Maltas cultural heritage, which it says is part of the countrys identity and includes historic buildings, archaeological sites, underwater heritage, traditional skills and cultural practices. The agency said climate change and rising environmental pressures make the preservation of that heritage a significant challenge, underscoring the need for sustained research investment.</description>
+    <content:encoded><![CDATA[<p>Xjenza Malta has increased its investment in research into Maltas cultural heritage, which it says is part of the countrys identity and includes historic buildings, archaeological sites, underwater heritage, traditional skills and cultural practices. The agency said climate change and rising environmental pressures make the preservation of that heritage a significant challenge, underscoring the need for sustained research investment.</p><p><img src="https://maltanews.great-site.net/img/Xjenza-Malta-Resilient-Cultural-Heritage.jpg" alt="Xjenza Malta cultural heritage research" /></p><p><em>Sources: Newsbook</em></p>]]></content:encoded>
+    <pubDate>Tue, 03 Nov 2026 12:20:00 +0100</pubDate>
+    <guid isPermaLink="false">f6162a03d52c8a8c123f910e85894fea</guid>
     <category>Environment</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-02</source>
-    <media:content url="https://maltanews.great-site.net/img/e72db4a03ba6a2f65922ff4551babc811fb74639-1793623957-9bc6d8e9-1200x630.jpg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/e72db4a03ba6a2f65922ff4551babc811fb74639-1793623957-9bc6d8e9-1200x630.jpg" length="0" type="image/jpeg" />
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-03</source>
+    <media:content url="https://maltanews.great-site.net/img/Xjenza-Malta-Resilient-Cultural-Heritage.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/Xjenza-Malta-Resilient-Cultural-Heritage.jpg" length="0" type="image/jpeg" />
   </item>
   <item>
-    <title>Garb residents oppose six-storey elderly care home on agricultural land</title>
-    <link>https://timesofmalta.com/article/sixstorey-gharb-elderly-home-recommended-approval.1136516</link>
-    <description>Residents in Garb are fighting a proposed care home for 48 elderly people after a Planning Authority case officer recommended approval. The local residents association says nearly 1,000 objections have been lodged across different versions of the plans, citing the buildings scale, its impact on the village character and encroachment into Outside Development Zone land. The case is due before the Planning Authority on 10 November.</description>
-    <content:encoded><![CDATA[<p>Residents in Garb are fighting a proposed care home for 48 elderly people after a Planning Authority case officer recommended approval. The local residents association says nearly 1,000 objections have been lodged across different versions of the plans, citing the buildings scale, its impact on the village character and encroachment into Outside Development Zone land. The case is due before the Planning Authority on 10 November.</p><p><img src="https://maltanews.great-site.net/img/Dylan-Covers-2-2026-11-02T120246.238-1024x536.jpg" alt="Proposed elderly care home in Gharb, Gozo" /></p><p><em>Sources: Times of Malta, Lovin Malta</em></p>]]></content:encoded>
-    <pubDate>Mon, 02 Nov 2026 13:57:00 +0100</pubDate>
-    <guid isPermaLink="false">fae2857ce9cb001cf06d9ef4de2d16f5</guid>
-    <category>General</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-02</source>
-    <media:content url="https://maltanews.great-site.net/img/Dylan-Covers-2-2026-11-02T120246.238-1024x536.jpg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/Dylan-Covers-2-2026-11-02T120246.238-1024x536.jpg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Two-year suspended sentence for driver who killed horse-sulky rider</title>
-    <link>https://timesofmalta.com/article/driver-killed-sulky-rider-receives-suspended-sentence.1136508</link>
-    <description>Gabriella Huhn Privitera was handed a two-year prison sentence suspended for four years after admitting the involuntary homicide of 66-year-old Joseph Camilleri, who was killed in a road accident on Triq ad Dingli in Rabat on 11 March 2022. She was acquitted of seriously injuring a second occupant of the carriage, of damaging the horse-drawn carriage and of negligent driving.</description>
-    <content:encoded><![CDATA[<p>Gabriella Huhn Privitera was handed a two-year prison sentence suspended for four years after admitting the involuntary homicide of 66-year-old Joseph Camilleri, who was killed in a road accident on Triq ad Dingli in Rabat on 11 March 2022. She was acquitted of seriously injuring a second occupant of the carriage, of damaging the horse-drawn carriage and of negligent driving.</p><p><img src="https://maltanews.great-site.net/img/e076beabf24dff0b5ec293d5a235f069fa744d7a-1793617854-a86b794d-1200x630.jpeg" alt="Court sentence for fatal road accident" /></p><p><em>Sources: Times of Malta, Malta Independent, Newsbook Malta, MaltaToday</em></p>]]></content:encoded>
-    <pubDate>Mon, 02 Nov 2026 13:54:00 +0100</pubDate>
-    <guid isPermaLink="false">bb4c0ddfd810bda518ec1fddf6aedff4</guid>
+    <title>Three men jailed for six months over false travel documents</title>
+    <link>https://timesofmalta.com/article/three-men-jailed-six-months-possession-false-travel-documents.1136557</link>
+    <description>Mourtda Kasime Jaoud, 33, and Mohammed Hasan Mohammed Al Baaj, 24, both from Iraq, and Sakhr Al Gumaei, 36, from Yemen, pleaded guilty to possessing false travel documents after arriving in Malta on 2 November. Two held false Iraqi passports and the third carried Greek documents belonging to someone else. Magistrate Nadine Sant Lia sentenced each to six months imprisonment.</description>
+    <content:encoded><![CDATA[<p>Mourtda Kasime Jaoud, 33, and Mohammed Hasan Mohammed Al Baaj, 24, both from Iraq, and Sakhr Al Gumaei, 36, from Yemen, pleaded guilty to possessing false travel documents after arriving in Malta on 2 November. Two held false Iraqi passports and the third carried Greek documents belonging to someone else. Magistrate Nadine Sant Lia sentenced each to six months imprisonment.</p><p><img src="https://maltanews.great-site.net/img/636711b55b3b1d0c6f32fd37201bbdd0bb019989-1793705043-f2584729-1200x630.jpg" alt="Court documents on false travel documents case" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Tue, 03 Nov 2026 12:14:00 +0100</pubDate>
+    <guid isPermaLink="false">c309ab64b5b942b017b39c5f4f8ff54d</guid>
     <category>Courts &amp; Crime</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-02</source>
-    <media:content url="https://maltanews.great-site.net/img/e076beabf24dff0b5ec293d5a235f069fa744d7a-1793617854-a86b794d-1200x630.jpeg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/e076beabf24dff0b5ec293d5a235f069fa744d7a-1793617854-a86b794d-1200x630.jpeg" length="0" type="image/jpeg" />
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-03</source>
+    <media:content url="https://maltanews.great-site.net/img/636711b55b3b1d0c6f32fd37201bbdd0bb019989-1793705043-f2584729-1200x630.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/636711b55b3b1d0c6f32fd37201bbdd0bb019989-1793705043-f2584729-1200x630.jpg" length="0" type="image/jpeg" />
   </item>
   <item>
-    <title>Malta has second-lowest household electricity prices in the EU</title>
-    <link>https://lovinmalta.com/news/local/malta-records-second-lowest-electricity-prices-in-eu-new-eurostat-figures-reveal/</link>
-    <description>New Eurostat figures for the first half of 2026 show Maltese households paid an average of 0.13 per kWh, tying with Bulgaria and behind only Hungary at 0.11, against an EU average of 0.28. Adjusted for purchasing power, Malta came out cheapest in the EU at 13.8 per 100 kWh. EU-wide prices fell 2.2% over the period but remain well above pre-2022 energy crisis levels.</description>
-    <content:encoded><![CDATA[<p>New Eurostat figures for the first half of 2026 show Maltese households paid an average of 0.13 per kWh, tying with Bulgaria and behind only Hungary at 0.11, against an EU average of 0.28. Adjusted for purchasing power, Malta came out cheapest in the EU at 13.8 per 100 kWh. EU-wide prices fell 2.2% over the period but remain well above pre-2022 energy crisis levels.</p><p><img src="https://maltanews.great-site.net/img/GABE-FB-COVER-95-1024x536.jpg" alt="Electricity supply in Malta" /></p><p><em>Sources: Lovin Malta</em></p>]]></content:encoded>
-    <pubDate>Mon, 02 Nov 2026 13:51:00 +0100</pubDate>
-    <guid isPermaLink="false">af066fa8f9f1a4821dbdcb84afdbe381</guid>
-    <category>Environment</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-02</source>
-    <media:content url="https://maltanews.great-site.net/img/GABE-FB-COVER-95-1024x536.jpg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/GABE-FB-COVER-95-1024x536.jpg" length="0" type="image/jpeg" />
+    <title>Nurses union asks government to exempt health workers from budget measures</title>
+    <link>https://timesofmalta.com/article/1200-foreign-nurses-union-raise-concerns-budget-measures.1136553</link>
+    <description>The Malta Union of Midwives and Nurses has asked the government to exempt healthcare staff from the Budget 2027 measures that have increased their financial burden, and has requested an urgent meeting to discuss proposals. Around 1,200 third-country national nurses working in the public and private sectors have written to the union with their concerns. The measures announced last week include the removal of free childcare and free public transport for third-country nationals and higher driving-licence fees, which MUMN says threaten the health and elderly-care sectors.</description>
+    <content:encoded><![CDATA[<p>The Malta Union of Midwives and Nurses has asked the government to exempt healthcare staff from the Budget 2027 measures that have increased their financial burden, and has requested an urgent meeting to discuss proposals. Around 1,200 third-country national nurses working in the public and private sectors have written to the union with their concerns. The measures announced last week include the removal of free childcare and free public transport for third-country nationals and higher driving-licence fees, which MUMN says threaten the health and elderly-care sectors.</p><p><img src="https://maltanews.great-site.net/img/0d7689faf0703aad840e0a45bc7ce88624ffa135-1793700313-9fbb0489-1200x630.png" alt="Malta nurses at work in a hospital ward" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Tue, 03 Nov 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">0e5ca83d31ed0e1ea9427fbed706534b</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-03</source>
+    <media:content url="https://maltanews.great-site.net/img/0d7689faf0703aad840e0a45bc7ce88624ffa135-1793700313-9fbb0489-1200x630.png" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/0d7689faf0703aad840e0a45bc7ce88624ffa135-1793700313-9fbb0489-1200x630.png" length="0" type="image/jpeg" />
   </item>
   <item>
-    <title>Warren Collection to cover up to 400 of work permit fees for foreign staff</title>
-    <link>https://lovinmalta.com/news/malta-hotel-group-to-cover-up-to-e400-in-work-permit-fees-for-foreign-employees/</link>
-    <description>The Maltese hotel group behind Park Heights in Msida and Eleven in Sliema said it will contribute up to 400 towards the additional work permit renewal costs faced by eligible third-country national employees, starting January 2027 when the Budget 2027 permit charges take effect. Ramla Bay Resort made a similar pledge over the weekend.</description>
-    <content:encoded><![CDATA[<p>The Maltese hotel group behind Park Heights in Msida and Eleven in Sliema said it will contribute up to 400 towards the additional work permit renewal costs faced by eligible third-country national employees, starting January 2027 when the Budget 2027 permit charges take effect. Ramla Bay Resort made a similar pledge over the weekend.</p><p><img src="https://maltanews.great-site.net/img/Dylan-Covers-2-2026-11-02T131527.967-1024x536.jpg" alt="Hotel group support for foreign employees" /></p><p><em>Sources: Lovin Malta</em></p>]]></content:encoded>
-    <pubDate>Mon, 02 Nov 2026 13:23:00 +0100</pubDate>
-    <guid isPermaLink="false">03084a557c7d0b8b3eaead39dfcbe302</guid>
+    <title>20 people died from excessive heat during July heatwave</title>
+    <link>https://www.maltatoday.com.mt/news/national/145445/20_people_died_from_excessive_heat_in_july_heatwave</link>
+    <description>Health Minister Ian Borg told parliament that 20 people died from hyperthermia during Julys heatwave, with 179 patients treated at Mater Dei. The figures were given in reply to a question by MP Darren Carabott on how many people were admitted with hyperthermia and how many died. Hyperthermia occurs when the body overheats and cannot cool itself effectively.</description>
+    <content:encoded><![CDATA[<p>Health Minister Ian Borg told parliament that 20 people died from hyperthermia during Julys heatwave, with 179 patients treated at Mater Dei. The figures were given in reply to a question by MP Darren Carabott on how many people were admitted with hyperthermia and how many died. Hyperthermia occurs when the body overheats and cannot cool itself effectively.</p><p><img src="https://maltanews.great-site.net/img/mater_dei_14.png" alt="Mater Dei Hospital" /></p><p><em>Sources: MaltaToday</em></p>]]></content:encoded>
+    <pubDate>Tue, 03 Nov 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">5020f53da13dc72ede96592a70caa28f</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-03</source>
+    <media:content url="https://maltanews.great-site.net/img/mater_dei_14.png" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/mater_dei_14.png" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Ten domestic violence arrest warrants still outstanding</title>
+    <link>https://www.maltatoday.com.mt/news/national/145446/ten_domestic_violence_arrest_warrants_remain_outstanding</link>
+    <description>Ten arrest warrants linked to domestic violence cases remain unexecuted in Malta, Home Affairs Minister Glenn Bedingfield confirmed in parliament. Eight of the suspects are either abroad or untraceable, while two are receiving treatment at Mount Carmel Hospital. The information was tabled in reply to a question by MP Miriana Calleja Testaferrata de Noto.</description>
+    <content:encoded><![CDATA[<p>Ten arrest warrants linked to domestic violence cases remain unexecuted in Malta, Home Affairs Minister Glenn Bedingfield confirmed in parliament. Eight of the suspects are either abroad or untraceable, while two are receiving treatment at Mount Carmel Hospital. The information was tabled in reply to a question by MP Miriana Calleja Testaferrata de Noto.</p><p><img src="https://maltanews.great-site.net/img/2_domestic_violence.jpeg" alt="Domestic violence" /></p><p><em>Sources: MaltaToday</em></p>]]></content:encoded>
+    <pubDate>Tue, 03 Nov 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">ea64e5d4584e44ff80b08e406f4ea7f6</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-03</source>
+    <media:content url="https://maltanews.great-site.net/img/2_domestic_violence.jpeg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/2_domestic_violence.jpeg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Libya seeks extradition of Lilu King from Malta</title>
+    <link>https://www.maltatoday.com.mt/news/national/145429/libya_seeks_extradition_of_lilu_king_from_malta</link>
+    <description>The Libyan government has formally requested the extradition of Mohammed El Mushraty, known as Lilu King, from Malta. Home Affairs Minister Glenn Bedingfield said the request was submitted in writing in September, and that all options are being considered before a final decision is taken.</description>
+    <content:encoded><![CDATA[<p>The Libyan government has formally requested the extradition of Mohammed El Mushraty, known as Lilu King, from Malta. Home Affairs Minister Glenn Bedingfield said the request was submitted in writing in September, and that all options are being considered before a final decision is taken.</p><p><img src="https://maltanews.great-site.net/img/3_lilu_king.png" alt="Lilu King" /></p><p><em>Sources: MaltaToday</em></p>]]></content:encoded>
+    <pubDate>Tue, 03 Nov 2026 11:30:00 +0100</pubDate>
+    <guid isPermaLink="false">f83884e2e6c7982c38d1dc9669b2a283</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-03</source>
+    <media:content url="https://maltanews.great-site.net/img/3_lilu_king.png" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/3_lilu_king.png" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Survey finds majority of residents see no change in household finances from budget</title>
+    <link>https://newsbook.com.mt/il-mizuri-tal-bagit-maffettwawx-daqshekk-il-but-tan-nies-skont-stharrig/</link>
+    <description>A new independent survey by Marketing Advisory Services found 54.4% of Maltese residents said the budget measures made no notable difference to their household finances, while 34.2% said the measures improved their situation. Respondents prioritised cheaper prices for food and essential goods (42.3%), with the survey carried out as debate on Budget 2027 continues.</description>
+    <content:encoded><![CDATA[<p>A new independent survey by Marketing Advisory Services found 54.4% of Maltese residents said the budget measures made no notable difference to their household finances, while 34.2% said the measures improved their situation. Respondents prioritised cheaper prices for food and essential goods (42.3%), with the survey carried out as debate on Budget 2027 continues.</p><p><img src="https://maltanews.great-site.net/img/wallet-flus-ewro-euro-money-cash.jpg" alt="Survey on budget measures" /></p><p><em>Sources: Newsbook</em></p>]]></content:encoded>
+    <pubDate>Tue, 03 Nov 2026 11:24:00 +0100</pubDate>
+    <guid isPermaLink="false">fc63098710eefe9aabdba00932c3d19b</guid>
     <category>Economy</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-02</source>
-    <media:content url="https://maltanews.great-site.net/img/Dylan-Covers-2-2026-11-02T131527.967-1024x536.jpg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/Dylan-Covers-2-2026-11-02T131527.967-1024x536.jpg" length="0" type="image/jpeg" />
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-03</source>
+    <media:content url="https://maltanews.great-site.net/img/wallet-flus-ewro-euro-money-cash.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/wallet-flus-ewro-euro-money-cash.jpg" length="0" type="image/jpeg" />
   </item>
   <item>
-    <title>3,057 students benefited from school uniform and stationery support schemes</title>
-    <link>https://newsbook.com.mt/ghajnuna-lil-3000-student-ghax-xiri-tal-uniformi-stationery-u-bzonnijiet-ohra/</link>
-    <description>Education Minister Byron Camilleri told Parliament that 2,631 students benefited from Scheme 9 and 426 from BM40 during the 2025-2026 school year, providing help with uniforms, basic stationery packs or extra-curricular activities for families facing financial hardship or at risk of social exclusion.</description>
-    <content:encoded><![CDATA[<p>Education Minister Byron Camilleri told Parliament that 2,631 students benefited from Scheme 9 and 426 from BM40 during the 2025-2026 school year, providing help with uniforms, basic stationery packs or extra-curricular activities for families facing financial hardship or at risk of social exclusion.</p><p><img src="https://maltanews.great-site.net/img/skola-school-tfal-children-studenti-5.jpeg" alt="Maltese school children" /></p><p><em>Sources: Newsbook Malta</em></p>]]></content:encoded>
-    <pubDate>Mon, 02 Nov 2026 13:09:00 +0100</pubDate>
-    <guid isPermaLink="false">7a1a81ab0a0faf69fd2fec232bb30792</guid>
+    <title>Mġarr ix-Xini valley rehabilitation works completed</title>
+    <link>https://timesofmalta.com/article/works-reduce-flooding-risks-mgarr-ixxini-valley-completed.1136547</link>
+    <description>Rehabilitation and clean-up works at Mġarr ix-Xini Valley, carried out over the summer to improve rainwater management, have been completed. The works covered about a kilometre from Triq Tal-Gruwa to the existing dam, removing vegetation from around 11,700 square metres and some 24,500 cubic metres of sediment. Gozo Minister Clint Camilleri said the intervention was intended to strengthen the valleys capacity to handle rainwater.</description>
+    <content:encoded><![CDATA[<p>Rehabilitation and clean-up works at Mġarr ix-Xini Valley, carried out over the summer to improve rainwater management, have been completed. The works covered about a kilometre from Triq Tal-Gruwa to the existing dam, removing vegetation from around 11,700 square metres and some 24,500 cubic metres of sediment. Gozo Minister Clint Camilleri said the intervention was intended to strengthen the valleys capacity to handle rainwater.</p><p><img src="https://maltanews.great-site.net/img/95e3dfb3dc9a808f616d6c3668a2200963dbaf62-1793697055-40654fd7-1200x630.jpeg" alt="Mġarr ix-Xini valley" /></p><p><em>Sources: Times of Malta, MaltaToday</em></p>]]></content:encoded>
+    <pubDate>Tue, 03 Nov 2026 10:30:00 +0100</pubDate>
+    <guid isPermaLink="false">87a0ee88bff15a80610550fb2b225715</guid>
     <category>Politics</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-02</source>
-    <media:content url="https://maltanews.great-site.net/img/skola-school-tfal-children-studenti-5.jpeg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/skola-school-tfal-children-studenti-5.jpeg" length="0" type="image/jpeg" />
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-03</source>
+    <media:content url="https://maltanews.great-site.net/img/95e3dfb3dc9a808f616d6c3668a2200963dbaf62-1793697055-40654fd7-1200x630.jpeg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/95e3dfb3dc9a808f616d6c3668a2200963dbaf62-1793697055-40654fd7-1200x630.jpeg" length="0" type="image/jpeg" />
   </item>
   <item>
-    <title>Family condemns acquittal in Lassana Cisse murder trial as police chief calls verdict demoralising</title>
-    <link>https://timesofmalta.com/article/brother-deserved-justice-lassana-cisse-cousin-condemns.1136512</link>
-    <description>The cousin of Lassana Cisse, an Ivorian father of two shot dead in a racist drive-by attack in al Far in 2019, said the verdict acquitting former soldier Lorin Scicluna of the murder is not justice; it is total disregard for the value of human life. Survivor May Malimi, whom Scicluna drove into, said he was not happy with the not-guilty verdict. Police Commissioner Angelo Gaf called the 8-1 jury decision demoralising, while Home Affairs Minister Glenn Bedingfield said such verdicts leave a bad taste but that the police form only one part of the wider judicial system. Scicluna was convicted of grievous bodily harm and of driving without a number plate; sentencing submissions are scheduled for Wednesday. Sciclunas defence was also offered a 30-year plea bargain days before trial, which he refused.</description>
-    <content:encoded><![CDATA[<p>The cousin of Lassana Cisse, an Ivorian father of two shot dead in a racist drive-by attack in al Far in 2019, said the verdict acquitting former soldier Lorin Scicluna of the murder is not justice; it is total disregard for the value of human life. Survivor May Malimi, whom Scicluna drove into, said he was not happy with the not-guilty verdict. Police Commissioner Angelo Gaf called the 8-1 jury decision demoralising, while Home Affairs Minister Glenn Bedingfield said such verdicts leave a bad taste but that the police form only one part of the wider judicial system. Scicluna was convicted of grievous bodily harm and of driving without a number plate; sentencing submissions are scheduled for Wednesday. Sciclunas defence was also offered a 30-year plea bargain days before trial, which he refused.</p><p><img src="https://maltanews.great-site.net/img/206d27889408379a235c4ff1304feb43e07f0b05-1793620510-25b8e533-1200x630.jpeg" alt="Relatives of Lassana Cisse reacting to the acquittal" /></p><p><em>Sources: Times of Malta, Times of Malta (police reaction), Times of Malta (plea deal), Malta Independent, Lovin Malta (Daphne Foundation), Lovin Malta (jury reform), MaltaToday</em></p>]]></content:encoded>
-    <pubDate>Mon, 02 Nov 2026 13:08:00 +0100</pubDate>
-    <guid isPermaLink="false">50fecbc7cbb7ec5cdf70dee9e0bde551</guid>
+    <title>Tourists spending less despite record arrivals, Alex Borg says</title>
+    <link>https://www.independent.com.mt/articles/2026-11-03/local-news/Tourists-spending-less-despite-record-arrivals-Alex-Borg-says-6736294317</link>
+    <description>Speaking at the Nationalist Partys Business Breakfast on Budget 2027, opposition leader Alex Borg said average tourist spending has fallen from 919 in 2015 to 771 in 2025 despite four million visitors in 2025. Citing Chamber of Commerce figures, he said rising visitor numbers are not translating into greater economic value while adding pressure on infrastructure, the environment and public services.</description>
+    <content:encoded><![CDATA[<p>Speaking at the Nationalist Partys Business Breakfast on Budget 2027, opposition leader Alex Borg said average tourist spending has fallen from 919 in 2015 to 771 in 2025 despite four million visitors in 2025. Citing Chamber of Commerce figures, he said rising visitor numbers are not translating into greater economic value while adding pressure on infrastructure, the environment and public services.</p><p><img src="https://maltanews.great-site.net/img/1222218343da.jpg" alt="Tourists in Valletta" /></p><p><em>Sources: Malta Independent</em></p>]]></content:encoded>
+    <pubDate>Tue, 03 Nov 2026 10:26:00 +0100</pubDate>
+    <guid isPermaLink="false">1e18f1fb1b752e14164aa6570c876159</guid>
     <category>Politics</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-02</source>
-    <media:content url="https://maltanews.great-site.net/img/206d27889408379a235c4ff1304feb43e07f0b05-1793620510-25b8e533-1200x630.jpeg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/206d27889408379a235c4ff1304feb43e07f0b05-1793620510-25b8e533-1200x630.jpeg" length="0" type="image/jpeg" />
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-03</source>
+    <media:content url="https://maltanews.great-site.net/img/1222218343da.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/1222218343da.jpg" length="0" type="image/jpeg" />
   </item>
   <item>
-    <title>Ombudsman warns stop-gap homeless measures do not address the root causes</title>
-    <link>https://newsbook.com.mt/l-ombudsman-iwissi-kontra-mizuri-temporanji-ghall-persuni-bla-saqaf/</link>
-    <description>Parliamentary Ombudsman Joseph Zammit McKeon said police interventions and temporary shelters for people sleeping rough are provisional measures that do not address the real causes of the accommodation and security problem. Referring to a person found lying in a St Anne Street subway in Floriana, he stressed that success should not be measured by moving people from the streets, but by there being fewer people sleeping rough.</description>
-    <content:encoded><![CDATA[<p>Parliamentary Ombudsman Joseph Zammit McKeon said police interventions and temporary shelters for people sleeping rough are provisional measures that do not address the real causes of the accommodation and security problem. Referring to a person found lying in a St Anne Street subway in Floriana, he stressed that success should not be measured by moving people from the streets, but by there being fewer people sleeping rough.</p><p><img src="https://maltanews.great-site.net/img/857979725_1678020293686522_7971705012623678317_n.jpg" alt="Parliamentary Ombudsman Joseph Zammit McKeon" /></p><p><em>Sources: Newsbook Malta</em></p>]]></content:encoded>
-    <pubDate>Mon, 02 Nov 2026 12:58:00 +0100</pubDate>
-    <guid isPermaLink="false">b7babd84c5116d40a4f747581cb0bb7a</guid>
-    <category>Politics</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-02</source>
-    <media:content url="https://maltanews.great-site.net/img/857979725_1678020293686522_7971705012623678317_n.jpg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/857979725_1678020293686522_7971705012623678317_n.jpg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Court finds no medical negligence in magistrates death after Mater Dei operation</title>
-    <link>https://www.independent.com.mt/articles/2026-11-02/local-news/Court-finds-no-medical-negligence-in-magistrate-s-death-following-Mater-Dei-operation-6736294297</link>
-    <description>The family of magistrate Joseph Cassar, who died on 2 May 2017 after an angioplasty at Mater Dei Hospital, lost a medical negligence claim in the First Hall Civil Court. Judge Rachel Montebello ruled that the medical team followed accepted professional standards and that the death resulted from a rare two-centimetre tear in the femoral artery with internal bleeding, compounded by pre-existing heart disease. The family was ordered to bear legal costs.</description>
-    <content:encoded><![CDATA[<p>The family of magistrate Joseph Cassar, who died on 2 May 2017 after an angioplasty at Mater Dei Hospital, lost a medical negligence claim in the First Hall Civil Court. Judge Rachel Montebello ruled that the medical team followed accepted professional standards and that the death resulted from a rare two-centimetre tear in the femoral artery with internal bleeding, compounded by pre-existing heart disease. The family was ordered to bear legal costs.</p><p><img src="https://maltanews.great-site.net/img/be5fd4b6d874.jpg" alt="Mater Dei Hospital" /></p><p><em>Sources: Malta Independent, MaltaToday</em></p>]]></content:encoded>
-    <pubDate>Mon, 02 Nov 2026 12:53:00 +0100</pubDate>
-    <guid isPermaLink="false">e2c43697adcb985dee0d154c96262129</guid>
+    <title>Freeport ordered to pay 35,000 to injured crane operator</title>
+    <link>https://timesofmalta.com/article/injured-freeport-crane-operator-awarded-35000-damages.1136414</link>
+    <description>Crane operator Roderick Bonnici was awarded 35,000 in damages after a 2020 workplace injury at the Birżebbuġa freeport facility. He was hurt when the cranes trolley suddenly lost control, jolting his cabin and injuring his leg and knee. Malta Freeport denied responsibility, but the court, presided over by Judge Henri Mizzi, found an abnormal deceleration had caused the incident.</description>
+    <content:encoded><![CDATA[<p>Crane operator Roderick Bonnici was awarded 35,000 in damages after a 2020 workplace injury at the Birżebbuġa freeport facility. He was hurt when the cranes trolley suddenly lost control, jolting his cabin and injuring his leg and knee. Malta Freeport denied responsibility, but the court, presided over by Judge Henri Mizzi, found an abnormal deceleration had caused the incident.</p><p><img src="https://maltanews.great-site.net/img/06559fe1869d9ffaae69a6baa408dbe1b0b10a6c-1793385438-1561afbd-1200x630.jpg" alt="Freeport quay crane" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Tue, 03 Nov 2026 10:00:00 +0100</pubDate>
+    <guid isPermaLink="false">515389ad268bf38c5ffb5c9f81123b90</guid>
     <category>Courts &amp; Crime</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-02</source>
-    <media:content url="https://maltanews.great-site.net/img/be5fd4b6d874.jpg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/be5fd4b6d874.jpg" length="0" type="image/jpeg" />
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-03</source>
+    <media:content url="https://maltanews.great-site.net/img/06559fe1869d9ffaae69a6baa408dbe1b0b10a6c-1793385438-1561afbd-1200x630.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/06559fe1869d9ffaae69a6baa408dbe1b0b10a6c-1793385438-1561afbd-1200x630.jpg" length="0" type="image/jpeg" />
   </item>
   <item>
-    <title>Minister and police commissioner defend the force after a string of acquittals</title>
-    <link>https://www.maltatoday.com.mt/news/national/145430/watch__no_one_is_perfect_minister_police_commissioner_say_after_string_of_court_blunders</link>
-    <description>Speaking at the Ta Kandja Police Academy, Glenn Bedingfield said no one is perfect and that police mistakes happen but are not intentional, after journalists raised investigative errors in the Yorgen Fenech case, the Keith Schembri search and the Raymond Fenech and Michael Stivala cases. Commissioner Angelo Gaf said every mistake must be examined carefully and that the Professional Standards Office investigates where wrongdoing is identified, with disciplinary action to follow.</description>
-    <content:encoded><![CDATA[<p>Speaking at the Ta Kandja Police Academy, Glenn Bedingfield said no one is perfect and that police mistakes happen but are not intentional, after journalists raised investigative errors in the Yorgen Fenech case, the Keith Schembri search and the Raymond Fenech and Michael Stivala cases. Commissioner Angelo Gaf said every mistake must be examined carefully and that the Professional Standards Office investigates where wrongdoing is identified, with disciplinary action to follow.</p><p><img src="https://maltanews.great-site.net/img/54_copy_of_article_covers_-_new_(5).png" alt="Police Commissioner Angelo Gafa" /></p><p><em>Sources: MaltaToday, Lovin Malta</em></p>]]></content:encoded>
-    <pubDate>Mon, 02 Nov 2026 12:03:00 +0100</pubDate>
-    <guid isPermaLink="false">1aed56b5504e03f69dc395008659d5ba</guid>
-    <category>Politics</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-02</source>
-    <media:content url="https://maltanews.great-site.net/img/54_copy_of_article_covers_-_new_(5).png" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/54_copy_of_article_covers_-_new_(5).png" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>University of Malta research maps memory effect in quantum communication links</title>
-    <link>https://timesofmalta.com/article/echoes-wire-remembers-university-research-quantum-internet.1136375</link>
-    <description>University of Malta researchers showed that slight mistiming in when a receiver stores a quantum message leaves traces inside the channel, so the quality of each subsequent communication degrades with every use. The effect also limits how much entanglement a channel can carry, a resource central to quantum advantage and many quantum technologies.</description>
-    <content:encoded><![CDATA[<p>University of Malta researchers showed that slight mistiming in when a receiver stores a quantum message leaves traces inside the channel, so the quality of each subsequent communication degrades with every use. The effect also limits how much entanglement a channel can carry, a resource central to quantum advantage and many quantum technologies.</p><p><img src="https://maltanews.great-site.net/img/9dcc7e3d44ec8ebf3ff693314158579849f19675-1793468985-01a4d7da-1200x630.jpg" alt="Quantum communication research" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
-    <pubDate>Mon, 02 Nov 2026 12:00:00 +0100</pubDate>
-    <guid isPermaLink="false">abb02ef40deed10c47aa90bf2725d942</guid>
-    <category>Health &amp; Education</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-02</source>
-    <media:content url="https://maltanews.great-site.net/img/9dcc7e3d44ec8ebf3ff693314158579849f19675-1793468985-01a4d7da-1200x630.jpg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/9dcc7e3d44ec8ebf3ff693314158579849f19675-1793468985-01a4d7da-1200x630.jpg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Floriana mayor warns boutique hotel conversions could cost the town its community</title>
-    <link>https://timesofmalta.com/article/floriana-risks-losing-community-boutique-hotels-take-over-mayor-warns.1136497</link>
-    <description>Mayor Nigel Holland said the locality could end up without a community as large residences are converted into boutique hotels and Airbnb short-lets, following an application to turn the former Floriana power station into a boutique hotel. Maltese residents in the town have fallen from 1,959 in 2012 to 1,566 in 2024.</description>
-    <content:encoded><![CDATA[<p>Mayor Nigel Holland said the locality could end up without a community as large residences are converted into boutique hotels and Airbnb short-lets, following an application to turn the former Floriana power station into a boutique hotel. Maltese residents in the town have fallen from 1,959 in 2012 to 1,566 in 2024.</p><p><img src="https://maltanews.great-site.net/img/fff0ba572a399e70da5c272a6af3fd7c82be547b-1793612386-fba5edc9-1200x630.jpg" alt="Floriana locality" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
-    <pubDate>Mon, 02 Nov 2026 10:46:00 +0100</pubDate>
-    <guid isPermaLink="false">d975a3d18432217e55da54ced5d4d527</guid>
-    <category>General</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-02</source>
-    <media:content url="https://maltanews.great-site.net/img/fff0ba572a399e70da5c272a6af3fd7c82be547b-1793612386-fba5edc9-1200x630.jpg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/fff0ba572a399e70da5c272a6af3fd7c82be547b-1793612386-fba5edc9-1200x630.jpg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Budget 2027 non-EU worker measures face legal challenge; refugees exempt</title>
-    <link>https://timesofmalta.com/article/refugees-keep-free-childcare-public-transport-minister-says.1136500</link>
-    <description>Home Affairs Minister Glenn Bedingfield confirmed that refugees and persons with subsidiary or temporary humanitarian protection will keep free public transport and free childcare, despite the Budget 2027 withdrawal of those benefits for third-country nationals. The wider package higher work permit fees, an 400 annual infrastructure contribution and charges for driving ones own car is widely expected to be challenged, with Aditus Foundation head Neil Falzon citing the EU Single Permit Directive on equal access to goods and services. Malta also missed the May 2026 deadline to transpose the recast directive and has received a formal notice from the European Commission.</description>
-    <content:encoded><![CDATA[<p>Home Affairs Minister Glenn Bedingfield confirmed that refugees and persons with subsidiary or temporary humanitarian protection will keep free public transport and free childcare, despite the Budget 2027 withdrawal of those benefits for third-country nationals. The wider package higher work permit fees, an 400 annual infrastructure contribution and charges for driving ones own car is widely expected to be challenged, with Aditus Foundation head Neil Falzon citing the EU Single Permit Directive on equal access to goods and services. Malta also missed the May 2026 deadline to transpose the recast directive and has received a formal notice from the European Commission.</p><p><img src="https://maltanews.great-site.net/img/62ab0ca486f7d75461fce7f8e656e75064b9712d-1793613051-3baddfab-1200x630.png" alt="Refugees and persons with subsidiary protection in Malta" /></p><p><em>Sources: Times of Malta, Times of Malta (legal challenge), Malta Independent, MaltaToday, Newsbook Malta</em></p>]]></content:encoded>
-    <pubDate>Mon, 02 Nov 2026 10:44:00 +0100</pubDate>
-    <guid isPermaLink="false">cf583cb8b60cad1affdb0737857da82d</guid>
-    <category>Politics</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-02</source>
-    <media:content url="https://maltanews.great-site.net/img/62ab0ca486f7d75461fce7f8e656e75064b9712d-1793613051-3baddfab-1200x630.png" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/62ab0ca486f7d75461fce7f8e656e75064b9712d-1793613051-3baddfab-1200x630.png" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Libya requests extradition of Lilu King; Malta seeks guarantees before deciding</title>
-    <link>https://timesofmalta.com/article/libya-requests-lilu-king-extradition.1136499</link>
-    <description>Home Affairs Minister Glenn Bedingfield said Libya submitted a written request in September for the extradition of Mohamed Ali Elmushraty, better known as Lilu King, who faces drug trafficking and homicide charges at home. Maltese authorities are evaluating the request, but Bedingfield said he told the Libyan Attorney General during a September visit to Tripoli that guarantees are required under Maltese law and the European Convention on Human Rights before any decision. Elmushraty was stripped of refugee status in September and is in pre-trial detention over separate organised crime and money laundering proceedings.</description>
-    <content:encoded><![CDATA[<p>Home Affairs Minister Glenn Bedingfield said Libya submitted a written request in September for the extradition of Mohamed Ali Elmushraty, better known as Lilu King, who faces drug trafficking and homicide charges at home. Maltese authorities are evaluating the request, but Bedingfield said he told the Libyan Attorney General during a September visit to Tripoli that guarantees are required under Maltese law and the European Convention on Human Rights before any decision. Elmushraty was stripped of refugee status in September and is in pre-trial detention over separate organised crime and money laundering proceedings.</p><p><img src="https://maltanews.great-site.net/img/c8c5789ef6571ba215ebaefd94cd0a983880875a-1793612517-2aedaf6e-1200x630.jpg" alt="Mohamed Ali Elmushraty, known as Lilu King" /></p><p><em>Sources: Times of Malta, Malta Independent, Lovin Malta, Newsbook Malta, MaltaToday</em></p>]]></content:encoded>
-    <pubDate>Mon, 02 Nov 2026 10:36:00 +0100</pubDate>
-    <guid isPermaLink="false">992db4ba7ee2b81e245ab7c2fc94fcf7</guid>
-    <category>Politics</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-02</source>
-    <media:content url="https://maltanews.great-site.net/img/c8c5789ef6571ba215ebaefd94cd0a983880875a-1793612517-2aedaf6e-1200x630.jpg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/c8c5789ef6571ba215ebaefd94cd0a983880875a-1793612517-2aedaf6e-1200x630.jpg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Force 7 winds and showers to batter Malta from this evening</title>
-    <link>https://lovinmalta.com/news/streetmedia-rss/force-7-winds-expected-to-batter-malta-tonight-as-rainy-weather-hits-the-islands/</link>
-    <description>The Malta Meteorological Office forecasts west-northwesterly winds of Force 5 to 6 during Monday, strengthening to Force 6 to 7 overnight with isolated showers. Near-gale Force 7 conditions correspond to speeds of roughly 50 to 61 km/h. Maximum temperatures of 19C are expected, dropping to 15C overnight, with winds persisting into Tuesday.</description>
-    <content:encoded><![CDATA[<p>The Malta Meteorological Office forecasts west-northwesterly winds of Force 5 to 6 during Monday, strengthening to Force 6 to 7 overnight with isolated showers. Near-gale Force 7 conditions correspond to speeds of roughly 50 to 61 km/h. Maximum temperatures of 19C are expected, dropping to 15C overnight, with winds persisting into Tuesday.</p><p><img src="https://maltanews.great-site.net/img/GABE-FB-COVER-88-1024x536.jpg" alt="Storm clouds over Malta" /></p><p><em>Sources: Lovin Malta</em></p>]]></content:encoded>
-    <pubDate>Mon, 02 Nov 2026 10:05:00 +0100</pubDate>
-    <guid isPermaLink="false">94a19ba66b59b204a0e0a60b3dcdde7a</guid>
-    <category>General</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-02</source>
-    <media:content url="https://maltanews.great-site.net/img/GABE-FB-COVER-88-1024x536.jpg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/GABE-FB-COVER-88-1024x536.jpg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Labour MP defends embryo screening expansion against disability sector concerns</title>
-    <link>https://www.independent.com.mt/articles/2026-11-02/local-news/PL-MP-defends-genetic-testing-expansion-says-it-does-not-diminish-disabled-people-s-rights-6736294290</link>
-    <description>Labour MP Romilda Zarb, the mother of a son with Down syndrome, said extending pre-implantation genetic testing for monogenic disorders to 17 further conditions does not conflict with disability rights. The Malta Federation of Organisations of Persons with Disability had warned the expansion risks suggesting some lives are worth more than others. Zarb said the screening is only offered to couples already going through IVF with serious hereditary conditions, and said she speaks on it because she knows some parents would otherwise seek it abroad.</description>
-    <content:encoded><![CDATA[<p>Labour MP Romilda Zarb, the mother of a son with Down syndrome, said extending pre-implantation genetic testing for monogenic disorders to 17 further conditions does not conflict with disability rights. The Malta Federation of Organisations of Persons with Disability had warned the expansion risks suggesting some lives are worth more than others. Zarb said the screening is only offered to couples already going through IVF with serious hereditary conditions, and said she speaks on it because she knows some parents would otherwise seek it abroad.</p><p><img src="https://maltanews.great-site.net/img/0b2f7877a64f.jpg" alt="Labour MP Romilda Zarb" /></p><p><em>Sources: Malta Independent</em></p>]]></content:encoded>
-    <pubDate>Mon, 02 Nov 2026 09:19:00 +0100</pubDate>
-    <guid isPermaLink="false">62bcbf3cf0991bea70b46d9182fe2182</guid>
-    <category>Politics</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-02</source>
-    <media:content url="https://maltanews.great-site.net/img/0b2f7877a64f.jpg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/0b2f7877a64f.jpg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Former housing minister Galdes lands new government job two days after resigning</title>
-    <link>https://timesofmalta.com/article/galdes-given-new-government-role-two-days-resignation.1136487</link>
-    <description>Roderick Galdes was given a managerial role at the National Skills Council just two days after resigning from Cabinet over pressure concerning his dealings with contractors. Freedom of information documents show he signed the contract on 26 January, with a financial package worth over 60,000 including a car allowance and a 10% responsibility allowance. Galdes denies the post is compensation for his resignation.</description>
-    <content:encoded><![CDATA[<p>Roderick Galdes was given a managerial role at the National Skills Council just two days after resigning from Cabinet over pressure concerning his dealings with contractors. Freedom of information documents show he signed the contract on 26 January, with a financial package worth over 60,000 including a car allowance and a 10% responsibility allowance. Galdes denies the post is compensation for his resignation.</p><p><img src="https://maltanews.great-site.net/img/08a5bb5514c721cc38407ec712e4723bfcd62ab8-1793555087-1e9dba3b-1200x630.jpg" alt="Roderick Galdes" /></p><p><em>Sources: Times of Malta, Lovin Malta</em></p>]]></content:encoded>
-    <pubDate>Mon, 02 Nov 2026 06:00:00 +0100</pubDate>
-    <guid isPermaLink="false">65f6bc39cb2ed30635f17fb91091c3d1</guid>
-    <category>Politics</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-02</source>
-    <media:content url="https://maltanews.great-site.net/img/08a5bb5514c721cc38407ec712e4723bfcd62ab8-1793555087-1e9dba3b-1200x630.jpg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/08a5bb5514c721cc38407ec712e4723bfcd62ab8-1793555087-1e9dba3b-1200x630.jpg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Property prices cushion falling sales as rents keep rising</title>
-    <link>https://www.maltatoday.com.mt/news/national/145401/higher_property_prices_cushion_falling_sales_as_rents_increase</link>
-    <description>The Central Bank of Maltas Q3 2026 Business Dialogue report finds demand still exceeds supply in both sales and rentals, but weakening affordability is pushing fewer sales through. Higher prices are offsetting lower transaction volumes, while rental demand continues to push rents upwards and summer conversions to tourist-lets are tightening the long-term rental market.</description>
-    <content:encoded><![CDATA[<p>The Central Bank of Maltas Q3 2026 Business Dialogue report finds demand still exceeds supply in both sales and rentals, but weakening affordability is pushing fewer sales through. Higher prices are offsetting lower transaction volumes, while rental demand continues to push rents upwards and summer conversions to tourist-lets are tightening the long-term rental market.</p><p><img src="https://maltanews.great-site.net/img/12_13_property.jpg" alt="Property market in Malta" /></p><p><em>Sources: MaltaToday</em></p>]]></content:encoded>
-    <pubDate>Mon, 02 Nov 2026 06:00:00 +0100</pubDate>
-    <guid isPermaLink="false">9c9ee429b8f685ed41d3425e1c421d7b</guid>
+    <title>Non-EU families put baby plans on hold as childcare centres fear closure</title>
+    <link>https://timesofmalta.com/article/noneu-families-put-baby-plans-hold-centres-fear-closure.1136444</link>
+    <description>Some young non-EU families are postponing plans to have children because they now face paying for childcare in Malta. Centres catering mainly for these families fear that the budgets withdrawal of free childcare could force them to close. Only those who obtain long-term residency after five years and completion of the I Belong integration programme remain eligible for the free services.</description>
+    <content:encoded><![CDATA[<p>Some young non-EU families are postponing plans to have children because they now face paying for childcare in Malta. Centres catering mainly for these families fear that the budgets withdrawal of free childcare could force them to close. Only those who obtain long-term residency after five years and completion of the I Belong integration programme remain eligible for the free services.</p><p><img src="https://maltanews.great-site.net/img/6a8e7781c7f00ffe25db28a78b6284aedf324432-1793695302-4f279164-1200x630.jpeg" alt="Childcare centre" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Tue, 03 Nov 2026 09:41:00 +0100</pubDate>
+    <guid isPermaLink="false">b9619c397d77ef498e4bc1679073f8ff</guid>
     <category>Economy</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-02</source>
-    <media:content url="https://maltanews.great-site.net/img/12_13_property.jpg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/12_13_property.jpg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Planning Authority approves Tarxien block over heritage objections</title>
-    <link>https://timesofmalta.com/article/pa-approves-tarxien-block-despite-culture-watchdog-objections.1136484</link>
-    <description>The Planning Commission approved the demolition of an existing dwelling in Tarxiens urban conservation area and its replacement with 10 apartments, despite objections from the local council, the heritage watchdog and residents. The scheme spans Triq Paola and Triq Lanzon and includes basement excavation for six car garages, with Second World War air-raid shelters at both ends of the bordering streets.</description>
-    <content:encoded><![CDATA[<p>The Planning Commission approved the demolition of an existing dwelling in Tarxiens urban conservation area and its replacement with 10 apartments, despite objections from the local council, the heritage watchdog and residents. The scheme spans Triq Paola and Triq Lanzon and includes basement excavation for six car garages, with Second World War air-raid shelters at both ends of the bordering streets.</p><p><img src="https://maltanews.great-site.net/img/6f1b1cd19fdfe94129adaa01c498a698c087a7a0-1793553253-aa3392df-1200x630.jpg" alt="Tarxien apartment block planning proposal" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
-    <pubDate>Mon, 02 Nov 2026 06:00:00 +0100</pubDate>
-    <guid isPermaLink="false">bf4e054881adb613cbdf2e43e6e67425</guid>
-    <category>Environment</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-02</source>
-    <media:content url="https://maltanews.great-site.net/img/6f1b1cd19fdfe94129adaa01c498a698c087a7a0-1793553253-aa3392df-1200x630.jpg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/6f1b1cd19fdfe94129adaa01c498a698c087a7a0-1793553253-aa3392df-1200x630.jpg" length="0" type="image/jpeg" />
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-03</source>
+    <media:content url="https://maltanews.great-site.net/img/6a8e7781c7f00ffe25db28a78b6284aedf324432-1793695302-4f279164-1200x630.jpeg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/6a8e7781c7f00ffe25db28a78b6284aedf324432-1793695302-4f279164-1200x630.jpeg" length="0" type="image/jpeg" />
   </item>
 </channel>
 </rss>
