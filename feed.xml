@@ -9,8 +9,8 @@
   <link>https://maltanews.great-site.net/</link>
   <description>Daily Malta news digest, automated. Curated from local Maltese news sources.</description>
   <language>en-mt</language>
-  <lastBuildDate>Sun, 08 Nov 2026 06:34:26 +0100</lastBuildDate>
-  <pubDate>Sun, 08 Nov 2026 12:00:00 +0100</pubDate>
+  <lastBuildDate>Sun, 08 Nov 2026 13:31:32 +0100</lastBuildDate>
+  <pubDate>Sun, 08 Nov 2026 12:27:00 +0100</pubDate>
   <generator>Hermes Malta News pipeline v3 + RSS</generator>
   <managingEditor>dejjem@gmail.com (Mark Micallef)</managingEditor>
   <atom:link href="https://dejjem.github.io/maltanews-feed/feed.xml" rel="self" type="application/rss+xml" />
@@ -19,6 +19,18 @@
     <title>Malta News Today</title>
     <link>https://maltanews.great-site.net/</link>
   </image>
+  <item>
+    <title>Almost 70% of Malta's economic growth driven by workforce expansion, Alex Borg warns</title>
+    <link>https://www.maltatoday.com.mt/news/budget-2027/145576/almost_70_of_maltas_economic_growth_driven_by_workforce_expansion_alex_borg_warns</link>
+    <description>Opposition leader Alex Borg said almost 70% of Malta's 82% increase in gross value added between 2015 and 2025 came from adding workers, against just 3% from productivity. Citing government and Chamber of Commerce figures, Borg said productivity growth fell from 2.2% in 2023 to 0.2% in 2024 and turned negative in 2025. He set out four challenges — productivity, skills shortages, wages and tourism — and warned that 17% of the population is at risk of poverty.</description>
+    <content:encoded><![CDATA[<p>Opposition leader Alex Borg said almost 70% of Malta&#x27;s 82% increase in gross value added between 2015 and 2025 came from adding workers, against just 3% from productivity. Citing government and Chamber of Commerce figures, Borg said productivity growth fell from 2.2% in 2023 to 0.2% in 2024 and turned negative in 2025. He set out four challenges — productivity, skills shortages, wages and tourism — and warned that 17% of the population is at risk of poverty.</p><p><img src="https://maltanews.great-site.net/img/3_alex_borg.jpeg" alt="Opposition leader Alex Borg" /></p><p><em>Sources: Malta Today</em></p>]]></content:encoded>
+    <pubDate>Sun, 08 Nov 2026 12:27:00 +0100</pubDate>
+    <guid isPermaLink="false">3716db7934f53b5a0529fa4e28160ed4</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-08</source>
+    <media:content url="https://maltanews.great-site.net/img/3_alex_borg.jpeg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/3_alex_borg.jpeg" length="0" type="image/jpeg" />
+  </item>
   <item>
     <title>President Spiteri Debono visits Maltese child receiving specialist treatment in London</title>
     <link>https://newsbook.com.mt/il-president-tiltaqa-ma-maltija-ta-3-snin-li-qed-tinghata-kura-ghal-kundizzjoni-serja-flondra/</link>
@@ -66,6 +78,90 @@
     <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-08</source>
     <media:content url="https://maltanews.great-site.net/img/526d2310f2d7580a3749a7d19e565d9252143050-1794083813-96c48a6f-1200x630.jpg" medium="image" />
     <enclosure url="https://maltanews.great-site.net/img/526d2310f2d7580a3749a7d19e565d9252143050-1794083813-96c48a6f-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Momentum calls on Attorney General Victoria Buttigieg to resign over prosecution failures</title>
+    <link>https://timesofmalta.com/article/momentum-calls-attorney-general-resign.1136796</link>
+    <description>Momentum has urged Attorney General Victoria Buttigieg to resign, citing the acquittals in the trials of the Daphne Caruana Galizia and Lassana Cisse murders and the prosecution blunders in the case of Maximilian Ciantar. Party executive member Matthew Agius said recurring shortcomings in criminal prosecutions undermine Malta's justice institutions, weaken public confidence in safety and security, and demoralise police officers. Momentum is also pressing the government to strengthen the Prosecution Unit with better pay, staffing and career progression, and to introduce a transparent revolving-door framework between the prosecution office and private legal practice.</description>
+    <content:encoded><![CDATA[<p>Momentum has urged Attorney General Victoria Buttigieg to resign, citing the acquittals in the trials of the Daphne Caruana Galizia and Lassana Cisse murders and the prosecution blunders in the case of Maximilian Ciantar. Party executive member Matthew Agius said recurring shortcomings in criminal prosecutions undermine Malta&#x27;s justice institutions, weaken public confidence in safety and security, and demoralise police officers. Momentum is also pressing the government to strengthen the Prosecution Unit with better pay, staffing and career progression, and to introduce a transparent revolving-door framework between the prosecution office and private legal practice.</p><p><img src="https://maltanews.great-site.net/img/7a8ce1c384110a5b2d68f58b5c8373324cb1017d-1794136607-87f3c5d1-1200x630.jpg" alt="Momentum calls for the resignation of Attorney General Victoria Buttigieg" /></p><p><em>Sources: Times of Malta, Lovin Malta, Malta Today</em></p>]]></content:encoded>
+    <pubDate>Sun, 08 Nov 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">b0fef415416b82f931e9b101646c646f</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-08</source>
+    <media:content url="https://maltanews.great-site.net/img/7a8ce1c384110a5b2d68f58b5c8373324cb1017d-1794136607-87f3c5d1-1200x630.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/7a8ce1c384110a5b2d68f58b5c8373324cb1017d-1794136607-87f3c5d1-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>25,000 sqm of abandoned land in Ħal Għaxaq regenerated as picnic and recreation zone</title>
+    <link>https://newsbook.com.mt/art-ta-25000-metru-kwadru-fhal-ghaxaq-tinghata-hajja-gdida-u-tinbidel-fzona-ghall-pikniks/</link>
+    <description>An area of around 25,000 square metres in Triq l-Andar, Ħal Għaxaq, abandoned for years, has been regenerated into a picnic and recreation zone. The project was carried out by Project Green with an investment of over €1 million and was officially inaugurated by Environment Minister Miriam Dalli in the presence of Ħal Għaxaq mayor Karl Boxall. The site preserves more than 500 existing olive trees and includes public facilities, a cycling area and a children's playground, plus a 60-cubic-metre rainwater catchment.</description>
+    <content:encoded><![CDATA[<p>An area of around 25,000 square metres in Triq l-Andar, Ħal Għaxaq, abandoned for years, has been regenerated into a picnic and recreation zone. The project was carried out by Project Green with an investment of over €1 million and was officially inaugurated by Environment Minister Miriam Dalli in the presence of Ħal Għaxaq mayor Karl Boxall. The site preserves more than 500 existing olive trees and includes public facilities, a cycling area and a children&#x27;s playground, plus a 60-cubic-metre rainwater catchment.</p><p><img src="https://maltanews.great-site.net/img/Gnien_Ghaxaq_Dalli.jpg" alt="Regenerated Gnien taż-Żebbuġ in Ħal Għaxaq" /></p><p><em>Sources: Newsbook</em></p>]]></content:encoded>
+    <pubDate>Sun, 08 Nov 2026 11:18:00 +0100</pubDate>
+    <guid isPermaLink="false">d77bc1e42a3ebbc98019c4299bcb68d0</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-08</source>
+    <media:content url="https://maltanews.great-site.net/img/Gnien_Ghaxaq_Dalli.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/Gnien_Ghaxaq_Dalli.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Archbishop Scicluna: no one is a third-class human being</title>
+    <link>https://timesofmalta.com/article/no-one-thirdclass-human-being-mgr-scicluna-warns-treatment-tcns.1136793</link>
+    <description>Archbishop Charles J Scicluna used his Remembrance Day homily at St John's Co-Cathedral to urge respect and dignity for third-country nationals in Malta, two weeks after Budget 2027 announced measures hitting non-EU workers. He said a person may be classified as a TCN in the eyes of the law but no one is a third-class human being in the eyes of God. The Archbishop drew parallels with the thousands of foreign servicemen buried in Malta and with Maltese emigrants of the post-war era, and stressed that while countries have the right to regulate migration, legal status should never diminish fundamental dignity.</description>
+    <content:encoded><![CDATA[<p>Archbishop Charles J Scicluna used his Remembrance Day homily at St John&#x27;s Co-Cathedral to urge respect and dignity for third-country nationals in Malta, two weeks after Budget 2027 announced measures hitting non-EU workers. He said a person may be classified as a TCN in the eyes of the law but no one is a third-class human being in the eyes of God. The Archbishop drew parallels with the thousands of foreign servicemen buried in Malta and with Maltese emigrants of the post-war era, and stressed that while countries have the right to regulate migration, legal status should never diminish fundamental dignity.</p><p><img src="https://maltanews.great-site.net/img/cc31fef9e5766b19451063a9630c82af840a54b6-1794137027-d0a02420-1200x630.png" alt="Archbishop Charles Scicluna at Remembrance Day Mass" /></p><p><em>Sources: Times of Malta, Lovin Malta, Malta Today</em></p>]]></content:encoded>
+    <pubDate>Sun, 08 Nov 2026 11:00:00 +0100</pubDate>
+    <guid isPermaLink="false">d659becfb61a44ae3b9bc370c7012fa8</guid>
+    <category>Economy</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-08</source>
+    <media:content url="https://maltanews.great-site.net/img/cc31fef9e5766b19451063a9630c82af840a54b6-1794137027-d0a02420-1200x630.png" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/cc31fef9e5766b19451063a9630c82af840a54b6-1794137027-d0a02420-1200x630.png" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>The racist hit-and-run that still haunts May Malimi</title>
+    <link>https://timesofmalta.com/article/racist-hitandrun-still-haunts.1136784</link>
+    <description>Nearly eight years after May Malimi was left unconscious with a fractured collarbone in a racially motivated hit-and-run in Birżebbuġa, the 24-year-old says he is still afraid to go outside. Malimi was grievously injured in February 2019; former soldier Lorin Scicluna was jailed this week for eight years, with the judge saying the court wanted to warn against racial hatred. Malimi remains scarred by the attack and by the earlier acquittal of Scicluna in the murder of Lassana Cisse.</description>
+    <content:encoded><![CDATA[<p>Nearly eight years after May Malimi was left unconscious with a fractured collarbone in a racially motivated hit-and-run in Birżebbuġa, the 24-year-old says he is still afraid to go outside. Malimi was grievously injured in February 2019; former soldier Lorin Scicluna was jailed this week for eight years, with the judge saying the court wanted to warn against racial hatred. Malimi remains scarred by the attack and by the earlier acquittal of Scicluna in the murder of Lassana Cisse.</p><p><img src="https://maltanews.great-site.net/img/4b35c20761fc1c8a0ab99e051e4bd111ad511217-1794065372-33f9917c-1200x630.jpg" alt="May Malimi, victim of a racist hit-and-run in Birzebbuga" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Sun, 08 Nov 2026 06:50:00 +0100</pubDate>
+    <guid isPermaLink="false">35b2e60695891bff10f042d5767c89f3</guid>
+    <category>Courts &amp; Crime</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-08</source>
+    <media:content url="https://maltanews.great-site.net/img/4b35c20761fc1c8a0ab99e051e4bd111ad511217-1794065372-33f9917c-1200x630.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/4b35c20761fc1c8a0ab99e051e4bd111ad511217-1794065372-33f9917c-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Libya guarantees Lilu King will not be executed if extradited</title>
+    <link>https://timesofmalta.com/article/libya-guarantees-lilu-king-won-t-executed-extradited.1136783</link>
+    <description>Libya has guaranteed that Mohamed Ali Elmushraty, better known as Lilu King, will not be executed or tortured if he is extradited from Malta to face murder and drug trafficking charges. Home Affairs Minister Glenn Bedingfield said the necessary documents have been received, so the evaluation of the extradition request can begin. Justice Minister Clifton Grima said he would authorise proceedings as soon as legal requirements are met, with the courts ultimately deciding whether extradition can proceed.</description>
+    <content:encoded><![CDATA[<p>Libya has guaranteed that Mohamed Ali Elmushraty, better known as Lilu King, will not be executed or tortured if he is extradited from Malta to face murder and drug trafficking charges. Home Affairs Minister Glenn Bedingfield said the necessary documents have been received, so the evaluation of the extradition request can begin. Justice Minister Clifton Grima said he would authorise proceedings as soon as legal requirements are met, with the courts ultimately deciding whether extradition can proceed.</p><p><img src="https://maltanews.great-site.net/img/0d418d9d6920bfe80efa97f8e8a704a2475b8b79-1794065207-c1ff0189-1200x630.jpg" alt="Lilu King extradition case" /></p><p><em>Sources: Times of Malta, Lovin Malta</em></p>]]></content:encoded>
+    <pubDate>Sun, 08 Nov 2026 06:40:00 +0100</pubDate>
+    <guid isPermaLink="false">1b9916f4d8651ca54d5dbd614b7906bf</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-08</source>
+    <media:content url="https://maltanews.great-site.net/img/0d418d9d6920bfe80efa97f8e8a704a2475b8b79-1794065207-c1ff0189-1200x630.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/0d418d9d6920bfe80efa97f8e8a704a2475b8b79-1794065207-c1ff0189-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Caruana: 'Labour shelved my 300-page warning on population growth'</title>
+    <link>https://timesofmalta.com/article/labour-shelved-300page-warning-population-growth.1136782</link>
+    <description>Finance Minister Clyde Caruana said he warned his own government as early as 2018 about the strains population growth would place on housing, hospitals, schools and roads, but that the roughly 300-page report was never acted on. He said he later raised public alarm in June 2023 by warning Malta could reach 800,000 people by 2040. The remarks came after former minister Evarist Bartolo claimed Caruana's advice was ignored when he was Jobsplus CEO.</description>
+    <content:encoded><![CDATA[<p>Finance Minister Clyde Caruana said he warned his own government as early as 2018 about the strains population growth would place on housing, hospitals, schools and roads, but that the roughly 300-page report was never acted on. He said he later raised public alarm in June 2023 by warning Malta could reach 800,000 people by 2040. The remarks came after former minister Evarist Bartolo claimed Caruana&#x27;s advice was ignored when he was Jobsplus CEO.</p><p><img src="https://maltanews.great-site.net/img/33244110c5d62ad9afd1e4ca74ca2563c6d2d741-1794064747-0c13249d-1200x630.jpg" alt="Finance Minister Clyde Caruana" /></p><p><em>Sources: Times of Malta, Newsbook</em></p>]]></content:encoded>
+    <pubDate>Sun, 08 Nov 2026 06:20:00 +0100</pubDate>
+    <guid isPermaLink="false">b0761f9193cd1c121218f383bc7e0eea</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-08</source>
+    <media:content url="https://maltanews.great-site.net/img/33244110c5d62ad9afd1e4ca74ca2563c6d2d741-1794064747-0c13249d-1200x630.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/33244110c5d62ad9afd1e4ca74ca2563c6d2d741-1794064747-0c13249d-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Super bonus pledge drove a higher tourist tax increase than planned</title>
+    <link>https://www.maltatoday.com.mt/news/national/145567/super_bonus_drove_higher_tourist_tax_increase__</link>
+    <description>Government had initially told the Malta Hotels and Restaurants Association that the eco-contribution would rise to around €5 or €6, with the additional revenue financing the super bonus. According to sources, Prime Minister Robert Abela insisted the super bonus be paid in full, prompting a further increase in the tourist tax in Budget 2027. The higher eco-contribution is expected to generate €214 million, and the accommodation sector is now scrambling for solutions.</description>
+    <content:encoded><![CDATA[<p>Government had initially told the Malta Hotels and Restaurants Association that the eco-contribution would rise to around €5 or €6, with the additional revenue financing the super bonus. According to sources, Prime Minister Robert Abela insisted the super bonus be paid in full, prompting a further increase in the tourist tax in Budget 2027. The higher eco-contribution is expected to generate €214 million, and the accommodation sector is now scrambling for solutions.</p><p><img src="https://maltanews.great-site.net/img/whatsapp_image_2026-10-26_at_21.20.46.jpeg" alt="Tourism and accommodation sector" /></p><p><em>Sources: Malta Today</em></p>]]></content:encoded>
+    <pubDate>Sun, 08 Nov 2026 06:15:00 +0100</pubDate>
+    <guid isPermaLink="false">ce9c9324fd1d58faa3287f5888dd7338</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-08</source>
+    <media:content url="https://maltanews.great-site.net/img/whatsapp_image_2026-10-26_at_21.20.46.jpeg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/whatsapp_image_2026-10-26_at_21.20.46.jpeg" length="0" type="image/jpeg" />
   </item>
   <item>
     <title>Finance Minister Clyde Caruana rules out changes to Budget 2027 measures for non-EU workers</title>
