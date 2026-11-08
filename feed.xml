@@ -9,8 +9,8 @@
   <link>https://maltanews.great-site.net/</link>
   <description>Daily Malta news digest, automated. Curated from local Maltese news sources.</description>
   <language>en-mt</language>
-  <lastBuildDate>Sat, 07 Nov 2026 16:31:01 +0100</lastBuildDate>
-  <pubDate>Sat, 07 Nov 2026 15:49:00 +0100</pubDate>
+  <lastBuildDate>Sun, 08 Nov 2026 06:34:26 +0100</lastBuildDate>
+  <pubDate>Sun, 08 Nov 2026 12:00:00 +0100</pubDate>
   <generator>Hermes Malta News pipeline v3 + RSS</generator>
   <managingEditor>dejjem@gmail.com (Mark Micallef)</managingEditor>
   <atom:link href="https://dejjem.github.io/maltanews-feed/feed.xml" rel="self" type="application/rss+xml" />
@@ -20,352 +20,76 @@
     <link>https://maltanews.great-site.net/</link>
   </image>
   <item>
-    <title>Woman dies following incident in al Gaxaq</title>
-    <link>https://newsbook.com.mt/tittajjar-mara-fhal-ghaxaq/</link>
-    <description>Newsbook has reported that a woman died following an incident in al Gaxaq. The incident occurred at about 2.30pm in Dawret al Gaxaq, where the street was closed to traffic, and the articles earlier text said the womans condition was not yet known. No further details on the cause or circumstances of the death had been released at the time of publication.</description>
-    <content:encoded><![CDATA[<p>Newsbook has reported that a woman died following an incident in al Gaxaq. The incident occurred at about 2.30pm in Dawret al Gaxaq, where the street was closed to traffic, and the articles earlier text said the womans condition was not yet known. No further details on the cause or circumstances of the death had been released at the time of publication.</p><p><img src="https://maltanews.great-site.net/img/dawret-hal-ghaxaq.jpg" alt="Dawret Ħal Għaxaq where the incident occurred" /></p><p><em>Sources: Newsbook</em></p>]]></content:encoded>
-    <pubDate>Sat, 07 Nov 2026 15:49:00 +0100</pubDate>
-    <guid isPermaLink="false">4376ffa5eff18e6be80a31e5c4b818fc</guid>
-    <category>Infrastructure &amp; Transport</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-07</source>
-    <media:content url="https://maltanews.great-site.net/img/dawret-hal-ghaxaq.jpg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/dawret-hal-ghaxaq.jpg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>PN says government continues to hide the scale of Maltas waste problem</title>
-    <link>https://www.independent.com.mt/articles/2026-11-07/local-news/Government-continues-to-hide-the-scale-of-the-waste-problem-PN-says-6736294457</link>
-    <description>The Nationalist Party has accused the government of selectively presenting Maltas waste figures. The PN said the headline figure of 1,092 kg of waste per person in 2024, on which reports that Malta generates the least waste in the EU were based, excludes major categories of mineral waste including construction and demolition waste, a qualification stated in Eurostats own publication. It said residents deserve the full picture and that the government continues to bury the problem.</description>
-    <content:encoded><![CDATA[<p>The Nationalist Party has accused the government of selectively presenting Maltas waste figures. The PN said the headline figure of 1,092 kg of waste per person in 2024, on which reports that Malta generates the least waste in the EU were based, excludes major categories of mineral waste including construction and demolition waste, a qualification stated in Eurostats own publication. It said residents deserve the full picture and that the government continues to bury the problem.</p><p><img src="https://maltanews.great-site.net/img/5e7f5f010978.jpg" alt="Waste collection bags used to illustrate Malta&#x27;s waste statistics" /></p><p><em>Sources: Malta Independent, Newsbook</em></p>]]></content:encoded>
-    <pubDate>Sat, 07 Nov 2026 14:00:00 +0100</pubDate>
-    <guid isPermaLink="false">9fb455764e82bdc6690664c1afbe11df</guid>
+    <title>President Spiteri Debono visits Maltese child receiving specialist treatment in London</title>
+    <link>https://newsbook.com.mt/il-president-tiltaqa-ma-maltija-ta-3-snin-li-qed-tinghata-kura-ghal-kundizzjoni-serja-flondra/</link>
+    <description>President Myriam Spiteri Debono visited Great Ormond Street Hospital in London, where she met a three-year-old Maltese child undergoing treatment for a serious medical condition. The child has been receiving specialised care in the UK for around three months and is expected to need several more months of treatment outside Malta. The President's office said the visit underlined the importance of organisations such as the Malta Community Chest Fund in supporting patients and the relatives who accompany them abroad. The President also visited the Franciscan Sisters' residence of the Sacred Heart of Jesus in London, which hosts Maltese patients and their families during treatment.</description>
+    <content:encoded><![CDATA[<p>President Myriam Spiteri Debono visited Great Ormond Street Hospital in London, where she met a three-year-old Maltese child undergoing treatment for a serious medical condition. The child has been receiving specialised care in the UK for around three months and is expected to need several more months of treatment outside Malta. The President&#x27;s office said the visit underlined the importance of organisations such as the Malta Community Chest Fund in supporting patients and the relatives who accompany them abroad. The President also visited the Franciscan Sisters&#x27; residence of the Sacred Heart of Jesus in London, which hosts Maltese patients and their families during treatment.</p><p><img src="https://maltanews.great-site.net/img/president-londra-2.jpg" alt="President Myriam Spiteri Debono at Great Ormond Street Hospital in London" /></p><p><em>Sources: Newsbook</em></p>]]></content:encoded>
+    <pubDate>Sun, 08 Nov 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">4119100ce3868873a2013402eae7b76d</guid>
     <category>Politics</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-07</source>
-    <media:content url="https://maltanews.great-site.net/img/5e7f5f010978.jpg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/5e7f5f010978.jpg" length="0" type="image/jpeg" />
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-08</source>
+    <media:content url="https://maltanews.great-site.net/img/president-londra-2.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/president-londra-2.jpg" length="0" type="image/jpeg" />
   </item>
   <item>
-    <title>Pharmacies open on Sunday 8 November: full list published</title>
-    <link>https://newsbook.com.mt/spizeriji-miftuha-l-hadd-8-ta-novembru-2/</link>
-    <description>Newsbook has published the list of pharmacies that will remain open on Sunday 8 November, when most pharmacies on the island are closed. The listing covers localities including Valletta and Floriana, il-Marsa and amrun, al Qormi, Birkirkara, Gira and San wann, giving each pharmacys address and telephone number for residents who need medicines while the majority of pharmacies are shut.</description>
-    <content:encoded><![CDATA[<p>Newsbook has published the list of pharmacies that will remain open on Sunday 8 November, when most pharmacies on the island are closed. The listing covers localities including Valletta and Floriana, il-Marsa and amrun, al Qormi, Birkirkara, Gira and San wann, giving each pharmacys address and telephone number for residents who need medicines while the majority of pharmacies are shut.</p><p><img src="https://maltanews.great-site.net/img/Pharmacy-2-scaled.jpg" alt="Pharmacy counter on the Maltese islands" /></p><p><em>Sources: Newsbook</em></p>]]></content:encoded>
-    <pubDate>Sat, 07 Nov 2026 14:00:00 +0100</pubDate>
-    <guid isPermaLink="false">abe0f486c11df84670c6d7eee772b19d</guid>
-    <category>General</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-07</source>
-    <media:content url="https://maltanews.great-site.net/img/Pharmacy-2-scaled.jpg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/Pharmacy-2-scaled.jpg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>ADPD and Momentum slam zoo permits and question governments animal welfare commitment</title>
-    <link>https://timesofmalta.com/article/adpd-momentum-zoo-permits-government-animal-welfare-commitment.1136771</link>
-    <description>ADPD and Momentum have accused the authorities of turning a blind eye to planning irregularities and animal welfare violations after two zoo decisions. The Planning Authority sanctioned unauthorised structures at the L-Arka ta No zoo in Siiewi and granted Montekristo Estate a zoo licence valid until October 2027, the latter despite Labours 2026 electoral pledge that no new licences would be issued to facilities keeping dangerous animals. The Animal Welfare Directorate granted the Montekristo permit despite the establishments history of controversy, the parties said, while ADPD argued that confining sentient animals for entertainment is unethical. Momentum has called on the government to explain how it will ensure compliance with its own manifesto commitments.</description>
-    <content:encoded><![CDATA[<p>ADPD and Momentum have accused the authorities of turning a blind eye to planning irregularities and animal welfare violations after two zoo decisions. The Planning Authority sanctioned unauthorised structures at the L-Arka ta No zoo in Siiewi and granted Montekristo Estate a zoo licence valid until October 2027, the latter despite Labours 2026 electoral pledge that no new licences would be issued to facilities keeping dangerous animals. The Animal Welfare Directorate granted the Montekristo permit despite the establishments history of controversy, the parties said, while ADPD argued that confining sentient animals for entertainment is unethical. Momentum has called on the government to explain how it will ensure compliance with its own manifesto commitments.</p><p><img src="https://maltanews.great-site.net/img/1084aa5de8377de36a9b5fb274ade8f4843bcb58-1794054717-760d4d6c-1200x630.jpg" alt="ADPD and Momentum statements criticising zoo licensing decisions" /></p><p><em>Sources: Times of Malta, Malta Today, Malta Independent, Newsbook</em></p>]]></content:encoded>
-    <pubDate>Sat, 07 Nov 2026 13:20:00 +0100</pubDate>
-    <guid isPermaLink="false">04b67ce881d5f5dd72b4cee291dbb810</guid>
-    <category>Politics</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-07</source>
-    <media:content url="https://maltanews.great-site.net/img/1084aa5de8377de36a9b5fb274ade8f4843bcb58-1794054717-760d4d6c-1200x630.jpg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/1084aa5de8377de36a9b5fb274ade8f4843bcb58-1794054717-760d4d6c-1200x630.jpg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Maltese rescue volunteers train with international teams in Crete</title>
-    <link>https://timesofmalta.com/article/maltese-search-rescue-volunteers-train-international-teams-crete.1136765</link>
-    <description>Members of the Maltese Association of the Order of Maltas Search and Rescue Unit joined teams from Greece, Romania and Cyprus, plus the Italian CISOM corps, for the four-day TALOS 2026 exercise in Heraklion. The drills covered a night-time search and rescue scenario with the Maltese contingent operating alongside the international teams.</description>
-    <content:encoded><![CDATA[<p>Members of the Maltese Association of the Order of Maltas Search and Rescue Unit joined teams from Greece, Romania and Cyprus, plus the Italian CISOM corps, for the four-day TALOS 2026 exercise in Heraklion. The drills covered a night-time search and rescue scenario with the Maltese contingent operating alongside the international teams.</p><p><img src="https://maltanews.great-site.net/img/71e68d10663ae76246f86e0f99721ee7812abb10-1794052043-dac09607-1200x630.jpeg" alt="Search and rescue volunteers taking part in the TALOS exercise in Crete" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
-    <pubDate>Sat, 07 Nov 2026 12:44:00 +0100</pubDate>
-    <guid isPermaLink="false">e47d9deea20ed47733c3412fb713ff14</guid>
-    <category>General</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-07</source>
-    <media:content url="https://maltanews.great-site.net/img/71e68d10663ae76246f86e0f99721ee7812abb10-1794052043-dac09607-1200x630.jpeg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/71e68d10663ae76246f86e0f99721ee7812abb10-1794052043-dac09607-1200x630.jpeg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Maltese court orders four investment firms to pay Vatican Bank 24.1 million</title>
-    <link>https://timesofmalta.com/article/malta-court-awards-vatican-bank-241m-budapest-property-dispute.1136763</link>
-    <description>The First Hall of the Civil Court has held four investment companies jointly and severally liable for damages over their handling of the Vatican Banks investment in the Kappa Fund and transactions involving Budapests former stock exchange. Optimum Evolution Fund SIF, Optimum Asset Management SA, Futura Investment Management Ltd and Futura Funds SICAV plc were found to have breached their fiduciary duties to the bank over the sale of the Exchange Palace, formally the Institute for World Trade. The companies were ordered to pay 24.1 million plus eight per cent interest.</description>
-    <content:encoded><![CDATA[<p>The First Hall of the Civil Court has held four investment companies jointly and severally liable for damages over their handling of the Vatican Banks investment in the Kappa Fund and transactions involving Budapests former stock exchange. Optimum Evolution Fund SIF, Optimum Asset Management SA, Futura Investment Management Ltd and Futura Funds SICAV plc were found to have breached their fiduciary duties to the bank over the sale of the Exchange Palace, formally the Institute for World Trade. The companies were ordered to pay 24.1 million plus eight per cent interest.</p><p><img src="https://maltanews.great-site.net/img/8f2beacadc2786601f9f2f240de033d401a7f578-1794045166-6322a280-1200x630.jpg" alt="The Civil Court ruling on the Vatican Bank property dispute" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
-    <pubDate>Sat, 07 Nov 2026 12:20:00 +0100</pubDate>
-    <guid isPermaLink="false">1c3ee9f65e548ad7eb99bc08a5ab5d03</guid>
+    <title>Civil Protection firefighters called to blaze at private residence in Mosta</title>
+    <link>https://newsbook.com.mt/nar-fresidenza-fil-mosta-2/</link>
+    <description>Members of the Civil Protection Department were called out to Triq il-Waqqafa in Mosta on Saturday evening to control a fire that developed in a private residence. The incident occurred at around 6pm, and police personnel also attended the scene. Further details were expected to follow.</description>
+    <content:encoded><![CDATA[<p>Members of the Civil Protection Department were called out to Triq il-Waqqafa in Mosta on Saturday evening to control a fire that developed in a private residence. The incident occurred at around 6pm, and police personnel also attended the scene. Further details were expected to follow.</p><p><img src="https://maltanews.great-site.net/img/CPD-fire-engine-nar-fire-fighters-scaled.jpg" alt="Civil Protection Department fire engine" /></p><p><em>Sources: Newsbook</em></p>]]></content:encoded>
+    <pubDate>Sun, 08 Nov 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">2458a3b355f2479fe35bb21827a6f202</guid>
     <category>Courts &amp; Crime</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-07</source>
-    <media:content url="https://maltanews.great-site.net/img/8f2beacadc2786601f9f2f240de033d401a7f578-1794045166-6322a280-1200x630.jpg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/8f2beacadc2786601f9f2f240de033d401a7f578-1794045166-6322a280-1200x630.jpg" length="0" type="image/jpeg" />
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-08</source>
+    <media:content url="https://maltanews.great-site.net/img/CPD-fire-engine-nar-fire-fighters-scaled.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/CPD-fire-engine-nar-fire-fighters-scaled.jpg" length="0" type="image/jpeg" />
   </item>
   <item>
-    <title>Activists urge demolition of fake Bidnija sheep farm after court ruling</title>
-    <link>https://timesofmalta.com/article/calls-demolish-fake-bidnija-sheep-farm-court-ruling.1136769</link>
-    <description>Moviment Graffitti has called on the Planning Authority to demolish a multi-storey building in Bidnijas Wied tal-ejjen that was approved as a sheep farm but stands in a valley outside the development zone with ecologically important freshwater habitats. The move follows the Court of Appeals rejection of the permit holders request for a retrial, leaving the revocation of his permit in place. The building, approved in 2019, includes reception areas and a swimming pool.</description>
-    <content:encoded><![CDATA[<p>Moviment Graffitti has called on the Planning Authority to demolish a multi-storey building in Bidnijas Wied tal-ejjen that was approved as a sheep farm but stands in a valley outside the development zone with ecologically important freshwater habitats. The move follows the Court of Appeals rejection of the permit holders request for a retrial, leaving the revocation of his permit in place. The building, approved in 2019, includes reception areas and a swimming pool.</p><p><img src="https://maltanews.great-site.net/img/bf6a73fdc3a673d180c548d99288db3449d6f3a0-1794050388-b1e08578-1200x630.jpg" alt="The multi-storey building in Bidnija&#x27;s Wied tal-Hzejjen valley" /></p><p><em>Sources: Times of Malta, Malta Today, Malta Independent, Newsbook</em></p>]]></content:encoded>
-    <pubDate>Sat, 07 Nov 2026 12:12:00 +0100</pubDate>
-    <guid isPermaLink="false">f8126e99d637ef048994228d9f6ef291</guid>
-    <category>Courts &amp; Crime</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-07</source>
-    <media:content url="https://maltanews.great-site.net/img/bf6a73fdc3a673d180c548d99288db3449d6f3a0-1794050388-b1e08578-1200x630.jpg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/bf6a73fdc3a673d180c548d99288db3449d6f3a0-1794050388-b1e08578-1200x630.jpg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Pedestrian seriously injured after being hit by a motorbike in Mosta</title>
-    <link>https://timesofmalta.com/article/pedestrian-seriously-injured-run-motorbike-mosta.1136750</link>
-    <description>A man suffered serious injuries after a Yamaha 125 motorbike struck him at about 3.45pm on Triq San Pawl tal-Qliega, Mosta, police said. The pedestrian, whose identity is not known, and the 25-year-old rider from St Pauls Bay were both taken to Mater Dei Hospital, with the motorcyclists condition still to be established. Police investigations are ongoing.</description>
-    <content:encoded><![CDATA[<p>A man suffered serious injuries after a Yamaha 125 motorbike struck him at about 3.45pm on Triq San Pawl tal-Qliega, Mosta, police said. The pedestrian, whose identity is not known, and the 25-year-old rider from St Pauls Bay were both taken to Mater Dei Hospital, with the motorcyclists condition still to be established. Police investigations are ongoing.</p><p><img src="https://maltanews.great-site.net/img/99d857d46f42fb2ac348d832eb3131cb4ffda50b-1793983013-05e03544-1200x630.jpeg" alt="Pedestrian seriously injured after being hit by a motorbike in Mosta" /></p><p><em>Sources: Times of Malta, Newsbook, Lovin Malta, Malta Independent</em></p>]]></content:encoded>
-    <pubDate>Sat, 07 Nov 2026 12:00:00 +0100</pubDate>
-    <guid isPermaLink="false">e77edb609df72f597e450a5ac26cf060</guid>
-    <category>Courts &amp; Crime</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-07</source>
-    <media:content url="https://maltanews.great-site.net/img/99d857d46f42fb2ac348d832eb3131cb4ffda50b-1793983013-05e03544-1200x630.jpeg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/99d857d46f42fb2ac348d832eb3131cb4ffda50b-1793983013-05e03544-1200x630.jpeg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Christmas in the Capital 2026 to cost 750,000 with 300 artists across 25 events</title>
-    <link>https://newsbook.com.mt/christmas-in-the-capital-2026-se-jiswa-e750000/</link>
-    <description>The Valletta Cultural Agency will spend 750,000 on this years Christmas in the Capital programme, 100,000 more than last year. Some 300 artists take part in 25 events running from 25 November until New Years Eve, including the lighting of the Christmas tree outside Parliament, candlelight concerts, Carols in the Capital at St Francis Church and the traditional Baby Jesus procession on 17 December.</description>
-    <content:encoded><![CDATA[<p>The Valletta Cultural Agency will spend 750,000 on this years Christmas in the Capital programme, 100,000 more than last year. Some 300 artists take part in 25 events running from 25 November until New Years Eve, including the lighting of the Christmas tree outside Parliament, candlelight concerts, Carols in the Capital at St Francis Church and the traditional Baby Jesus procession on 17 December.</p><p><img src="https://maltanews.great-site.net/img/cd543d3ee435d5d0a58d639f9502d8111d1e3786-1793976184-cfb808a7-1200x630.jpeg" alt="Valletta Christmas celebrations across 25 events" /></p><p><em>Sources: Newsbook, Times of Malta, Lovin Malta</em></p>]]></content:encoded>
-    <pubDate>Sat, 07 Nov 2026 12:00:00 +0100</pubDate>
-    <guid isPermaLink="false">a58c6fe08f07bc1e06ff5ff1bac228e7</guid>
-    <category>Politics</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-07</source>
-    <media:content url="https://maltanews.great-site.net/img/cd543d3ee435d5d0a58d639f9502d8111d1e3786-1793976184-cfb808a7-1200x630.jpeg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/cd543d3ee435d5d0a58d639f9502d8111d1e3786-1793976184-cfb808a7-1200x630.jpeg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Government to review DC15 planning and design guidelines</title>
-    <link>https://newsbook.com.mt/ippjanar-il-gvern-se-jniedi-konsultazzjoni-dwar-ir-revizjoni-tad-dc15/</link>
-    <description>Planning Minister Jonathan Attard announced at the close of the national property conference that a public consultation on the Development Control (DC15) design guidelines will be launched in the coming weeks, to address what he called ambiguities in the rules and place architectural quality and protected building heritage at the centre of development policy.</description>
-    <content:encoded><![CDATA[<p>Planning Minister Jonathan Attard announced at the close of the national property conference that a public consultation on the Development Control (DC15) design guidelines will be launched in the coming weeks, to address what he called ambiguities in the rules and place architectural quality and protected building heritage at the centre of development policy.</p><p><img src="https://maltanews.great-site.net/img/JOnathan-attard-dc15.jpeg" alt="Planning Minister Jonathan Attard announcing the DC15 review" /></p><p><em>Sources: Newsbook, Times of Malta, Malta Independent</em></p>]]></content:encoded>
-    <pubDate>Sat, 07 Nov 2026 12:00:00 +0100</pubDate>
-    <guid isPermaLink="false">987441139639d3af8a06ab21658ef617</guid>
-    <category>Politics</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-07</source>
-    <media:content url="https://maltanews.great-site.net/img/JOnathan-attard-dc15.jpeg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/JOnathan-attard-dc15.jpeg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Mediterranean College of Sport opens primary school with 93 pupils</title>
-    <link>https://timesofmalta.com/article/mediterranean-college-sport-expands-primary-education.1136754</link>
-    <description>Education Minister Byron Camilleri inaugurated the colleges new primary level, where 93 pupils follow an academic programme alongside daily 45-minute sports sessions. The college, which opened in 2024 offering secondary and sixth-form education, now has more than 360 students and is expected to reach about 450 by the next scholastic year.</description>
-    <content:encoded><![CDATA[<p>Education Minister Byron Camilleri inaugurated the colleges new primary level, where 93 pupils follow an academic programme alongside daily 45-minute sports sessions. The college, which opened in 2024 offering secondary and sixth-form education, now has more than 360 students and is expected to reach about 450 by the next scholastic year.</p><p><img src="https://maltanews.great-site.net/img/a0c4f2a71f22e554583acdefe62a3a90b4a8bcc7-1793988312-9f065eca-1200x630.jpeg" alt="Mediterranean College of Sport primary school inauguration" /></p><p><em>Sources: Times of Malta, Newsbook, Malta Independent</em></p>]]></content:encoded>
-    <pubDate>Sat, 07 Nov 2026 12:00:00 +0100</pubDate>
-    <guid isPermaLink="false">5aee77731d7fcccfd2ad9c1e55b56b2b</guid>
-    <category>Politics</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-07</source>
-    <media:content url="https://maltanews.great-site.net/img/a0c4f2a71f22e554583acdefe62a3a90b4a8bcc7-1793988312-9f065eca-1200x630.jpeg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/a0c4f2a71f22e554583acdefe62a3a90b4a8bcc7-1793988312-9f065eca-1200x630.jpeg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Food safety warning: chicken mince packets may contain bone fragments</title>
-    <link>https://timesofmalta.com/article/eat-product.1136752</link>
-    <description>The Food Safety Authority advised consumers not to eat 400g packets of Chefs Choice frozen chicken mince with use-by dates of 23 September 2027, 5 October 2027 and 23 October 2027, as they may contain excessive amounts of bone fragments. The alert followed information received from the operator; the product can be returned to the store or disposed of.</description>
-    <content:encoded><![CDATA[<p>The Food Safety Authority advised consumers not to eat 400g packets of Chefs Choice frozen chicken mince with use-by dates of 23 September 2027, 5 October 2027 and 23 October 2027, as they may contain excessive amounts of bone fragments. The alert followed information received from the operator; the product can be returned to the store or disposed of.</p><p><img src="https://maltanews.great-site.net/img/cd0e2b7f406f0ab4081e6f4fe3cc6a0972dc9485-1793986036-0cbcd2e9-1200x630.jpg" alt="Food safety warning on frozen chicken mince" /></p><p><em>Sources: Times of Malta, Malta Today</em></p>]]></content:encoded>
-    <pubDate>Sat, 07 Nov 2026 12:00:00 +0100</pubDate>
-    <guid isPermaLink="false">2f84edd7e239eb1e49053b5fb3d1d6c7</guid>
+    <title>One of Malta's last surviving Punic towers to be restored in Żurrieq</title>
+    <link>https://timesofmalta.com/article/one-malta-last-surviving-punic-towers-restored.1136441</link>
+    <description>The Planning Commission has approved the restoration of the Domus Curialis in Żurrieq and the opening of the locality's parish house to the public. The Grade II scheduled complex on Misraħ ir-Repubblika, built before 1967, houses in its rear garden a Class A archaeological site: a quadrangular Punic tower from the late 6th century BC, the only surviving structure of its height remaining in Malta and Sicily. The old parish meeting hall and choir club will be converted into a permanent exhibition space and a community kitchen.</description>
+    <content:encoded><![CDATA[<p>The Planning Commission has approved the restoration of the Domus Curialis in Żurrieq and the opening of the locality&#x27;s parish house to the public. The Grade II scheduled complex on Misraħ ir-Repubblika, built before 1967, houses in its rear garden a Class A archaeological site: a quadrangular Punic tower from the late 6th century BC, the only surviving structure of its height remaining in Malta and Sicily. The old parish meeting hall and choir club will be converted into a permanent exhibition space and a community kitchen.</p><p><img src="https://maltanews.great-site.net/img/c570e84486c902d459812eb8c17e3660970fae4c-1793457051-d87cc32d-1200x630.jpeg" alt="Punic tower in the garden of the Domus Curialis in Żurrieq" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Sun, 08 Nov 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">fbbd9270c2587bdd3d388ddabee28af7</guid>
     <category>General</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-07</source>
-    <media:content url="https://maltanews.great-site.net/img/cd0e2b7f406f0ab4081e6f4fe3cc6a0972dc9485-1793986036-0cbcd2e9-1200x630.jpg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/cd0e2b7f406f0ab4081e6f4fe3cc6a0972dc9485-1793986036-0cbcd2e9-1200x630.jpg" length="0" type="image/jpeg" />
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-08</source>
+    <media:content url="https://maltanews.great-site.net/img/c570e84486c902d459812eb8c17e3660970fae4c-1793457051-d87cc32d-1200x630.jpeg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/c570e84486c902d459812eb8c17e3660970fae4c-1793457051-d87cc32d-1200x630.jpeg" length="0" type="image/jpeg" />
   </item>
   <item>
-    <title>20,000 ERA fine after protected Lija tree cut down despite warnings</title>
-    <link>https://www.maltatoday.com.mt/news/national/145539/era_imposes_20000_penalty_for_illegal_removal_of_protected_tree_in_lija</link>
-    <description>The Environment and Resources Authority imposed a 20,000 administrative penalty after a strictly protected Southern nettle tree in Lija was felled on a plot earmarked for development. An arborist had alerted ERA days earlier and the authority had informed the projects architect that the tree was protected, but it was gone by the time officials inspected the site.</description>
-    <content:encoded><![CDATA[<p>The Environment and Resources Authority imposed a 20,000 administrative penalty after a strictly protected Southern nettle tree in Lija was felled on a plot earmarked for development. An arborist had alerted ERA days earlier and the authority had informed the projects architect that the tree was protected, but it was gone by the time officials inspected the site.</p><p><img src="https://maltanews.great-site.net/img/bb7bb79bd3044ff8bc40e12d9239514bbdc7a520-1793954324-591df7ca-1200x630.jpg" alt="Protected Southern nettle tree cut down in Lija" /></p><p><em>Sources: Malta Today, Times of Malta</em></p>]]></content:encoded>
-    <pubDate>Sat, 07 Nov 2026 12:00:00 +0100</pubDate>
-    <guid isPermaLink="false">e02e1fdb7e00dcb57ef0bc007dea129c</guid>
+    <title>Tributes pour in for former Franciscan friar Fr Adrijanu Cachia</title>
+    <link>https://timesofmalta.com/article/tributes-pour-fr-adrijanu-cachia.1136788</link>
+    <description>Band clubs and organisations across Malta paid tribute to the former Franciscan friar Fr Adrijanu Cachia, who died on Thursday at the age of 80, known for his social work and involvement in village feasts. Several societies recalled him as a benefactor and spiritual director, including Soċjetà Mużikali San Ġużepp Ħamrun and Soċjetà Filarmonika Lourdes Qrendi, which he served for more than 40 years. A final farewell is scheduled for 10 November at 8.30am at the Santa Marija ta' Ġesu church in Rabat.</description>
+    <content:encoded><![CDATA[<p>Band clubs and organisations across Malta paid tribute to the former Franciscan friar Fr Adrijanu Cachia, who died on Thursday at the age of 80, known for his social work and involvement in village feasts. Several societies recalled him as a benefactor and spiritual director, including Soċjetà Mużikali San Ġużepp Ħamrun and Soċjetà Filarmonika Lourdes Qrendi, which he served for more than 40 years. A final farewell is scheduled for 10 November at 8.30am at the Santa Marija ta&#x27; Ġesu church in Rabat.</p><p><img src="https://maltanews.great-site.net/img/526d2310f2d7580a3749a7d19e565d9252143050-1794083813-96c48a6f-1200x630.jpg" alt="Tributes for the late Fr Adrijanu Cachia" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Sun, 08 Nov 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">160739e5225cf3bf7ba21c0712bddd84</guid>
+    <category>General</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-08</source>
+    <media:content url="https://maltanews.great-site.net/img/526d2310f2d7580a3749a7d19e565d9252143050-1794083813-96c48a6f-1200x630.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/526d2310f2d7580a3749a7d19e565d9252143050-1794083813-96c48a6f-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Finance Minister Clyde Caruana rules out changes to Budget 2027 measures for non-EU workers</title>
+    <link>https://www.maltatoday.com.mt/news/national/145564/watch__clyde_wont_budge_on_noneu_worker_measures</link>
+    <description>Finance Minister Clyde Caruana said the Budget 2027 measures affecting non-EU workers are, apart from some cosmetic changes, "set in stone" as far as he is concerned, as Labour officials, MPs and unions lobby for concessions. Government and the General Workers' Union have been pressing for more humane treatment of third-country nationals under the announced measures.</description>
+    <content:encoded><![CDATA[<p>Finance Minister Clyde Caruana said the Budget 2027 measures affecting non-EU workers are, apart from some cosmetic changes, &quot;set in stone&quot; as far as he is concerned, as Labour officials, MPs and unions lobby for concessions. Government and the General Workers&#x27; Union have been pressing for more humane treatment of third-country nationals under the announced measures.</p><p><img src="https://maltanews.great-site.net/img/55_copy_of_article_covers_-_new_(5).png" alt="Finance Minister Clyde Caruana during an interview" /></p><p><em>Sources: Malta Today</em></p>]]></content:encoded>
+    <pubDate>Sun, 08 Nov 2026 06:00:00 +0100</pubDate>
+    <guid isPermaLink="false">e006804e64443cd7a7c65c68ff96f3b0</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-08</source>
+    <media:content url="https://maltanews.great-site.net/img/55_copy_of_article_covers_-_new_(5).png" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/55_copy_of_article_covers_-_new_(5).png" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Maltese artist brings animals to life using recycled metal in new Ta' Qali exhibition</title>
+    <link>https://lovinmalta.com/lifestyle/things-to-do/maltese-artist-brings-animals-to-life-using-recycled-metal-in-new-ta-qali-exhibition/</link>
+    <description>A Maltese artist has opened a new exhibition in Ta' Qali that brings animal figures to life using discarded and recycled metal. The show continues the local art scene's run of environmentally themed exhibitions in the village and offers visitors an unusual look at how scrap material can be turned into sculptural work.</description>
+    <content:encoded><![CDATA[<p>A Maltese artist has opened a new exhibition in Ta&#x27; Qali that brings animal figures to life using discarded and recycled metal. The show continues the local art scene&#x27;s run of environmentally themed exhibitions in the village and offers visitors an unusual look at how scrap material can be turned into sculptural work.</p><p><img src="https://maltanews.great-site.net/img/GABE-FB-COVER-33-1024x536.jpg" alt="Maltese artist Gabriel Camilleri with his recycled metal sculptures" /></p><p><em>Sources: Lovin Malta</em></p>]]></content:encoded>
+    <pubDate>Sun, 08 Nov 2026 05:00:00 +0100</pubDate>
+    <guid isPermaLink="false">cd13cf049577c341a1635088a2956643</guid>
     <category>Environment</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-07</source>
-    <media:content url="https://maltanews.great-site.net/img/bb7bb79bd3044ff8bc40e12d9239514bbdc7a520-1793954324-591df7ca-1200x630.jpg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/bb7bb79bd3044ff8bc40e12d9239514bbdc7a520-1793954324-591df7ca-1200x630.jpg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Terraced house asking prices up 104,000 in a year, KPMG finds</title>
-    <link>https://timesofmalta.com/article/terraced-house-asking-prices-malta-rise-104000-one-year.1136685</link>
-    <description>A KPMG study presented at the national property conference found the median asking price of a terraced house is now 725,000, up from 620,500 a year ago, while apartments rose about 10% to 350,000. Median apartment prices have climbed around 32% since 2019, and finished apartments are on average about 5% smaller than in 2024.</description>
-    <content:encoded><![CDATA[<p>A KPMG study presented at the national property conference found the median asking price of a terraced house is now 725,000, up from 620,500 a year ago, while apartments rose about 10% to 350,000. Median apartment prices have climbed around 32% since 2019, and finished apartments are on average about 5% smaller than in 2024.</p><p><img src="https://maltanews.great-site.net/img/eacd682a2a67c020d4eb169b08710bf5ce886d49-1793963800-4f0e13a0-1200x630.jpg" alt="Malta property asking prices chart" /></p><p><em>Sources: Times of Malta, Malta Today</em></p>]]></content:encoded>
-    <pubDate>Sat, 07 Nov 2026 12:00:00 +0100</pubDate>
-    <guid isPermaLink="false">d619f312be509e18cbf8275d0bf84d67</guid>
-    <category>General</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-07</source>
-    <media:content url="https://maltanews.great-site.net/img/eacd682a2a67c020d4eb169b08710bf5ce886d49-1793963800-4f0e13a0-1200x630.jpg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/eacd682a2a67c020d4eb169b08710bf5ce886d49-1793963800-4f0e13a0-1200x630.jpg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Suspected brothel pimp granted bail after woman testifies</title>
-    <link>https://www.maltatoday.com.mt/news/court_and_police/145538/human_trafficking_suspect_granted_bail_after_woman_recounts_12hour_brothel_shifts</link>
-    <description>Joseph Zammit, 50, of Marsaskala, was granted bail despite prosecution objections on nine charges including human trafficking, sexual exploitation and money laundering. A Colombian woman told the court she worked 12-hour shifts at a Fgura brothel, handling up to 14 clients a day while repaying a 4,000 travel debt, with half her earnings taken by Zammit plus 150 a week for accommodation.</description>
-    <content:encoded><![CDATA[<p>Joseph Zammit, 50, of Marsaskala, was granted bail despite prosecution objections on nine charges including human trafficking, sexual exploitation and money laundering. A Colombian woman told the court she worked 12-hour shifts at a Fgura brothel, handling up to 14 clients a day while repaying a 4,000 travel debt, with half her earnings taken by Zammit plus 150 a week for accommodation.</p><p><img src="https://maltanews.great-site.net/img/jjb00132.jpg" alt="Suspected human trafficking case in court" /></p><p><em>Sources: Malta Today, Times of Malta</em></p>]]></content:encoded>
-    <pubDate>Sat, 07 Nov 2026 12:00:00 +0100</pubDate>
-    <guid isPermaLink="false">dc35943a2614858f3ccba65221f9d550</guid>
-    <category>Politics</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-07</source>
-    <media:content url="https://maltanews.great-site.net/img/jjb00132.jpg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/jjb00132.jpg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Gozo hit by heavy rainfall, with almost 25 mm recorded at Qbajjar</title>
-    <link>https://newsbook.com.mt/ara-kwazi-pulzier-ta-xita-fghawdex-ma-kienx-imbassar/</link>
-    <description>Gozo was hit by a heavy downpour on Friday afternoon, with the Maltese Islands weather service recording almost 25 millimetres of rain at places such as Qbajjar. The islands weather page administrators said the shower was not forecast and that the rain was welcome after a dry spell.</description>
-    <content:encoded><![CDATA[<p>Gozo was hit by a heavy downpour on Friday afternoon, with the Maltese Islands weather service recording almost 25 millimetres of rain at places such as Qbajjar. The islands weather page administrators said the shower was not forecast and that the rain was welcome after a dry spell.</p><p><img src="https://maltanews.great-site.net/img/Ghawdex-xita-gozo-rain.jpg" alt="Heavy rain over Gozo" /></p><p><em>Sources: Newsbook</em></p>]]></content:encoded>
-    <pubDate>Sat, 07 Nov 2026 12:00:00 +0100</pubDate>
-    <guid isPermaLink="false">5b73496e7d6994f1653593fe056dd58f</guid>
-    <category>General</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-07</source>
-    <media:content url="https://maltanews.great-site.net/img/Ghawdex-xita-gozo-rain.jpg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/Ghawdex-xita-gozo-rain.jpg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Malta contributed 5.16 million to the EU Ukraine Facility in 2025</title>
-    <link>https://www.maltatoday.com.mt/news/national/145541/malta_contributed_516_million_to_europes_ukraine_facility_in_2025</link>
-    <description>Foreign Minister Chris Fearne told parliament that Malta paid 5,159,221.11 into the EUs Ukraine Facility in 2025, about 1 million more than the 4.16 million Malta reported separately for humanitarian assistance that year. Most of that total was the countrys share of EU spending, with 279,676 channeled through the United Nations.</description>
-    <content:encoded><![CDATA[<p>Foreign Minister Chris Fearne told parliament that Malta paid 5,159,221.11 into the EUs Ukraine Facility in 2025, about 1 million more than the 4.16 million Malta reported separately for humanitarian assistance that year. Most of that total was the countrys share of EU spending, with 279,676 channeled through the United Nations.</p><p><img src="https://maltanews.great-site.net/img/9_eu_humanitarian-air-bridge.jpeg" alt="Malta humanitarian contribution to the EU Ukraine Facility" /></p><p><em>Sources: Malta Today</em></p>]]></content:encoded>
-    <pubDate>Sat, 07 Nov 2026 12:00:00 +0100</pubDate>
-    <guid isPermaLink="false">0a7f11ec5ece2f30d91db7179cb46b02</guid>
-    <category>Politics</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-07</source>
-    <media:content url="https://maltanews.great-site.net/img/9_eu_humanitarian-air-bridge.jpeg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/9_eu_humanitarian-air-bridge.jpeg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Momentum and ADPD challenge government over zoo licences</title>
-    <link>https://www.maltatoday.com.mt/news/national/145545/momentum_flags_governments_reversal_on_zoo_licences_pledge</link>
-    <description>Momentum said the zoo licence granted to Montekristo Estate contradicts the Labour Partys 2026 electoral pledge that no new licences would be issued to facilities keeping dangerous animals, and called on the government to explain compliance and enforcement. ADPD-The Green Party also condemned the decision, pointing to the 57,000 fine paid by the directors of the so-called therapeutic zoo at Noahs Ark, and demanding transparency over the licensing process.</description>
-    <content:encoded><![CDATA[<p>Momentum said the zoo licence granted to Montekristo Estate contradicts the Labour Partys 2026 electoral pledge that no new licences would be issued to facilities keeping dangerous animals, and called on the government to explain compliance and enforcement. ADPD-The Green Party also condemned the decision, pointing to the 57,000 fine paid by the directors of the so-called therapeutic zoo at Noahs Ark, and demanding transparency over the licensing process.</p><p><img src="https://maltanews.great-site.net/img/indochinese_tiger_roaring_original_592897.jpg" alt="Zoo licence debate" /></p><p><em>Sources: Malta Today, Malta Independent</em></p>]]></content:encoded>
-    <pubDate>Sat, 07 Nov 2026 10:57:00 +0100</pubDate>
-    <guid isPermaLink="false">36993910b4a328e61e2ddb2fcb82bdce</guid>
-    <category>Politics</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-07</source>
-    <media:content url="https://maltanews.great-site.net/img/indochinese_tiger_roaring_original_592897.jpg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/indochinese_tiger_roaring_original_592897.jpg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Maximilian Ciantar acquitted over knuckleduster found at Mater Dei</title>
-    <link>https://timesofmalta.com/article/maximilian-ciantar-acquitted-mater-dei-knuckleduster-find.1136759</link>
-    <description>Maximilian Ciantar, the 2010 Attard road-rage case figure, was acquitted of possessing a knuckleduster at Mater Dei Hospital and of recidivism after prosecutors failed to summon the main witness. The court found the carer who allegedly saw him acting illegally and taking drugs was never called to testify, with prosecutors instead relying on two witnesses who described what the carer had told them. The knuckleduster was found in a cupboard, but police failed to prove it was Ciantars and had not read him his rights while questioning him.</description>
-    <content:encoded><![CDATA[<p>Maximilian Ciantar, the 2010 Attard road-rage case figure, was acquitted of possessing a knuckleduster at Mater Dei Hospital and of recidivism after prosecutors failed to summon the main witness. The court found the carer who allegedly saw him acting illegally and taking drugs was never called to testify, with prosecutors instead relying on two witnesses who described what the carer had told them. The knuckleduster was found in a cupboard, but police failed to prove it was Ciantars and had not read him his rights while questioning him.</p><p><img src="https://maltanews.great-site.net/img/3de4a3ce20d566aa9caeff84bd46089fbc990d2c-1794034771-4bcec2af-1200x630.jpeg" alt="Maximilian Ciantar in connection with the Mater Dei Hospital case" /></p><p><em>Sources: Times of Malta, Malta Today, Malta Independent, Newsbook, Lovin Malta</em></p>]]></content:encoded>
-    <pubDate>Sat, 07 Nov 2026 10:30:00 +0100</pubDate>
-    <guid isPermaLink="false">54a6dd8059a12d4b73e18b46f805ae0b</guid>
-    <category>Courts &amp; Crime</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-07</source>
-    <media:content url="https://maltanews.great-site.net/img/3de4a3ce20d566aa9caeff84bd46089fbc990d2c-1794034771-4bcec2af-1200x630.jpeg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/3de4a3ce20d566aa9caeff84bd46089fbc990d2c-1794034771-4bcec2af-1200x630.jpeg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Four Romanians arrested over suspected pickpocketing ring in Valletta</title>
-    <link>https://timesofmalta.com/article/four-arrested-suspected-pickpocketing-valletta.1136761</link>
-    <description>Four people, all Romanian nationals, have been arrested in a joint operation by Valletta police and the Criminal Investigation Department over an alleged pickpocketing ring. Home Affairs Minister Glenn Bedingfield said police began investigating as soon as the first reports came in on Monday, and by Thursday officers had identified and detained the four suspects.</description>
-    <content:encoded><![CDATA[<p>Four people, all Romanian nationals, have been arrested in a joint operation by Valletta police and the Criminal Investigation Department over an alleged pickpocketing ring. Home Affairs Minister Glenn Bedingfield said police began investigating as soon as the first reports came in on Monday, and by Thursday officers had identified and detained the four suspects.</p><p><img src="https://maltanews.great-site.net/img/825e7d47834342a6e8d664618fbc3f46b5720663-1794039838-ece07fe2-1200x630.jpg" alt="Valletta streets where the pickpocketing reports were filed" /></p><p><em>Sources: Times of Malta, Lovin Malta, Newsbook</em></p>]]></content:encoded>
-    <pubDate>Sat, 07 Nov 2026 09:17:00 +0100</pubDate>
-    <guid isPermaLink="false">6e40da148076c4fccfe3c62336f5100c</guid>
-    <category>Politics</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-07</source>
-    <media:content url="https://maltanews.great-site.net/img/825e7d47834342a6e8d664618fbc3f46b5720663-1794039838-ece07fe2-1200x630.jpg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/825e7d47834342a6e8d664618fbc3f46b5720663-1794039838-ece07fe2-1200x630.jpg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Documentary on gender disinformation launched as school resource</title>
-    <link>https://www.independent.com.mt/articles/2026-11-07/local-news/New-documentary-tackles-gender-disinformation-stereoypes-in-fight-against-domestic-violence-6736294454</link>
-    <description>A documentary titled Inventing the Enemy: Gender, Fear, and Disinformation, developed by LGBTIQ+ Gozo with support from the Commission on Gender-Based Violence and Domestic Violence, has been launched as an educational resource for schools. The film explores the impact of disinformation, prejudice and gender stereotypes.</description>
-    <content:encoded><![CDATA[<p>A documentary titled Inventing the Enemy: Gender, Fear, and Disinformation, developed by LGBTIQ+ Gozo with support from the Commission on Gender-Based Violence and Domestic Violence, has been launched as an educational resource for schools. The film explores the impact of disinformation, prejudice and gender stereotypes.</p><p><img src="https://maltanews.great-site.net/img/80150f12aca4.jpg" alt="Documentary resource on gender disinformation and domestic violence" /></p><p><em>Sources: Malta Independent</em></p>]]></content:encoded>
-    <pubDate>Sat, 07 Nov 2026 09:03:00 +0100</pubDate>
-    <guid isPermaLink="false">1cf6d8877bd69181a92d6cf68090a7b3</guid>
-    <category>Infrastructure &amp; Transport</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-07</source>
-    <media:content url="https://maltanews.great-site.net/img/80150f12aca4.jpg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/80150f12aca4.jpg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Geologists again excluded from amended excavation legislation</title>
-    <link>https://www.independent.com.mt/articles/2026-11-07/local-news/Geologists-excluded-again-from-Malta-s-updated-excavation-legislation-6736294452</link>
-    <description>The Council of the Malta Chamber of Geologists said Legal Notice 305 of 2026, amending the third-party property damage regulations, again failed to give geologists a role in assessing ground and subsurface conditions and did not restore mandatory geological investigations. The chamber also criticised the Building and Construction Authority for not consulting it and said the 45-degree affected zone applies to soil rather than rock, in a sector where most excavations take place in rock.</description>
-    <content:encoded><![CDATA[<p>The Council of the Malta Chamber of Geologists said Legal Notice 305 of 2026, amending the third-party property damage regulations, again failed to give geologists a role in assessing ground and subsurface conditions and did not restore mandatory geological investigations. The chamber also criticised the Building and Construction Authority for not consulting it and said the 45-degree affected zone applies to soil rather than rock, in a sector where most excavations take place in rock.</p><p><img src="https://maltanews.great-site.net/img/a240db597399.jpg" alt="Excavation works" /></p><p><em>Sources: Malta Independent</em></p>]]></content:encoded>
-    <pubDate>Sat, 07 Nov 2026 08:12:00 +0100</pubDate>
-    <guid isPermaLink="false">12f9562cdb5a1613c1b6fd0e6a8733db</guid>
-    <category>Courts &amp; Crime</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-07</source>
-    <media:content url="https://maltanews.great-site.net/img/a240db597399.jpg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/a240db597399.jpg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Geologists again excluded from Maltas amended excavation legislation</title>
-    <link>https://www.independent.com.mt/articles/2026-11-07/local-news/Geologists-excluded-again-from-Malta-s-updated-excavation-legislation-6736294452</link>
-    <description>The Council of the Malta Chamber of Geologists has expressed deep dismay that Legal Notice 305 of 2026, amending the third-party property damage regulations, again failed to give geologists a role in assessing ground and subsurface conditions. The chamber said the amended legislation did not restore the role geologists had previously held, leaving them excluded from the excavation rules.</description>
-    <content:encoded><![CDATA[<p>The Council of the Malta Chamber of Geologists has expressed deep dismay that Legal Notice 305 of 2026, amending the third-party property damage regulations, again failed to give geologists a role in assessing ground and subsurface conditions. The chamber said the amended legislation did not restore the role geologists had previously held, leaving them excluded from the excavation rules.</p><p><img src="https://maltanews.great-site.net/img/a240db597399.jpg" alt="Excavation and ground assessment work covered by the amended legislation" /></p><p><em>Sources: Malta Independent</em></p>]]></content:encoded>
-    <pubDate>Sat, 07 Nov 2026 08:12:00 +0100</pubDate>
-    <guid isPermaLink="false">5550d04e818d7ceae04ad9bfc760d6e4</guid>
-    <category>General</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-07</source>
-    <media:content url="https://maltanews.great-site.net/img/a240db597399.jpg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/a240db597399.jpg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Application seeks approval to replace century-old Valletta shopfront</title>
-    <link>https://timesofmalta.com/article/application-filed-sanction-removal-centuryold-valletta-shopfront.1136713</link>
-    <description>An application has been filed to sanction the removal of a century-old, protected wooden shopfront in Valletta and replace it with a replica. The distinctive red timber facade of the former Raffaele Portelli 1917 shop, one of around 100 protected Valletta shopfronts, disappeared earlier this year. The application must now be considered by the Planning Authority.</description>
-    <content:encoded><![CDATA[<p>An application has been filed to sanction the removal of a century-old, protected wooden shopfront in Valletta and replace it with a replica. The distinctive red timber facade of the former Raffaele Portelli 1917 shop, one of around 100 protected Valletta shopfronts, disappeared earlier this year. The application must now be considered by the Planning Authority.</p><p><img src="https://maltanews.great-site.net/img/1e74cf1a3eea02416eed5b3e2e9f1e4023a4f565-1793972285-562ecd73-1200x630.png" alt="The timber shopfront of the former Raffaele Portelli shop in Valletta" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
-    <pubDate>Sat, 07 Nov 2026 07:00:00 +0100</pubDate>
-    <guid isPermaLink="false">43d8ea780e9786a86c5f56b7a7f36a7a</guid>
-    <category>Infrastructure &amp; Transport</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-07</source>
-    <media:content url="https://maltanews.great-site.net/img/1e74cf1a3eea02416eed5b3e2e9f1e4023a4f565-1793972285-562ecd73-1200x630.png" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/1e74cf1a3eea02416eed5b3e2e9f1e4023a4f565-1793972285-562ecd73-1200x630.png" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Wied Dalam national park approved on former RAF fuel depot site in Birżebbuġa</title>
-    <link>https://newsbook.com.mt/approvata-applikazzjoni-ghall-progett-ta-wied-dalam-fl-eks-sit-tal-raf-fbirzebbuga/</link>
-    <description>The Planning Authority approved WasteServ Maltas application to turn a 34,000 square metre former RAF aviation fuel depot near Għar Dalam into Wied Dalam Park, administered by GreenServ. The plans keep the industrial heritage, including 26 ventilation shaft structures, and add picnic and play areas, more than 200 trees and 900 indigenous shrubs. The national park project had first been announced in 2017 while the site was still in use.</description>
-    <content:encoded><![CDATA[<p>The Planning Authority approved WasteServ Maltas application to turn a 34,000 square metre former RAF aviation fuel depot near Għar Dalam into Wied Dalam Park, administered by GreenServ. The plans keep the industrial heritage, including 26 ventilation shaft structures, and add picnic and play areas, more than 200 trees and 900 indigenous shrubs. The national park project had first been announced in 2017 while the site was still in use.</p><p><img src="https://maltanews.great-site.net/img/pa-2022-25-view.jpg" alt="Former RAF fuel depot site in Birkebbuga earmarked as Wied Dalam Park" /></p><p><em>Sources: Newsbook</em></p>]]></content:encoded>
-    <pubDate>Sat, 07 Nov 2026 06:44:00 +0100</pubDate>
-    <guid isPermaLink="false">6a33bd7e5f039e6150717892bab03fcf</guid>
-    <category>Politics</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-07</source>
-    <media:content url="https://maltanews.great-site.net/img/pa-2022-25-view.jpg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/pa-2022-25-view.jpg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Wied Dalam national park approved on former RAF fuel depot site</title>
-    <link>https://newsbook.com.mt/approvata-applikazzjoni-ghall-progett-ta-wied-dalam-fl-eks-sit-tal-raf-fbirzebbuga/</link>
-    <description>The Planning Authority approved WasteServ Maltas application to turn a 34,000 square metre former RAF aviation fuel depot near Gar Dalam in Birebbua into a national park. The plans keep the sites industrial heritage and the new Wied Dalam Park will be administered by GreenServ. The national park project had been in preparation since 2017.</description>
-    <content:encoded><![CDATA[<p>The Planning Authority approved WasteServ Maltas application to turn a 34,000 square metre former RAF aviation fuel depot near Gar Dalam in Birebbua into a national park. The plans keep the sites industrial heritage and the new Wied Dalam Park will be administered by GreenServ. The national park project had been in preparation since 2017.</p><p><img src="https://maltanews.great-site.net/img/pa-2022-25-view.jpg" alt="View of the former RAF fuel depot site at Wied Dalam" /></p><p><em>Sources: Newsbook</em></p>]]></content:encoded>
-    <pubDate>Sat, 07 Nov 2026 06:44:00 +0100</pubDate>
-    <guid isPermaLink="false">f11364edfeb04a294c480c8d0103b969</guid>
-    <category>Politics</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-07</source>
-    <media:content url="https://maltanews.great-site.net/img/pa-2022-25-view.jpg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/pa-2022-25-view.jpg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Cement slurry from Polidanos Luqa plant seeps into Wied Xkora</title>
-    <link>https://timesofmalta.com/article/cement-polidano-luqa-batching-plant-seeps-valley.1136746</link>
-    <description>A valley in Luqa has been left coated in thick grey slurry after a spill from a nearby Polidano concrete batching plant. Maltas Rangers Unit flagged the affected valley and alerted ERA, which instructed the operator to carry out clean-up and corrective actions.</description>
-    <content:encoded><![CDATA[<p>A valley in Luqa has been left coated in thick grey slurry after a spill from a nearby Polidano concrete batching plant. Maltas Rangers Unit flagged the affected valley and alerted ERA, which instructed the operator to carry out clean-up and corrective actions.</p><p><img src="https://maltanews.great-site.net/img/7e8d537c7ec14540a716d6585a562151f93257cf-1793979870-f73f7303-1200x630.jpeg" alt="The Luqa valley coated in grey slurry" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
-    <pubDate>Sat, 07 Nov 2026 06:25:00 +0100</pubDate>
-    <guid isPermaLink="false">549477c47af3bf75ffc67b2c09e0d6d6</guid>
-    <category>Infrastructure &amp; Transport</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-07</source>
-    <media:content url="https://maltanews.great-site.net/img/7e8d537c7ec14540a716d6585a562151f93257cf-1793979870-f73f7303-1200x630.jpeg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/7e8d537c7ec14540a716d6585a562151f93257cf-1793979870-f73f7303-1200x630.jpeg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>American who lived in Malta convicted of killing partner and baby daughter</title>
-    <link>https://timesofmalta.com/article/american-lived-malta-convicted-killing-partner-baby-daughter.1136756</link>
-    <description>An Italian court found Charles Francis Kaufmann, who legally changed his name to Rexal Ford and was known as Daniel R. Foster while living in Marsascala in 2022, guilty of the double murder of his partner Anastasia Trofimova and their 11-month-old daughter, plus concealment of a corpse. He was sentenced to life imprisonment with three years of solitary confinement. Maltese police were involved in the investigation because of his Maltese residence and his years on the island.</description>
-    <content:encoded><![CDATA[<p>An Italian court found Charles Francis Kaufmann, who legally changed his name to Rexal Ford and was known as Daniel R. Foster while living in Marsascala in 2022, guilty of the double murder of his partner Anastasia Trofimova and their 11-month-old daughter, plus concealment of a corpse. He was sentenced to life imprisonment with three years of solitary confinement. Maltese police were involved in the investigation because of his Maltese residence and his years on the island.</p><p><img src="https://maltanews.great-site.net/img/8af6d882977a5e061423a8620a70a32168f34d8e-1793999343-adef6e72-1200x630.png" alt="Rexal Ford case in Rome" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
-    <pubDate>Sat, 07 Nov 2026 06:18:00 +0100</pubDate>
-    <guid isPermaLink="false">5d11259ec1306943bea5fe9b2ce3ef9c</guid>
-    <category>Courts &amp; Crime</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-07</source>
-    <media:content url="https://maltanews.great-site.net/img/8af6d882977a5e061423a8620a70a32168f34d8e-1793999343-adef6e72-1200x630.png" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/8af6d882977a5e061423a8620a70a32168f34d8e-1793999343-adef6e72-1200x630.png" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>American who lived in Malta jailed for life over murder of partner and baby daughter</title>
-    <link>https://timesofmalta.com/article/american-lived-malta-convicted-killing-partner-baby-daughter.1136756</link>
-    <description>A 47-year-old American man who used multiple identities and lived in Marsaskala has been sentenced to life in prison by an Italian court for the murder of his partner and their 11-month-old daughter. Born Charles Francis Kaufmann, he used the name Rexal Ford and presented himself as a film director. The lifeless bodies of Anastasia Trofimova and their daughter Andromeda were found in Romes Villa Pamphili park in June 2025 after the family moved to Rome, and he was later convicted of double murder and concealment of a corpse.</description>
-    <content:encoded><![CDATA[<p>A 47-year-old American man who used multiple identities and lived in Marsaskala has been sentenced to life in prison by an Italian court for the murder of his partner and their 11-month-old daughter. Born Charles Francis Kaufmann, he used the name Rexal Ford and presented himself as a film director. The lifeless bodies of Anastasia Trofimova and their daughter Andromeda were found in Romes Villa Pamphili park in June 2025 after the family moved to Rome, and he was later convicted of double murder and concealment of a corpse.</p><p><img src="https://maltanews.great-site.net/img/8af6d882977a5e061423a8620a70a32168f34d8e-1793999343-adef6e72-1200x630.png" alt="Rexal Ford, the American convicted over the murders in Rome" /></p><p><em>Sources: Times of Malta, Newsbook, Lovin Malta</em></p>]]></content:encoded>
-    <pubDate>Sat, 07 Nov 2026 06:18:00 +0100</pubDate>
-    <guid isPermaLink="false">d9ff2804a5bf80ce38cf0396099c112c</guid>
-    <category>Courts &amp; Crime</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-07</source>
-    <media:content url="https://maltanews.great-site.net/img/8af6d882977a5e061423a8620a70a32168f34d8e-1793999343-adef6e72-1200x630.png" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/8af6d882977a5e061423a8620a70a32168f34d8e-1793999343-adef6e72-1200x630.png" length="0" type="image/jpeg" />
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-08</source>
+    <media:content url="https://maltanews.great-site.net/img/GABE-FB-COVER-33-1024x536.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/GABE-FB-COVER-33-1024x536.jpg" length="0" type="image/jpeg" />
   </item>
 </channel>
 </rss>
