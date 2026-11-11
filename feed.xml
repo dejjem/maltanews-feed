@@ -9,8 +9,8 @@
   <link>https://maltanews.great-site.net/</link>
   <description>Daily Malta news digest, automated. Curated from local Maltese news sources.</description>
   <language>en-mt</language>
-  <lastBuildDate>Wed, 11 Nov 2026 06:31:47 +0100</lastBuildDate>
-  <pubDate>Wed, 11 Nov 2026 12:00:00 +0100</pubDate>
+  <lastBuildDate>Wed, 11 Nov 2026 13:32:56 +0100</lastBuildDate>
+  <pubDate>Wed, 11 Nov 2026 12:50:00 +0100</pubDate>
   <generator>Hermes Malta News pipeline v3 + RSS</generator>
   <managingEditor>dejjem@gmail.com (Mark Micallef)</managingEditor>
   <atom:link href="https://dejjem.github.io/maltanews-feed/feed.xml" rel="self" type="application/rss+xml" />
@@ -19,6 +19,30 @@
     <title>Malta News Today</title>
     <link>https://maltanews.great-site.net/</link>
   </image>
+  <item>
+    <title>Police dismiss pre-election jobs claim naming Home Affairs Minister</title>
+    <link>https://timesofmalta.com/article/police-dismiss-preelection-jobs-claim-naming-home-affairs-minister.1136924</link>
+    <description>A police investigation has dismissed allegations by lawyer Jason Azzopardi, who said Glenn Bedingfield and other ministers handed out hundreds of government jobs for votes ahead of the June election. Azzopardi, who filed the complaint a week after Labour won, claims the police were ordered to bury the investigation because it involved their "political masters". The police say the complaint was "duly investigated" and that any suggestion the probe was buried is "unfounded".</description>
+    <content:encoded><![CDATA[<p>A police investigation has dismissed allegations by lawyer Jason Azzopardi, who said Glenn Bedingfield and other ministers handed out hundreds of government jobs for votes ahead of the June election. Azzopardi, who filed the complaint a week after Labour won, claims the police were ordered to bury the investigation because it involved their &quot;political masters&quot;. The police say the complaint was &quot;duly investigated&quot; and that any suggestion the probe was buried is &quot;unfounded&quot;.</p><p><img src="https://maltanews.great-site.net/img/91d90e039f3d75b83eb26171036682b5c4a8f0be-1794395496-12e060b2-1200x630.png" alt="Police dismiss pre-election jobs claim naming Home Affairs Minister" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Wed, 11 Nov 2026 12:50:00 +0100</pubDate>
+    <guid isPermaLink="false">5132b41b7ea3c40cd5f6dd93a43cc38d</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-11</source>
+    <media:content url="https://maltanews.great-site.net/img/91d90e039f3d75b83eb26171036682b5c4a8f0be-1794395496-12e060b2-1200x630.png" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/91d90e039f3d75b83eb26171036682b5c4a8f0be-1794395496-12e060b2-1200x630.png" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Chamber of Scientists hits back at Culture Minister's remarks</title>
+    <link>https://lovinmalta.com/news/local/science-has-never-advanced-by-following-norms-chamber-of-scientists-hits-back-at-culture-minister/</link>
+    <description>The Malta Chamber of Scientists criticised comments by Culture Minister Agius Galea suggesting artistic expression should be guided by established norms, warning that restricting creativity could undermine artistic freedom and scientific progress. In a statement, the Chamber said creativity cannot be confined to what society already considers acceptable, adding that "science has never advanced by staying within accepted norms, and neither has art".</description>
+    <content:encoded><![CDATA[<p>The Malta Chamber of Scientists criticised comments by Culture Minister Agius Galea suggesting artistic expression should be guided by established norms, warning that restricting creativity could undermine artistic freedom and scientific progress. In a statement, the Chamber said creativity cannot be confined to what society already considers acceptable, adding that &quot;science has never advanced by staying within accepted norms, and neither has art&quot;.</p><p><img src="https://maltanews.great-site.net/img/GABE-FB-COVER-76-1024x536.jpg" alt="Malta Chamber of Scientists statement" /></p><p><em>Sources: Lovin Malta</em></p>]]></content:encoded>
+    <pubDate>Wed, 11 Nov 2026 12:35:00 +0100</pubDate>
+    <guid isPermaLink="false">9c5eb3faa1d704a0d30db44365a9ed2a</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-11</source>
+    <media:content url="https://maltanews.great-site.net/img/GABE-FB-COVER-76-1024x536.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/GABE-FB-COVER-76-1024x536.jpg" length="0" type="image/jpeg" />
+  </item>
   <item>
     <title>Government and Opposition agree Malta's economic model must evolve</title>
     <link>https://timesofmalta.com/article/government-opposition-agree-malta-economic-model-evolve.1136908</link>
@@ -160,6 +184,138 @@
     <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-11</source>
     <media:content url="https://maltanews.great-site.net/img/attwalita-malcolm-paul-agius-galea_2-scaled.jpg" medium="image" />
     <enclosure url="https://maltanews.great-site.net/img/attwalita-malcolm-paul-agius-galea_2-scaled.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Labour and PN voters diverge on Budget 2027 measures</title>
+    <link>https://newsbook.com.mt/70-tal-laburisti-jaqblu-mal-mizuri-tat-tcns-65-tan-nazzjonalisti-kontra/</link>
+    <description>The Esprimi Budget Barometer 2027 survey of around 400 voters found 70% of Labour voters approve of the measures on incoming third-country workers, against 35% of Nationalist voters, while Labour voters were 61 points more satisfied than dissatisfied with the budget overall. Both groups rated the Mater Dei emergency extension and energy subsidies as the most liked measures and the higher eco-contribution as the least welcome. The poll was conducted up to 2 November.</description>
+    <content:encoded><![CDATA[<p>The Esprimi Budget Barometer 2027 survey of around 400 voters found 70% of Labour voters approve of the measures on incoming third-country workers, against 35% of Nationalist voters, while Labour voters were 61 points more satisfied than dissatisfied with the budget overall. Both groups rated the Mater Dei emergency extension and energy subsidies as the most liked measures and the higher eco-contribution as the least welcome. The poll was conducted up to 2 November.</p><p><img src="https://maltanews.great-site.net/img/Bolt-Food-Delivery-Gozo-scaled.jpg" alt="Budget 2027 measures and incoming workers" /></p><p><em>Sources: Newsbook, Malta Independent</em></p>]]></content:encoded>
+    <pubDate>Wed, 11 Nov 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">b622d105fc5f267a665d4e5a6e55b8ed</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-11</source>
+    <media:content url="https://maltanews.great-site.net/img/Bolt-Food-Delivery-Gozo-scaled.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/Bolt-Food-Delivery-Gozo-scaled.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Three arrested in Gozo drug bust, €80,000 seized</title>
+    <link>https://timesofmalta.com/article/police-arrest-three-gozo-drug-bust-find-80000-cash.1136930</link>
+    <description>Police arrested three Gozo residents aged 41, 57 and 75 over alleged drug trafficking. Officers surveilling an apartment block on Triq taċ-Ċawla in Victoria stopped the 41-year-old man as he left, finding two packets suspected to be heroin and cocaine. Searches of the apartment and the woman's car yielded more packets and around €80,000 in cash. The suspects were due to be arraigned in Gozo Court on Wednesday afternoon.</description>
+    <content:encoded><![CDATA[<p>Police arrested three Gozo residents aged 41, 57 and 75 over alleged drug trafficking. Officers surveilling an apartment block on Triq taċ-Ċawla in Victoria stopped the 41-year-old man as he left, finding two packets suspected to be heroin and cocaine. Searches of the apartment and the woman&#x27;s car yielded more packets and around €80,000 in cash. The suspects were due to be arraigned in Gozo Court on Wednesday afternoon.</p><p><img src="https://maltanews.great-site.net/img/0c5ef058825ff8abcbd415e57d471aaf7873d5ac-1794394707-ee174343-1200x630.png" alt="Police arrest three over alleged drug trafficking in Gozo" /></p><p><em>Sources: Times of Malta, Malta Today, Newsbook, Lovin Malta</em></p>]]></content:encoded>
+    <pubDate>Wed, 11 Nov 2026 11:51:00 +0100</pubDate>
+    <guid isPermaLink="false">56155581561b7af39ec65ece398d8446</guid>
+    <category>Courts &amp; Crime</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-11</source>
+    <media:content url="https://maltanews.great-site.net/img/0c5ef058825ff8abcbd415e57d471aaf7873d5ac-1794394707-ee174343-1200x630.png" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/0c5ef058825ff8abcbd415e57d471aaf7873d5ac-1794394707-ee174343-1200x630.png" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Malta avoids Arctic chill, warmer-than-usual weekend ahead</title>
+    <link>https://www.maltatoday.com.mt/news/national/145650/malta_avoids_arctic_chill_with_a_warmerthanusual_weekend_ahead</link>
+    <description>The Met Office expects highs of 23°C to 24°C on 14 and 15 November, against a seasonal norm of 21°C, and says no significant temperature drop is expected from an Arctic air mass. The forecast comes as forecasters across Europe monitor an unusually early weakening of the polar vortex that could bring colder weather to parts of Europe, North America and Asia in the weeks ahead.</description>
+    <content:encoded><![CDATA[<p>The Met Office expects highs of 23°C to 24°C on 14 and 15 November, against a seasonal norm of 21°C, and says no significant temperature drop is expected from an Arctic air mass. The forecast comes as forecasters across Europe monitor an unusually early weakening of the polar vortex that could bring colder weather to parts of Europe, North America and Asia in the weeks ahead.</p><p><img src="https://maltanews.great-site.net/img/screenshot_2025-10-23_at_13.52.43.png" alt="Weather forecast for Malta" /></p><p><em>Sources: Malta Today</em></p>]]></content:encoded>
+    <pubDate>Wed, 11 Nov 2026 11:38:00 +0100</pubDate>
+    <guid isPermaLink="false">1c5dec6ef2f1743bce2ebcebc9d5191a</guid>
+    <category>General</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-11</source>
+    <media:content url="https://maltanews.great-site.net/img/screenshot_2025-10-23_at_13.52.43.png" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/screenshot_2025-10-23_at_13.52.43.png" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Road casualties fall 18.4% in third quarter, four people killed</title>
+    <link>https://timesofmalta.com/article/road-casualties-summer.1136926</link>
+    <description>National Statistics Office figures show 3,909 traffic accidents were reported between July and September, down 0.2% year on year, while casualties dropped 18.4% to 319. Four people died — three drivers and one passenger — and 115 people were grievously injured, including 72 drivers, 16 passengers and 27 pedestrians or cyclists. Northern Harbour recorded the most accidents with 1,231 cases.</description>
+    <content:encoded><![CDATA[<p>National Statistics Office figures show 3,909 traffic accidents were reported between July and September, down 0.2% year on year, while casualties dropped 18.4% to 319. Four people died — three drivers and one passenger — and 115 people were grievously injured, including 72 drivers, 16 passengers and 27 pedestrians or cyclists. Northern Harbour recorded the most accidents with 1,231 cases.</p><p><img src="https://maltanews.great-site.net/img/f952285397301318473351930c9bd121cd306964-1794393820-ea552d88-1200x630.jpg" alt="Road traffic statistics for the third quarter of 2026" /></p><p><em>Sources: Times of Malta, Lovin Malta, Newsbook</em></p>]]></content:encoded>
+    <pubDate>Wed, 11 Nov 2026 11:30:00 +0100</pubDate>
+    <guid isPermaLink="false">04cc30d04df43a90bf03afffedcd7e5a</guid>
+    <category>Infrastructure &amp; Transport</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-11</source>
+    <media:content url="https://maltanews.great-site.net/img/f952285397301318473351930c9bd121cd306964-1794393820-ea552d88-1200x630.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/f952285397301318473351930c9bd121cd306964-1794393820-ea552d88-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Mark Anthony Sammut weighing bid for PN deputy leader</title>
+    <link>https://www.maltatoday.com.mt/news/national/145647/mark_anthony_sammut_weighing_bid_to_unseat_perici_calascione_as_pn_deputy_leader_for_party_affairs_</link>
+    <description>Nationalist MP Mark Anthony Sammut is seriously considering contesting the post of Nationalist Party deputy leader for party affairs against incumbent Alex Perici Calascione, who has also confirmed he intends to run. Sammut said party councillors had approached him about standing, and both men said they had spoken to party leader Alex Borg. The party is currently making major and minor changes to its statute.</description>
+    <content:encoded><![CDATA[<p>Nationalist MP Mark Anthony Sammut is seriously considering contesting the post of Nationalist Party deputy leader for party affairs against incumbent Alex Perici Calascione, who has also confirmed he intends to run. Sammut said party councillors had approached him about standing, and both men said they had spoken to party leader Alex Borg. The party is currently making major and minor changes to its statute.</p><p><img src="https://maltanews.great-site.net/img/perici_calascione_sammut_election.png" alt="Mark Anthony Sammut and Perici Calascione" /></p><p><em>Sources: Malta Today</em></p>]]></content:encoded>
+    <pubDate>Wed, 11 Nov 2026 11:09:00 +0100</pubDate>
+    <guid isPermaLink="false">3e1c615eef2cdde72cd8743995047f41</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-11</source>
+    <media:content url="https://maltanews.great-site.net/img/perici_calascione_sammut_election.png" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/perici_calascione_sammut_election.png" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Schools to use medical professionals instead of LSEs for some pupils</title>
+    <link>https://timesofmalta.com/article/medical-professionals-instead-lses-students-learning-difficulties.1136919</link>
+    <description>Following Cabinet approval, students with a medical condition or physical disability but no learning difficulties will be assisted by specially trained medical professionals during school hours rather than Learning Support Educators. Education Minister Byron Camilleri said the needs-based approach frees LSEs to concentrate on students with learning difficulties. Existing arrangements continue unless families request a change.</description>
+    <content:encoded><![CDATA[<p>Following Cabinet approval, students with a medical condition or physical disability but no learning difficulties will be assisted by specially trained medical professionals during school hours rather than Learning Support Educators. Education Minister Byron Camilleri said the needs-based approach frees LSEs to concentrate on students with learning difficulties. Existing arrangements continue unless families request a change.</p><p><img src="https://maltanews.great-site.net/img/05be2bc384e61266657039c82703c3a601e8e7f0-1794390400-5dcb14c9-1200x630.jpg" alt="Students with medical conditions to be supported by medical professionals in school" /></p><p><em>Sources: Times of Malta, Malta Today, Newsbook, Lovin Malta</em></p>]]></content:encoded>
+    <pubDate>Wed, 11 Nov 2026 10:00:00 +0100</pubDate>
+    <guid isPermaLink="false">83f2a1cbe878a72f310c11502474681a</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-11</source>
+    <media:content url="https://maltanews.great-site.net/img/05be2bc384e61266657039c82703c3a601e8e7f0-1794390400-5dcb14c9-1200x630.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/05be2bc384e61266657039c82703c3a601e8e7f0-1794390400-5dcb14c9-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Agius calls for mandatory EU islands impact test on new laws</title>
+    <link>https://www.independent.com.mt/articles/2026-11-11/local-news/Peter-Agius-calls-for-mandatory-EU-islands-impact-test-on-new-legislation-6736294525</link>
+    <description>The European Parliament's IMCO Committee held an exchange of views on EU islands, an initiative of MEP Peter Agius, with Minister Clint Camilleri, economist Marisa Xuereb, Commission representatives and several MEPs taking part. Agius called for all new EU legislative proposals to include a dedicated islands impact assessment, identifying safeguards such as derogations. Xuereb said transport costs are slowly eroding Maltese manufacturing and that Maltese consumer prices run about 30% above Germany's.</description>
+    <content:encoded><![CDATA[<p>The European Parliament&#x27;s IMCO Committee held an exchange of views on EU islands, an initiative of MEP Peter Agius, with Minister Clint Camilleri, economist Marisa Xuereb, Commission representatives and several MEPs taking part. Agius called for all new EU legislative proposals to include a dedicated islands impact assessment, identifying safeguards such as derogations. Xuereb said transport costs are slowly eroding Maltese manufacturing and that Maltese consumer prices run about 30% above Germany&#x27;s.</p><p><img src="https://maltanews.great-site.net/img/9e43a5822141.jpg" alt="European Parliament IMCO committee discussion on EU islands" /></p><p><em>Sources: Malta Independent</em></p>]]></content:encoded>
+    <pubDate>Wed, 11 Nov 2026 09:48:00 +0100</pubDate>
+    <guid isPermaLink="false">62b40619c464cec71def7a3bc9e7ba76</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-11</source>
+    <media:content url="https://maltanews.great-site.net/img/9e43a5822141.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/9e43a5822141.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>54 apartments planned metres from Zejtun's Grade 1 villa</title>
+    <link>https://www.independent.com.mt/articles/2026-11-11/local-news/Block-of-54-apartments-planned-a-stone-s-throw-away-from-scheduled-Knights-era-villa-6736294524</link>
+    <description>Developer Josef Dimech, through JSDimech Ltd, has filed plans for 54 apartments, eight penthouses and 71 underground garages on a 1,857 square metre site along Triq it-Tempju and Triq Dun Mikiel Cassar in Zejtun, part of which falls inside the locality's Urban Conservation Area. The site lies close to Villa Cagliares, a Knights-era residence with Grade 1 scheduling protection, and includes a largely abandoned building with a collapsed roof.</description>
+    <content:encoded><![CDATA[<p>Developer Josef Dimech, through JSDimech Ltd, has filed plans for 54 apartments, eight penthouses and 71 underground garages on a 1,857 square metre site along Triq it-Tempju and Triq Dun Mikiel Cassar in Zejtun, part of which falls inside the locality&#x27;s Urban Conservation Area. The site lies close to Villa Cagliares, a Knights-era residence with Grade 1 scheduling protection, and includes a largely abandoned building with a collapsed roof.</p><p><img src="https://maltanews.great-site.net/img/a9efc57859c3.jpg" alt="Planned residential development in Zejtun" /></p><p><em>Sources: Malta Independent</em></p>]]></content:encoded>
+    <pubDate>Wed, 11 Nov 2026 09:29:00 +0100</pubDate>
+    <guid isPermaLink="false">878460a3f17db0e31634e338d92e548a</guid>
+    <category>Environment</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-11</source>
+    <media:content url="https://maltanews.great-site.net/img/a9efc57859c3.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/a9efc57859c3.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Court hears evidence in alleged ISIS-inspired terror plot case</title>
+    <link>https://lovinmalta.com/news/local/eight-people-arrested-over-alleged-isis-inspired-terror-plot-in-malta/</link>
+    <description>Eight people have been arrested in connection with an alleged ISIS-inspired terrorist plot in Malta, a court heard. The details emerged during the compilation of evidence against 21-year-old Daniel Spiteri, who faces charges including planning a terrorist attack, recruiting or encouraging another person to engage in terrorist activities, and training someone in the use of weapons with the intent of carrying out an act of terrorism. Counter-Terrorism Unit Inspector Zachary Zammit told Magistrate Ann Marie Thake that police had arrested seven other individuals in connection with the alleged plot.</description>
+    <content:encoded><![CDATA[<p>Eight people have been arrested in connection with an alleged ISIS-inspired terrorist plot in Malta, a court heard. The details emerged during the compilation of evidence against 21-year-old Daniel Spiteri, who faces charges including planning a terrorist attack, recruiting or encouraging another person to engage in terrorist activities, and training someone in the use of weapons with the intent of carrying out an act of terrorism. Counter-Terrorism Unit Inspector Zachary Zammit told Magistrate Ann Marie Thake that police had arrested seven other individuals in connection with the alleged plot.</p><p><img src="https://maltanews.great-site.net/img/GABE-FB-COVER-68-1024x536.jpg" alt="Court proceedings over alleged ISIS-inspired terror plot" /></p><p><em>Sources: Lovin Malta</em></p>]]></content:encoded>
+    <pubDate>Wed, 11 Nov 2026 09:28:00 +0100</pubDate>
+    <guid isPermaLink="false">c644c28cf7e237016da18f4d820f7db1</guid>
+    <category>Courts &amp; Crime</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-11</source>
+    <media:content url="https://maltanews.great-site.net/img/GABE-FB-COVER-68-1024x536.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/GABE-FB-COVER-68-1024x536.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Seismic stations detected Comino cave collapse</title>
+    <link>https://timesofmalta.com/article/seismic-stations-detect-comino-cave-collapse.1136909</link>
+    <description>The Sunday collapse of the sea cave known as Popeye's Cave or L-Għar ta' Bla Saqaf near Crystal Lagoon was picked up by seismic monitoring stations, including a small device being tested for use in schools. The University of Malta's Seismic Monitoring and Research Group confirmed the rockfall time at about 9.13am on Sunday 8 November after analysing recordings from stations in Malta, Gozo and Comino. Nobody was injured.</description>
+    <content:encoded><![CDATA[<p>The Sunday collapse of the sea cave known as Popeye&#x27;s Cave or L-Għar ta&#x27; Bla Saqaf near Crystal Lagoon was picked up by seismic monitoring stations, including a small device being tested for use in schools. The University of Malta&#x27;s Seismic Monitoring and Research Group confirmed the rockfall time at about 9.13am on Sunday 8 November after analysing recordings from stations in Malta, Gozo and Comino. Nobody was injured.</p><p><img src="https://maltanews.great-site.net/img/1748aee3f8d012a736403b21f20a297ade1e7550-1794339405-19438604-1200x630.jpeg" alt="Crystal Lagoon at Comino" /></p><p><em>Sources: Times of Malta, Newsbook</em></p>]]></content:encoded>
+    <pubDate>Wed, 11 Nov 2026 07:00:00 +0100</pubDate>
+    <guid isPermaLink="false">c8c7ace0b295ecd167d1cd67026f60b4</guid>
+    <category>Health &amp; Education</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-11</source>
+    <media:content url="https://maltanews.great-site.net/img/1748aee3f8d012a736403b21f20a297ade1e7550-1794339405-19438604-1200x630.jpeg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/1748aee3f8d012a736403b21f20a297ade1e7550-1794339405-19438604-1200x630.jpeg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Major Peter Ripard dies aged 89, 16 years after Transport Malta bombing</title>
+    <link>https://timesofmalta.com/article/major-peter-ripard-dies-aged-89-nearly-16-years-transport-malta.1136904</link>
+    <description>Major Peter Ripard, the road safety expert who lost a leg in the mysterious bomb explosion at Transport Malta's offices in 2010, died at Mater Dei Hospital on Sunday aged 89 following health problems. His death comes almost 16 years after the 2 December 2010 explosion, which seriously injured him and made national headlines. His children remembered his determination, resilience and faith.</description>
+    <content:encoded><![CDATA[<p>Major Peter Ripard, the road safety expert who lost a leg in the mysterious bomb explosion at Transport Malta&#x27;s offices in 2010, died at Mater Dei Hospital on Sunday aged 89 following health problems. His death comes almost 16 years after the 2 December 2010 explosion, which seriously injured him and made national headlines. His children remembered his determination, resilience and faith.</p><p><img src="https://maltanews.great-site.net/img/9baf45e74ad6d7dddd5bc97fa37e1e4ab0840239-1794392833-42031d8c-1200x630.jpeg" alt="Major Peter Ripard" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Wed, 11 Nov 2026 06:30:00 +0100</pubDate>
+    <guid isPermaLink="false">ed4f78158433835d4af32848b840d969</guid>
+    <category>Infrastructure &amp; Transport</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-11</source>
+    <media:content url="https://maltanews.great-site.net/img/9baf45e74ad6d7dddd5bc97fa37e1e4ab0840239-1794392833-42031d8c-1200x630.jpeg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/9baf45e74ad6d7dddd5bc97fa37e1e4ab0840239-1794392833-42031d8c-1200x630.jpeg" length="0" type="image/jpeg" />
   </item>
   <item>
     <title>Vatican bank wins Malta case but faces €21.5m bill in Budapest</title>
