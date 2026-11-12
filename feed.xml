@@ -9,8 +9,8 @@
   <link>https://maltanews.great-site.net/</link>
   <description>Daily Malta news digest, automated. Curated from local Maltese news sources.</description>
   <language>en-mt</language>
-  <lastBuildDate>Thu, 12 Nov 2026 06:31:54 +0100</lastBuildDate>
-  <pubDate>Thu, 12 Nov 2026 12:00:00 +0100</pubDate>
+  <lastBuildDate>Thu, 12 Nov 2026 13:33:18 +0100</lastBuildDate>
+  <pubDate>Thu, 12 Nov 2026 12:55:00 +0100</pubDate>
   <generator>Hermes Malta News pipeline v3 + RSS</generator>
   <managingEditor>dejjem@gmail.com (Mark Micallef)</managingEditor>
   <atom:link href="https://dejjem.github.io/maltanews-feed/feed.xml" rel="self" type="application/rss+xml" />
@@ -19,6 +19,78 @@
     <title>Malta News Today</title>
     <link>https://maltanews.great-site.net/</link>
   </image>
+  <item>
+    <title>Six cyberbullying victims reported to police this year, half of them minors</title>
+    <link>https://timesofmalta.com/article/13yearold-among-six-cyberbullying-victims-reported-police-year.1136976</link>
+    <description>Home Affairs Minister Glenn Bedingfield told parliament that the police identified six alleged cyberbullying victims this year, three of them minors aged 13 and 14, with five of the six female. Four cases were registered in the police electronic system while two emerged during other investigations, and legal action was taken in two cases with charges brought in a third.</description>
+    <content:encoded><![CDATA[<p>Home Affairs Minister Glenn Bedingfield told parliament that the police identified six alleged cyberbullying victims this year, three of them minors aged 13 and 14, with five of the six female. Four cases were registered in the police electronic system while two emerged during other investigations, and legal action was taken in two cases with charges brought in a third.</p><p><img src="https://maltanews.great-site.net/img/dcef80e1f0b1f7b4be5c5f73b32cb028fc22ec17-1794483754-77d4230a-1200x630.jpeg" alt="Cyberbullying cases reported to the Maltese police force" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Thu, 12 Nov 2026 12:55:00 +0100</pubDate>
+    <guid isPermaLink="false">22409da74b133b82ebcfb38375fafce6</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-12</source>
+    <media:content url="https://maltanews.great-site.net/img/dcef80e1f0b1f7b4be5c5f73b32cb028fc22ec17-1794483754-77d4230a-1200x630.jpeg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/dcef80e1f0b1f7b4be5c5f73b32cb028fc22ec17-1794483754-77d4230a-1200x630.jpeg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Constitutional Court turns away ITS lecturers' union freedom case</title>
+    <link>https://www.maltatoday.com.mt/news/court_and_police/145681/lecturers_who_defied_its_on_union_upes_orders_turned_away_by_constitutional_court</link>
+    <description>Two veteran Institute of Tourism Studies lecturers, disciplined after refusing to teach mixed kitchen classes they believed were unsafe, have been turned away by the Constitutional Court. Judge Abigail Lofaro ruled they should first have taken the case to the Industrial Tribunal, declining to rule on whether union recognition rules muzzle minority unions such as the Union of Professional Educators.</description>
+    <content:encoded><![CDATA[<p>Two veteran Institute of Tourism Studies lecturers, disciplined after refusing to teach mixed kitchen classes they believed were unsafe, have been turned away by the Constitutional Court. Judge Abigail Lofaro ruled they should first have taken the case to the Industrial Tribunal, declining to rule on whether union recognition rules muzzle minority unions such as the Union of Professional Educators.</p><p><img src="https://maltanews.great-site.net/img/2_8_court.jpg" alt="Constitutional Court of Malta" /></p><p><em>Sources: Malta Today</em></p>]]></content:encoded>
+    <pubDate>Thu, 12 Nov 2026 12:54:00 +0100</pubDate>
+    <guid isPermaLink="false">0d0e2dc437ab00ec56392f76b4cf225e</guid>
+    <category>Courts &amp; Crime</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-12</source>
+    <media:content url="https://maltanews.great-site.net/img/2_8_court.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/2_8_court.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>ERA switches 24/7 emergency line to 1404</title>
+    <link>https://timesofmalta.com/article/spotted-environmental-emergency-dial-1404.1136957</link>
+    <description>The Environment and Resources Authority has replaced its 24/7 emergency number, 2292 3500, with the shorter 1404 so residents can report incidents needing immediate attention. Reportable incidents include waste burning, illegal dumping, unlawful cutting of trees and vegetation, illegal harvesting or trade of protected species and pollution incidents.</description>
+    <content:encoded><![CDATA[<p>The Environment and Resources Authority has replaced its 24/7 emergency number, 2292 3500, with the shorter 1404 so residents can report incidents needing immediate attention. Reportable incidents include waste burning, illegal dumping, unlawful cutting of trees and vegetation, illegal harvesting or trade of protected species and pollution incidents.</p><p><img src="https://maltanews.great-site.net/img/6fb90202075da46077e9b4f436fe99d1de02fba8-1794483974-c56a713b-1200x630.jpg" alt="Environment and Resources Authority emergency helpline" /></p><p><em>Sources: Times of Malta, Malta Independent, Newsbook</em></p>]]></content:encoded>
+    <pubDate>Thu, 12 Nov 2026 12:50:00 +0100</pubDate>
+    <guid isPermaLink="false">7da9689ee9fadb745aedf87f571487d0</guid>
+    <category>Infrastructure &amp; Transport</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-12</source>
+    <media:content url="https://maltanews.great-site.net/img/6fb90202075da46077e9b4f436fe99d1de02fba8-1794483974-c56a713b-1200x630.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/6fb90202075da46077e9b4f436fe99d1de02fba8-1794483974-c56a713b-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Villa Lauri opens in Birkirkara for Gozitan patients and relatives</title>
+    <link>https://www.independent.com.mt/articles/2026-11-12/local-news/Villa-Lauri-inaugurated-to-provide-accommodation-for-Gozitan-patients-receiving-treatment-in-Malta-6736294573</link>
+    <description>Gozo Minister Clint Camilleri has inaugurated Villa Lauri, a four-storey facility with 23 rooms and 33 beds offering accommodation to Gozitan patients travelling to Malta for treatment and to the relatives accompanying them. Access is available to Gozitan residents with appointments before 10am or needing an overnight stay, with both parents allowed to accompany child patients, and applications can be made through gozo.gov.mt or the MyGozo app.</description>
+    <content:encoded><![CDATA[<p>Gozo Minister Clint Camilleri has inaugurated Villa Lauri, a four-storey facility with 23 rooms and 33 beds offering accommodation to Gozitan patients travelling to Malta for treatment and to the relatives accompanying them. Access is available to Gozitan residents with appointments before 10am or needing an overnight stay, with both parents allowed to accompany child patients, and applications can be made through gozo.gov.mt or the MyGozo app.</p><p><img src="https://maltanews.great-site.net/img/0befb6d8e28c.jpg" alt="Villa Lauri accommodation facility in Birkirkara" /></p><p><em>Sources: Malta Independent</em></p>]]></content:encoded>
+    <pubDate>Thu, 12 Nov 2026 12:32:00 +0100</pubDate>
+    <guid isPermaLink="false">7800138484ee7ebefbeee3995a4dbdb9</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-12</source>
+    <media:content url="https://maltanews.great-site.net/img/0befb6d8e28c.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/0befb6d8e28c.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Formal education workforce up 1.3% to 20,448 staff</title>
+    <link>https://timesofmalta.com/article/formal-education-staff-20242025.1136974</link>
+    <description>National Statistics Office data show total teaching and non-teaching staff in formal education reached 20,448 in the 2024-2025 academic year, with 10,664 in teaching and academic roles. Women made up 70.2% of staff, while foreign classroom teachers and academic staff rose 3.8% year on year and male staff still outnumbered women at tertiary academic level.</description>
+    <content:encoded><![CDATA[<p>National Statistics Office data show total teaching and non-teaching staff in formal education reached 20,448 in the 2024-2025 academic year, with 10,664 in teaching and academic roles. Women made up 70.2% of staff, while foreign classroom teachers and academic staff rose 3.8% year on year and male staff still outnumbered women at tertiary academic level.</p><p><img src="https://maltanews.great-site.net/img/05be2bc384e61266657039c82703c3a601e8e7f0-1794482805-6f759c72-1200x630.jpg" alt="Education workforce in Malta" /></p><p><em>Sources: Times of Malta, Malta Independent, Lovin Malta</em></p>]]></content:encoded>
+    <pubDate>Thu, 12 Nov 2026 12:25:00 +0100</pubDate>
+    <guid isPermaLink="false">e3773cb3573b4d8f8f284d25ff79a668</guid>
+    <category>Health &amp; Education</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-12</source>
+    <media:content url="https://maltanews.great-site.net/img/05be2bc384e61266657039c82703c3a601e8e7f0-1794482805-6f759c72-1200x630.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/05be2bc384e61266657039c82703c3a601e8e7f0-1794482805-6f759c72-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Jason Micallef sues Karl Schembri over Ta' Qali gravel contract comment</title>
+    <link>https://www.maltatoday.com.mt/news/court_and_police/145679/jason_micallef_sues_karl_schembri_over_corruption_comment_on_ta_qali_gravel_contract</link>
+    <description>Jason Micallef has filed a defamation suit against author and former journalist Karl Schembri over a Facebook comment accusing him of incompetence and corruption in connection with the Ta' Qali gravel contract. The case adds to a running dispute over the gravel quarry operation and the running of the Mtaħleb quarry in the Wied iż-Żurien area.</description>
+    <content:encoded><![CDATA[<p>Jason Micallef has filed a defamation suit against author and former journalist Karl Schembri over a Facebook comment accusing him of incompetence and corruption in connection with the Ta&#x27; Qali gravel contract. The case adds to a running dispute over the gravel quarry operation and the running of the Mtaħleb quarry in the Wied iż-Żurien area.</p><p><img src="https://maltanews.great-site.net/img/jason_miacllef_karl_schembri.png" alt="Jason Micallef and Karl Schembri" /></p><p><em>Sources: Malta Today</em></p>]]></content:encoded>
+    <pubDate>Thu, 12 Nov 2026 12:21:00 +0100</pubDate>
+    <guid isPermaLink="false">fd11106c37b7c1975a7759a5eb5cce3a</guid>
+    <category>General</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-12</source>
+    <media:content url="https://maltanews.great-site.net/img/jason_miacllef_karl_schembri.png" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/jason_miacllef_karl_schembri.png" length="0" type="image/jpeg" />
+  </item>
   <item>
     <title>Government launches 10-year National Cycling Strategy 2026–2036</title>
     <link>https://timesofmalta.com/article/new-10year-national-cycling-strategy-launched.1136951</link>
@@ -126,6 +198,162 @@
     <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-12</source>
     <media:content url="https://maltanews.great-site.net/img/d30a656994e09386d5e5e0ad52e2f87cf1d1480c-1794411635-2e379be6-1200x630.jpeg" medium="image" />
     <enclosure url="https://maltanews.great-site.net/img/d30a656994e09386d5e5e0ad52e2f87cf1d1480c-1794411635-2e379be6-1200x630.jpeg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Man granted electronic-tagging bail over alleged domestic violence</title>
+    <link>https://www.maltatoday.com.mt/news/court_and_police/145677/domestic_violence_suspect_granted_bail_under_electronic_tagging_conditions</link>
+    <description>A 22-year-old man was granted bail with electronic monitoring after being charged with domestic violence offences, including causing slight injuries to his former partner and breaching bail conditions imposed in 2023 and last month. The case surfaced on 6 November, when Isla Local Council passed on a neighbour's video apparently showing the accused grabbing a woman by the hair and dragging her from a balcony.</description>
+    <content:encoded><![CDATA[<p>A 22-year-old man was granted bail with electronic monitoring after being charged with domestic violence offences, including causing slight injuries to his former partner and breaching bail conditions imposed in 2023 and last month. The case surfaced on 6 November, when Isla Local Council passed on a neighbour&#x27;s video apparently showing the accused grabbing a woman by the hair and dragging her from a balcony.</p><p><img src="https://maltanews.great-site.net/img/jjb00132.jpg" alt="Domestic violence case in court in Malta" /></p><p><em>Sources: Malta Today, Malta Independent</em></p>]]></content:encoded>
+    <pubDate>Thu, 12 Nov 2026 11:57:00 +0100</pubDate>
+    <guid isPermaLink="false">14cc93e2dc54688ed947834c12c38df3</guid>
+    <category>Courts &amp; Crime</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-12</source>
+    <media:content url="https://maltanews.great-site.net/img/jjb00132.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/jjb00132.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>217 children in foster care in Malta, 25 still awaiting a family</title>
+    <link>https://newsbook.com.mt/217-il-tifel-u-tifla-fil-foster-care-fmalta/</link>
+    <description>Some 217 children currently live with foster families in Malta, while 25 young people who have turned 18 still live with the families that took them in, Social Policy and Family Minister Michael Falzon said at an FSWS conference. The event, themed on adverse childhood experiences, brought together professionals and foster carers to discuss the effects of traumatic experiences in childhood and the therapeutic value of stable care.</description>
+    <content:encoded><![CDATA[<p>Some 217 children currently live with foster families in Malta, while 25 young people who have turned 18 still live with the families that took them in, Social Policy and Family Minister Michael Falzon said at an FSWS conference. The event, themed on adverse childhood experiences, brought together professionals and foster carers to discuss the effects of traumatic experiences in childhood and the therapeutic value of stable care.</p><p><img src="https://maltanews.great-site.net/img/WhatsApp-Image-2026-11-12-at-11.46.05.jpeg" alt="Foster care families conference in Malta" /></p><p><em>Sources: Newsbook</em></p>]]></content:encoded>
+    <pubDate>Thu, 12 Nov 2026 11:53:00 +0100</pubDate>
+    <guid isPermaLink="false">fc0857c0c738ed63134116f25225f932</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-12</source>
+    <media:content url="https://maltanews.great-site.net/img/WhatsApp-Image-2026-11-12-at-11.46.05.jpeg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/WhatsApp-Image-2026-11-12-at-11.46.05.jpeg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Airport records 85% seat occupancy with 1.05 million passengers in October</title>
+    <link>https://timesofmalta.com/article/airport-registers-85-seat-occupancy-october.1136973</link>
+    <description>Malta International Airport welcomed about 1.05 million passengers in October, with seat occupancy at 84.7% and aircraft movements up 6.6% year on year across more than 110 destinations. The UK led the market with a 21% share, followed by Italy and Poland, while France recorded a 12.3% drop after two routes were discontinued. MIA expects winter traffic to remain broadly unchanged, with high fuel prices weighing on airlines.</description>
+    <content:encoded><![CDATA[<p>Malta International Airport welcomed about 1.05 million passengers in October, with seat occupancy at 84.7% and aircraft movements up 6.6% year on year across more than 110 destinations. The UK led the market with a 21% share, followed by Italy and Poland, while France recorded a 12.3% drop after two routes were discontinued. MIA expects winter traffic to remain broadly unchanged, with high fuel prices weighing on airlines.</p><p><img src="https://maltanews.great-site.net/img/e250ba313475a80056b721c44e98b33a1c3b69c7-1794480756-2000a741-1200x630.jpg" alt="Malta International Airport terminal" /></p><p><em>Sources: Times of Malta, Malta Independent</em></p>]]></content:encoded>
+    <pubDate>Thu, 12 Nov 2026 11:50:00 +0100</pubDate>
+    <guid isPermaLink="false">a179143882c60bdd247a1947e2cb73e2</guid>
+    <category>Infrastructure &amp; Transport</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-12</source>
+    <media:content url="https://maltanews.great-site.net/img/e250ba313475a80056b721c44e98b33a1c3b69c7-1794480756-2000a741-1200x630.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/e250ba313475a80056b721c44e98b33a1c3b69c7-1794480756-2000a741-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Birżebbuġa council petitions parliament over Hal Far fish-processing odours</title>
+    <link>https://timesofmalta.com/article/birzebbuga-council-petitions-parliament-persistent-fish.1136959</link>
+    <description>The Birżebbuġa Local Council is urging residents to sign a petition asking parliament to act on persistent odours from fish processing at the Ħal Far industrial estate, a problem first flagged in 2022. The petition, launched with Għaqda Storja u Kultura Birżebbuġa and Moviment Graffitti, is addressed to Environment Minister Miriam Dalli and Lands Minister Silvio Schembri.</description>
+    <content:encoded><![CDATA[<p>The Birżebbuġa Local Council is urging residents to sign a petition asking parliament to act on persistent odours from fish processing at the Ħal Far industrial estate, a problem first flagged in 2022. The petition, launched with Għaqda Storja u Kultura Birżebbuġa and Moviment Graffitti, is addressed to Environment Minister Miriam Dalli and Lands Minister Silvio Schembri.</p><p><img src="https://maltanews.great-site.net/img/tuna_plant.jpg" alt="Fish processing plant at Hal Far industrial estate" /></p><p><em>Sources: Times of Malta, Malta Today</em></p>]]></content:encoded>
+    <pubDate>Thu, 12 Nov 2026 11:30:00 +0100</pubDate>
+    <guid isPermaLink="false">c77d00f007ec2c5b715ec8bd25f360a8</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-12</source>
+    <media:content url="https://maltanews.great-site.net/img/tuna_plant.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/tuna_plant.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Man acquitted of Paola truck arson over CCTV chain-of-custody gap</title>
+    <link>https://timesofmalta.com/article/man-acquitted-arson-court-rules-cannot-consider-cctv-footage.1136962</link>
+    <description>A 47-year-old man was acquitted of setting fire to a truck in Paola after Magistrate Nadine Sant Lia ruled that CCTV footage linking him to the Kia Picanto involved could not be considered because of a break in the chain of custody. Investigators had traced the car to Darren Spiteri, but the court found the prosecution had not proved he was driving it or started the fire in February 2024, which damaged a garage and an apartment block.</description>
+    <content:encoded><![CDATA[<p>A 47-year-old man was acquitted of setting fire to a truck in Paola after Magistrate Nadine Sant Lia ruled that CCTV footage linking him to the Kia Picanto involved could not be considered because of a break in the chain of custody. Investigators had traced the car to Darren Spiteri, but the court found the prosecution had not proved he was driving it or started the fire in February 2024, which damaged a garage and an apartment block.</p><p><img src="https://maltanews.great-site.net/img/404c5b093430cada80c0fa75c7b642bd24961135-1794478827-68fa6825-1200x630.jpeg" alt="Court acquittal in an arson case in Paola" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Thu, 12 Nov 2026 11:15:00 +0100</pubDate>
+    <guid isPermaLink="false">1db1e517e0271ca247614b1ffab744ca</guid>
+    <category>Courts &amp; Crime</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-12</source>
+    <media:content url="https://maltanews.great-site.net/img/404c5b093430cada80c0fa75c7b642bd24961135-1794478827-68fa6825-1200x630.jpeg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/404c5b093430cada80c0fa75c7b642bd24961135-1794478827-68fa6825-1200x630.jpeg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>University staff association urges exemption from TCN budget measures</title>
+    <link>https://timesofmalta.com/article/academics-urge-tcn-budget-measures-exemption.1136961</link>
+    <description>The University of Malta Academic Staff Association has written to Education Minister Byron Camilleri asking that non-European staff be exempted from budget measures including the removal of free childcare and public transport, higher driving licence fees and a €400 infrastructure contribution. UMASA says the measures place a significant additional burden on third-country nationals working in Malta, while the Malta Union of Midwives and Nurses has made a similar request for healthcare workers.</description>
+    <content:encoded><![CDATA[<p>The University of Malta Academic Staff Association has written to Education Minister Byron Camilleri asking that non-European staff be exempted from budget measures including the removal of free childcare and public transport, higher driving licence fees and a €400 infrastructure contribution. UMASA says the measures place a significant additional burden on third-country nationals working in Malta, while the Malta Union of Midwives and Nurses has made a similar request for healthcare workers.</p><p><img src="https://maltanews.great-site.net/img/f929040b2ba3fd511bcdbec0d2d59338951c0b81-1794477647-07b967da-1200x630.jpg" alt="University of Malta academic staff" /></p><p><em>Sources: Times of Malta, Malta Today</em></p>]]></content:encoded>
+    <pubDate>Thu, 12 Nov 2026 11:00:00 +0100</pubDate>
+    <guid isPermaLink="false">4c591005b4b53c7a108e5b1798bcd701</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-12</source>
+    <media:content url="https://maltanews.great-site.net/img/f929040b2ba3fd511bcdbec0d2d59338951c0b81-1794477647-07b967da-1200x630.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/f929040b2ba3fd511bcdbec0d2d59338951c0b81-1794477647-07b967da-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Ryanair marks 20 years in Malta with 53 routes this winter</title>
+    <link>https://lovinmalta.com/news/local/ryanair-celebrates-20-years-in-malta-with-53-routes-and-nearly-300-weekly-flights-this-winter/</link>
+    <description>Ryanair is celebrating two decades of operating in Malta, having launched its first two routes to London Luton and Pisa in October 2006. The airline will run nearly 300 weekly flights across 53 routes this winter from a base of nine aircraft at Malta International Airport, connecting the island with the UK, France, Spain, Italy and Poland among other markets.</description>
+    <content:encoded><![CDATA[<p>Ryanair is celebrating two decades of operating in Malta, having launched its first two routes to London Luton and Pisa in October 2006. The airline will run nearly 300 weekly flights across 53 routes this winter from a base of nine aircraft at Malta International Airport, connecting the island with the UK, France, Spain, Italy and Poland among other markets.</p><p><img src="https://maltanews.great-site.net/img/GABE-FB-COVER-100-1-1024x536.jpg" alt="Ryanair aircraft at Malta International Airport" /></p><p><em>Sources: Lovin Malta</em></p>]]></content:encoded>
+    <pubDate>Thu, 12 Nov 2026 10:53:00 +0100</pubDate>
+    <guid isPermaLink="false">5a406dda1bf82f822c3c1daae1c178b4</guid>
+    <category>Infrastructure &amp; Transport</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-12</source>
+    <media:content url="https://maltanews.great-site.net/img/GABE-FB-COVER-100-1-1024x536.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/GABE-FB-COVER-100-1-1024x536.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Non-EU students face at least €1,200 in fees under Budget 2027 bill</title>
+    <link>https://www.maltatoday.com.mt/news/budget-2027/145633/noneu_students_coming_to_malta_to_pay_much_higher_fees_as_of_2027</link>
+    <description>Bill 15 would raise the residence permit fee for third-country national students from €50 to €500, increase service visa fees and add a €400 annual infrastructure contribution, taking the minimum cost for an adult student to about €1,200. The changes follow a wider package of fee increases targeting third-country nationals, including employment permits rising from €600 to €800.</description>
+    <content:encoded><![CDATA[<p>Bill 15 would raise the residence permit fee for third-country national students from €50 to €500, increase service visa fees and add a €400 annual infrastructure contribution, taking the minimum cost for an adult student to about €1,200. The changes follow a wider package of fee increases targeting third-country nationals, including employment permits rising from €600 to €800.</p><p><img src="https://maltanews.great-site.net/img/526cf2b95407.jpg" alt="Students from outside the EU applying to study in Malta" /></p><p><em>Sources: Malta Today</em></p>]]></content:encoded>
+    <pubDate>Thu, 12 Nov 2026 10:48:00 +0100</pubDate>
+    <guid isPermaLink="false">6d19ff7e4b235f0fafc31a04369471e3</guid>
+    <category>Economy</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-12</source>
+    <media:content url="https://maltanews.great-site.net/img/526cf2b95407.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/526cf2b95407.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Repubblika demands independent probe into alleged vote-buying via public jobs</title>
+    <link>https://lovinmalta.com/news/local/repubblika-calls-for-independent-probe-into-claims-public-jobs-were-used-to-secure-votes/</link>
+    <description>Civil society organisation Repubblika has called for an independent investigation into allegations that public sector recruitment was used to secure votes during the election campaign, backing a police report filed by lawyer and former Nationalist MP Jason Azzopardi. Repubblika says the police claim they found evidence contradicting the allegations, but questions the lack of information about what was examined.</description>
+    <content:encoded><![CDATA[<p>Civil society organisation Repubblika has called for an independent investigation into allegations that public sector recruitment was used to secure votes during the election campaign, backing a police report filed by lawyer and former Nationalist MP Jason Azzopardi. Repubblika says the police claim they found evidence contradicting the allegations, but questions the lack of information about what was examined.</p><p><img src="https://maltanews.great-site.net/img/GABE-FB-COVER-95-1-1024x536.jpg" alt="Repubblika statement on public sector recruitment allegations" /></p><p><em>Sources: Lovin Malta</em></p>]]></content:encoded>
+    <pubDate>Thu, 12 Nov 2026 10:30:00 +0100</pubDate>
+    <guid isPermaLink="false">c07915c95e5596582c72fcd71344fbaf</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-12</source>
+    <media:content url="https://maltanews.great-site.net/img/GABE-FB-COVER-95-1-1024x536.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/GABE-FB-COVER-95-1-1024x536.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>One survivor out of coma, 14-year-old still critical after boat collision</title>
+    <link>https://timesofmalta.com/article/long-way-recovery-bahar-iccaghaq-boat-collision-survivors.1136960</link>
+    <description>Daniel Buttigieg, 44, has come out of a coma following the boat crash on a reef off Baħar ic-Ċagħaq and is talking to friends, while 14-year-old Ben Caruana Rizzo remains stable but has "a long way to go", according to family. Their friend Keith Caruana, 48, from Mellieħa, suffered fatal injuries in the Sunday incident. The family has asked supporters to keep sending messages of encouragement to the two survivors still in hospital.</description>
+    <content:encoded><![CDATA[<p>Daniel Buttigieg, 44, has come out of a coma following the boat crash on a reef off Baħar ic-Ċagħaq and is talking to friends, while 14-year-old Ben Caruana Rizzo remains stable but has &quot;a long way to go&quot;, according to family. Their friend Keith Caruana, 48, from Mellieħa, suffered fatal injuries in the Sunday incident. The family has asked supporters to keep sending messages of encouragement to the two survivors still in hospital.</p><p><img src="https://maltanews.great-site.net/img/f3874a52a53f203d483c885ac10ee1801f74be63-1794474825-1b56878e-1200x630.jpg" alt="Survivors of the Baħar ic-Ċagħaq boat collision recovering in hospital" /></p><p><em>Sources: Times of Malta, Lovin Malta, Newsbook</em></p>]]></content:encoded>
+    <pubDate>Thu, 12 Nov 2026 10:00:00 +0100</pubDate>
+    <guid isPermaLink="false">f4b5b4b7a26f1e88f38fa0ff644c1591</guid>
+    <category>Infrastructure &amp; Transport</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-12</source>
+    <media:content url="https://maltanews.great-site.net/img/f3874a52a53f203d483c885ac10ee1801f74be63-1794474825-1b56878e-1200x630.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/f3874a52a53f203d483c885ac10ee1801f74be63-1794474825-1b56878e-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Temu and Shein shoppers face a further €2 handling fee</title>
+    <link>https://timesofmalta.com/article/shoppers-continue-buying-temu-shein.1136900</link>
+    <description>Shoppers using low-cost platforms such as Temu and Shein now face an extra €2 handling levy that took effect on 1 November, on top of the €3 customs tax introduced in July on low-value goods bought outside the EU. Times of Malta asked shoppers in Valletta whether the charges would deter them, with mixed responses: some said the sites were no longer worth it, while others said they would still buy when needed.</description>
+    <content:encoded><![CDATA[<p>Shoppers using low-cost platforms such as Temu and Shein now face an extra €2 handling levy that took effect on 1 November, on top of the €3 customs tax introduced in July on low-value goods bought outside the EU. Times of Malta asked shoppers in Valletta whether the charges would deter them, with mixed responses: some said the sites were no longer worth it, while others said they would still buy when needed.</p><p><img src="https://maltanews.great-site.net/img/69dea5ac6328a628ec13660886b8cb0672298192-1794326820-ef9503e5-1200x630.jpg" alt="Shoppers on their phones in Valletta shopping apps" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Thu, 12 Nov 2026 09:31:00 +0100</pubDate>
+    <guid isPermaLink="false">f14591acee6f47ba24e0be26a991c6f4</guid>
+    <category>Economy</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-12</source>
+    <media:content url="https://maltanews.great-site.net/img/69dea5ac6328a628ec13660886b8cb0672298192-1794326820-ef9503e5-1200x630.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/69dea5ac6328a628ec13660886b8cb0672298192-1794326820-ef9503e5-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Central Bank study: accommodation and food sector worth €1.15bn, more reliant on foreign workers</title>
+    <link>https://www.independent.com.mt/articles/2026-11-12/local-news/Malta-s-accommodation-and-food-sector-expands-but-reliance-on-foreign-workers-deepens-6736294561</link>
+    <description>A Central Bank of Malta analysis by economist Eliza Farrugia found the accommodation and food services sector generated €1.15 billion in gross value added in 2025, or 6.3% of economic output, with 4,297 active business units in 2024. The sector added 1,911 units between 2015 and 2024 and remains dominated by micro firms, but the study flags low wages, weak productivity and heavy reliance on transient foreign labour.</description>
+    <content:encoded><![CDATA[<p>A Central Bank of Malta analysis by economist Eliza Farrugia found the accommodation and food services sector generated €1.15 billion in gross value added in 2025, or 6.3% of economic output, with 4,297 active business units in 2024. The sector added 1,911 units between 2015 and 2024 and remains dominated by micro firms, but the study flags low wages, weak productivity and heavy reliance on transient foreign labour.</p><p><img src="https://maltanews.great-site.net/img/4d630bc22afa.jpg" alt="Accommodation and food services sector in Malta" /></p><p><em>Sources: Malta Independent</em></p>]]></content:encoded>
+    <pubDate>Thu, 12 Nov 2026 08:33:00 +0100</pubDate>
+    <guid isPermaLink="false">a4609c45872cc5d3c4803bb109cc88de</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-12</source>
+    <media:content url="https://maltanews.great-site.net/img/4d630bc22afa.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/4d630bc22afa.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>OPM denies ever receiving the 300-page population growth report</title>
+    <link>https://timesofmalta.com/article/clyde-caruana-never-gave-robert-abela-population-report-opm-says.1136953</link>
+    <description>The office of the prime minister has said the population report commissioned in 2017 was never presented to cabinet or to Robert Abela, contradicting Finance Minister Clyde Caruana's account that he repeatedly warned government about the effects of rapid population growth. The OPM spokesperson said the document appears to have reached Joseph Muscat personally but never Muscat's cabinet, while Caruana maintains it was completed in late 2018 and shelved first by the 2019 MEP election and then by the pandemic. The exchange continues in parliament after Caruana declined to table the report earlier this week.</description>
+    <content:encoded><![CDATA[<p>The office of the prime minister has said the population report commissioned in 2017 was never presented to cabinet or to Robert Abela, contradicting Finance Minister Clyde Caruana&#x27;s account that he repeatedly warned government about the effects of rapid population growth. The OPM spokesperson said the document appears to have reached Joseph Muscat personally but never Muscat&#x27;s cabinet, while Caruana maintains it was completed in late 2018 and shelved first by the 2019 MEP election and then by the pandemic. The exchange continues in parliament after Caruana declined to table the report earlier this week.</p><p><img src="https://maltanews.great-site.net/img/e0f7cf511b7bf993bc45f398abd8ca088b0c0e9d-1794421033-b8ff41e6-1200x630.jpg" alt="Office of the Prime Minister statement on the population report" /></p><p><em>Sources: Times of Malta, Lovin Malta, Newsbook</em></p>]]></content:encoded>
+    <pubDate>Thu, 12 Nov 2026 06:30:00 +0100</pubDate>
+    <guid isPermaLink="false">eb20406870fcb01a23dcbb4ace7eb0a1</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-12</source>
+    <media:content url="https://maltanews.great-site.net/img/e0f7cf511b7bf993bc45f398abd8ca088b0c0e9d-1794421033-b8ff41e6-1200x630.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/e0f7cf511b7bf993bc45f398abd8ca088b0c0e9d-1794421033-b8ff41e6-1200x630.jpg" length="0" type="image/jpeg" />
   </item>
   <item>
     <title>Third attempt to develop Mosta ODZ site with padel courts, restaurant and gym</title>
