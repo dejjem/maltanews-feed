@@ -9,7 +9,7 @@
   <link>https://maltanews.great-site.net/</link>
   <description>Daily Malta news digest, automated. Curated from local Maltese news sources.</description>
   <language>en-mt</language>
-  <lastBuildDate>Sat, 14 Nov 2026 17:58:44 +0100</lastBuildDate>
+  <lastBuildDate>Sat, 14 Nov 2026 18:03:05 +0100</lastBuildDate>
   <pubDate>Sat, 14 Nov 2026 17:12:00 +0100</pubDate>
   <generator>Hermes Malta News pipeline v3 + RSS</generator>
   <managingEditor>dejjem@gmail.com (Mark Micallef)</managingEditor>
@@ -330,6 +330,18 @@
     <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-14</source>
     <media:content url="https://maltanews.great-site.net/img/d672814554530123f8fff78f8010ea848da08cce-1794649492-f5f0de7d-1200x630.jpg" medium="image" />
     <enclosure url="https://maltanews.great-site.net/img/d672814554530123f8fff78f8010ea848da08cce-1794649492-f5f0de7d-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Scope Ratings affirms Maltas A+ credit rating with a stable outlook</title>
+    <link>https://www.independent.com.mt/articles/2026-11-14/local-news/PL-welcomes-Scope-Ratings-vote-of-confidence-in-Malta-s-economic-strength-6736294656</link>
+    <description>The Labour Party has welcomed the international credit rating agencys decision to affirm Maltas A+ rating with a stable outlook, calling it a vote of confidence in the management of public finances. Scope forecasts the Maltese economy will grow by 4.1% this year and continue to outperform other eurozone economies, and notes that the governments policy of keeping energy prices stable has largely shielded household bills. Malta recorded the second-highest economic growth rate in the EU in 2025.</description>
+    <content:encoded><![CDATA[<p>The Labour Party has welcomed the international credit rating agencys decision to affirm Maltas A+ rating with a stable outlook, calling it a vote of confidence in the management of public finances. Scope forecasts the Maltese economy will grow by 4.1% this year and continue to outperform other eurozone economies, and notes that the governments policy of keeping energy prices stable has largely shielded household bills. Malta recorded the second-highest economic growth rate in the EU in 2025.</p><p><img src="https://maltanews.great-site.net/img/b4e1a66f4f3c.jpg" alt="Malta&#x27;s financial district and credit rating agency report" /></p><p><em>Sources: Malta Independent</em></p>]]></content:encoded>
+    <pubDate>Sat, 14 Nov 2026 10:21:00 +0100</pubDate>
+    <guid isPermaLink="false">37ce79bb56ba8f1d58ba44ed981e03de</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-14</source>
+    <media:content url="https://maltanews.great-site.net/img/b4e1a66f4f3c.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/b4e1a66f4f3c.jpg" length="0" type="image/jpeg" />
   </item>
   <item>
     <title>Saint James Hospital broadcasts weight-loss procedure live to MedTech conference</title>
