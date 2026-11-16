@@ -9,8 +9,8 @@
   <link>https://maltanews.great-site.net/</link>
   <description>Daily Malta news digest, automated. Curated from local Maltese news sources.</description>
   <language>en-mt</language>
-  <lastBuildDate>Mon, 16 Nov 2026 06:32:57 +0100</lastBuildDate>
-  <pubDate>Mon, 16 Nov 2026 12:00:00 +0100</pubDate>
+  <lastBuildDate>Mon, 16 Nov 2026 13:31:41 +0100</lastBuildDate>
+  <pubDate>Mon, 16 Nov 2026 12:39:00 +0100</pubDate>
   <generator>Hermes Malta News pipeline v3 + RSS</generator>
   <managingEditor>dejjem@gmail.com (Mark Micallef)</managingEditor>
   <atom:link href="https://dejjem.github.io/maltanews-feed/feed.xml" rel="self" type="application/rss+xml" />
@@ -19,6 +19,30 @@
     <title>Malta News Today</title>
     <link>https://maltanews.great-site.net/</link>
   </image>
+  <item>
+    <title>Terrorism accused urged acquaintances to watch ISIS propaganda and travel to Syria</title>
+    <link>https://www.maltatoday.com.mt/news/court_and_police/145755/terrorism_accused_urged_acquaintances_to_travel_to_syria_and_watch_isis_propaganda</link>
+    <description>A 21-year-old man accused of terrorism-related offences pressured acquaintances to watch ISIS propaganda and encouraged them to travel with him to Syria, a court heard on Monday. Inspector Mohammed Shurrab of the police Counter-Terrorism Squad testified that the accused, Daniel Spiteri, spoke of killing same-sex couples and adopted increasingly extremist views following his conversion to Islam. Spiteri is pleading not guilty to charges of allegedly planning a terrorist attack, recruiting or inciting others to commit terrorist acts, and training or instructing individuals in the use of firearms for terrorist purposes. Shurrab said the squad received intelligence in May 2026 that a person known as Souleymane had travelled to Syria to join ISIS, and that police identified him and monitored his movements between May and October before arresting him on 27 October.</description>
+    <content:encoded><![CDATA[<p>A 21-year-old man accused of terrorism-related offences pressured acquaintances to watch ISIS propaganda and encouraged them to travel with him to Syria, a court heard on Monday. Inspector Mohammed Shurrab of the police Counter-Terrorism Squad testified that the accused, Daniel Spiteri, spoke of killing same-sex couples and adopted increasingly extremist views following his conversion to Islam. Spiteri is pleading not guilty to charges of allegedly planning a terrorist attack, recruiting or inciting others to commit terrorist acts, and training or instructing individuals in the use of firearms for terrorist purposes. Shurrab said the squad received intelligence in May 2026 that a person known as Souleymane had travelled to Syria to join ISIS, and that police identified him and monitored his movements between May and October before arresting him on 27 October.</p><p><img src="https://maltanews.great-site.net/img/3eff1a55ee3e.jpg" alt="Maltese police officers outside court during a terrorism case" /></p><p><em>Sources: Malta Today, The Business Picture</em></p>]]></content:encoded>
+    <pubDate>Mon, 16 Nov 2026 12:39:00 +0100</pubDate>
+    <guid isPermaLink="false">c8adc56e9ce85fc6517cfdd8760ae6d0</guid>
+    <category>Courts &amp; Crime</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-16</source>
+    <media:content url="https://maltanews.great-site.net/img/3eff1a55ee3e.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/3eff1a55ee3e.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Scope Ratings affirms Malta's A+ long-term credit rating with stable outlook</title>
+    <link>https://thebusinesspicture.com/2026/11/16/maltas-credit-rating-affirmed-at-a-by-scope-ratings/</link>
+    <description>Scope Ratings has reaffirmed Malta's long-term local and foreign currency issuer ratings at A+ with a stable outlook, following a monitoring review, while maintaining the short-term issuer rating at S-1+. The Berlin-based agency said the ratings were supported by robust economic momentum and strong growth prospects compared with other European countries, a strong record of fiscal prudence, declining budget deficits and moderate government debt, as well as a strong external position and banking sector able to absorb economic shocks. Scope did however highlight Malta's dependence on external markets and its limited resources, which it said pose risks to the sustainability of the country's economic growth model.</description>
+    <content:encoded><![CDATA[<p>Scope Ratings has reaffirmed Malta&#x27;s long-term local and foreign currency issuer ratings at A+ with a stable outlook, following a monitoring review, while maintaining the short-term issuer rating at S-1+. The Berlin-based agency said the ratings were supported by robust economic momentum and strong growth prospects compared with other European countries, a strong record of fiscal prudence, declining budget deficits and moderate government debt, as well as a strong external position and banking sector able to absorb economic shocks. Scope did however highlight Malta&#x27;s dependence on external markets and its limited resources, which it said pose risks to the sustainability of the country&#x27;s economic growth model.</p><p><img src="https://maltanews.great-site.net/img/hF4cmYCovOYEtuff.jpg" alt="Malta&#x27;s financial district and central bank" /></p><p><em>Sources: The Business Picture</em></p>]]></content:encoded>
+    <pubDate>Mon, 16 Nov 2026 12:07:00 +0100</pubDate>
+    <guid isPermaLink="false">c011139a978ef6e3401d2f7f34570146</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-16</source>
+    <media:content url="https://maltanews.great-site.net/img/hF4cmYCovOYEtuff.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/hF4cmYCovOYEtuff.jpg" length="0" type="image/jpeg" />
+  </item>
   <item>
     <title>Man critically ill after swallowing suspected drugs during police road check</title>
     <link>https://lovinmalta.com/news/local/man-fighting-for-his-life-after-swallowing-suspected-drugs-during-police-road-check-in-st-pauls-bay/</link>
@@ -112,6 +136,150 @@
     <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-16</source>
     <media:content url="https://maltanews.great-site.net/img/741c1bb0be6e5767e8009d81876bd6e7fee55159-1794651686-b1fbda0e-1200x630.jpg" medium="image" />
     <enclosure url="https://maltanews.great-site.net/img/741c1bb0be6e5767e8009d81876bd6e7fee55159-1794651686-b1fbda0e-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Funding for band club music education to double to €5,000 in 2027</title>
+    <link>https://www.independent.com.mt/articles/2026-11-16/local-news/Funding-for-music-education-in-band-clubs-to-double-to-5-000-in-2027-6736294682</link>
+    <description>Funding for music education in band clubs will double from €2,500 to €5,000 per organisation in 2027, while grants for voluntary organisations working with youths will rise from €3,000 to €3,500. Youth Minister Omar Farrugia made the announcement during a conference attended by groups benefiting from the Musical Tuition for Youths in Band Clubs and BOOST schemes, both administered by Aġenzija Żgħażagħ. As part of Budget 2027 the Ministry for Youth is allocating almost €3 million for initiatives, programmes, discussions and consultations involving young people. Farrugia said 57 band clubs and band organisations qualified for assistance under the music education scheme this year, while around 130 youth organisations received support through BOOST.</description>
+    <content:encoded><![CDATA[<p>Funding for music education in band clubs will double from €2,500 to €5,000 per organisation in 2027, while grants for voluntary organisations working with youths will rise from €3,000 to €3,500. Youth Minister Omar Farrugia made the announcement during a conference attended by groups benefiting from the Musical Tuition for Youths in Band Clubs and BOOST schemes, both administered by Aġenzija Żgħażagħ. As part of Budget 2027 the Ministry for Youth is allocating almost €3 million for initiatives, programmes, discussions and consultations involving young people. Farrugia said 57 band clubs and band organisations qualified for assistance under the music education scheme this year, while around 130 youth organisations received support through BOOST.</p><p><img src="https://maltanews.great-site.net/img/strument-banda-festa.jpg" alt="Youth band members with musical instruments at a band club" /></p><p><em>Sources: Malta Independent, Newsbook</em></p>]]></content:encoded>
+    <pubDate>Mon, 16 Nov 2026 11:41:00 +0100</pubDate>
+    <guid isPermaLink="false">80fd38f9ffafa4c33ab3b1f51240b222</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-16</source>
+    <media:content url="https://maltanews.great-site.net/img/strument-banda-festa.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/strument-banda-festa.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>University students to join international youth strike on Friday</title>
+    <link>https://timesofmalta.com/article/fight-future-malta-students-join-international-youth-strike.1137125</link>
+    <description>Students at the University of Malta will walk out of lectures on Friday as part of an International Youth Strike coordinated across 25 European countries, with the action taking place at noon in the university quadrangle. Organisers of the local collective say they are protesting a future compromised by what they describe as incompetent and corrupt leadership, while also raising concerns about measures affecting third-country nationals, the use of artificial intelligence and the environment. The local drive was organised by 20-year-old psychology and theatre studies student Johanke Nefe after learning about the international strike online. From rising living costs to political corruption and fears about the future, young Europeans have been taking their frustrations to the streets.</description>
+    <content:encoded><![CDATA[<p>Students at the University of Malta will walk out of lectures on Friday as part of an International Youth Strike coordinated across 25 European countries, with the action taking place at noon in the university quadrangle. Organisers of the local collective say they are protesting a future compromised by what they describe as incompetent and corrupt leadership, while also raising concerns about measures affecting third-country nationals, the use of artificial intelligence and the environment. The local drive was organised by 20-year-old psychology and theatre studies student Johanke Nefe after learning about the international strike online. From rising living costs to political corruption and fears about the future, young Europeans have been taking their frustrations to the streets.</p><p><img src="https://maltanews.great-site.net/img/b9fbb86ee69e77ffd8d38dc1523d362b6ecce145-1794735781-38f47bd3-1200x630.jpg" alt="Students marching during a youth climate protest" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Mon, 16 Nov 2026 11:33:00 +0100</pubDate>
+    <guid isPermaLink="false">9ca0ce09ef3067040dec7c620e1ceba5</guid>
+    <category>Health &amp; Education</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-16</source>
+    <media:content url="https://maltanews.great-site.net/img/b9fbb86ee69e77ffd8d38dc1523d362b6ecce145-1794735781-38f47bd3-1200x630.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/b9fbb86ee69e77ffd8d38dc1523d362b6ecce145-1794735781-38f47bd3-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>3,843 people reported domestic violence or used support services in 2025</title>
+    <link>https://timesofmalta.com/article/3843-reported-domestic-violence-used-support-services-last-year.1137162</link>
+    <description>A total of 3,843 people in Malta reported experiencing domestic violence or used support services in 2025, according to National Statistics Office figures published on Monday, with women making up 74% of service users and men 26%. Some 55.4% used a service only once, 23.8% used one or more services twice and 20.8% used services on three or more occasions; 45.9% of women and 40.9% of men accessed services more than once. The NSO recorded 6,946 cases in total, more than the number of individuals because the same person may be counted by several providers. The Domestic Violence Unit within Aġenzija Appoġġ handled 2,913 cases and the Malta Police Force received 2,357 reports, while 622 people used services aimed at perpetrators, 93.1% of them male. The Southern Harbour district recorded the highest rate of both service use and police reports.</description>
+    <content:encoded><![CDATA[<p>A total of 3,843 people in Malta reported experiencing domestic violence or used support services in 2025, according to National Statistics Office figures published on Monday, with women making up 74% of service users and men 26%. Some 55.4% used a service only once, 23.8% used one or more services twice and 20.8% used services on three or more occasions; 45.9% of women and 40.9% of men accessed services more than once. The NSO recorded 6,946 cases in total, more than the number of individuals because the same person may be counted by several providers. The Domestic Violence Unit within Aġenzija Appoġġ handled 2,913 cases and the Malta Police Force received 2,357 reports, while 622 people used services aimed at perpetrators, 93.1% of them male. The Southern Harbour district recorded the highest rate of both service use and police reports.</p><p><img src="https://maltanews.great-site.net/img/71b42e82c7b81fb4f23ad78ed486d97c3e09a044-1794824479-c0209380-1200x630.jpg" alt="Domestic violence support services in Malta" /></p><p><em>Sources: Times of Malta, Malta Today, Lovin Malta, Newsbook</em></p>]]></content:encoded>
+    <pubDate>Mon, 16 Nov 2026 11:06:00 +0100</pubDate>
+    <guid isPermaLink="false">b6ff322ce0a1e7b20c495b6197268cdd</guid>
+    <category>Courts &amp; Crime</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-16</source>
+    <media:content url="https://maltanews.great-site.net/img/71b42e82c7b81fb4f23ad78ed486d97c3e09a044-1794824479-c0209380-1200x630.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/71b42e82c7b81fb4f23ad78ed486d97c3e09a044-1794824479-c0209380-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>EUDA survey finds Malta ranks highest in Europe on drug-related violence</title>
+    <link>https://newsbook.com.mt/malta-fuq-quddiem-fl-ewropa-fit-thassib-dwar-vjolenza-minhabba-d-droga/</link>
+    <description>Malta's drug-related violence is the country's biggest public security concern, according to the first survey by the European Union Agency for Drugs (EUDA), making Malta one of five EU countries where such violence tops the security agenda. The results draw on interviews with 95,883 people aged 15 or over across 35 European countries, using the Flash Eurobarometer methodology, and illustrate how Europeans view drugs, their impact and how society is adjusting to them.</description>
+    <content:encoded><![CDATA[<p>Malta&#x27;s drug-related violence is the country&#x27;s biggest public security concern, according to the first survey by the European Union Agency for Drugs (EUDA), making Malta one of five EU countries where such violence tops the security agenda. The results draw on interviews with 95,883 people aged 15 or over across 35 European countries, using the Flash Eurobarometer methodology, and illustrate how Europeans view drugs, their impact and how society is adjusting to them.</p><p><img src="https://maltanews.great-site.net/img/pexels-mart-production-7230833-1.jpg" alt="Drug paraphernalia on a dark background" /></p><p><em>Sources: Newsbook</em></p>]]></content:encoded>
+    <pubDate>Mon, 16 Nov 2026 10:57:00 +0100</pubDate>
+    <guid isPermaLink="false">c0b131935dbc23501f73f95d5d3b363d</guid>
+    <category>Courts &amp; Crime</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-16</source>
+    <media:content url="https://maltanews.great-site.net/img/pexels-mart-production-7230833-1.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/pexels-mart-production-7230833-1.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>EU tax commissioner to fly to Malta as country remains sole holdout on tobacco tax</title>
+    <link>https://timesofmalta.com/article/eu-commissioner-fly-malta-country-vetoes-tobacco-tax.1137111</link>
+    <description>EU taxation commissioner Wopke Hoekstra will travel to Malta on December 3 for a two-day visit, during which he is expected to discuss the EU's proposed Tobacco Taxation Directive with the Maltese government. Malta is the only one of the bloc's 27 member states still objecting to the overhaul after Finance Minister Clyde Caruana was the sole minister to vote against it at a recent EU Council meeting. Estonia and Finland, which had also objected, reversed their position after the EU dropped automatic inflation-linked increases in nicotine prices, which now require unanimity. A Commission spokesperson said the visit had been planned for some time and that the commissioner would also raise climate and taxation files including the Emissions Trading System, maritime, cars, the post-2030 framework and tax simplification.</description>
+    <content:encoded><![CDATA[<p>EU taxation commissioner Wopke Hoekstra will travel to Malta on December 3 for a two-day visit, during which he is expected to discuss the EU&#x27;s proposed Tobacco Taxation Directive with the Maltese government. Malta is the only one of the bloc&#x27;s 27 member states still objecting to the overhaul after Finance Minister Clyde Caruana was the sole minister to vote against it at a recent EU Council meeting. Estonia and Finland, which had also objected, reversed their position after the EU dropped automatic inflation-linked increases in nicotine prices, which now require unanimity. A Commission spokesperson said the visit had been planned for some time and that the commissioner would also raise climate and taxation files including the Emissions Trading System, maritime, cars, the post-2030 framework and tax simplification.</p><p><img src="https://maltanews.great-site.net/img/edb7bc725f0d5f4851c6a712b8adfc128dce469e-1794821022-1c2e1100-1200x630.jpg" alt="Maltese Finance Minister Clyde Caruana at the European Council" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Mon, 16 Nov 2026 10:18:00 +0100</pubDate>
+    <guid isPermaLink="false">79d9b305c0d654d99cd3262d7486d342</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-16</source>
+    <media:content url="https://maltanews.great-site.net/img/edb7bc725f0d5f4851c6a712b8adfc128dce469e-1794821022-1c2e1100-1200x630.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/edb7bc725f0d5f4851c6a712b8adfc128dce469e-1794821022-1c2e1100-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Two women hospitalised after separate motorcycle crashes in Marsa and San Ġwann</title>
+    <link>https://newsbook.com.mt/zewg-nisa-midruba-fincidenti-separati-fil-marsa-u-san-gwann/</link>
+    <description>Two women were hospitalised following separate motorcycle accidents in San Ġwann and Marsa on Monday morning. In the San Ġwann case a Chaoya motorcycle ridden by a 37-year-old Colombian woman collided with a parked Mazda in Triq San Ġiljan when the car's driver had opened the door; a 35-year-old woman from Ħaż-Żebbuġ was inside the parked vehicle. The rider was taken to Mater Dei Hospital by ambulance and was not in a critical condition. Police were then informed of a second collision in Triq it-Tiġrija, Marsa, involving a van driven by a 34-year-old man from Fgura and a Honda 125 motorcycle ridden by a 43-year-old Colombian woman from Mosta, who was also taken to hospital with her condition yet to be confirmed. The two publications differ on the order in which the accidents occurred.</description>
+    <content:encoded><![CDATA[<p>Two women were hospitalised following separate motorcycle accidents in San Ġwann and Marsa on Monday morning. In the San Ġwann case a Chaoya motorcycle ridden by a 37-year-old Colombian woman collided with a parked Mazda in Triq San Ġiljan when the car&#x27;s driver had opened the door; a 35-year-old woman from Ħaż-Żebbuġ was inside the parked vehicle. The rider was taken to Mater Dei Hospital by ambulance and was not in a critical condition. Police were then informed of a second collision in Triq it-Tiġrija, Marsa, involving a van driven by a 34-year-old man from Fgura and a Honda 125 motorcycle ridden by a 43-year-old Colombian woman from Mosta, who was also taken to hospital with her condition yet to be confirmed. The two publications differ on the order in which the accidents occurred.</p><p><img src="https://maltanews.great-site.net/img/Emergenza-ambulanza-sptar-nurse-incident.jpg" alt="Ambulance crew attending a traffic accident" /></p><p><em>Sources: Newsbook, Lovin Malta</em></p>]]></content:encoded>
+    <pubDate>Mon, 16 Nov 2026 09:53:00 +0100</pubDate>
+    <guid isPermaLink="false">b986aeb8cc7b512d55237a6d56536283</guid>
+    <category>Courts &amp; Crime</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-16</source>
+    <media:content url="https://maltanews.great-site.net/img/Emergenza-ambulanza-sptar-nurse-incident.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/Emergenza-ambulanza-sptar-nurse-incident.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Malta International Airport restructures senior leadership as traffic role changes</title>
+    <link>https://thebusinesspicture.com/2026/11/16/mia-restructures-senior-leadership-as-traffic-development-changes-hands/</link>
+    <description>Malta International Airport has announced that Tina Lombardi will take on responsibility for the Traffic Development Department alongside her existing role as Senior Vice President for Commercial Development and Strategy. The expanded remit follows the departure of Alex Cardona, Senior Vice President for Traffic Development, Customer Services and Administration, who leaves after 13 years with the company. Lombardi joined MIA in 2007 and has held a senior vice president role since 2023. The airport also confirmed two appointments, with Kristian Sultana joining as MET Office Manager and Alina Alboaei named Aerodrome Safety and Compliance Manager. The changes come on the back of nine-month results showing revenue of €136.5 million, up just over 15 per cent on 14.5 per cent passenger growth, and a net profit of €50.6 million. October traffic reached 1,049,778 passengers with seat occupancy at 84.7 per cent.</description>
+    <content:encoded><![CDATA[<p>Malta International Airport has announced that Tina Lombardi will take on responsibility for the Traffic Development Department alongside her existing role as Senior Vice President for Commercial Development and Strategy. The expanded remit follows the departure of Alex Cardona, Senior Vice President for Traffic Development, Customer Services and Administration, who leaves after 13 years with the company. Lombardi joined MIA in 2007 and has held a senior vice president role since 2023. The airport also confirmed two appointments, with Kristian Sultana joining as MET Office Manager and Alina Alboaei named Aerodrome Safety and Compliance Manager. The changes come on the back of nine-month results showing revenue of €136.5 million, up just over 15 per cent on 14.5 per cent passenger growth, and a net profit of €50.6 million. October traffic reached 1,049,778 passengers with seat occupancy at 84.7 per cent.</p><p><img src="https://maltanews.great-site.net/img/5QypuhWcmR1a1vTj.png" alt="Malta International Airport terminal" /></p><p><em>Sources: The Business Picture</em></p>]]></content:encoded>
+    <pubDate>Mon, 16 Nov 2026 09:50:00 +0100</pubDate>
+    <guid isPermaLink="false">3d4315b18d1fc1a48a32aefd1c0657ce</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-16</source>
+    <media:content url="https://maltanews.great-site.net/img/5QypuhWcmR1a1vTj.png" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/5QypuhWcmR1a1vTj.png" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>MCAST AI project helps NGO Żibel map coastal waste from the air</title>
+    <link>https://www.independent.com.mt/articles/2026-11-16/local-news/ICARUS-takes-flight-MCAST-s-AI-expertise-helps-NGO-Zibel-spot-coastal-waste-from-above-6736294679</link>
+    <description>A new pilot project is teaching an AI system to recognise marine litter automatically, giving the environmental NGO Żibel Malta a faster, safer way to decide where coastal clean-ups are most needed and where it is safe to send volunteers. The ICARUS system combines drone photography with machine vision and machine learning to locate and categorise coastal waste, with MCAST building the AI component. A DJI Mavic 3M drone was flown over more than a dozen Maltese coastal and inland sites, capturing over 1,000 high-resolution photographs in which individual pieces of debris, from plastic bottles and jerry cans to rubber tyres, rope and wood, were identified. Standard manual litter surveys have been slow to repeat, particularly on rocky, cliff or sub-tidal stretches of coastline.</description>
+    <content:encoded><![CDATA[<p>A new pilot project is teaching an AI system to recognise marine litter automatically, giving the environmental NGO Żibel Malta a faster, safer way to decide where coastal clean-ups are most needed and where it is safe to send volunteers. The ICARUS system combines drone photography with machine vision and machine learning to locate and categorise coastal waste, with MCAST building the AI component. A DJI Mavic 3M drone was flown over more than a dozen Maltese coastal and inland sites, capturing over 1,000 high-resolution photographs in which individual pieces of debris, from plastic bottles and jerry cans to rubber tyres, rope and wood, were identified. Standard manual litter surveys have been slow to repeat, particularly on rocky, cliff or sub-tidal stretches of coastline.</p><p><img src="https://maltanews.great-site.net/img/5f0a3bb91e36.jpg" alt="Drone flying over Malta&#x27;s coastline" /></p><p><em>Sources: Malta Independent</em></p>]]></content:encoded>
+    <pubDate>Mon, 16 Nov 2026 09:22:00 +0100</pubDate>
+    <guid isPermaLink="false">734f8ac6fdd32c978d36cf8dd6f17015</guid>
+    <category>Environment</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-16</source>
+    <media:content url="https://maltanews.great-site.net/img/5f0a3bb91e36.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/5f0a3bb91e36.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Police seek public help to locate missing 45-year-old Sarah Desira</title>
+    <link>https://lovinmalta.com/news/local/sarah-desira-reported-missing-as-police-seek-publics-assistance/</link>
+    <description>Police are appealing to the public for assistance in locating 45-year-old Sarah Desira, who has been reported missing. In a statement, the Malta Police Force confirmed she has been reported missing and urged anyone who may have information about her whereabouts to come forward. Information can be passed on by calling Police Headquarters on 2122 4001 or 119, or by visiting the nearest police station, and may also be given anonymously or confidentially.</description>
+    <content:encoded><![CDATA[<p>Police are appealing to the public for assistance in locating 45-year-old Sarah Desira, who has been reported missing. In a statement, the Malta Police Force confirmed she has been reported missing and urged anyone who may have information about her whereabouts to come forward. Information can be passed on by calling Police Headquarters on 2122 4001 or 119, or by visiting the nearest police station, and may also be given anonymously or confidentially.</p><p><img src="https://maltanews.great-site.net/img/GABE-FB-COVER-2026-11-16T091530.044-1024x536.jpg" alt="Malta Police Force appeal for a missing person" /></p><p><em>Sources: Lovin Malta</em></p>]]></content:encoded>
+    <pubDate>Mon, 16 Nov 2026 09:15:00 +0100</pubDate>
+    <guid isPermaLink="false">078927e3f469d921e91e017769c066d9</guid>
+    <category>Courts &amp; Crime</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-16</source>
+    <media:content url="https://maltanews.great-site.net/img/GABE-FB-COVER-2026-11-16T091530.044-1024x536.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/GABE-FB-COVER-2026-11-16T091530.044-1024x536.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Court confiscates over €13,500 from pensioner who died facing money laundering charges</title>
+    <link>https://timesofmalta.com/article/dead-pensioner-accused-money-laundering-deposits-confiscated.1137112</link>
+    <description>A court has ordered the confiscation of more than €13,500 held in two bank accounts belonging to a Qormi pensioner who died while facing money laundering charges. Lucy Grima was accused in 2022 of usury, money laundering and offering unlicensed banking services after investigators found tens of thousands of euros in unexplained cash deposits in her accounts, prompting questions about the source of the money given that she was an unemployed pensioner. Police searching her home found handwritten ledgers recording loans she had made and the amounts borrowers were expected to repay, and several people confirmed borrowing money from her.</description>
+    <content:encoded><![CDATA[<p>A court has ordered the confiscation of more than €13,500 held in two bank accounts belonging to a Qormi pensioner who died while facing money laundering charges. Lucy Grima was accused in 2022 of usury, money laundering and offering unlicensed banking services after investigators found tens of thousands of euros in unexplained cash deposits in her accounts, prompting questions about the source of the money given that she was an unemployed pensioner. Police searching her home found handwritten ledgers recording loans she had made and the amounts borrowers were expected to repay, and several people confirmed borrowing money from her.</p><p><img src="https://maltanews.great-site.net/img/d0e1df50efb4ecdbdadc95cec5ef5c4848115695-1794660632-ded585dd-1200x630.jpg" alt="Court documents on a table during a money laundering case" /></p><p><em>Sources: Times of Malta, Lovin Malta</em></p>]]></content:encoded>
+    <pubDate>Mon, 16 Nov 2026 08:29:00 +0100</pubDate>
+    <guid isPermaLink="false">8f22a8d76f1482de61c18511439f6f24</guid>
+    <category>Courts &amp; Crime</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-16</source>
+    <media:content url="https://maltanews.great-site.net/img/d0e1df50efb4ecdbdadc95cec5ef5c4848115695-1794660632-ded585dd-1200x630.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/d0e1df50efb4ecdbdadc95cec5ef5c4848115695-1794660632-ded585dd-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Road safety bureau still not set up four years after government promise</title>
+    <link>https://timesofmalta.com/article/lack-feedback-delays-road-safety-bureau.1137150</link>
+    <description>Four years after the government promised to establish a special bureau to investigate fatal road accidents and help prevent further deaths, the plan has still not got off the ground. The transport authorities say the hold-up is that they are still waiting for feedback from key stakeholders including the judiciary. The proposed Transport Safety Investigation Commission has undergone consultations with relevant stakeholders on legal and procedural considerations, but campaigners say the delay comes despite repeated warnings. Road deaths have remained at 18 last year, after 12 in 2024 and 16 in 2023, according to the National Statistics Office.</description>
+    <content:encoded><![CDATA[<p>Four years after the government promised to establish a special bureau to investigate fatal road accidents and help prevent further deaths, the plan has still not got off the ground. The transport authorities say the hold-up is that they are still waiting for feedback from key stakeholders including the judiciary. The proposed Transport Safety Investigation Commission has undergone consultations with relevant stakeholders on legal and procedural considerations, but campaigners say the delay comes despite repeated warnings. Road deaths have remained at 18 last year, after 12 in 2024 and 16 in 2023, according to the National Statistics Office.</p><p><img src="https://maltanews.great-site.net/img/2c8554b24c01835742374f0a7a1b5697dd0c9623-1794748647-9917fac3-1200x630.jpg" alt="Malta road traffic" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Mon, 16 Nov 2026 06:31:00 +0100</pubDate>
+    <guid isPermaLink="false">1276e3b96a099d6032bbe38325bacad9</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-16</source>
+    <media:content url="https://maltanews.great-site.net/img/2c8554b24c01835742374f0a7a1b5697dd0c9623-1794748647-9917fac3-1200x630.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/2c8554b24c01835742374f0a7a1b5697dd0c9623-1794748647-9917fac3-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Care home applications since 2023 spark overdevelopment fears</title>
+    <link>https://timesofmalta.com/article/care-home-boom-12-major-projects-proposed-three-years.1137149</link>
+    <description>Plans for a string of large care homes for the elderly across Malta are sparking a backlash, with residents fearing the country's ageing population will come at the expense of its shrinking countryside. Eleven applications for new or expanded care homes have been submitted in nine localities since 2023, four of them on land outside development zones. In Żejtun, developers want to replace a disused livestock farm with a three-storey care home, while an eight-storey complex able to accommodate 362 elderly residents could rise in place of an existing house in Mosta. Both proposals have drawn opposition, with residents warning the developments could damage their neighbourhood and pile further pressure on roads and infrastructure.</description>
+    <content:encoded><![CDATA[<p>Plans for a string of large care homes for the elderly across Malta are sparking a backlash, with residents fearing the country&#x27;s ageing population will come at the expense of its shrinking countryside. Eleven applications for new or expanded care homes have been submitted in nine localities since 2023, four of them on land outside development zones. In Żejtun, developers want to replace a disused livestock farm with a three-storey care home, while an eight-storey complex able to accommodate 362 elderly residents could rise in place of an existing house in Mosta. Both proposals have drawn opposition, with residents warning the developments could damage their neighbourhood and pile further pressure on roads and infrastructure.</p><p><img src="https://maltanews.great-site.net/img/efaf6babfcf709ca16761c36470254b897b23ea8-1794748377-c6d20633-1200x630.jpg" alt="Proposed care home development site" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Mon, 16 Nov 2026 06:30:00 +0100</pubDate>
+    <guid isPermaLink="false">cdc3172de8fd419e9dca559593d56fc6</guid>
+    <category>Politics</category>
+    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-16</source>
+    <media:content url="https://maltanews.great-site.net/img/efaf6babfcf709ca16761c36470254b897b23ea8-1794748377-c6d20633-1200x630.jpg" medium="image" />
+    <enclosure url="https://maltanews.great-site.net/img/efaf6babfcf709ca16761c36470254b897b23ea8-1794748377-c6d20633-1200x630.jpg" length="0" type="image/jpeg" />
   </item>
   <item>
     <title>Teenagers drawn into TikTok weight-loss adviser rabbit holes</title>
