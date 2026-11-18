@@ -6,18 +6,18 @@
 >
 <channel>
   <title>Malta News Today</title>
-  <link>https://maltanews.great-site.net/</link>
+  <link>https://maltanews.pages.dev/</link>
   <description>Daily Malta news digest, automated. Curated from local Maltese news sources.</description>
   <language>en-mt</language>
-  <lastBuildDate>Wed, 18 Nov 2026 19:17:54 +0100</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2026 22:09:27 +0100</lastBuildDate>
   <pubDate>Wed, 18 Nov 2026 16:07:00 +0100</pubDate>
   <generator>Hermes Malta News pipeline v3 + RSS</generator>
   <managingEditor>dejjem@gmail.com (Mark Micallef)</managingEditor>
-  <atom:link href="https://dejjem.github.io/maltanews-feed/feed.xml" rel="self" type="application/rss+xml" />
+  <atom:link href="https://maltanews.pages.dev/feed.xml" rel="self" type="application/rss+xml" />
   <image>
-    <url>https://maltanews.great-site.net/img/news-icon.png</url>
+    <url>https://maltanews.pages.dev/img/news-icon.png</url>
     <title>Malta News Today</title>
-    <link>https://maltanews.great-site.net/</link>
+    <link>https://maltanews.pages.dev/</link>
   </image>
   <item>
     <title>Collective agreement signed for 155 MCAST employees with improved pay and career paths</title>
@@ -27,7 +27,7 @@
     <pubDate>Wed, 18 Nov 2026 16:07:00 +0100</pubDate>
     <guid isPermaLink="false">7a7567a52c2d80ecab1da31e7561a1d0</guid>
     <category>Politics</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-18</source>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-18</source>
     <media:content url="https://maltanews.great-site.net/img/b399fa69899f.jpg" medium="image" />
     <enclosure url="https://maltanews.great-site.net/img/b399fa69899f.jpg" length="0" type="image/jpeg" />
   </item>
@@ -39,7 +39,7 @@
     <pubDate>Wed, 18 Nov 2026 15:49:00 +0100</pubDate>
     <guid isPermaLink="false">f11d74966301eba9e379829fa531ad9a</guid>
     <category>Courts &amp; Crime</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-18</source>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-18</source>
     <media:content url="https://maltanews.great-site.net/img/12a9eff38637d657990b8a03798d194b68b9c846-1795012370-e0e02d2e-1200x630.jpeg" medium="image" />
     <enclosure url="https://maltanews.great-site.net/img/12a9eff38637d657990b8a03798d194b68b9c846-1795012370-e0e02d2e-1200x630.jpeg" length="0" type="image/jpeg" />
   </item>
@@ -51,7 +51,7 @@
     <pubDate>Wed, 18 Nov 2026 15:25:00 +0100</pubDate>
     <guid isPermaLink="false">77dc96a6453bb8692ca253840feed786</guid>
     <category>Courts &amp; Crime</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-18</source>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-18</source>
     <media:content url="https://maltanews.great-site.net/img/b5b49b422ec546ba11da332d9dae785c787ff399-1795011909-96d61673-1200x630.jpg" medium="image" />
     <enclosure url="https://maltanews.great-site.net/img/b5b49b422ec546ba11da332d9dae785c787ff399-1795011909-96d61673-1200x630.jpg" length="0" type="image/jpeg" />
   </item>
@@ -63,7 +63,7 @@
     <pubDate>Wed, 18 Nov 2026 15:25:00 +0100</pubDate>
     <guid isPermaLink="false">19ffbcefe8227a2b764e724c745e0be2</guid>
     <category>Courts &amp; Crime</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-18</source>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-18</source>
     <media:content url="https://maltanews.great-site.net/img/325d72fd6d47f1520257dd756ba04ebd5027dd16-1795011863-82a205e1-1200x630.jpg" medium="image" />
     <enclosure url="https://maltanews.great-site.net/img/325d72fd6d47f1520257dd756ba04ebd5027dd16-1795011863-82a205e1-1200x630.jpg" length="0" type="image/jpeg" />
   </item>
@@ -75,7 +75,7 @@
     <pubDate>Wed, 18 Nov 2026 15:19:00 +0100</pubDate>
     <guid isPermaLink="false">a89f6732bf2387f5cb8c2b9acc7ca93a</guid>
     <category>Economy</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-18</source>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-18</source>
     <media:content url="https://maltanews.great-site.net/img/andy-li-CpsTAUPoScw-unsplash-1.jpg" medium="image" />
     <enclosure url="https://maltanews.great-site.net/img/andy-li-CpsTAUPoScw-unsplash-1.jpg" length="0" type="image/jpeg" />
   </item>
@@ -87,7 +87,7 @@
     <pubDate>Wed, 18 Nov 2026 15:15:00 +0100</pubDate>
     <guid isPermaLink="false">f30b47ca0d2aa605a4a25d0f7d9b8bf2</guid>
     <category>Politics</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-18</source>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-18</source>
     <media:content url="https://maltanews.great-site.net/img/7255b051ce7c.jpg" medium="image" />
     <enclosure url="https://maltanews.great-site.net/img/7255b051ce7c.jpg" length="0" type="image/jpeg" />
   </item>
@@ -99,7 +99,7 @@
     <pubDate>Wed, 18 Nov 2026 15:09:00 +0100</pubDate>
     <guid isPermaLink="false">04c833a681dd04ee098643720dfe1884</guid>
     <category>Politics</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-18</source>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-18</source>
     <media:content url="https://maltanews.great-site.net/img/Dylan-Covers-3-2-1024x536.jpg" medium="image" />
     <enclosure url="https://maltanews.great-site.net/img/Dylan-Covers-3-2-1024x536.jpg" length="0" type="image/jpeg" />
   </item>
@@ -111,7 +111,7 @@
     <pubDate>Wed, 18 Nov 2026 14:45:00 +0100</pubDate>
     <guid isPermaLink="false">a96ba39dc45ca9a4a90de3b10daa31f0</guid>
     <category>Sports</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-18</source>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-18</source>
     <media:content url="https://maltanews.great-site.net/img/1822a59b07d744278ca6fc23c91c73329868861f-1795004573-368dfae7-1200x630.png" medium="image" />
     <enclosure url="https://maltanews.great-site.net/img/1822a59b07d744278ca6fc23c91c73329868861f-1795004573-368dfae7-1200x630.png" length="0" type="image/jpeg" />
   </item>
@@ -123,7 +123,7 @@
     <pubDate>Wed, 18 Nov 2026 14:09:00 +0100</pubDate>
     <guid isPermaLink="false">42678acca47dfa4c475fb580e2d7572e</guid>
     <category>Economy</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-18</source>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-18</source>
     <media:content url="https://maltanews.great-site.net/img/2_mfsa_building.jpg" medium="image" />
     <enclosure url="https://maltanews.great-site.net/img/2_mfsa_building.jpg" length="0" type="image/jpeg" />
   </item>
@@ -135,7 +135,7 @@
     <pubDate>Wed, 18 Nov 2026 13:13:00 +0100</pubDate>
     <guid isPermaLink="false">a848a400ad6e397c2e6e1c1a7f43c4ff</guid>
     <category>Politics</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-18</source>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-18</source>
     <media:content url="https://maltanews.great-site.net/img/093a006db8da70ab52011b3620f342230f7326f2-1795004345-10afa19b-1200x630.png" medium="image" />
     <enclosure url="https://maltanews.great-site.net/img/093a006db8da70ab52011b3620f342230f7326f2-1795004345-10afa19b-1200x630.png" length="0" type="image/jpeg" />
   </item>
@@ -147,7 +147,7 @@
     <pubDate>Wed, 18 Nov 2026 12:44:00 +0100</pubDate>
     <guid isPermaLink="false">e29843d1f2ffe7f036021a4a86c5cac1</guid>
     <category>Courts &amp; Crime</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-18</source>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-18</source>
     <media:content url="https://maltanews.great-site.net/img/c75fffe131712a8bbe1867c5b2af7e95147ebaa4-1795003306-2eed607b-1200x630.jpg" medium="image" />
     <enclosure url="https://maltanews.great-site.net/img/c75fffe131712a8bbe1867c5b2af7e95147ebaa4-1795003306-2eed607b-1200x630.jpg" length="0" type="image/jpeg" />
   </item>
@@ -159,7 +159,7 @@
     <pubDate>Wed, 18 Nov 2026 12:26:00 +0100</pubDate>
     <guid isPermaLink="false">0de3d4223f6143008aa6dab99dad4611</guid>
     <category>Politics</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-18</source>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-18</source>
     <media:content url="https://maltanews.great-site.net/img/PR-2.jpg" medium="image" />
     <enclosure url="https://maltanews.great-site.net/img/PR-2.jpg" length="0" type="image/jpeg" />
   </item>
@@ -171,7 +171,7 @@
     <pubDate>Wed, 18 Nov 2026 12:05:00 +0100</pubDate>
     <guid isPermaLink="false">eafeda827ccacfde812cd129a0e3feef</guid>
     <category>Economy</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-18</source>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-18</source>
     <media:content url="https://maltanews.great-site.net/img/d4e335a4ed78712bdcd9b446f528f764b8c75da4-1795000813-f2babe8f-1200x630.jpg" medium="image" />
     <enclosure url="https://maltanews.great-site.net/img/d4e335a4ed78712bdcd9b446f528f764b8c75da4-1795000813-f2babe8f-1200x630.jpg" length="0" type="image/jpeg" />
   </item>
@@ -183,7 +183,7 @@
     <pubDate>Wed, 18 Nov 2026 11:45:00 +0100</pubDate>
     <guid isPermaLink="false">7f7f47a0e786eea6515be3cb99212aaa</guid>
     <category>Economy</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-18</source>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-18</source>
     <media:content url="https://maltanews.great-site.net/img/ZWRI2mtm144wsVU0.jpg" medium="image" />
     <enclosure url="https://maltanews.great-site.net/img/ZWRI2mtm144wsVU0.jpg" length="0" type="image/jpeg" />
   </item>
@@ -195,7 +195,7 @@
     <pubDate>Wed, 18 Nov 2026 11:37:00 +0100</pubDate>
     <guid isPermaLink="false">d7fa1fba05dbfad353711fc8d9e4850a</guid>
     <category>Economy</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-18</source>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-18</source>
     <media:content url="https://maltanews.great-site.net/img/2c3f2ae27322.jpg" medium="image" />
     <enclosure url="https://maltanews.great-site.net/img/2c3f2ae27322.jpg" length="0" type="image/jpeg" />
   </item>
@@ -207,7 +207,7 @@
     <pubDate>Wed, 18 Nov 2026 11:09:00 +0100</pubDate>
     <guid isPermaLink="false">a11deda5ab9d7f97fd7b5d2010072f08</guid>
     <category>Economy</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-18</source>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-18</source>
     <media:content url="https://maltanews.great-site.net/img/bb2e7025e65198c12e2c13993d2897be27ffe243-1794996857-2aac12c2-1200x630.jpg" medium="image" />
     <enclosure url="https://maltanews.great-site.net/img/bb2e7025e65198c12e2c13993d2897be27ffe243-1794996857-2aac12c2-1200x630.jpg" length="0" type="image/jpeg" />
   </item>
@@ -219,7 +219,7 @@
     <pubDate>Wed, 18 Nov 2026 10:55:00 +0100</pubDate>
     <guid isPermaLink="false">4c87c8ebb09e1538ddda5f9cef815fc8</guid>
     <category>Politics</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-18</source>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-18</source>
     <media:content url="https://maltanews.great-site.net/img/FB-COVER-CHAR-13-1024x536.jpg" medium="image" />
     <enclosure url="https://maltanews.great-site.net/img/FB-COVER-CHAR-13-1024x536.jpg" length="0" type="image/jpeg" />
   </item>
@@ -231,7 +231,7 @@
     <pubDate>Wed, 18 Nov 2026 10:51:00 +0100</pubDate>
     <guid isPermaLink="false">706f13473ee48c2130d439dd5567698e</guid>
     <category>Courts &amp; Crime</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-18</source>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-18</source>
     <media:content url="https://maltanews.great-site.net/img/b3dd87c02e26354113a84328dd8bc0cea923dcc8-1794998709-55aab6e6-1200x630.png" medium="image" />
     <enclosure url="https://maltanews.great-site.net/img/b3dd87c02e26354113a84328dd8bc0cea923dcc8-1794998709-55aab6e6-1200x630.png" length="0" type="image/jpeg" />
   </item>
@@ -243,7 +243,7 @@
     <pubDate>Wed, 18 Nov 2026 10:32:00 +0100</pubDate>
     <guid isPermaLink="false">99888a9518f49abf78a6b129874d658f</guid>
     <category>Health &amp; Education</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-18</source>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-18</source>
     <media:content url="https://maltanews.great-site.net/img/d5c7ec0c2c116dee61662fc9d45652a7c3edc9fe-1794994798-31996bfa-1200x630.jpg" medium="image" />
     <enclosure url="https://maltanews.great-site.net/img/d5c7ec0c2c116dee61662fc9d45652a7c3edc9fe-1794994798-31996bfa-1200x630.jpg" length="0" type="image/jpeg" />
   </item>
@@ -255,7 +255,7 @@
     <pubDate>Wed, 18 Nov 2026 10:30:00 +0100</pubDate>
     <guid isPermaLink="false">0536d35e2ef97c2a02f398d020f72d28</guid>
     <category>Politics</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-18</source>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-18</source>
     <media:content url="https://maltanews.great-site.net/img/fire-arms.jpg" medium="image" />
     <enclosure url="https://maltanews.great-site.net/img/fire-arms.jpg" length="0" type="image/jpeg" />
   </item>
@@ -267,7 +267,7 @@
     <pubDate>Wed, 18 Nov 2026 09:50:00 +0100</pubDate>
     <guid isPermaLink="false">635c313c6caa55341876fe5f636de203</guid>
     <category>Politics</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-18</source>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-18</source>
     <media:content url="https://maltanews.great-site.net/img/f7a0dc688ec7.jpg" medium="image" />
     <enclosure url="https://maltanews.great-site.net/img/f7a0dc688ec7.jpg" length="0" type="image/jpeg" />
   </item>
@@ -279,7 +279,7 @@
     <pubDate>Wed, 18 Nov 2026 09:49:00 +0100</pubDate>
     <guid isPermaLink="false">3fc8c2193f6173d693dd71db07e15f90</guid>
     <category>Politics</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-18</source>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-18</source>
     <media:content url="https://maltanews.great-site.net/img/492d93eb55c4e0c6ca19dd15c3370eac2a9a5f19-1794992133-678becf4-1200x630.jpg" medium="image" />
     <enclosure url="https://maltanews.great-site.net/img/492d93eb55c4e0c6ca19dd15c3370eac2a9a5f19-1794992133-678becf4-1200x630.jpg" length="0" type="image/jpeg" />
   </item>
@@ -291,7 +291,7 @@
     <pubDate>Wed, 18 Nov 2026 09:29:00 +0100</pubDate>
     <guid isPermaLink="false">ac4012a29951e031cfe737afbb476417</guid>
     <category>Courts &amp; Crime</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-18</source>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-18</source>
     <media:content url="https://maltanews.great-site.net/img/5cb9313f8591da55dcd46b2498c4aae3f36baa3e-1794991177-e4e470f7-1200x630.jpeg" medium="image" />
     <enclosure url="https://maltanews.great-site.net/img/5cb9313f8591da55dcd46b2498c4aae3f36baa3e-1794991177-e4e470f7-1200x630.jpeg" length="0" type="image/jpeg" />
   </item>
@@ -303,7 +303,7 @@
     <pubDate>Wed, 18 Nov 2026 08:30:00 +0100</pubDate>
     <guid isPermaLink="false">b93f70e2e96d9b3b8f6b3c361bc94423</guid>
     <category>Politics</category>
-    <source url="https://dejjem.github.io/maltanews-feed/feed.xml">Malta News — 2026-11-18</source>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-18</source>
     <media:content url="https://maltanews.great-site.net/img/4b791d01bec08d5e00b0740a58bc82e1bd291a04-1794987488-b58735c9-1200x630.jpeg" medium="image" />
     <enclosure url="https://maltanews.great-site.net/img/4b791d01bec08d5e00b0740a58bc82e1bd291a04-1794987488-b58735c9-1200x630.jpeg" length="0" type="image/jpeg" />
   </item>
