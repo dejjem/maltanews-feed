@@ -9,8 +9,8 @@
   <link>https://maltanews.pages.dev/</link>
   <description>Daily Malta news digest, automated. Curated from local Maltese news sources.</description>
   <language>en-mt</language>
-  <lastBuildDate>Thu, 19 Nov 2026 13:30:54 +0100</lastBuildDate>
-  <pubDate>Thu, 19 Nov 2026 13:05:00 +0100</pubDate>
+  <lastBuildDate>Thu, 19 Nov 2026 16:30:24 +0100</lastBuildDate>
+  <pubDate>Thu, 19 Nov 2026 15:53:00 +0100</pubDate>
   <generator>Hermes Malta News pipeline v3 + RSS</generator>
   <managingEditor>dejjem@gmail.com (Mark Micallef)</managingEditor>
   <atom:link href="https://maltanews.pages.dev/feed.xml" rel="self" type="application/rss+xml" />
@@ -19,6 +19,138 @@
     <title>Malta News Today</title>
     <link>https://maltanews.pages.dev/</link>
   </image>
+  <item>
+    <title>db Group to cover the 400 annual contribution for its TCN employees</title>
+    <link>https://lovinmalta.com/news/local/db-group-to-cover-e400-annual-charge-for-tcn-employees/</link>
+    <description>db Group has become the latest company in Malta to pledge support for its third-country national employees after Budget 2027 introduced a new 400 annual infrastructure contribution for non-EU workers. The group said it will cover the full charge for eligible existing and new TCN employees, with existing staff covered when it falls due on work permit renewals from 1 April 2027. Workers whose permits expire before the end of March must apply on time to qualify, and employees must still pay their own permit application fees, including the 800 fee where applicable. The company will also cover the new 83 monthly driving licence charge for eligible staff.</description>
+    <content:encoded><![CDATA[<p>db Group has become the latest company in Malta to pledge support for its third-country national employees after Budget 2027 introduced a new 400 annual infrastructure contribution for non-EU workers. The group said it will cover the full charge for eligible existing and new TCN employees, with existing staff covered when it falls due on work permit renewals from 1 April 2027. Workers whose permits expire before the end of March must apply on time to qualify, and employees must still pay their own permit application fees, including the 800 fee where applicable. The company will also cover the new 83 monthly driving licence charge for eligible staff.</p><p><img src="/img/Dylan-Covers-3-10-1024x536.jpg" alt="db Group covering the annual contribution for TCN employees" /></p><p><em>Sources: Lovin Malta</em></p>]]></content:encoded>
+    <pubDate>Thu, 19 Nov 2026 15:53:00 +0100</pubDate>
+    <guid isPermaLink="false">14a932fed35eec56820eb28ebf0fa8f6</guid>
+    <category>Economy</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-19</source>
+    <media:content url="/img/Dylan-Covers-3-10-1024x536.jpg" medium="image" />
+    <enclosure url="/img/Dylan-Covers-3-10-1024x536.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Dalli tells COP31 climate action must not burden families and businesses</title>
+    <link>https://timesofmalta.com/article/climate-action-place-excessive-burden-people-dalli-tells-cop31.1137370</link>
+    <description>Environment Minister Miriam Dalli told the COP31 climate summit in Antalya that climate action must translate into investment strengthening resilience without placing an excessive burden on people. Co-leading the EUs negotiations on climate change adaptation, she said Malta is already feeling rising temperatures and extreme weather and must have a seat where decisions are taken. A draft deal from co-host Australia removed all references to fossil fuels but included a target to electrify the global economy, with nearly 200 nations seeking a consensus agreement by Friday.</description>
+    <content:encoded><![CDATA[<p>Environment Minister Miriam Dalli told the COP31 climate summit in Antalya that climate action must translate into investment strengthening resilience without placing an excessive burden on people. Co-leading the EUs negotiations on climate change adaptation, she said Malta is already feeling rising temperatures and extreme weather and must have a seat where decisions are taken. A draft deal from co-host Australia removed all references to fossil fuels but included a target to electrify the global economy, with nearly 200 nations seeking a consensus agreement by Friday.</p><p><img src="/img/6fa5318b53c08aa03fe7920da7b665a4c308aadc-1795099860-5073f826-1200x630.jpg" alt="Environment Minister Miriam Dalli at the COP31 climate summit" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Thu, 19 Nov 2026 15:50:00 +0100</pubDate>
+    <guid isPermaLink="false">6c24c88a799a12aff96ec144e9aeb290</guid>
+    <category>Politics</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-19</source>
+    <media:content url="/img/6fa5318b53c08aa03fe7920da7b665a4c308aadc-1795099860-5073f826-1200x630.jpg" medium="image" />
+    <enclosure url="/img/6fa5318b53c08aa03fe7920da7b665a4c308aadc-1795099860-5073f826-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Maltese man appears in court over €153m fuel fraud as Spain seeks extradition</title>
+    <link>https://timesofmalta.com/article/two-maltese-among-suspects-153m-spanish-fuel-fraud.1137321</link>
+    <description>Maltese police arrested one of two Maltese nationals suspected of involvement in a €153 million fuel fraud scheme in Spain on a European Arrest Warrant. Rodrick Grech, 45, from Naxxar, appeared in Valletta court on Thursday, where he refused to consent to extradition, leaving the decision to a judge. His defence did not contest the warrants validity but requested bail. The arrest followed a co-ordinated international operation into a network accused of laundering €153 million between 2021 and 2024.</description>
+    <content:encoded><![CDATA[<p>Maltese police arrested one of two Maltese nationals suspected of involvement in a €153 million fuel fraud scheme in Spain on a European Arrest Warrant. Rodrick Grech, 45, from Naxxar, appeared in Valletta court on Thursday, where he refused to consent to extradition, leaving the decision to a judge. His defence did not contest the warrants validity but requested bail. The arrest followed a co-ordinated international operation into a network accused of laundering €153 million between 2021 and 2024.</p><p><img src="/img/2866137bc0947309e9c9883e52d0294849586fa4-1795022919-621231c0-1200x630.jpg" alt="Maltese man arrested over alleged €153 million Spanish fuel fraud" /></p><p><em>Sources: Times of Malta, Newsbook</em></p>]]></content:encoded>
+    <pubDate>Thu, 19 Nov 2026 15:30:00 +0100</pubDate>
+    <guid isPermaLink="false">a068c01a5c66de10b507d9c495e97375</guid>
+    <category>Courts &amp; Crime</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-19</source>
+    <media:content url="/img/2866137bc0947309e9c9883e52d0294849586fa4-1795022919-621231c0-1200x630.jpg" medium="image" />
+    <enclosure url="/img/2866137bc0947309e9c9883e52d0294849586fa4-1795022919-621231c0-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Labour says leaked PN statute would weaken party due diligence and narrow leadership</title>
+    <link>https://timesofmalta.com/article/leaked-pn-statute-shows-plans-weaken-due-diligence-labour-says.1137366</link>
+    <description>Labour presented a leaked draft revision of the Nationalist Party statute at a press conference on Thursday, saying it would cut the party leadership committee from seven members to four and exempt MPs running for party leader or deputy leader from due diligence checks. Ministers Jonathan Attard and Glenn Bedingfield said the document carried tracked changes attributed to PN general secretary Charles Bonello and came from party members unhappy with Alex Borgs leadership. The Nationalist Party has disputed the documents authenticity, calling it a doctored version of its existing statute.</description>
+    <content:encoded><![CDATA[<p>Labour presented a leaked draft revision of the Nationalist Party statute at a press conference on Thursday, saying it would cut the party leadership committee from seven members to four and exempt MPs running for party leader or deputy leader from due diligence checks. Ministers Jonathan Attard and Glenn Bedingfield said the document carried tracked changes attributed to PN general secretary Charles Bonello and came from party members unhappy with Alex Borgs leadership. The Nationalist Party has disputed the documents authenticity, calling it a doctored version of its existing statute.</p><p><img src="/img/476e7aa12978271b259f982d584d85aa76d8504b-1795096384-20fc6e0f-1200x630.jpg" alt="Copy of the leaked Nationalist Party statute handed out at a press conference" /></p><p><em>Sources: Times of Malta, Malta Today, Lovin Malta, Newsbook</em></p>]]></content:encoded>
+    <pubDate>Thu, 19 Nov 2026 15:11:00 +0100</pubDate>
+    <guid isPermaLink="false">b53791fb2638e2be9e3d0050bebabe30</guid>
+    <category>Politics</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-19</source>
+    <media:content url="/img/476e7aa12978271b259f982d584d85aa76d8504b-1795096384-20fc6e0f-1200x630.jpg" medium="image" />
+    <enclosure url="/img/476e7aa12978271b259f982d584d85aa76d8504b-1795096384-20fc6e0f-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>European Commission calls on Malta to stop finch trapping</title>
+    <link>https://www.maltatoday.com.mt/news/europe/145823/european_commission_calls_on_malta_to_stop_finch_trapping</link>
+    <description>The European Commission told Malta on Thursday to stop allowing finch trapping, saying its research scheme for seven protected finch species breaches EU bird protection rules. In a Reasoned Opinion it accused Malta of using a research derogation to continue recreational trapping despite two EU court rulings, and gave the country two months to respond. The government said it would continue talks, defend the research exemption and protect Maltas cultural traditions, with the case potentially going before the EU Court of Justice if the response is unsatisfactory.</description>
+    <content:encoded><![CDATA[<p>The European Commission told Malta on Thursday to stop allowing finch trapping, saying its research scheme for seven protected finch species breaches EU bird protection rules. In a Reasoned Opinion it accused Malta of using a research derogation to continue recreational trapping despite two EU court rulings, and gave the country two months to respond. The government said it would continue talks, defend the research exemption and protect Maltas cultural traditions, with the case potentially going before the EU Court of Justice if the response is unsatisfactory.</p><p><img src="/img/2_2_finch_in_a_cage_at_a_trapping_site_2025_photo_by_luca_eberle.jpg" alt="Finches held at a trapping site" /></p><p><em>Sources: Malta Today, Newsbook</em></p>]]></content:encoded>
+    <pubDate>Thu, 19 Nov 2026 15:03:00 +0100</pubDate>
+    <guid isPermaLink="false">8d3a68ed69aece58a24eb0505045eef4</guid>
+    <category>Politics</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-19</source>
+    <media:content url="/img/2_2_finch_in_a_cage_at_a_trapping_site_2025_photo_by_luca_eberle.jpg" medium="image" />
+    <enclosure url="/img/2_2_finch_in_a_cage_at_a_trapping_site_2025_photo_by_luca_eberle.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Archbishops Curia backs Green Ribbon campaign for non-EU workers</title>
+    <link>https://timesofmalta.com/article/archbishop-curia-backs-green-ribbon-campaign-support-noneu-workers.1137363</link>
+    <description>The Archbishops Curia said it is supporting the week-long Green Ribbon campaign highlighting the challenges faced by third-country nationals in Malta, distributing the ribbon among staff as a gesture of solidarity. The campaign is organised by the TCN Alliance Malta, Solidarjet, Moviment Graffitti and TCNs United, and comes after budget measures including a new 400 annual infrastructure contribution on work permits and the withdrawal of free public transport and childcare. TCN Alliance Malta said the campaign is intended as a peaceful but undeniable confrontation with the policies that caused the impasse.</description>
+    <content:encoded><![CDATA[<p>The Archbishops Curia said it is supporting the week-long Green Ribbon campaign highlighting the challenges faced by third-country nationals in Malta, distributing the ribbon among staff as a gesture of solidarity. The campaign is organised by the TCN Alliance Malta, Solidarjet, Moviment Graffitti and TCNs United, and comes after budget measures including a new 400 annual infrastructure contribution on work permits and the withdrawal of free public transport and childcare. TCN Alliance Malta said the campaign is intended as a peaceful but undeniable confrontation with the policies that caused the impasse.</p><p><img src="/img/9d4313e4e9f861116fee668c6c3d0bf6eff362b7-1795096370-8afb68c2-1200x630.jpeg" alt="Green Ribbon campaign symbol" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Thu, 19 Nov 2026 14:51:00 +0100</pubDate>
+    <guid isPermaLink="false">69aaf37b8e71201a260d93acc426ca02</guid>
+    <category>Economy</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-19</source>
+    <media:content url="/img/9d4313e4e9f861116fee668c6c3d0bf6eff362b7-1795096370-8afb68c2-1200x630.jpeg" medium="image" />
+    <enclosure url="/img/9d4313e4e9f861116fee668c6c3d0bf6eff362b7-1795096370-8afb68c2-1200x630.jpeg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Convicted Qormi drug trafficker given probation order instead of jail</title>
+    <link>https://timesofmalta.com/article/drug-trafficker-boasted-malta-best-white-one-avoids-jail.1137363</link>
+    <description>Renald Baldacchino, 38, known as il-Garru, was given a three-year probation order after being convicted of supplying cocaine and heroin from a Qormi garage, drug possession, firearms offences and breaching a suspended sentence. The court took into account his successful completion of a drug rehabilitation programme. The case stems from a March 2018 police raid in which nine people were arrested and officers seized cash, two firearms and drug paraphernalia, with 26 grams of cocaine found at roughly 18 per cent purity.</description>
+    <content:encoded><![CDATA[<p>Renald Baldacchino, 38, known as il-Garru, was given a three-year probation order after being convicted of supplying cocaine and heroin from a Qormi garage, drug possession, firearms offences and breaching a suspended sentence. The court took into account his successful completion of a drug rehabilitation programme. The case stems from a March 2018 police raid in which nine people were arrested and officers seized cash, two firearms and drug paraphernalia, with 26 grams of cocaine found at roughly 18 per cent purity.</p><p><img src="/img/49a999b161fcc882433dfae7b548ef3537910be5-1795095485-e584282d-1200x630.jpg" alt="Court case file relating to the Qormi drug case" /></p><p><em>Sources: Times of Malta, Malta Today, Newsbook</em></p>]]></content:encoded>
+    <pubDate>Thu, 19 Nov 2026 14:37:00 +0100</pubDate>
+    <guid isPermaLink="false">2b0a85abd75bf29055e587313cd090d4</guid>
+    <category>Courts &amp; Crime</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-19</source>
+    <media:content url="/img/49a999b161fcc882433dfae7b548ef3537910be5-1795095485-e584282d-1200x630.jpg" medium="image" />
+    <enclosure url="/img/49a999b161fcc882433dfae7b548ef3537910be5-1795095485-e584282d-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Malta records the highest share of air and sea travel in the EU</title>
+    <link>https://lovinmalta.com/news/local/malta-ranks-first-in-the-eu-for-both-air-and-sea-travel/</link>
+    <description>Eurostat data for 2025 show Malta had the largest share of trips made by air in the EU at 61.6 per cent, more than three and a half times the EU average of 17.2 per cent, with Cyprus second at 51.1 per cent. Malta also topped the EU for waterway travel at 38.4 per cent, ahead of Greece at 15.9 per cent and Finland at 6.9 per cent. Across the EU, residents made 1.2 billion trips in 2025, with 81.4 per cent by land, and cars the most used mode of transport at 63.3 per cent.</description>
+    <content:encoded><![CDATA[<p>Eurostat data for 2025 show Malta had the largest share of trips made by air in the EU at 61.6 per cent, more than three and a half times the EU average of 17.2 per cent, with Cyprus second at 51.1 per cent. Malta also topped the EU for waterway travel at 38.4 per cent, ahead of Greece at 15.9 per cent and Finland at 6.9 per cent. Across the EU, residents made 1.2 billion trips in 2025, with 81.4 per cent by land, and cars the most used mode of transport at 63.3 per cent.</p><p><img src="/img/Dylan-Covers-3-9-1024x536.jpg" alt="Malta travel data" /></p><p><em>Sources: Lovin Malta</em></p>]]></content:encoded>
+    <pubDate>Thu, 19 Nov 2026 14:33:00 +0100</pubDate>
+    <guid isPermaLink="false">3340b3d4d8daf029e78bf8a47c5ba857</guid>
+    <category>Infrastructure &amp; Transport</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-19</source>
+    <media:content url="/img/Dylan-Covers-3-9-1024x536.jpg" medium="image" />
+    <enclosure url="/img/Dylan-Covers-3-9-1024x536.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>MEIA clarifies artists income proposal as a temporary pilot scheme</title>
+    <link>https://www.maltatoday.com.mt/news/national/145822/meia_clarifies_income_proposal_for_artists_as_a_temporary_pilot_scheme</link>
+    <description>The Malta Entertainment Industry and Arts Association said a permanent wage for all artists falls outside the scope of its proposal, clarifying that it had recommended a small pilot running for a limited period with clear rules and independent evaluation. The clarification follows the Nationalist Partys backing of the proposal for a basic wage for artists, and comes amid an online debate to which MEIA said it contributed no part.</description>
+    <content:encoded><![CDATA[<p>The Malta Entertainment Industry and Arts Association said a permanent wage for all artists falls outside the scope of its proposal, clarifying that it had recommended a small pilot running for a limited period with clear rules and independent evaluation. The clarification follows the Nationalist Partys backing of the proposal for a basic wage for artists, and comes amid an online debate to which MEIA said it contributed no part.</p><p><img src="/img/9_cash_in_hand.jpg" alt="Money in hand" /></p><p><em>Sources: Malta Today</em></p>]]></content:encoded>
+    <pubDate>Thu, 19 Nov 2026 14:31:00 +0100</pubDate>
+    <guid isPermaLink="false">d6dd361dedc63970a48b8f528c26fd09</guid>
+    <category>Politics</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-19</source>
+    <media:content url="/img/9_cash_in_hand.jpg" medium="image" />
+    <enclosure url="/img/9_cash_in_hand.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>PN raises concerns over delays in specialist training for doctors</title>
+    <link>https://www.maltatoday.com.mt/news/national/145820/training_delays_forced_doctors_union_to_order_industrial_action_pn_says</link>
+    <description>The Nationalist Party said delays in specialist training forced the Medical Association of Malta to order industrial action, with doctors who applied on 15 May still awaiting start dates six months later. PN spokesperson Stephen Spiteri said the health service is struggling to meet growing demand and that more doctors would allow patients to be seen sooner. MAM registered a trade dispute on 12 November over delays in appointing junior doctors to basic specialist trainee posts, and its directives take effect on 20 November.</description>
+    <content:encoded><![CDATA[<p>The Nationalist Party said delays in specialist training forced the Medical Association of Malta to order industrial action, with doctors who applied on 15 May still awaiting start dates six months later. PN spokesperson Stephen Spiteri said the health service is struggling to meet growing demand and that more doctors would allow patients to be seen sooner. MAM registered a trade dispute on 12 November over delays in appointing junior doctors to basic specialist trainee posts, and its directives take effect on 20 November.</p><p><img src="/img/20_crop_doctor_browsing_tablet_original_537818.jpg" alt="Doctor with a tablet" /></p><p><em>Sources: Malta Today</em></p>]]></content:encoded>
+    <pubDate>Thu, 19 Nov 2026 13:39:00 +0100</pubDate>
+    <guid isPermaLink="false">524f1e159e123ff9b387f81029ef7634</guid>
+    <category>Politics</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-19</source>
+    <media:content url="/img/20_crop_doctor_browsing_tablet_original_537818.jpg" medium="image" />
+    <enclosure url="/img/20_crop_doctor_browsing_tablet_original_537818.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Services turnover edged up, with working-day adjusted index 10.1 per cent higher year on year</title>
+    <link>https://timesofmalta.com/article/services-turnover-slightly-second-quarter-2026.1137349</link>
+    <description>National statistics show seasonally adjusted services turnover rising 0.9 per cent against the previous quarter, while working-day adjusted turnover in selected service activities was 10.1 per cent higher than a year earlier. The strongest quarterly growth was recorded in real estate activities at 19 per cent, followed by transportation and storage at 6.9 per cent and motor vehicle trade at 4 per cent. Turnover declined in professional, scientific and technical activities, wholesale trade and administrative and support services, while employment, gross wages and hours worked all increased.</description>
+    <content:encoded><![CDATA[<p>National statistics show seasonally adjusted services turnover rising 0.9 per cent against the previous quarter, while working-day adjusted turnover in selected service activities was 10.1 per cent higher than a year earlier. The strongest quarterly growth was recorded in real estate activities at 19 per cent, followed by transportation and storage at 6.9 per cent and motor vehicle trade at 4 per cent. Turnover declined in professional, scientific and technical activities, wholesale trade and administrative and support services, while employment, gross wages and hours worked all increased.</p><p><img src="/img/1461d9efc461ca7925e0e5b67758b6cc1a44c16b-1795090989-19208a0e-1200x630.jpeg" alt="National statistics on services turnover" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Thu, 19 Nov 2026 13:20:00 +0100</pubDate>
+    <guid isPermaLink="false">b9ff4016a4502f45b1da3e15a52bbf18</guid>
+    <category>Infrastructure &amp; Transport</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-19</source>
+    <media:content url="/img/1461d9efc461ca7925e0e5b67758b6cc1a44c16b-1795090989-19208a0e-1200x630.jpeg" medium="image" />
+    <enclosure url="/img/1461d9efc461ca7925e0e5b67758b6cc1a44c16b-1795090989-19208a0e-1200x630.jpeg" length="0" type="image/jpeg" />
+  </item>
   <item>
     <title>More than 6,000 persons with disabilities were in work at end-2025</title>
     <link>https://newsbook.com.mt/aktar-minn-6000-persuna-bdizabilita-kienu-jahdmu-fl-ahhar-tal-2025/</link>
@@ -282,6 +414,18 @@
     <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-19</source>
     <media:content url="/img/Image-10.jpeg" medium="image" />
     <enclosure url="/img/Image-10.jpeg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>42 schools awarded the Eco-Schools Green Flag</title>
+    <link>https://timesofmalta.com/article/42-schools-awarded-ecoschools-green-flag.1137335</link>
+    <description>Forty-two schools were awarded the internationally recognised Eco-Schools Green Flag at a ceremony on 12 November for their work on sustainability, student empowerment and climate action. The awards honoured students and educators for environmental stewardship and active citizenship, and were presented with a message from President Myriam Spiteri Debono.</description>
+    <content:encoded><![CDATA[<p>Forty-two schools were awarded the internationally recognised Eco-Schools Green Flag at a ceremony on 12 November for their work on sustainability, student empowerment and climate action. The awards honoured students and educators for environmental stewardship and active citizenship, and were presented with a message from President Myriam Spiteri Debono.</p><p><img src="/img/262a57981ca19597e9e8e1b8f0e3c2d97aac436e-1795079397-5e428b4c-1200x630.jpg" alt="School eco flag ceremony" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Thu, 19 Nov 2026 10:05:00 +0100</pubDate>
+    <guid isPermaLink="false">dfdd9894a5c90d070cecefc1b8808e28</guid>
+    <category>Politics</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-19</source>
+    <media:content url="/img/262a57981ca19597e9e8e1b8f0e3c2d97aac436e-1795079397-5e428b4c-1200x630.jpg" medium="image" />
+    <enclosure url="/img/262a57981ca19597e9e8e1b8f0e3c2d97aac436e-1795079397-5e428b4c-1200x630.jpg" length="0" type="image/jpeg" />
   </item>
   <item>
     <title>Three, including 11-year-old, injured in Mellieħa crash</title>
