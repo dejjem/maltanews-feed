@@ -9,8 +9,8 @@
   <link>https://maltanews.pages.dev/</link>
   <description>Daily Malta news digest, automated. Curated from local Maltese news sources.</description>
   <language>en-mt</language>
-  <lastBuildDate>Wed, 18 Nov 2026 22:09:27 +0100</lastBuildDate>
-  <pubDate>Wed, 18 Nov 2026 16:07:00 +0100</pubDate>
+  <lastBuildDate>Thu, 19 Nov 2026 06:30:26 +0100</lastBuildDate>
+  <pubDate>Thu, 19 Nov 2026 12:00:00 +0100</pubDate>
   <generator>Hermes Malta News pipeline v3 + RSS</generator>
   <managingEditor>dejjem@gmail.com (Mark Micallef)</managingEditor>
   <atom:link href="https://maltanews.pages.dev/feed.xml" rel="self" type="application/rss+xml" />
@@ -20,292 +20,160 @@
     <link>https://maltanews.pages.dev/</link>
   </image>
   <item>
-    <title>Collective agreement signed for 155 MCAST employees with improved pay and career paths</title>
-    <link>https://www.independent.com.mt/articles/2026-11-18/local-news/Collective-agreement-for-155-MCAST-employees-brings-improvements-to-working-conditions-and-wages-6736294755</link>
-    <description>A collective agreement covering 155 MCAST employees was signed at a ceremony overseen by Prime Minister Robert Abela, bringing improvements to working conditions, wages and staff well-being. The agreement covers administrative and senior management roles and is intended to facilitate career advancement, greater access to training and skills development, and improved financial packages. Abela said MCAST plays a central role in the country's next economic leap through vocational and professional education, and that strengthening the college invests in the country's capacity to move forward.</description>
-    <content:encoded><![CDATA[<p>A collective agreement covering 155 MCAST employees was signed at a ceremony overseen by Prime Minister Robert Abela, bringing improvements to working conditions, wages and staff well-being. The agreement covers administrative and senior management roles and is intended to facilitate career advancement, greater access to training and skills development, and improved financial packages. Abela said MCAST plays a central role in the country&#x27;s next economic leap through vocational and professional education, and that strengthening the college invests in the country&#x27;s capacity to move forward.</p><p><img src="https://maltanews.great-site.net/img/b399fa69899f.jpg" alt="MCAST collective agreement signing" /></p><p><em>Sources: Malta Independent, Newsbook</em></p>]]></content:encoded>
-    <pubDate>Wed, 18 Nov 2026 16:07:00 +0100</pubDate>
-    <guid isPermaLink="false">7a7567a52c2d80ecab1da31e7561a1d0</guid>
+    <title>PAC opens scrutiny of Enemalta over the 2023 power cuts</title>
+    <link>https://timesofmalta.com/article/parliament-pac-nao-enemalta-audit-2023-power-cuts.1137322</link>
+    <description>Parliament's Public Accounts Committee started on Wednesday examining the National Audit Office report into the widespread power outages Malta experienced in the summer of 2023. The PAC's examination focuses on Enemalta's handling of the outages and will take evidence as part of the audit process. The hearing puts the utility's preparedness and network performance during the heatwave under parliamentary scrutiny.</description>
+    <content:encoded><![CDATA[<p>Parliament&#x27;s Public Accounts Committee started on Wednesday examining the National Audit Office report into the widespread power outages Malta experienced in the summer of 2023. The PAC&#x27;s examination focuses on Enemalta&#x27;s handling of the outages and will take evidence as part of the audit process. The hearing puts the utility&#x27;s preparedness and network performance during the heatwave under parliamentary scrutiny.</p><p><img src="/img/3edb301d66af4a3027d7761e3d3c44da171452a3-1795023198-059b81be-1200x630.png" alt="Parliament Public Accounts Committee hearing on Enemalta and the 2023 power cuts" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Thu, 19 Nov 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">3f076dfe75522e0b977fe2bdeb4ddde4</guid>
     <category>Politics</category>
-    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-18</source>
-    <media:content url="https://maltanews.great-site.net/img/b399fa69899f.jpg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/b399fa69899f.jpg" length="0" type="image/jpeg" />
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-19</source>
+    <media:content url="/img/3edb301d66af4a3027d7761e3d3c44da171452a3-1795023198-059b81be-1200x630.png" medium="image" />
+    <enclosure url="/img/3edb301d66af4a3027d7761e3d3c44da171452a3-1795023198-059b81be-1200x630.png" length="0" type="image/jpeg" />
   </item>
   <item>
-    <title>Appeals court scraps two Sliema hotel permits and sends them back for re-examination</title>
-    <link>https://timesofmalta.com/article/stivala-sliema-hotels-permits-revoked-appeals-court.1137306</link>
-    <description>Two Planning Authority Tribunal decisions on nearby 15-storey hotel projects in Sliema have been revoked by the Appeals Court and returned for reconsideration from scratch, even though one hotel is already operating. Judge Mark Simiana found the tribunal had failed to correctly apply the law when it rejected objectors' request for a suspension of the permit, meaning the permit holder could continue building while the challenge was pending. In the St Vincent Street case, the court said amended plans were ordered as part of the final decision without giving appellants the chance to examine and contest them. The court also noted that revoking a permit after construction has taken place creates an illegal state of affairs that prejudices public order.</description>
-    <content:encoded><![CDATA[<p>Two Planning Authority Tribunal decisions on nearby 15-storey hotel projects in Sliema have been revoked by the Appeals Court and returned for reconsideration from scratch, even though one hotel is already operating. Judge Mark Simiana found the tribunal had failed to correctly apply the law when it rejected objectors&#x27; request for a suspension of the permit, meaning the permit holder could continue building while the challenge was pending. In the St Vincent Street case, the court said amended plans were ordered as part of the final decision without giving appellants the chance to examine and contest them. The court also noted that revoking a permit after construction has taken place creates an illegal state of affairs that prejudices public order.</p><p><img src="https://maltanews.great-site.net/img/12a9eff38637d657990b8a03798d194b68b9c846-1795012370-e0e02d2e-1200x630.jpeg" alt="High-rise hotel development in Sliema" /></p><p><em>Sources: Times of Malta, Newsbook</em></p>]]></content:encoded>
-    <pubDate>Wed, 18 Nov 2026 15:49:00 +0100</pubDate>
-    <guid isPermaLink="false">f11d74966301eba9e379829fa531ad9a</guid>
-    <category>Courts &amp; Crime</category>
-    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-18</source>
-    <media:content url="https://maltanews.great-site.net/img/12a9eff38637d657990b8a03798d194b68b9c846-1795012370-e0e02d2e-1200x630.jpeg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/12a9eff38637d657990b8a03798d194b68b9c846-1795012370-e0e02d2e-1200x630.jpeg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Motorcyclist, 67, grievously injured in Qormi crash</title>
-    <link>https://timesofmalta.com/article/motorcyclist-grievously-injured-qormi-crash.1137303</link>
-    <description>A 67-year-old man from St Paul's Bay was grievously injured when the Daelim motorcycle he was driving collided with a Toyota Vitz driven by a 29-year-old from Rabat in Triq is-Sebħ, Qormi. The accident was reported at 8am on Wednesday. Police said the motorcyclist was given first aid on site and then rushed to Mater Dei Hospital, where he was certified as having sustained grievous injuries. Police investigations are ongoing.</description>
-    <content:encoded><![CDATA[<p>A 67-year-old man from St Paul&#x27;s Bay was grievously injured when the Daelim motorcycle he was driving collided with a Toyota Vitz driven by a 29-year-old from Rabat in Triq is-Sebħ, Qormi. The accident was reported at 8am on Wednesday. Police said the motorcyclist was given first aid on site and then rushed to Mater Dei Hospital, where he was certified as having sustained grievous injuries. Police investigations are ongoing.</p><p><img src="https://maltanews.great-site.net/img/b5b49b422ec546ba11da332d9dae785c787ff399-1795011909-96d61673-1200x630.jpg" alt="Traffic accident scene in Qormi" /></p><p><em>Sources: Times of Malta, Malta Independent, Newsbook</em></p>]]></content:encoded>
-    <pubDate>Wed, 18 Nov 2026 15:25:00 +0100</pubDate>
-    <guid isPermaLink="false">77dc96a6453bb8692ca253840feed786</guid>
-    <category>Courts &amp; Crime</category>
-    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-18</source>
-    <media:content url="https://maltanews.great-site.net/img/b5b49b422ec546ba11da332d9dae785c787ff399-1795011909-96d61673-1200x630.jpg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/b5b49b422ec546ba11da332d9dae785c787ff399-1795011909-96d61673-1200x630.jpg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Man and woman remanded over robbery of elderly woman in San Ġwann</title>
-    <link>https://timesofmalta.com/article/man-woman-accused-robbery-elderly-woman-san-gwann.1137302</link>
-    <description>A man and a woman were remanded in custody over the 12 November robbery of an elderly woman whose wallet was snatched from her hand outside her home on Naxxar Road, San Ġwann. Clifford Garrett, 37, faced charges of aggravated theft, causing slight injuries to the victim, breaching bail conditions and recidivism, while Karen Grech, 47, was charged with harbouring a person against whom an arrest warrant had been issued, making false declarations and breaching bail conditions. Both pleaded not guilty; the victim suffered slight injuries to her hands.</description>
-    <content:encoded><![CDATA[<p>A man and a woman were remanded in custody over the 12 November robbery of an elderly woman whose wallet was snatched from her hand outside her home on Naxxar Road, San Ġwann. Clifford Garrett, 37, faced charges of aggravated theft, causing slight injuries to the victim, breaching bail conditions and recidivism, while Karen Grech, 47, was charged with harbouring a person against whom an arrest warrant had been issued, making false declarations and breaching bail conditions. Both pleaded not guilty; the victim suffered slight injuries to her hands.</p><p><img src="https://maltanews.great-site.net/img/325d72fd6d47f1520257dd756ba04ebd5027dd16-1795011863-82a205e1-1200x630.jpg" alt="Police file photograph" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
-    <pubDate>Wed, 18 Nov 2026 15:25:00 +0100</pubDate>
-    <guid isPermaLink="false">19ffbcefe8227a2b764e724c745e0be2</guid>
-    <category>Courts &amp; Crime</category>
-    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-18</source>
-    <media:content url="https://maltanews.great-site.net/img/325d72fd6d47f1520257dd756ba04ebd5027dd16-1795011863-82a205e1-1200x630.jpg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/325d72fd6d47f1520257dd756ba04ebd5027dd16-1795011863-82a205e1-1200x630.jpg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Maritime industry contributed €999 million to Malta's economy in 2025, study finds</title>
-    <link>https://www.independent.com.mt/articles/2026-11-18/local-news/Malta-s-maritime-industry-contributes-1-billion-to-the-economy-new-study-finds-6736294753</link>
-    <description>A study commissioned by the Malta Maritime Forum estimates the sector generated €999.29 million in direct gross value added in 2025, up about 41% from €708.2 million in 2018, with direct employment rising from 8,831 to 13,329 jobs. Port activities accounted for 48% of the sector's direct gross value added. The researchers found the sector's share of the overall economy has nevertheless slipped from around 6% to 4.4% over seven years, and said stronger contribution is needed to meet Malta Vision 2050's ambition of raising it to 7% of GDP.</description>
-    <content:encoded><![CDATA[<p>A study commissioned by the Malta Maritime Forum estimates the sector generated €999.29 million in direct gross value added in 2025, up about 41% from €708.2 million in 2018, with direct employment rising from 8,831 to 13,329 jobs. Port activities accounted for 48% of the sector&#x27;s direct gross value added. The researchers found the sector&#x27;s share of the overall economy has nevertheless slipped from around 6% to 4.4% over seven years, and said stronger contribution is needed to meet Malta Vision 2050&#x27;s ambition of raising it to 7% of GDP.</p><p><img src="https://maltanews.great-site.net/img/andy-li-CpsTAUPoScw-unsplash-1.jpg" alt="Maritime industry and cargo port" /></p><p><em>Sources: Malta Independent, Newsbook</em></p>]]></content:encoded>
-    <pubDate>Wed, 18 Nov 2026 15:19:00 +0100</pubDate>
-    <guid isPermaLink="false">a89f6732bf2387f5cb8c2b9acc7ca93a</guid>
-    <category>Economy</category>
-    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-18</source>
-    <media:content url="https://maltanews.great-site.net/img/andy-li-CpsTAUPoScw-unsplash-1.jpg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/andy-li-CpsTAUPoScw-unsplash-1.jpg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Mayors back five-point resolution for stronger local government</title>
-    <link>https://www.independent.com.mt/articles/2026-11-18/local-news/Mayors-call-for-full-time-option-greater-funding-say-in-five-point-local-government-resolution-6736294752</link>
-    <description>Mayors from Malta and Gozo approved a five-point resolution calling for changes to strengthen local government, including the option for mayors to serve on a full-time basis and greater involvement in decisions on funding allocated to local councils. The Local Councils' Association said mayors face substantial legal and public responsibilities that often extend beyond normal working hours, when government departments are closed. The resolution was adopted at the Association's Annual Mayors' Conference in Gozo on 13 and 14 November, which also covered demographic change, a new app for communication with elected members and the forthcoming waste collection tender.</description>
-    <content:encoded><![CDATA[<p>Mayors from Malta and Gozo approved a five-point resolution calling for changes to strengthen local government, including the option for mayors to serve on a full-time basis and greater involvement in decisions on funding allocated to local councils. The Local Councils&#x27; Association said mayors face substantial legal and public responsibilities that often extend beyond normal working hours, when government departments are closed. The resolution was adopted at the Association&#x27;s Annual Mayors&#x27; Conference in Gozo on 13 and 14 November, which also covered demographic change, a new app for communication with elected members and the forthcoming waste collection tender.</p><p><img src="https://maltanews.great-site.net/img/7255b051ce7c.jpg" alt="Local councils and mayors" /></p><p><em>Sources: Malta Independent</em></p>]]></content:encoded>
-    <pubDate>Wed, 18 Nov 2026 15:15:00 +0100</pubDate>
-    <guid isPermaLink="false">f30b47ca0d2aa605a4a25d0f7d9b8bf2</guid>
+    <title>Speaker finds no breach of privilege in Farrugia spat with Labour MP</title>
+    <link>https://timesofmalta.com/article/no-breach-privilege-labour-mp-spat-joseph-farrugia.1137312</link>
+    <description>Speaker Carmelo Abela ruled that comments by former Malta Employers Association director general Joseph Farrugia against Labour MP Nigel Vella did not constitute a prima facie breach of parliamentary privilege, while urging greater respect in public discourse. The dispute followed Farrugia returning the Ġie ir-Repubblika honour in protest over Yorgen Fenech's acquittal in the Daphne Caruana Galizia murder case.</description>
+    <content:encoded><![CDATA[<p>Speaker Carmelo Abela ruled that comments by former Malta Employers Association director general Joseph Farrugia against Labour MP Nigel Vella did not constitute a prima facie breach of parliamentary privilege, while urging greater respect in public discourse. The dispute followed Farrugia returning the Ġie ir-Repubblika honour in protest over Yorgen Fenech&#x27;s acquittal in the Daphne Caruana Galizia murder case.</p><p><img src="/img/8ab515cc5c5144a05e9d6be7698183088df2c03b-1795016832-ae3a071a-1200x630.png" alt="Speaker of the House Carmelo Abela ruling on the Farrugia comment" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Thu, 19 Nov 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">3731641efbebaf0f0327247b10576c6d</guid>
     <category>Politics</category>
-    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-18</source>
-    <media:content url="https://maltanews.great-site.net/img/7255b051ce7c.jpg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/7255b051ce7c.jpg" length="0" type="image/jpeg" />
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-19</source>
+    <media:content url="/img/8ab515cc5c5144a05e9d6be7698183088df2c03b-1795016832-ae3a071a-1200x630.png" medium="image" />
+    <enclosure url="/img/8ab515cc5c5144a05e9d6be7698183088df2c03b-1795016832-ae3a071a-1200x630.png" length="0" type="image/jpeg" />
   </item>
   <item>
-    <title>157 km/h is the highest speed caught by Malta's speed cameras this year</title>
-    <link>https://lovinmalta.com/news/local/157km-hr-is-the-highest-speed-caught-by-maltas-speed-cameras-this-year/</link>
-    <description>A motorist was caught travelling at 157 km/h on Malta's roads during the first ten months of 2026, almost double the country's maximum general speed limit. Home Affairs and Security Minister Glenn Bedingfield gave the figure in Parliament in reply to a question by PN MP Graziella Galea, who asked for the highest speed recorded by each of the country's speed cameras. According to the minister, the highest speeds captured by individual cameras ranged between 100 km/h and 157 km/h, against a general limit of 80 km/h outside towns and villages and 50 km/h in built-up areas.</description>
-    <content:encoded><![CDATA[<p>A motorist was caught travelling at 157 km/h on Malta&#x27;s roads during the first ten months of 2026, almost double the country&#x27;s maximum general speed limit. Home Affairs and Security Minister Glenn Bedingfield gave the figure in Parliament in reply to a question by PN MP Graziella Galea, who asked for the highest speed recorded by each of the country&#x27;s speed cameras. According to the minister, the highest speeds captured by individual cameras ranged between 100 km/h and 157 km/h, against a general limit of 80 km/h outside towns and villages and 50 km/h in built-up areas.</p><p><img src="https://maltanews.great-site.net/img/Dylan-Covers-3-2-1024x536.jpg" alt="Speed camera on a Maltese road" /></p><p><em>Sources: Lovin Malta</em></p>]]></content:encoded>
-    <pubDate>Wed, 18 Nov 2026 15:09:00 +0100</pubDate>
-    <guid isPermaLink="false">04c833a681dd04ee098643720dfe1884</guid>
+    <title>Opposition MP alleges the Attorney General's Office was dismantled to shield allies</title>
+    <link>https://www.maltatoday.com.mt/news/national/145810/ags_office_was_dismantled_to_protect_prime_ministers_friends_from_serious_prosecution_mp_says</link>
+    <description>Nationalist MP Mark Anthony Sammut told parliament during the Justice Ministry budget estimates debate that the Attorney General's Office has been systematically weakened. He said prosecutor recruitment since 2022 covered only five entry-level posts and 55 trainee lawyers, that the Deputy Attorney General post has been vacant for three years, and criticised the Attorney General's lack of criminal-law background.</description>
+    <content:encoded><![CDATA[<p>Nationalist MP Mark Anthony Sammut told parliament during the Justice Ministry budget estimates debate that the Attorney General&#x27;s Office has been systematically weakened. He said prosecutor recruitment since 2022 covered only five entry-level posts and 55 trainee lawyers, that the Deputy Attorney General post has been vacant for three years, and criticised the Attorney General&#x27;s lack of criminal-law background.</p><p><img src="/img/20_copy_of_article_covers_-_new_(15).png" alt="Cover image for the Attorney General Office debate" /></p><p><em>Sources: Malta Today</em></p>]]></content:encoded>
+    <pubDate>Thu, 19 Nov 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">2cf4a6c0dc71dff02770aee28c362cd1</guid>
     <category>Politics</category>
-    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-18</source>
-    <media:content url="https://maltanews.great-site.net/img/Dylan-Covers-3-2-1024x536.jpg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/Dylan-Covers-3-2-1024x536.jpg" length="0" type="image/jpeg" />
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-19</source>
+    <media:content url="/img/20_copy_of_article_covers_-_new_(15).png" medium="image" />
+    <enclosure url="/img/20_copy_of_article_covers_-_new_(15).png" length="0" type="image/jpeg" />
   </item>
   <item>
-    <title>Over 250 residents sign objections to proposed 23-unit Paola development</title>
-    <link>https://timesofmalta.com/article/250-people-sign-paola-parish-objection-proposed-development.1137299</link>
-    <description>The Paola parish collected more than 250 signatures objecting to a proposed 23-unit residential project in the locality's historic core, with a priest, a television host, an author and a former unionist among those backing the campaign. The application PA/07261/26 would replace existing houses and gardens in the Urban Conservation Area with basement garages, maisonettes, apartments, penthouses and a townhouse with a swimming pool. As of Wednesday afternoon over 180 objections had been filed on the Planning Authority website, with the objection deadline falling on Friday.</description>
-    <content:encoded><![CDATA[<p>The Paola parish collected more than 250 signatures objecting to a proposed 23-unit residential project in the locality&#x27;s historic core, with a priest, a television host, an author and a former unionist among those backing the campaign. The application PA/07261/26 would replace existing houses and gardens in the Urban Conservation Area with basement garages, maisonettes, apartments, penthouses and a townhouse with a swimming pool. As of Wednesday afternoon over 180 objections had been filed on the Planning Authority website, with the objection deadline falling on Friday.</p><p><img src="https://maltanews.great-site.net/img/1822a59b07d744278ca6fc23c91c73329868861f-1795004573-368dfae7-1200x630.png" alt="Paola residents signing objection outside parish church" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
-    <pubDate>Wed, 18 Nov 2026 14:45:00 +0100</pubDate>
-    <guid isPermaLink="false">a96ba39dc45ca9a4a90de3b10daa31f0</guid>
-    <category>Sports</category>
-    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-18</source>
-    <media:content url="https://maltanews.great-site.net/img/1822a59b07d744278ca6fc23c91c73329868861f-1795004573-368dfae7-1200x630.png" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/1822a59b07d744278ca6fc23c91c73329868861f-1795004573-368dfae7-1200x630.png" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>MFSA flags three unlicensed financial entities claiming to operate from Malta</title>
-    <link>https://www.maltatoday.com.mt/news/national/145800/three_unlicensed_financial_firms_claiming_to_operate_from_malta_flagged_by_mfsa</link>
-    <description>The Malta Financial Services Authority issued warnings against three unauthorised financial entities claiming to operate from Malta, two of which it flagged as potentially dubious schemes carrying a high risk of financial loss. The entities, Malta Global Crypto Bank, Profit Capital FX and Venra Bank, are neither registered companies in Malta nor authorised to provide the banking, payment, investment and cryptocurrency services they advertise. The MFSA said all three claim Maltese addresses although information available to the authority suggests otherwise.</description>
-    <content:encoded><![CDATA[<p>The Malta Financial Services Authority issued warnings against three unauthorised financial entities claiming to operate from Malta, two of which it flagged as potentially dubious schemes carrying a high risk of financial loss. The entities, Malta Global Crypto Bank, Profit Capital FX and Venra Bank, are neither registered companies in Malta nor authorised to provide the banking, payment, investment and cryptocurrency services they advertise. The MFSA said all three claim Maltese addresses although information available to the authority suggests otherwise.</p><p><img src="https://maltanews.great-site.net/img/2_mfsa_building.jpg" alt="Malta Financial Services Authority building" /></p><p><em>Sources: Malta Today</em></p>]]></content:encoded>
-    <pubDate>Wed, 18 Nov 2026 14:09:00 +0100</pubDate>
-    <guid isPermaLink="false">42678acca47dfa4c475fb580e2d7572e</guid>
-    <category>Economy</category>
-    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-18</source>
-    <media:content url="https://maltanews.great-site.net/img/2_mfsa_building.jpg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/2_mfsa_building.jpg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>'Children are not born with prejudice', Commissioner says after racist video</title>
-    <link>https://timesofmalta.com/article/children-commissioner-calls-improved-education-racial-abuse-video.1137298</link>
-    <description>The Commissioner for Children called for stronger human rights education a day after a video showed a boy repeatedly hurling racial abuse at a non-European worker on a packed bus, using a racial slur and provoking the man. The Commissioner said children are not born with prejudice and that it is a collective responsibility to ensure they grow up in environments promoting respect, compassion, dignity and inclusion. The video was uploaded by parliamentary secretary for equality Rosianne Cutajar, who condemned the incident.</description>
-    <content:encoded><![CDATA[<p>The Commissioner for Children called for stronger human rights education a day after a video showed a boy repeatedly hurling racial abuse at a non-European worker on a packed bus, using a racial slur and provoking the man. The Commissioner said children are not born with prejudice and that it is a collective responsibility to ensure they grow up in environments promoting respect, compassion, dignity and inclusion. The video was uploaded by parliamentary secretary for equality Rosianne Cutajar, who condemned the incident.</p><p><img src="https://maltanews.great-site.net/img/093a006db8da70ab52011b3620f342230f7326f2-1795004345-10afa19b-1200x630.png" alt="Children&#x27;s Commissioner statement" /></p><p><em>Sources: Times of Malta, Malta Today, Newsbook</em></p>]]></content:encoded>
-    <pubDate>Wed, 18 Nov 2026 13:13:00 +0100</pubDate>
-    <guid isPermaLink="false">a848a400ad6e397c2e6e1c1a7f43c4ff</guid>
+    <title>PN launches app to contact MPs and report local issues</title>
+    <link>https://timesofmalta.com/article/pn-launches-app-people-contact-mps.1137304</link>
+    <description>People will soon be able to contact Nationalist Party MPs, suggest parliamentary questions and report issues in their locality through an app due to go live "in the coming days". The party said the tool is intended to bring constituents closer to their representatives.</description>
+    <content:encoded><![CDATA[<p>People will soon be able to contact Nationalist Party MPs, suggest parliamentary questions and report issues in their locality through an app due to go live &quot;in the coming days&quot;. The party said the tool is intended to bring constituents closer to their representatives.</p><p><img src="/img/a3a1f2c42ddcdd299513aa2b92ef53a8656f5576-1795015636-b4ee9257-1200x630.jpeg" alt="Nationalist Party app for contacting MPs" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Thu, 19 Nov 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">48f39ab1dd3cdb886328111da11e469a</guid>
     <category>Politics</category>
-    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-18</source>
-    <media:content url="https://maltanews.great-site.net/img/093a006db8da70ab52011b3620f342230f7326f2-1795004345-10afa19b-1200x630.png" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/093a006db8da70ab52011b3620f342230f7326f2-1795004345-10afa19b-1200x630.png" length="0" type="image/jpeg" />
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-19</source>
+    <media:content url="/img/a3a1f2c42ddcdd299513aa2b92ef53a8656f5576-1795015636-b4ee9257-1200x630.jpeg" medium="image" />
+    <enclosure url="/img/a3a1f2c42ddcdd299513aa2b92ef53a8656f5576-1795015636-b4ee9257-1200x630.jpeg" length="0" type="image/jpeg" />
   </item>
   <item>
-    <title>Director ordered to pay €38,000 in unpaid wages to former employee</title>
-    <link>https://timesofmalta.com/article/director-ordered-pay-38000-leaving-worker-begging-wages.1137296</link>
-    <description>A company director was ordered to pay more than €38,000 in unpaid wages to a former non-European employee and fined €1,800 after a court found him in breach of an employment contract. The worker, a junior front-end IT developer hired in 2020, said he was owed €53,833 but received only €15,705 over nearly three years, with his salary rising contractually from €16,000 to €23,000 a year. The court found no evidence of an agreement to replace the original contract and noted that forensic handwriting evidence confirmed the signatures of both parties.</description>
-    <content:encoded><![CDATA[<p>A company director was ordered to pay more than €38,000 in unpaid wages to a former non-European employee and fined €1,800 after a court found him in breach of an employment contract. The worker, a junior front-end IT developer hired in 2020, said he was owed €53,833 but received only €15,705 over nearly three years, with his salary rising contractually from €16,000 to €23,000 a year. The court found no evidence of an agreement to replace the original contract and noted that forensic handwriting evidence confirmed the signatures of both parties.</p><p><img src="https://maltanews.great-site.net/img/c75fffe131712a8bbe1867c5b2af7e95147ebaa4-1795003306-2eed607b-1200x630.jpg" alt="Employment court ruling" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
-    <pubDate>Wed, 18 Nov 2026 12:44:00 +0100</pubDate>
-    <guid isPermaLink="false">e29843d1f2ffe7f036021a4a86c5cac1</guid>
-    <category>Courts &amp; Crime</category>
-    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-18</source>
-    <media:content url="https://maltanews.great-site.net/img/c75fffe131712a8bbe1867c5b2af7e95147ebaa4-1795003306-2eed607b-1200x630.jpg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/c75fffe131712a8bbe1867c5b2af7e95147ebaa4-1795003306-2eed607b-1200x630.jpg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Multigas marks 100 years of industrial gas manufacturing with €4 million nitrogen investment</title>
-    <link>https://newsbook.com.mt/multigas-ticcelebra-l-100-anniversarju-taghha-binvestiment-ta-e4-miljun-fi-progett-ghall-produzzjoni-tan-nitrogenu/</link>
-    <description>Multigas celebrated 100 years of industrial gas manufacturing in Malta at an event at Trident Park in Imrieħel attended by Deputy Prime Minister and Health Minister Ian Borg, Economy Minister Silvio Schembri, Energy Minister Miriam Dalli and Opposition leader Alex Borg. The company, which supplies industrial and medical gases to industry, pharmaceuticals and hospitals, announced a €4 million investment to expand its nitrogen production capacity. Borg praised the company's role in securing continuity of medical oxygen supply to the health service.</description>
-    <content:encoded><![CDATA[<p>Multigas celebrated 100 years of industrial gas manufacturing in Malta at an event at Trident Park in Imrieħel attended by Deputy Prime Minister and Health Minister Ian Borg, Economy Minister Silvio Schembri, Energy Minister Miriam Dalli and Opposition leader Alex Borg. The company, which supplies industrial and medical gases to industry, pharmaceuticals and hospitals, announced a €4 million investment to expand its nitrogen production capacity. Borg praised the company&#x27;s role in securing continuity of medical oxygen supply to the health service.</p><p><img src="https://maltanews.great-site.net/img/PR-2.jpg" alt="Multigas industrial gases plant" /></p><p><em>Sources: Newsbook</em></p>]]></content:encoded>
-    <pubDate>Wed, 18 Nov 2026 12:26:00 +0100</pubDate>
-    <guid isPermaLink="false">0de3d4223f6143008aa6dab99dad4611</guid>
+    <title>334,865 tax returns still pending between 1999 and 2025</title>
+    <link>https://newsbook.com.mt/334865-dikjarazzjoni-tat-taxxa-ghadhom-pendenti-bejn-l-1999-u-l-2025/</link>
+    <description>A National Audit Office report found 334,865 income-tax declarations remain pending, including 260,124 for individuals and 74,741 for companies, with some outstanding for over 25 years. Income tax generated around €3.4 billion in 2025, equal to 51% of government revenue from taxation.</description>
+    <content:encoded><![CDATA[<p>A National Audit Office report found 334,865 income-tax declarations remain pending, including 260,124 for individuals and 74,741 for companies, with some outstanding for over 25 years. Income tax generated around €3.4 billion in 2025, equal to 51% of government revenue from taxation.</p><p><img src="/img/budget-2027-tax-taxxa.jpg" alt="Tax and budget illustration" /></p><p><em>Sources: Newsbook</em></p>]]></content:encoded>
+    <pubDate>Thu, 19 Nov 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">391d11142e0256dfc481bdc8c1fac4ab</guid>
     <category>Politics</category>
-    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-18</source>
-    <media:content url="https://maltanews.great-site.net/img/PR-2.jpg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/PR-2.jpg" length="0" type="image/jpeg" />
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-19</source>
+    <media:content url="/img/budget-2027-tax-taxxa.jpg" medium="image" />
+    <enclosure url="/img/budget-2027-tax-taxxa.jpg" length="0" type="image/jpeg" />
   </item>
   <item>
-    <title>18% of children in the free childcare scheme were non-EU nationals last year</title>
-    <link>https://timesofmalta.com/article/18-children-free-childcare-scheme-noneu-nationals-last-year.1137293</link>
-    <description>National Statistics Office figures show 17.7% of the 9,461 children in the free childcare scheme in 2025 were third-country nationals and 8.9% other EU nationals, with 73.4% Maltese. There were 207 registered centres with a licensed capacity of 8,609, 93.2% of them privately owned. The data comes as Budget 2027 measures end free childcare for third-country nationals resident for less than five years, with business groups warning of significant repercussions for operators, employers and workers.</description>
-    <content:encoded><![CDATA[<p>National Statistics Office figures show 17.7% of the 9,461 children in the free childcare scheme in 2025 were third-country nationals and 8.9% other EU nationals, with 73.4% Maltese. There were 207 registered centres with a licensed capacity of 8,609, 93.2% of them privately owned. The data comes as Budget 2027 measures end free childcare for third-country nationals resident for less than five years, with business groups warning of significant repercussions for operators, employers and workers.</p><p><img src="https://maltanews.great-site.net/img/d4e335a4ed78712bdcd9b446f528f764b8c75da4-1795000813-f2babe8f-1200x630.jpg" alt="Children at a childcare centre" /></p><p><em>Sources: Times of Malta, Malta Today, Newsbook</em></p>]]></content:encoded>
-    <pubDate>Wed, 18 Nov 2026 12:05:00 +0100</pubDate>
-    <guid isPermaLink="false">eafeda827ccacfde812cd129a0e3feef</guid>
-    <category>Economy</category>
-    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-18</source>
-    <media:content url="https://maltanews.great-site.net/img/d4e335a4ed78712bdcd9b446f528f764b8c75da4-1795000813-f2babe8f-1200x630.jpg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/d4e335a4ed78712bdcd9b446f528f764b8c75da4-1795000813-f2babe8f-1200x630.jpg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Sparkasse Bank Malta becomes first local bank to offer crypto custody under MiCA</title>
-    <link>https://thebusinesspicture.com/2026/11/18/sparkasse-bank-malta-becomes-first-local-bank-to-offer-crypto-custody-services/</link>
-    <description>Sparkasse Bank Malta has become the first credit institution in Malta to offer crypto-asset custody services under the EU's Markets in Crypto-Assets Regulation. The Sliema-based bank has expanded its existing custody services to include digital assets and the credentials needed to access them, initially limited to selected institutional customers rather than retail investors. The bank said the move was driven by changing customer requirements and growing demand for access to emerging asset classes.</description>
-    <content:encoded><![CDATA[<p>Sparkasse Bank Malta has become the first credit institution in Malta to offer crypto-asset custody services under the EU&#x27;s Markets in Crypto-Assets Regulation. The Sliema-based bank has expanded its existing custody services to include digital assets and the credentials needed to access them, initially limited to selected institutional customers rather than retail investors. The bank said the move was driven by changing customer requirements and growing demand for access to emerging asset classes.</p><p><img src="https://maltanews.great-site.net/img/ZWRI2mtm144wsVU0.jpg" alt="Sparkasse Bank Malta" /></p><p><em>Sources: The Business Picture</em></p>]]></content:encoded>
-    <pubDate>Wed, 18 Nov 2026 11:45:00 +0100</pubDate>
-    <guid isPermaLink="false">7f7f47a0e786eea6515be3cb99212aaa</guid>
-    <category>Economy</category>
-    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-18</source>
-    <media:content url="https://maltanews.great-site.net/img/ZWRI2mtm144wsVU0.jpg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/ZWRI2mtm144wsVU0.jpg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>€1.16 million EU-funded project to restore the Simar wetland</title>
-    <link>https://www.independent.com.mt/articles/2026-11-18/local-news/1-16-million-EU-funded-project-to-restore-Simar-wetland-and-tackle-climate-change-impacts-6736294743</link>
-    <description>A €1.16 million Interreg VI-A Italia-Malta project running until February 2029 will focus on restoring the ecological conditions of the Simar Nature Reserve in Xemxija, with about 80% of the budget financed by the European Regional Development Fund. Researchers will monitor water levels and rising salinity threatening the reserve's freshwater and brackish-water habitats, and use scientific models to develop management measures improving habitat conditions and biodiversity.</description>
-    <content:encoded><![CDATA[<p>A €1.16 million Interreg VI-A Italia-Malta project running until February 2029 will focus on restoring the ecological conditions of the Simar Nature Reserve in Xemxija, with about 80% of the budget financed by the European Regional Development Fund. Researchers will monitor water levels and rising salinity threatening the reserve&#x27;s freshwater and brackish-water habitats, and use scientific models to develop management measures improving habitat conditions and biodiversity.</p><p><img src="https://maltanews.great-site.net/img/2c3f2ae27322.jpg" alt="Simar Nature Reserve wetland in Xemxija" /></p><p><em>Sources: Malta Independent</em></p>]]></content:encoded>
-    <pubDate>Wed, 18 Nov 2026 11:37:00 +0100</pubDate>
-    <guid isPermaLink="false">d7fa1fba05dbfad353711fc8d9e4850a</guid>
-    <category>Economy</category>
-    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-18</source>
-    <media:content url="https://maltanews.great-site.net/img/2c3f2ae27322.jpg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/2c3f2ae27322.jpg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Malta's inflation rate eases to 2.3% in October, well below euro area</title>
-    <link>https://timesofmalta.com/article/inflation-eased-slightly-last-month-nso-says.1137289</link>
-    <description>Malta's annual inflation rate slipped to 2.3% in October 2026 from 2.4% in September, the National Statistics Office reported. Restaurants and accommodation services recorded the highest annual rate at 3.4%, followed by transport at 3.3%, while information and communication fell 2.5%. The biggest upward contributions came from restaurant services, vegetable prices and air transport, partly offset by cheaper mobile phone services. Malta's HICP rate of 2.3% was about 1.7 percentage points below the 4.01% recorded in the euro area.</description>
-    <content:encoded><![CDATA[<p>Malta&#x27;s annual inflation rate slipped to 2.3% in October 2026 from 2.4% in September, the National Statistics Office reported. Restaurants and accommodation services recorded the highest annual rate at 3.4%, followed by transport at 3.3%, while information and communication fell 2.5%. The biggest upward contributions came from restaurant services, vegetable prices and air transport, partly offset by cheaper mobile phone services. Malta&#x27;s HICP rate of 2.3% was about 1.7 percentage points below the 4.01% recorded in the euro area.</p><p><img src="https://maltanews.great-site.net/img/bb2e7025e65198c12e2c13993d2897be27ffe243-1794996857-2aac12c2-1200x630.jpg" alt="Malta inflation rate chart" /></p><p><em>Sources: Times of Malta, Malta Independent</em></p>]]></content:encoded>
-    <pubDate>Wed, 18 Nov 2026 11:09:00 +0100</pubDate>
-    <guid isPermaLink="false">a11deda5ab9d7f97fd7b5d2010072f08</guid>
-    <category>Economy</category>
-    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-18</source>
-    <media:content url="https://maltanews.great-site.net/img/bb2e7025e65198c12e2c13993d2897be27ffe243-1794996857-2aac12c2-1200x630.jpg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/bb2e7025e65198c12e2c13993d2897be27ffe243-1794996857-2aac12c2-1200x630.jpg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>3,843 domestic violence reports in Malta in 2025, most involving psychological abuse</title>
-    <link>https://lovinmalta.com/news/3843-people-reported-domestic-violence-in-malta-in-2025/</link>
-    <description>A total of 3,843 people reported domestic violence in Malta in 2025, Home Affairs Minister Glenn Bedingfield said. He reported that 72% of reported cases involved psychological abuse, including controlling behaviour, threats and intimidation, and expressed concern about cases that reached court without consequences for the alleged aggressor. The minister stressed that the figures do not lessen the Malta Police Force's commitment to tackling domestic violence and abuse.</description>
-    <content:encoded><![CDATA[<p>A total of 3,843 people reported domestic violence in Malta in 2025, Home Affairs Minister Glenn Bedingfield said. He reported that 72% of reported cases involved psychological abuse, including controlling behaviour, threats and intimidation, and expressed concern about cases that reached court without consequences for the alleged aggressor. The minister stressed that the figures do not lessen the Malta Police Force&#x27;s commitment to tackling domestic violence and abuse.</p><p><img src="https://maltanews.great-site.net/img/FB-COVER-CHAR-13-1024x536.jpg" alt="Domestic violence awareness" /></p><p><em>Sources: Lovin Malta</em></p>]]></content:encoded>
-    <pubDate>Wed, 18 Nov 2026 10:55:00 +0100</pubDate>
-    <guid isPermaLink="false">4c87c8ebb09e1538ddda5f9cef815fc8</guid>
+    <title>MDA proposes private traffic officers during construction works</title>
+    <link>https://newsbook.com.mt/il-uhm-topponi-li-l-immaniggjar-tat-traffiku-waqt-xoghlijiet-ta-kostruzzjoni-jinghata-lill-privat/</link>
+    <description>The Malta Development Association has proposed allowing trained, licensed and insured private traffic management officers to manage traffic flows on roads adjacent to construction sites where public officers are unavailable. The union UĦM said it opposes privatising work that belongs to the public service and has written to the prime minister requesting an urgent meeting.</description>
+    <content:encoded><![CDATA[<p>The Malta Development Association has proposed allowing trained, licensed and insured private traffic management officers to manage traffic flows on roads adjacent to construction sites where public officers are unavailable. The union UĦM said it opposes privatising work that belongs to the public service and has written to the prime minister requesting an urgent meeting.</p><p><img src="/img/LESA-wardens-transport-malta-traffic-3.jpg" alt="Traffic wardens on a Maltese road" /></p><p><em>Sources: Newsbook</em></p>]]></content:encoded>
+    <pubDate>Thu, 19 Nov 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">f9528276ee0a5131f922668c227da00e</guid>
     <category>Politics</category>
-    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-18</source>
-    <media:content url="https://maltanews.great-site.net/img/FB-COVER-CHAR-13-1024x536.jpg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/FB-COVER-CHAR-13-1024x536.jpg" length="0" type="image/jpeg" />
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-19</source>
+    <media:content url="/img/LESA-wardens-transport-malta-traffic-3.jpg" medium="image" />
+    <enclosure url="/img/LESA-wardens-transport-malta-traffic-3.jpg" length="0" type="image/jpeg" />
   </item>
   <item>
-    <title>Yorgen Fenech seeks Chief Justice's recusal from the Caruana Galizia appeal</title>
-    <link>https://timesofmalta.com/article/yorgen-fenech-seeks-chief-justice-recusal-caruana-galizia-appeal.1137287</link>
-    <description>Yorgen Fenech's lawyers asked Chief Justice Mark Chetcuti to abstain from hearing the Attorney General's appeal against his acquittal in the 2017 murder of journalist Daphne Caruana Galizia, arguing he had already expressed a position on issues central to the defence, including the credibility of the police investigation. The chief justice acknowledged the defence's right to make the request and said he understood the allegations of bias to concern objective rather than subjective impartiality. The prosecution opposed the application, saying no legitimate grounds had been established.</description>
-    <content:encoded><![CDATA[<p>Yorgen Fenech&#x27;s lawyers asked Chief Justice Mark Chetcuti to abstain from hearing the Attorney General&#x27;s appeal against his acquittal in the 2017 murder of journalist Daphne Caruana Galizia, arguing he had already expressed a position on issues central to the defence, including the credibility of the police investigation. The chief justice acknowledged the defence&#x27;s right to make the request and said he understood the allegations of bias to concern objective rather than subjective impartiality. The prosecution opposed the application, saying no legitimate grounds had been established.</p><p><img src="https://maltanews.great-site.net/img/b3dd87c02e26354113a84328dd8bc0cea923dcc8-1794998709-55aab6e6-1200x630.png" alt="Daphne Caruana Galizia case" /></p><p><em>Sources: Times of Malta, Malta Independent, Newsbook, Lovin Malta</em></p>]]></content:encoded>
-    <pubDate>Wed, 18 Nov 2026 10:51:00 +0100</pubDate>
-    <guid isPermaLink="false">706f13473ee48c2130d439dd5567698e</guid>
-    <category>Courts &amp; Crime</category>
-    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-18</source>
-    <media:content url="https://maltanews.great-site.net/img/b3dd87c02e26354113a84328dd8bc0cea923dcc8-1794998709-55aab6e6-1200x630.png" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/b3dd87c02e26354113a84328dd8bc0cea923dcc8-1794998709-55aab6e6-1200x630.png" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Repubblika to hold national conference on Malta's constitutional future in December</title>
-    <link>https://timesofmalta.com/article/repubblika-conference-discuss-malta-constitutional-future.1137285</link>
-    <description>Civil society organisation Repubblika will hold a constitutional civic convention at the University of Malta's Valletta Campus on 12 December, brought forward from 13 December, to examine proposals for democratic renewal. Three parallel sessions will cover good governance, the constitution in practice, and democracy, citizenship and the common good, addressing corruption, environmental governance, access to information, protest and disillusionment with political parties. Ahead of the conference the group will hold public meetings, with contributions feeding into the sessions.</description>
-    <content:encoded><![CDATA[<p>Civil society organisation Repubblika will hold a constitutional civic convention at the University of Malta&#x27;s Valletta Campus on 12 December, brought forward from 13 December, to examine proposals for democratic renewal. Three parallel sessions will cover good governance, the constitution in practice, and democracy, citizenship and the common good, addressing corruption, environmental governance, access to information, protest and disillusionment with political parties. Ahead of the conference the group will hold public meetings, with contributions feeding into the sessions.</p><p><img src="https://maltanews.great-site.net/img/d5c7ec0c2c116dee61662fc9d45652a7c3edc9fe-1794994798-31996bfa-1200x630.jpg" alt="Repubblika constitutional conference" /></p><p><em>Sources: Times of Malta, Malta Independent, Lovin Malta</em></p>]]></content:encoded>
-    <pubDate>Wed, 18 Nov 2026 10:32:00 +0100</pubDate>
-    <guid isPermaLink="false">99888a9518f49abf78a6b129874d658f</guid>
-    <category>Health &amp; Education</category>
-    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-18</source>
-    <media:content url="https://maltanews.great-site.net/img/d5c7ec0c2c116dee61662fc9d45652a7c3edc9fe-1794994798-31996bfa-1200x630.jpg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/d5c7ec0c2c116dee61662fc9d45652a7c3edc9fe-1794994798-31996bfa-1200x630.jpg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>More than 3,300 firearms registered in Malta in ten months</title>
-    <link>https://newsbook.com.mt/mat-3300-arma-rregistrati-f10-xhur/</link>
-    <description>Home Affairs Minister Glenn Bedingfield told parliament that 3,283 new firearms were registered in Malta between January and 25 October this year, including air guns, answering a question from PN deputy leader Ivan Bartolo. Under the Arms Act, citizens may hold firearms for sport, collection and hunting but not for personal defence, and a licence requires club membership, safety training and periodic renewal.</description>
-    <content:encoded><![CDATA[<p>Home Affairs Minister Glenn Bedingfield told parliament that 3,283 new firearms were registered in Malta between January and 25 October this year, including air guns, answering a question from PN deputy leader Ivan Bartolo. Under the Arms Act, citizens may hold firearms for sport, collection and hunting but not for personal defence, and a licence requires club membership, safety training and periodic renewal.</p><p><img src="https://maltanews.great-site.net/img/fire-arms.jpg" alt="Firearms" /></p><p><em>Sources: Newsbook</em></p>]]></content:encoded>
-    <pubDate>Wed, 18 Nov 2026 10:30:00 +0100</pubDate>
-    <guid isPermaLink="false">0536d35e2ef97c2a02f398d020f72d28</guid>
+    <title>Mayors seek full-time option in five-point local government resolution</title>
+    <link>https://newsbook.com.mt/is-sindki-jitolbu-l-ghazla-li-jahdmu-full-time-u-tahrig-obbligatorju-ghall-kandidati/</link>
+    <description>Malta's and Gozo's mayors approved a five-point resolution calling for local government reform, including the option for mayors to serve full-time and a larger say in how funding for local councils is allocated. The resolution was adopted at the Local Councils Association's annual mayors conference in Gozo on 13 and 14 November.</description>
+    <content:encoded><![CDATA[<p>Malta&#x27;s and Gozo&#x27;s mayors approved a five-point resolution calling for local government reform, including the option for mayors to serve full-time and a larger say in how funding for local councils is allocated. The resolution was adopted at the Local Councils Association&#x27;s annual mayors conference in Gozo on 13 and 14 November.</p><p><img src="/img/Screenshot-2026-11-18-211056.jpg" alt="Local Councils Association mayors conference" /></p><p><em>Sources: Newsbook</em></p>]]></content:encoded>
+    <pubDate>Thu, 19 Nov 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">060037fb59faca61f5f452c3897b1a27</guid>
     <category>Politics</category>
-    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-18</source>
-    <media:content url="https://maltanews.great-site.net/img/fire-arms.jpg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/fire-arms.jpg" length="0" type="image/jpeg" />
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-19</source>
+    <media:content url="/img/Screenshot-2026-11-18-211056.jpg" medium="image" />
+    <enclosure url="/img/Screenshot-2026-11-18-211056.jpg" length="0" type="image/jpeg" />
   </item>
   <item>
-    <title>Radiologists urge government to back tougher tobacco and nicotine controls</title>
-    <link>https://www.independent.com.mt/articles/2026-11-18/local-news/Radiologists-urge-government-to-back-tougher-tobacco-and-nicotine-controls-6736294737</link>
-    <description>The Maltese Association of Radiologists and Nuclear Medicine Physicians has called on the government to reconsider its position on tobacco and nicotine control, urging Malta to join the 26 EU member states that have agreed to pursue common measures. The association said higher taxation is one of the most effective tools to discourage young people from smoking and help smokers quit, and warned of conditions such as lung cancer, emphysema and coronary artery disease that are largely preventable but burden patients and the health service.</description>
-    <content:encoded><![CDATA[<p>The Maltese Association of Radiologists and Nuclear Medicine Physicians has called on the government to reconsider its position on tobacco and nicotine control, urging Malta to join the 26 EU member states that have agreed to pursue common measures. The association said higher taxation is one of the most effective tools to discourage young people from smoking and help smokers quit, and warned of conditions such as lung cancer, emphysema and coronary artery disease that are largely preventable but burden patients and the health service.</p><p><img src="https://maltanews.great-site.net/img/f7a0dc688ec7.jpg" alt="Radiology scan and tobacco control" /></p><p><em>Sources: Malta Independent, Lovin Malta, Newsbook</em></p>]]></content:encoded>
-    <pubDate>Wed, 18 Nov 2026 09:50:00 +0100</pubDate>
-    <guid isPermaLink="false">635c313c6caa55341876fe5f636de203</guid>
+    <title>Carabott questions sustainability of Malta's €12 billion public debt</title>
+    <link>https://newsbook.com.mt/darren-carabott-jistaqsi-dwar-is-sostenibbilta-tad-dejn-li-lahaq-it-e12-il-biljun/</link>
+    <description>Nationalist MP Darren Carabott questioned Finance Minister Clyde Caruana on Malta's public debt, which he put at around €12 billion, arguing that borrowing is being used for consumption and wages rather than investment. Caruana defended the sustainability of public finances, noting that recurrent and wage spending is covered by revenue while capital spending is not fully covered.</description>
+    <content:encoded><![CDATA[<p>Nationalist MP Darren Carabott questioned Finance Minister Clyde Caruana on Malta&#x27;s public debt, which he put at around €12 billion, arguing that borrowing is being used for consumption and wages rather than investment. Caruana defended the sustainability of public finances, noting that recurrent and wage spending is covered by revenue while capital spending is not fully covered.</p><p><img src="/img/Clyde-Caruana-2-scaled.jpg" alt="Finance Minister Clyde Caruana in Parliament" /></p><p><em>Sources: Newsbook</em></p>]]></content:encoded>
+    <pubDate>Thu, 19 Nov 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">38ce96773979f899f35ac677ef1d3286</guid>
     <category>Politics</category>
-    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-18</source>
-    <media:content url="https://maltanews.great-site.net/img/f7a0dc688ec7.jpg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/f7a0dc688ec7.jpg" length="0" type="image/jpeg" />
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-19</source>
+    <media:content url="/img/Clyde-Caruana-2-scaled.jpg" medium="image" />
+    <enclosure url="/img/Clyde-Caruana-2-scaled.jpg" length="0" type="image/jpeg" />
   </item>
   <item>
-    <title>Government widens prescribing powers of private family doctors</title>
-    <link>https://timesofmalta.com/article/government-expands-prescribing-powers-private-family-doctors.1137281</link>
-    <description>Specialists in family medicine in private practice will be able to initiate or renew entitlements for a wider range of medicines under the Government Formulary's "yellow card" Schedule V scheme. The extension covers drugs for mental health, respiratory, cardiovascular, diabetes and rheumatological conditions, and for some asthma medicines also applies to paediatric specialists. Health Minister Ian Borg said the aim was to reduce bureaucracy and treat patients closer to home; the change follows September's widening of investigations private practitioners may order through the public system.</description>
-    <content:encoded><![CDATA[<p>Specialists in family medicine in private practice will be able to initiate or renew entitlements for a wider range of medicines under the Government Formulary&#x27;s &quot;yellow card&quot; Schedule V scheme. The extension covers drugs for mental health, respiratory, cardiovascular, diabetes and rheumatological conditions, and for some asthma medicines also applies to paediatric specialists. Health Minister Ian Borg said the aim was to reduce bureaucracy and treat patients closer to home; the change follows September&#x27;s widening of investigations private practitioners may order through the public system.</p><p><img src="https://maltanews.great-site.net/img/492d93eb55c4e0c6ca19dd15c3370eac2a9a5f19-1794992133-678becf4-1200x630.jpg" alt="Family doctor with medicine prescription" /></p><p><em>Sources: Times of Malta, Malta Independent, Newsbook</em></p>]]></content:encoded>
-    <pubDate>Wed, 18 Nov 2026 09:49:00 +0100</pubDate>
-    <guid isPermaLink="false">3fc8c2193f6173d693dd71db07e15f90</guid>
+    <title>948 children born in Malta to parents from outside the EU in 2025</title>
+    <link>https://newsbook.com.mt/948-tarbija-twieldu-fmalta-minn-genituri-gejjin-minn-barra-l-ue-fl-2025/</link>
+    <description>Parliamentary figures show 4,338 children were born in Malta in 2025 to parents with one-year residence status, and 948 of them had both parents as citizens of non-EU countries. Finance Minister Clyde Caruana said the residence criterion covers those living in Malta or intending to for at least 12 months.</description>
+    <content:encoded><![CDATA[<p>Parliamentary figures show 4,338 children were born in Malta in 2025 to parents with one-year residence status, and 948 of them had both parents as citizens of non-EU countries. Finance Minister Clyde Caruana said the residence criterion covers those living in Malta or intending to for at least 12 months.</p><p><img src="/img/alicia-petresc-c3KZP4azG6g-unsplash-scaled.jpg" alt="Child" /></p><p><em>Sources: Newsbook</em></p>]]></content:encoded>
+    <pubDate>Thu, 19 Nov 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">2892dbaf3c750d5e71c5fe9e5c838762</guid>
     <category>Politics</category>
-    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-18</source>
-    <media:content url="https://maltanews.great-site.net/img/492d93eb55c4e0c6ca19dd15c3370eac2a9a5f19-1794992133-678becf4-1200x630.jpg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/492d93eb55c4e0c6ca19dd15c3370eac2a9a5f19-1794992133-678becf4-1200x630.jpg" length="0" type="image/jpeg" />
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-19</source>
+    <media:content url="/img/alicia-petresc-c3KZP4azG6g-unsplash-scaled.jpg" medium="image" />
+    <enclosure url="/img/alicia-petresc-c3KZP4azG6g-unsplash-scaled.jpg" length="0" type="image/jpeg" />
   </item>
   <item>
-    <title>MDA proposes private traffic officers to end weeks-long delays at construction sites</title>
-    <link>https://timesofmalta.com/article/private-traffic-management-officers-needed.1137279</link>
-    <description>The Malta Development Association says a shortage of public traffic officers is leaving authorised construction works waiting for weeks. After discussions with Transport Malta, the developers' lobby proposes engaging suitably trained, licensed and insured private traffic management officers to handle traffic around construction sites when public officers are unavailable, under a clear legal framework with strict safety standards and oversight. It says LESA, Transport Malta and police officers could then concentrate on enforcement and road safety.</description>
-    <content:encoded><![CDATA[<p>The Malta Development Association says a shortage of public traffic officers is leaving authorised construction works waiting for weeks. After discussions with Transport Malta, the developers&#x27; lobby proposes engaging suitably trained, licensed and insured private traffic management officers to handle traffic around construction sites when public officers are unavailable, under a clear legal framework with strict safety standards and oversight. It says LESA, Transport Malta and police officers could then concentrate on enforcement and road safety.</p><p><img src="https://maltanews.great-site.net/img/5cb9313f8591da55dcd46b2498c4aae3f36baa3e-1794991177-e4e470f7-1200x630.jpeg" alt="Traffic management at a construction site" /></p><p><em>Sources: Times of Malta, Malta Today, Malta Independent, Lovin Malta</em></p>]]></content:encoded>
-    <pubDate>Wed, 18 Nov 2026 09:29:00 +0100</pubDate>
-    <guid isPermaLink="false">ac4012a29951e031cfe737afbb476417</guid>
-    <category>Courts &amp; Crime</category>
-    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-18</source>
-    <media:content url="https://maltanews.great-site.net/img/5cb9313f8591da55dcd46b2498c4aae3f36baa3e-1794991177-e4e470f7-1200x630.jpeg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/5cb9313f8591da55dcd46b2498c4aae3f36baa3e-1794991177-e4e470f7-1200x630.jpeg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Doctors to begin industrial action on Friday over specialist training recruitment delays</title>
-    <link>https://timesofmalta.com/article/mam-warns-doctors-industrial-action-friday.1137266</link>
-    <description>The Medical Association of Malta has given the government two working days' notice of industrial action starting on Friday 20 November, escalating further on 25 November if a dispute over delayed Basic Specialist Trainee recruitment is unresolved. The union opposes plans to assign Foundation Year doctors to specialist trainee duties without formal appointment, and its directives mean doctors will accept only patient-related calls from nursing and medical staff and will not write letters authorising patients to leave clinical areas to smoke. MAM president Patrick Sammut said the delays had caused financial losses and disrupted doctors' career progression, and the union would keep escalating for as long as the dispute continues.</description>
-    <content:encoded><![CDATA[<p>The Medical Association of Malta has given the government two working days&#x27; notice of industrial action starting on Friday 20 November, escalating further on 25 November if a dispute over delayed Basic Specialist Trainee recruitment is unresolved. The union opposes plans to assign Foundation Year doctors to specialist trainee duties without formal appointment, and its directives mean doctors will accept only patient-related calls from nursing and medical staff and will not write letters authorising patients to leave clinical areas to smoke. MAM president Patrick Sammut said the delays had caused financial losses and disrupted doctors&#x27; career progression, and the union would keep escalating for as long as the dispute continues.</p><p><img src="https://maltanews.great-site.net/img/4b791d01bec08d5e00b0740a58bc82e1bd291a04-1794987488-b58735c9-1200x630.jpeg" alt="Medical Association of Malta doctors" /></p><p><em>Sources: Times of Malta, Malta Today, Malta Independent, Newsbook, Lovin Malta</em></p>]]></content:encoded>
-    <pubDate>Wed, 18 Nov 2026 08:30:00 +0100</pubDate>
-    <guid isPermaLink="false">b93f70e2e96d9b3b8f6b3c361bc94423</guid>
+    <title>Over 2,200 tickets issued to vehicles with foreign plates since 2025</title>
+    <link>https://newsbook.com.mt/aktar-minn-2200-citazzjoni-lil-vetturi-bi-pjanci-barranin-mill-2025/</link>
+    <description>Parliamentary figures show LESA issued 2,240 tickets to vehicles with foreign number plates between 2025 and the end of October 2026, with the police adding 159, for 2,399 in total. Home Minister Glenn Bedingfield said the figures are drawn from LESA's electronic system.</description>
+    <content:encoded><![CDATA[<p>Parliamentary figures show LESA issued 2,240 tickets to vehicles with foreign number plates between 2025 and the end of October 2026, with the police adding 159, for 2,399 in total. Home Minister Glenn Bedingfield said the figures are drawn from LESA&#x27;s electronic system.</p><p><img src="/img/Karozzi_barranin_pjanci.jpg" alt="Vehicle with foreign number plate" /></p><p><em>Sources: Newsbook</em></p>]]></content:encoded>
+    <pubDate>Thu, 19 Nov 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">3304c3e08d6e1c38ce0e9562fa9ab56f</guid>
     <category>Politics</category>
-    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-18</source>
-    <media:content url="https://maltanews.great-site.net/img/4b791d01bec08d5e00b0740a58bc82e1bd291a04-1794987488-b58735c9-1200x630.jpeg" medium="image" />
-    <enclosure url="https://maltanews.great-site.net/img/4b791d01bec08d5e00b0740a58bc82e1bd291a04-1794987488-b58735c9-1200x630.jpeg" length="0" type="image/jpeg" />
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-19</source>
+    <media:content url="/img/Karozzi_barranin_pjanci.jpg" medium="image" />
+    <enclosure url="/img/Karozzi_barranin_pjanci.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Cannabis regulator's revenue stood at €345,000 in 2024 as legal sales began</title>
+    <link>https://www.maltatoday.com.mt/news/national/145809/cannabis_regulators_revenue_stood_at_345000_in_2024_when_legal_cannabis_sales_began</link>
+    <description>Accounts tabled in parliament show the Authority on the Responsible Use of Cannabis earned €1,561,316 in 2024, up from €1,502,358 in 2023, with the rise attributed to €345,470 received from Cannabis Harm Reduction Associations. The regulator reported 273.5 kilos of legal cannabis sold in 2024 and 2,170 CHRA members, mostly aged between 31 and 40.</description>
+    <content:encoded><![CDATA[<p>Accounts tabled in parliament show the Authority on the Responsible Use of Cannabis earned €1,561,316 in 2024, up from €1,502,358 in 2023, with the rise attributed to €345,470 received from Cannabis Harm Reduction Associations. The regulator reported 273.5 kilos of legal cannabis sold in 2024 and 2,170 CHRA members, mostly aged between 31 and 40.</p><p><img src="/img/23_copy_of_article_covers_-_new_(14).png" alt="Cover image for the cannabis regulator accounts story" /></p><p><em>Sources: Malta Today</em></p>]]></content:encoded>
+    <pubDate>Thu, 19 Nov 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">413280376fdc32eff61ac4108141bc3a</guid>
+    <category>Politics</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-19</source>
+    <media:content url="/img/23_copy_of_article_covers_-_new_(14).png" medium="image" />
+    <enclosure url="/img/23_copy_of_article_covers_-_new_(14).png" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>4,000 urchins bred at Fort San Luċjan for sea repopulation plan</title>
+    <link>https://timesofmalta.com/article/4000-urchins-bred-fort-san-lucjan-part-plan-repopulate-sea.1137316</link>
+    <description>Around 4,000 urchins have been bred at Fort San Luċjan and are expected to form part of a 50,000-strong release into the sea next year. The programme aims to repopulate Maltese waters and support the recovery of marine habitats.</description>
+    <content:encoded><![CDATA[<p>Around 4,000 urchins have been bred at Fort San Luċjan and are expected to form part of a 50,000-strong release into the sea next year. The programme aims to repopulate Maltese waters and support the recovery of marine habitats.</p><p><img src="/img/736ba5b6b41d41a67c9d712de26966a9e2259e71-1795034886-f9b9d762-1200x630.jpeg" alt="Urchins bred at Fort San Luċjan" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Thu, 19 Nov 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">6ed9ac3a42d804fdff3afc56e10e26a3</guid>
+    <category>Infrastructure &amp; Transport</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-19</source>
+    <media:content url="/img/736ba5b6b41d41a67c9d712de26966a9e2259e71-1795034886-f9b9d762-1200x630.jpeg" medium="image" />
+    <enclosure url="/img/736ba5b6b41d41a67c9d712de26966a9e2259e71-1795034886-f9b9d762-1200x630.jpeg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>The Maltese made 40 million fewer phone calls in 2025</title>
+    <link>https://timesofmalta.com/article/maltese-made-40-million-fewer-phone-calls-2025.1137317</link>
+    <description>Maltese made 40 million fewer phone calls in 2025 as online messaging services such as WhatsApp continued to dominate the country's communication market, according to a new Malta Communications Authority report.</description>
+    <content:encoded><![CDATA[<p>Maltese made 40 million fewer phone calls in 2025 as online messaging services such as WhatsApp continued to dominate the country&#x27;s communication market, according to a new Malta Communications Authority report.</p><p><img src="/img/30d723cd8b46a3c0010089b37c61529818bccab1-1795021081-2800c502-1200x630.jpg" alt="Mobile phone calls statistics" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Thu, 19 Nov 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">a6d4cb6cc434c587610ea3bc3ece880e</guid>
+    <category>Infrastructure &amp; Transport</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-19</source>
+    <media:content url="/img/30d723cd8b46a3c0010089b37c61529818bccab1-1795021081-2800c502-1200x630.jpg" medium="image" />
+    <enclosure url="/img/30d723cd8b46a3c0010089b37c61529818bccab1-1795021081-2800c502-1200x630.jpg" length="0" type="image/jpeg" />
   </item>
 </channel>
 </rss>
