@@ -9,8 +9,8 @@
   <link>https://maltanews.pages.dev/</link>
   <description>Daily Malta news digest, automated. Curated from local Maltese news sources.</description>
   <language>en-mt</language>
-  <lastBuildDate>Sat, 21 Nov 2026 13:31:11 +0100</lastBuildDate>
-  <pubDate>Sat, 21 Nov 2026 12:50:00 +0100</pubDate>
+  <lastBuildDate>Sat, 21 Nov 2026 16:31:08 +0100</lastBuildDate>
+  <pubDate>Sat, 21 Nov 2026 15:56:00 +0100</pubDate>
   <generator>Hermes Malta News pipeline v3 + RSS</generator>
   <managingEditor>dejjem@gmail.com (Mark Micallef)</managingEditor>
   <atom:link href="https://maltanews.pages.dev/feed.xml" rel="self" type="application/rss+xml" />
@@ -20,10 +20,58 @@
     <link>https://maltanews.pages.dev/</link>
   </image>
   <item>
+    <title>Health Committee chairman warns MAM directives could delay medical testing in health centres</title>
+    <link>https://lovinmalta.com/news/patients-must-come-first-franco-mercieca-raises-concerns-over-mam-directives-on-medical-testing/</link>
+    <description>Franco Mercieca, chairman of Parliaments Health Committee, said Medical Association of Malta directives could hinder the introduction of point-of-care testing in Maltas health centres, and that patient safety must come first. His comments followed a committee meeting with MAM, primary health care officials and Mater Dei emergency department staff about point-of-care testing, which returns results within minutes and is particularly valuable in time-critical cases such as heart attacks and thrombosis. He also raised an inquiry into the procurement of the technology.</description>
+    <content:encoded><![CDATA[<p>Franco Mercieca, chairman of Parliaments Health Committee, said Medical Association of Malta directives could hinder the introduction of point-of-care testing in Maltas health centres, and that patient safety must come first. His comments followed a committee meeting with MAM, primary health care officials and Mater Dei emergency department staff about point-of-care testing, which returns results within minutes and is particularly valuable in time-critical cases such as heart attacks and thrombosis. He also raised an inquiry into the procurement of the technology.</p><p><img src="/img/FB-COVER-RIANA-11-1-1024x536.jpg" alt="Franco Mercieca" /></p><p><em>Sources: Lovin Malta</em></p>]]></content:encoded>
+    <pubDate>Sat, 21 Nov 2026 15:56:00 +0100</pubDate>
+    <guid isPermaLink="false">c6768087302498ffff010e1a63d598ee</guid>
+    <category>Politics</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-21</source>
+    <media:content url="/img/FB-COVER-RIANA-11-1-1024x536.jpg" medium="image" />
+    <enclosure url="/img/FB-COVER-RIANA-11-1-1024x536.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Isabelle Farrugia appointed first female chief executive of UHM Voice of the Workers</title>
+    <link>https://lovinmalta.com/news/isabelle-farrugia-makes-history-as-first-female-ceo-of-uhm-voice-of-the-workers/</link>
+    <description>Isabelle Farrugia was appointed the first female chief executive of UHM Voice of the Workers at the unions 34th National Congress, making her the first woman to head a general trade union in Malta as the organisation marks 60 years. Kenneth Abela was appointed Director General and Josef Vella became Chairperson after 15 years leading the union. In her first address Farrugia highlighted traffic congestion, population growth, construction and energy as the countrys main challenges, and called for a long-term national plan agreed by both main parties under the patronage of the President.</description>
+    <content:encoded><![CDATA[<p>Isabelle Farrugia was appointed the first female chief executive of UHM Voice of the Workers at the unions 34th National Congress, making her the first woman to head a general trade union in Malta as the organisation marks 60 years. Kenneth Abela was appointed Director General and Josef Vella became Chairperson after 15 years leading the union. In her first address Farrugia highlighted traffic congestion, population growth, construction and energy as the countrys main challenges, and called for a long-term national plan agreed by both main parties under the patronage of the President.</p><p><img src="/img/FB-COVER-RIANA-10-1-1024x536.jpg" alt="Isabelle Farrugia, UHM chief executive" /></p><p><em>Sources: Lovin Malta</em></p>]]></content:encoded>
+    <pubDate>Sat, 21 Nov 2026 15:29:00 +0100</pubDate>
+    <guid isPermaLink="false">14885abf894f328acf9f74aefb384a74</guid>
+    <category>Politics</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-21</source>
+    <media:content url="/img/FB-COVER-RIANA-10-1-1024x536.jpg" medium="image" />
+    <enclosure url="/img/FB-COVER-RIANA-10-1-1024x536.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Archbishop Scicluna urges Malta to reject economic apartheid against third-country nationals</title>
+    <link>https://newsbook.com.mt/appell-mill-arcisqof-biex-ma-nkunux-komplici-ta-apartheid-ekonomiku/</link>
+    <description>Archbishop Charles Scicluna told the annual Diocesan Assembly that the Church in Malta must never be complicit in an "economic apartheid" separating Maltese citizens from the migrants who live and work in the country. The archbishop said a number of the Churchs charitable services could not function without the work of third-country nationals, and insisted that "we have a duty to treat them as human beings". More than 200 people from parishes, schools and other Church entities attended the Saturday assembly, which focused on the Churchs mission and work.</description>
+    <content:encoded><![CDATA[<p>Archbishop Charles Scicluna told the annual Diocesan Assembly that the Church in Malta must never be complicit in an &quot;economic apartheid&quot; separating Maltese citizens from the migrants who live and work in the country. The archbishop said a number of the Churchs charitable services could not function without the work of third-country nationals, and insisted that &quot;we have a duty to treat them as human beings&quot;. More than 200 people from parishes, schools and other Church entities attended the Saturday assembly, which focused on the Churchs mission and work.</p><p><img src="/img/Arcisqof-Charles-Scicluna-Assemblea-Djocesana.jpeg" alt="Archbishop Charles Scicluna at the Diocesan Assembly" /></p><p><em>Sources: Newsbook, Malta Today</em></p>]]></content:encoded>
+    <pubDate>Sat, 21 Nov 2026 15:08:00 +0100</pubDate>
+    <guid isPermaLink="false">62606a962225d043f8d335499cb75d92</guid>
+    <category>Health &amp; Education</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-21</source>
+    <media:content url="/img/Arcisqof-Charles-Scicluna-Assemblea-Djocesana.jpeg" medium="image" />
+    <enclosure url="/img/Arcisqof-Charles-Scicluna-Assemblea-Djocesana.jpeg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Financial Times feature revisits the acquittal of Yorgen Fenech over Daphne Caruana Galizias murder</title>
+    <link>https://lovinmalta.com/news/paul-caruana-galizia-questions-yorgen-fenechs-acquittal-in-new-financial-times-feature/</link>
+    <description>Journalist Paul Caruana Galizia has published a new investigative feature in the Financial Times Weekend Magazine examining the September 2026 acquittal of Yorgen Fenech in the murder of his mother, Daphne Caruana Galizia. He wrote that the verdict "horrified my family and shocked the country" and that the family then "looked closer" at the case. He said Fenech did not respond to his questions, and that the accuseds three lawyers declined to answer and raised a conflict-of-interest complaint with the FT editor. The case, which has drawn national and international attention since 2017, remains without a conviction.</description>
+    <content:encoded><![CDATA[<p>Journalist Paul Caruana Galizia has published a new investigative feature in the Financial Times Weekend Magazine examining the September 2026 acquittal of Yorgen Fenech in the murder of his mother, Daphne Caruana Galizia. He wrote that the verdict &quot;horrified my family and shocked the country&quot; and that the family then &quot;looked closer&quot; at the case. He said Fenech did not respond to his questions, and that the accuseds three lawyers declined to answer and raised a conflict-of-interest complaint with the FT editor. The case, which has drawn national and international attention since 2017, remains without a conviction.</p><p><img src="/img/FB-COVER-RIANA-9-1-1024x536.jpg" alt="Paul Caruana Galizia" /></p><p><em>Sources: Lovin Malta</em></p>]]></content:encoded>
+    <pubDate>Sat, 21 Nov 2026 15:04:00 +0100</pubDate>
+    <guid isPermaLink="false">7eeca8f548caca5dfd7104a875c6efb5</guid>
+    <category>Courts &amp; Crime</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-21</source>
+    <media:content url="/img/FB-COVER-RIANA-9-1-1024x536.jpg" medium="image" />
+    <enclosure url="/img/FB-COVER-RIANA-9-1-1024x536.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
     <title>PN demands Finance Minister Caruana publish 2018 population report immediately</title>
     <link>https://timesofmalta.com/article/pn-caruana-publish-population-report-immediately.1137460</link>
     <description>The Nationalist Party has called on Finance Minister Clyde Caruana to publish his 2018 report on population growth straight away, saying the public should not have to wait while he explains its contents. The report was commissioned by former prime minister Joseph Muscat in 2017 and dealt with the pressure rapid population growth would place on Malta's housing, hospitals, schools and infrastructure. Caruana said on Friday that he had written permission to release it and would hold a press conference after an overseas trip next week, but the PN said taxpayers paid up to €90,000 for the nearly 300-page document and that Caruana was paid between €80,000 and €90,000 to prepare it in a personal capacity while serving as Jobsplus CEO. Prime Minister Robert Abela has said he has no copy of the document.</description>
-    <content:encoded><![CDATA[<p>The Nationalist Party has called on Finance Minister Clyde Caruana to publish his 2018 report on population growth straight away, saying the public should not have to wait while he explains its contents. The report was commissioned by former prime minister Joseph Muscat in 2017 and dealt with the pressure rapid population growth would place on Malta&#x27;s housing, hospitals, schools and infrastructure. Caruana said on Friday that he had written permission to release it and would hold a press conference after an overseas trip next week, but the PN said taxpayers paid up to €90,000 for the nearly 300-page document and that Caruana was paid between €80,000 and €90,000 to prepare it in a personal capacity while serving as Jobsplus CEO. Prime Minister Robert Abela has said he has no copy of the document.</p><p><img src="/img/619f38aed32d9b65c48dc5a9a16aeea010129926-1795262602-6d553efc-1200x630.jpg" alt="Finance Minister Clyde Caruana" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <content:encoded><![CDATA[<p>The Nationalist Party has called on Finance Minister Clyde Caruana to publish his 2018 report on population growth straight away, saying the public should not have to wait while he explains its contents. The report was commissioned by former prime minister Joseph Muscat in 2017 and dealt with the pressure rapid population growth would place on Malta&#x27;s housing, hospitals, schools and infrastructure. Caruana said on Friday that he had written permission to release it and would hold a press conference after an overseas trip next week, but the PN said taxpayers paid up to €90,000 for the nearly 300-page document and that Caruana was paid between €80,000 and €90,000 to prepare it in a personal capacity while serving as Jobsplus CEO. Prime Minister Robert Abela has said he has no copy of the document.</p><p><img src="/img/619f38aed32d9b65c48dc5a9a16aeea010129926-1795262602-6d553efc-1200x630.jpg" alt="Finance Minister Clyde Caruana" /></p><p><em>Sources: Times of Malta, Newsbook</em></p>]]></content:encoded>
     <pubDate>Sat, 21 Nov 2026 12:50:00 +0100</pubDate>
     <guid isPermaLink="false">a8e920e49252c9dddd82f7628affc864</guid>
     <category>Politics</category>
@@ -47,13 +95,25 @@
     <title>Labour MP calls for consensual sex between close-in-age minors to be decriminalised</title>
     <link>https://www.maltatoday.com.mt/news/national/145864/minors_close_in_age_should_not_face_criminal_charges_for_consensual_sex_ramona_attard_says</link>
     <description>Labour MP Ramona Attard asked parliament to discuss decriminalising consensual sexual activity between minors who are close in age, saying teenagers should not have their criminal records tarnished. The age of sexual consent in Malta is 16 and Article 204C of the Criminal Code carries a five-to-ten year sentence for sexual activity with someone under 16. While children under 14 are exempt from criminal responsibility and 14 and 15-year-olds can be held liable only if deemed sufficiently mature, with reduced penalties available where the activity is consensual and no abuse occurred, Attard argued these mitigations do not go far enough and that decriminalisation within clearly defined parameters should be considered.</description>
-    <content:encoded><![CDATA[<p>Labour MP Ramona Attard asked parliament to discuss decriminalising consensual sexual activity between minors who are close in age, saying teenagers should not have their criminal records tarnished. The age of sexual consent in Malta is 16 and Article 204C of the Criminal Code carries a five-to-ten year sentence for sexual activity with someone under 16. While children under 14 are exempt from criminal responsibility and 14 and 15-year-olds can be held liable only if deemed sufficiently mature, with reduced penalties available where the activity is consensual and no abuse occurred, Attard argued these mitigations do not go far enough and that decriminalisation within clearly defined parameters should be considered.</p><p><img src="/img/whatsapp_image_2026-06-12_at_09.36.43.jpeg" alt="Parliament" /></p><p><em>Sources: Malta Today</em></p>]]></content:encoded>
+    <content:encoded><![CDATA[<p>Labour MP Ramona Attard asked parliament to discuss decriminalising consensual sexual activity between minors who are close in age, saying teenagers should not have their criminal records tarnished. The age of sexual consent in Malta is 16 and Article 204C of the Criminal Code carries a five-to-ten year sentence for sexual activity with someone under 16. While children under 14 are exempt from criminal responsibility and 14 and 15-year-olds can be held liable only if deemed sufficiently mature, with reduced penalties available where the activity is consensual and no abuse occurred, Attard argued these mitigations do not go far enough and that decriminalisation within clearly defined parameters should be considered.</p><p><img src="/img/whatsapp_image_2026-06-12_at_09.36.43.jpeg" alt="Parliament" /></p><p><em>Sources: Malta Today, Times of Malta</em></p>]]></content:encoded>
     <pubDate>Sat, 21 Nov 2026 12:37:00 +0100</pubDate>
     <guid isPermaLink="false">ea3f7cfa9314db4bf95863be56a17d65</guid>
     <category>Politics</category>
     <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-21</source>
     <media:content url="/img/whatsapp_image_2026-06-12_at_09.36.43.jpeg" medium="image" />
     <enclosure url="/img/whatsapp_image_2026-06-12_at_09.36.43.jpeg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Mental health decisions must be shaped by lived experiences, says Deputy PM Ian Borg</title>
+    <link>https://www.independent.com.mt/articles/2026-11-21/local-news/Mental-health-decisions-must-be-shaped-by-lived-experiences-says-Deputy-PM-Ian-Borg-6736294867</link>
+    <description>Speaking at the annual National Mental Health Services conference, Deputy Prime Minister and Health Minister Ian Borg said mental health policy and services must be built around the real-life experiences of patients and their families. He reaffirmed the shift away from an institution-based model towards community-centred care, citing a planned regional hub in Bormla, a new acute mental health unit under construction at Mater Dei Hospital and the long-term vision for Mount Carmel Hospital. He stressed that acute care, Mount Carmel and community services must work together so patients and families have clear support after discharge.</description>
+    <content:encoded><![CDATA[<p>Speaking at the annual National Mental Health Services conference, Deputy Prime Minister and Health Minister Ian Borg said mental health policy and services must be built around the real-life experiences of patients and their families. He reaffirmed the shift away from an institution-based model towards community-centred care, citing a planned regional hub in Bormla, a new acute mental health unit under construction at Mater Dei Hospital and the long-term vision for Mount Carmel Hospital. He stressed that acute care, Mount Carmel and community services must work together so patients and families have clear support after discharge.</p><p><img src="/img/b859fb1cf47b.jpg" alt="Deputy Prime Minister Ian Borg" /></p><p><em>Sources: Malta Independent</em></p>]]></content:encoded>
+    <pubDate>Sat, 21 Nov 2026 12:20:00 +0100</pubDate>
+    <guid isPermaLink="false">a9bf7300adb73378ec6f6abe3fb586d3</guid>
+    <category>Politics</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-21</source>
+    <media:content url="/img/b859fb1cf47b.jpg" medium="image" />
+    <enclosure url="/img/b859fb1cf47b.jpg" length="0" type="image/jpeg" />
   </item>
   <item>
     <title>Education ministry denies claims crucifixes are being removed from schools</title>
@@ -66,6 +126,18 @@
     <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-21</source>
     <media:content url="/img/school_cross.jpg" medium="image" />
     <enclosure url="/img/school_cross.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Man with two unlicensed firearms, one with a silencer, remanded in custody after Siġġiewi raid</title>
+    <link>https://newsbook.com.mt/taljan-jinzamm-arrestat-wara-li-nstabulu-zewg-armi-tan-nar-fis-siggiewi/</link>
+    <description>A 45-year-old Italian man was remanded in custody after police found two loaded firearms, one fitted with a silencer, during a search of a property in Siġġiewi. Salvatore Rinaudo, born in Catania, Sicily, was arraigned before Magistrate Monica Vella on Friday and charged with possessing firearms or ammunition without a licence. The arrest followed a surveillance operation on a vehicle that had arrived from Sicily by catamaran and was followed to the Siġġiewi property; the two occupants were arrested in Kirkop. His defence challenged the legality of the arrest.</description>
+    <content:encoded><![CDATA[<p>A 45-year-old Italian man was remanded in custody after police found two loaded firearms, one fitted with a silencer, during a search of a property in Siġġiewi. Salvatore Rinaudo, born in Catania, Sicily, was arraigned before Magistrate Monica Vella on Friday and charged with possessing firearms or ammunition without a licence. The arrest followed a surveillance operation on a vehicle that had arrived from Sicily by catamaran and was followed to the Siġġiewi property; the two occupants were arrested in Kirkop. His defence challenged the legality of the arrest.</p><p><img src="/img/Court-Qorti-.jpeg" alt="Maltese court" /></p><p><em>Sources: Newsbook</em></p>]]></content:encoded>
+    <pubDate>Sat, 21 Nov 2026 12:05:00 +0100</pubDate>
+    <guid isPermaLink="false">a3098762293c6ee99de1c66682b604ff</guid>
+    <category>Courts &amp; Crime</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-21</source>
+    <media:content url="/img/Court-Qorti-.jpeg" medium="image" />
+    <enclosure url="/img/Court-Qorti-.jpeg" length="0" type="image/jpeg" />
   </item>
   <item>
     <title>Protesters form human chain at Castille against Budget 2027 measures on third-country nationals</title>
@@ -215,7 +287,7 @@
     <title>Over half of Gozo businesses expect to raise prices as labour shortages hit record high</title>
     <link>https://timesofmalta.com/article/majority-gozo-businesses-expect-raise-prices-survey-finds.1137453</link>
     <description>A record 81 per cent of businesses in Gozo expect their operating costs to rise over the next six months and 53 per cent anticipate raising consumer prices, according to the latest Gozo Business Sentiment survey published on Saturday. It is the first time since the survey began in 2023 that a majority expect price increases, with manufacturing and industry worst affected. Labour shortages have overtaken rising costs as the biggest worry, cited by 58 per cent of firms, while 40 per cent flagged cost pressures. The survey was carried out in September by the Gozo Regional Development Authority and the Gozo Business Chamber.</description>
-    <content:encoded><![CDATA[<p>A record 81 per cent of businesses in Gozo expect their operating costs to rise over the next six months and 53 per cent anticipate raising consumer prices, according to the latest Gozo Business Sentiment survey published on Saturday. It is the first time since the survey began in 2023 that a majority expect price increases, with manufacturing and industry worst affected. Labour shortages have overtaken rising costs as the biggest worry, cited by 58 per cent of firms, while 40 per cent flagged cost pressures. The survey was carried out in September by the Gozo Regional Development Authority and the Gozo Business Chamber.</p><p><img src="/img/gozo-1139812_1280.jpg" alt="Gozo businesses" /></p><p><em>Sources: Times of Malta, Malta Today, Newsbook</em></p>]]></content:encoded>
+    <content:encoded><![CDATA[<p>A record 81 per cent of businesses in Gozo expect their operating costs to rise over the next six months and 53 per cent anticipate raising consumer prices, according to the latest Gozo Business Sentiment survey published on Saturday. It is the first time since the survey began in 2023 that a majority expect price increases, with manufacturing and industry worst affected. Labour shortages have overtaken rising costs as the biggest worry, cited by 58 per cent of firms, while 40 per cent flagged cost pressures. The survey was carried out in September by the Gozo Regional Development Authority and the Gozo Business Chamber.</p><p><img src="/img/gozo-1139812_1280.jpg" alt="Gozo businesses" /></p><p><em>Sources: Times of Malta, Malta Today, Malta Independent, Newsbook</em></p>]]></content:encoded>
     <pubDate>Sat, 21 Nov 2026 10:50:00 +0100</pubDate>
     <guid isPermaLink="false">33b751de30cf6c3095643a6b88cb46d5</guid>
     <category>Politics</category>
@@ -263,13 +335,25 @@
     <title>Man arrested after receiving €96,000 cannabis parcel by post in Żejtun</title>
     <link>https://timesofmalta.com/article/man-arrested-receiving-4kg-cannabis-parcel-post.1137454</link>
     <description>A 31-year-old man from Żejtun was arrested after police intercepted a post parcel containing four kilos of suspected cannabis valued at about €96,000, in an operation police said involved a controlled delivery. The man was charged with drug importation and trafficking and is expected to be arraigned in court. The arrest was announced on Saturday morning, hours after the interception.</description>
-    <content:encoded><![CDATA[<p>A 31-year-old man from Żejtun was arrested after police intercepted a post parcel containing four kilos of suspected cannabis valued at about €96,000, in an operation police said involved a controlled delivery. The man was charged with drug importation and trafficking and is expected to be arraigned in court. The arrest was announced on Saturday morning, hours after the interception.</p><p><img src="/img/cannabis-plants-785437.jpg" alt="Cannabis plants" /></p><p><em>Sources: Times of Malta, Malta Today, Lovin Malta, Lovin Malta</em></p>]]></content:encoded>
+    <content:encoded><![CDATA[<p>A 31-year-old man from Żejtun was arrested after police intercepted a post parcel containing four kilos of suspected cannabis valued at about €96,000, in an operation police said involved a controlled delivery. The man was charged with drug importation and trafficking and is expected to be arraigned in court. The arrest was announced on Saturday morning, hours after the interception.</p><p><img src="/img/cannabis-plants-785437.jpg" alt="Cannabis plants" /></p><p><em>Sources: Times of Malta, Malta Today, Lovin Malta, Malta Independent</em></p>]]></content:encoded>
     <pubDate>Sat, 21 Nov 2026 10:05:00 +0100</pubDate>
     <guid isPermaLink="false">e69deec47aa3c1e68a11d3f75e4fd1d6</guid>
     <category>Courts &amp; Crime</category>
     <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-21</source>
     <media:content url="/img/cannabis-plants-785437.jpg" medium="image" />
     <enclosure url="/img/cannabis-plants-785437.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Animal welfare officers to get body cameras as Budget 2027 sets aside record 3 million</title>
+    <link>https://lovinmalta.com/lifestyle/pets/watch-animal-welfare-officers-in-malta-set-to-get-body-cameras-as-new-measures-announced/</link>
+    <description>Malta is to equip Animal Welfare Directorate officers with body cameras to support inspections and interventions, Parliamentary Secretary for Animal Welfare Alicia Bugeja Said told voluntary sector organisations. The government is also considering legislative amendments on dog breeding and the conditions in which domestic animals are kept, and would allow animal welfare NGOs to help gather evidence in suspected cruelty cases. Budget 2027 includes a record 3 million allocation for the sector, discussions have started on a dedicated animal welfare fund with the ministry responsible for local councils, and work is ongoing on the long-awaited Ta Qali animal hospital.</description>
+    <content:encoded><![CDATA[<p>Malta is to equip Animal Welfare Directorate officers with body cameras to support inspections and interventions, Parliamentary Secretary for Animal Welfare Alicia Bugeja Said told voluntary sector organisations. The government is also considering legislative amendments on dog breeding and the conditions in which domestic animals are kept, and would allow animal welfare NGOs to help gather evidence in suspected cruelty cases. Budget 2027 includes a record 3 million allocation for the sector, discussions have started on a dedicated animal welfare fund with the ministry responsible for local councils, and work is ongoing on the long-awaited Ta Qali animal hospital.</p><p><img src="/img/FB-COVER-RIANA-4-2-1024x536.jpg" alt="Animal welfare officers in Malta" /></p><p><em>Sources: Lovin Malta</em></p>]]></content:encoded>
+    <pubDate>Sat, 21 Nov 2026 10:02:00 +0100</pubDate>
+    <guid isPermaLink="false">999080dccee3945b1aafb24ddbbcf90b</guid>
+    <category>Politics</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-21</source>
+    <media:content url="/img/FB-COVER-RIANA-4-2-1024x536.jpg" medium="image" />
+    <enclosure url="/img/FB-COVER-RIANA-4-2-1024x536.jpg" length="0" type="image/jpeg" />
   </item>
   <item>
     <title>88-year-old woman grievously injured in Paola traffic accident</title>
@@ -282,6 +366,18 @@
     <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-21</source>
     <media:content url="/img/4e7308e989eb4ad25847104e2bf743f61dbcdccd-1795247415-a4e72eec-1200x630.png" medium="image" />
     <enclosure url="/img/4e7308e989eb4ad25847104e2bf743f61dbcdccd-1795247415-a4e72eec-1200x630.png" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>161 people found living illegally in Malta over the past four weeks</title>
+    <link>https://www.maltatoday.com.mt/news/court_and_police/145859/161_people_facing_deportation_after_immigration_raids_across_malta_and_gozo</link>
+    <description>Home Affairs and Security Minister Glenn Bedingfield said 161 people were found residing illegally in Malta over the past four weeks and are to be deported, with another 54 individuals already returned to their countries of origin or other EU member states. Operations were carried out in Birżebbuġa, Gudja, Kirkop, Żebbuġ, Marsa, Marsaxlokk, Mosta, San Ġwann, St Julian's, St Paul's Bay, Valletta, Sliema, Marsaskala and Żebbuġ in Gozo. The minister thanked Immigration Police and Detention Services officers for their work.</description>
+    <content:encoded><![CDATA[<p>Home Affairs and Security Minister Glenn Bedingfield said 161 people were found residing illegally in Malta over the past four weeks and are to be deported, with another 54 individuals already returned to their countries of origin or other EU member states. Operations were carried out in Birżebbuġa, Gudja, Kirkop, Żebbuġ, Marsa, Marsaxlokk, Mosta, San Ġwann, St Julian&#x27;s, St Paul&#x27;s Bay, Valletta, Sliema, Marsaskala and Żebbuġ in Gozo. The minister thanked Immigration Police and Detention Services officers for their work.</p><p><img src="/img/img_6551.png" alt="Immigration enforcement" /></p><p><em>Sources: Malta Today, Lovin Malta</em></p>]]></content:encoded>
+    <pubDate>Sat, 21 Nov 2026 09:28:00 +0100</pubDate>
+    <guid isPermaLink="false">2568ff4cff7af3a6ed32f5426e3e9987</guid>
+    <category>Politics</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-21</source>
+    <media:content url="/img/img_6551.png" medium="image" />
+    <enclosure url="/img/img_6551.png" length="0" type="image/jpeg" />
   </item>
   <item>
     <title>Home Affairs Minister calls fire safety a shared responsibility</title>
