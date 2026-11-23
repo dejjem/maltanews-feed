@@ -9,8 +9,8 @@
   <link>https://maltanews.pages.dev/</link>
   <description>Daily Malta news digest, automated. Curated from local Maltese news sources.</description>
   <language>en-mt</language>
-  <lastBuildDate>Mon, 23 Nov 2026 06:43:14 +0100</lastBuildDate>
-  <pubDate>Mon, 23 Nov 2026 12:00:00 +0100</pubDate>
+  <lastBuildDate>Mon, 23 Nov 2026 13:31:08 +0100</lastBuildDate>
+  <pubDate>Mon, 23 Nov 2026 13:06:00 +0100</pubDate>
   <generator>Hermes Malta News pipeline v3 + RSS</generator>
   <managingEditor>dejjem@gmail.com (Mark Micallef)</managingEditor>
   <atom:link href="https://maltanews.pages.dev/feed.xml" rel="self" type="application/rss+xml" />
@@ -19,6 +19,78 @@
     <title>Malta News Today</title>
     <link>https://maltanews.pages.dev/</link>
   </image>
+  <item>
+    <title>Rain set to return to Malta after more than 15 dry days</title>
+    <link>https://lovinmalta.com/news/weather/rain-set-to-finally-return-to-malta-after-over-15-days-just-before-significant-drop-in-temperature/</link>
+    <description>After more than 15 days without rain, forecasters expect precipitation to reach Malta by Friday and Saturday, with some models indicating a significant drop in temperature. Malta has been experiencing strong winds, and temperatures still above 20°C could be roughly halved. The shift comes as much of Europe endures a cold spell triggered by a polar vortex, with cities such as Prague forecast lows feeling close to -10°C.</description>
+    <content:encoded><![CDATA[<p>After more than 15 days without rain, forecasters expect precipitation to reach Malta by Friday and Saturday, with some models indicating a significant drop in temperature. Malta has been experiencing strong winds, and temperatures still above 20°C could be roughly halved. The shift comes as much of Europe endures a cold spell triggered by a polar vortex, with cities such as Prague forecast lows feeling close to -10°C.</p><p><img src="/img/LOVIN-MALTA-WEATHER-NOVEMBER-RAIN-COLD-WIND-1024x536.jpg" alt="Rain and cold wind expected in Malta" /></p><p><em>Sources: Lovin Malta</em></p>]]></content:encoded>
+    <pubDate>Mon, 23 Nov 2026 13:06:00 +0100</pubDate>
+    <guid isPermaLink="false">6f43923839d72d47d1de7a3bc876c6bb</guid>
+    <category>General</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-23</source>
+    <media:content url="/img/LOVIN-MALTA-WEATHER-NOVEMBER-RAIN-COLD-WIND-1024x536.jpg" medium="image" />
+    <enclosure url="/img/LOVIN-MALTA-WEATHER-NOVEMBER-RAIN-COLD-WIND-1024x536.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Man cleared of drug trafficking after 26 years</title>
+    <link>https://timesofmalta.com/article/man-cleared-drug-trafficking-26-years.1137527</link>
+    <description>A 54-year-old man was cleared of drug trafficking charges by Magistrate Caroline Farrugia Frendo but convicted of simple possession, after the court ruled no evidence showed the drugs were intended for trafficking. The case dates to a July 2000 police raid on his Żurrieq home, where 81 grams of heroin, cocaine and cannabis were found. The court noted his severe addiction at the time and placed him under a two-year probation order after he had rehabilitated himself.</description>
+    <content:encoded><![CDATA[<p>A 54-year-old man was cleared of drug trafficking charges by Magistrate Caroline Farrugia Frendo but convicted of simple possession, after the court ruled no evidence showed the drugs were intended for trafficking. The case dates to a July 2000 police raid on his Żurrieq home, where 81 grams of heroin, cocaine and cannabis were found. The court noted his severe addiction at the time and placed him under a two-year probation order after he had rehabilitated himself.</p><p><img src="/img/ceb5120269fe494bf6075b406a9839d45528217a-1795434408-ed9b3616-1200x630.jpg" alt="Malta court" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Mon, 23 Nov 2026 12:45:00 +0100</pubDate>
+    <guid isPermaLink="false">897b9737e3e91096108ebe28fa005e51</guid>
+    <category>Courts &amp; Crime</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-23</source>
+    <media:content url="/img/ceb5120269fe494bf6075b406a9839d45528217a-1795434408-ed9b3616-1200x630.jpg" medium="image" />
+    <enclosure url="/img/ceb5120269fe494bf6075b406a9839d45528217a-1795434408-ed9b3616-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Malta hosts Mediterranean workshop on climate, water and food security</title>
+    <link>https://lovinmalta.com/news/malta-brings-mediterranean-countries-together-to-tackle-climate-change-water-and-food-security/</link>
+    <description>Malta hosted the second FUTURE4PRIMA widening workshop on 19 and 20 November at the Planetarium Hall, Villa Bighi in Kalkara, bringing together PRIMA member states and potential new partners on Euro-Mediterranean research cooperation. The event was opened by Justice, Research and Innovation Minister Clifton Grima, who said climate change, water and food security require collective response through research, innovation and international collaboration. The project is led by Xjenza Malta.</description>
+    <content:encoded><![CDATA[<p>Malta hosted the second FUTURE4PRIMA widening workshop on 19 and 20 November at the Planetarium Hall, Villa Bighi in Kalkara, bringing together PRIMA member states and potential new partners on Euro-Mediterranean research cooperation. The event was opened by Justice, Research and Innovation Minister Clifton Grima, who said climate change, water and food security require collective response through research, innovation and international collaboration. The project is led by Xjenza Malta.</p><p><img src="/img/EI6A0720-1024x429.jpg" alt="FUTURE4PRIMA workshop at Villa Bighi" /></p><p><em>Sources: Lovin Malta</em></p>]]></content:encoded>
+    <pubDate>Mon, 23 Nov 2026 12:31:00 +0100</pubDate>
+    <guid isPermaLink="false">0b477d4baeb2b49f7fdef2b7f3358e88</guid>
+    <category>Politics</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-23</source>
+    <media:content url="/img/EI6A0720-1024x429.jpg" medium="image" />
+    <enclosure url="/img/EI6A0720-1024x429.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Mummy and Egyptian artefacts go on display at the archaeology museum</title>
+    <link>https://timesofmalta.com/article/mummy-among-ancient-egyptian-artifacts-display-archaeology-museum.1137517</link>
+    <description>A recently restored mummy is among ancient Egyptian artefacts on display at the National Museum of Archaeology in Valletta in the exhibition "Living for Eternity: The Ancient Egyptians", running until 16 May in collaboration with the Rijksmuseum van Oudheden in the Netherlands. Heritage Malta said a study showed around 80% of the collection is authentic, and that part of it, donated by Lord Grenfell between 1899 and 1903, is being shown publicly for the first time.</description>
+    <content:encoded><![CDATA[<p>A recently restored mummy is among ancient Egyptian artefacts on display at the National Museum of Archaeology in Valletta in the exhibition &quot;Living for Eternity: The Ancient Egyptians&quot;, running until 16 May in collaboration with the Rijksmuseum van Oudheden in the Netherlands. Heritage Malta said a study showed around 80% of the collection is authentic, and that part of it, donated by Lord Grenfell between 1899 and 1903, is being shown publicly for the first time.</p><p><img src="/img/53888683cff28a7c69f53a06db2d2c229e60c528-1795433525-309a1471-1200x630.jpg" alt="Ancient Egyptian artefacts at the National Museum of Archaeology" /></p><p><em>Sources: Times of Malta, Newsbook</em></p>]]></content:encoded>
+    <pubDate>Mon, 23 Nov 2026 12:30:00 +0100</pubDate>
+    <guid isPermaLink="false">5b8aa65edcf639aedd05b488975a0a1e</guid>
+    <category>General</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-23</source>
+    <media:content url="/img/53888683cff28a7c69f53a06db2d2c229e60c528-1795433525-309a1471-1200x630.jpg" medium="image" />
+    <enclosure url="/img/53888683cff28a7c69f53a06db2d2c229e60c528-1795433525-309a1471-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Three people rescued after dinghy entered the sea at Wied il-Bassasa</title>
+    <link>https://newsbook.com.mt/3-persuni-salvati-wara-li-dahlu-fuq-dingy-fwied-il-bassasa/</link>
+    <description>Civil Protection authorities confirmed on Monday morning that three people were rescued after they entered the water on a dinghy at Wied il-Bassasa, Żurrieq. Authorities gave no information on their nationality and it was not known whether they needed medical assistance; as is procedure they were taken to a detention centre. Police and civil protection sirens were heard in Żurrieq at around 11am, with the Armed Forces of Malta also involved in the rescue.</description>
+    <content:encoded><![CDATA[<p>Civil Protection authorities confirmed on Monday morning that three people were rescued after they entered the water on a dinghy at Wied il-Bassasa, Żurrieq. Authorities gave no information on their nationality and it was not known whether they needed medical assistance; as is procedure they were taken to a detention centre. Police and civil protection sirens were heard in Żurrieq at around 11am, with the Armed Forces of Malta also involved in the rescue.</p><p><img src="/img/922965621_2197719481135128_8761294474312364074_n.jpeg" alt="Rescue operation at Wied il-Bassasa" /></p><p><em>Sources: Newsbook</em></p>]]></content:encoded>
+    <pubDate>Mon, 23 Nov 2026 12:29:00 +0100</pubDate>
+    <guid isPermaLink="false">799e891a21552a245d5d087cdec4471c</guid>
+    <category>Courts &amp; Crime</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-23</source>
+    <media:content url="/img/922965621_2197719481135128_8761294474312364074_n.jpeg" medium="image" />
+    <enclosure url="/img/922965621_2197719481135128_8761294474312364074_n.jpeg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Speaker says the EU must have a seat at the negotiating table on Ukraine</title>
+    <link>https://www.maltatoday.com.mt/news/national/145903/speaker_says_eu_must_have_seat_at_negotiating_table_over_ukraine_war</link>
+    <description>Speaker of the House of Representatives Carmelo Abela told US Ambassador to Malta Somers Farkas that the European Union must be involved in negotiations over Russia's war against Ukraine, since the conflict is taking place on European soil. The meeting also addressed Malta-US parliamentary ties, with a visit by members of the Congressional Friends of Malta Caucus proposed for the first quarter of 2027, and a proposed Malta-US Parliamentary Friendship Group.</description>
+    <content:encoded><![CDATA[<p>Speaker of the House of Representatives Carmelo Abela told US Ambassador to Malta Somers Farkas that the European Union must be involved in negotiations over Russia&#x27;s war against Ukraine, since the conflict is taking place on European soil. The meeting also addressed Malta-US parliamentary ties, with a visit by members of the Congressional Friends of Malta Caucus proposed for the first quarter of 2027, and a proposed Malta-US Parliamentary Friendship Group.</p><p><img src="/img/pr261996b.jpeg" alt="Speaker Carmelo Abela" /></p><p><em>Sources: MaltaToday</em></p>]]></content:encoded>
+    <pubDate>Mon, 23 Nov 2026 12:12:00 +0100</pubDate>
+    <guid isPermaLink="false">028b4cc623fa40282210a352a7250dfa</guid>
+    <category>Politics</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-23</source>
+    <media:content url="/img/pr261996b.jpeg" medium="image" />
+    <enclosure url="/img/pr261996b.jpeg" length="0" type="image/jpeg" />
+  </item>
   <item>
     <title>Three critically injured in head-on crash in Luqa</title>
     <link>https://timesofmalta.com/article/two-critically-injured-headon-collision-luqa.1137510</link>
@@ -54,6 +126,114 @@
     <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-23</source>
     <media:content url="/img/Dylan-Covers-3-1-1024x536.jpg" medium="image" />
     <enclosure url="/img/Dylan-Covers-3-1-1024x536.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Ryanair changes seat allocation policy for passengers who do not pay</title>
+    <link>https://timesofmalta.com/article/ryanair-changes-policy-passengers-pay-reserve-seats.1137525</link>
+    <description>Ryanair passengers who decline to pay for a reserved seat will now receive their seat assignment between 72 hours and two hours before departure, instead of at online check-in, the airline said. The airline said the change gives paying customers more choice after complaints that preferred seats were already taken. Bag drop services now close 60 minutes before departure rather than 40. Malta International Airport said more than 5.1 million of its record 10 million 2025 passengers flew with Ryanair.</description>
+    <content:encoded><![CDATA[<p>Ryanair passengers who decline to pay for a reserved seat will now receive their seat assignment between 72 hours and two hours before departure, instead of at online check-in, the airline said. The airline said the change gives paying customers more choice after complaints that preferred seats were already taken. Bag drop services now close 60 minutes before departure rather than 40. Malta International Airport said more than 5.1 million of its record 10 million 2025 passengers flew with Ryanair.</p><p><img src="/img/2852724064462582f6f9ba707cb1adb327bc1966-1795430265-e7cf094b-1200x630.jpg" alt="Ryanair aircraft" /></p><p><em>Sources: Times of Malta, MaltaToday</em></p>]]></content:encoded>
+    <pubDate>Mon, 23 Nov 2026 11:54:00 +0100</pubDate>
+    <guid isPermaLink="false">065669a484d43b73a8760e3799b7ed9d</guid>
+    <category>Infrastructure &amp; Transport</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-23</source>
+    <media:content url="/img/2852724064462582f6f9ba707cb1adb327bc1966-1795430265-e7cf094b-1200x630.jpg" medium="image" />
+    <enclosure url="/img/2852724064462582f6f9ba707cb1adb327bc1966-1795430265-e7cf094b-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>PN says government is ignoring warnings from its own experts on the economic model</title>
+    <link>https://timesofmalta.com/article/government-continues-burying-head-sand-economic-model-pn.1137523</link>
+    <description>The Nationalist Party accused the government on Monday of burying its head in the sand over an economic model that depends on continuous population growth, saying Malta needs around 14,000 additional people every year to sustain it. The PN cited warnings from the Malta Fiscal Advisory Council, the Central Bank Governor and the European Commission's 17 November forecast, and said even Finance Minister Clyde Caruana had flagged the risks. The party called for a shift towards a productivity-led model built on higher value-added sectors and better-quality jobs, and said the divisions over the country's economic direction now expose splits within Labour itself.</description>
+    <content:encoded><![CDATA[<p>The Nationalist Party accused the government on Monday of burying its head in the sand over an economic model that depends on continuous population growth, saying Malta needs around 14,000 additional people every year to sustain it. The PN cited warnings from the Malta Fiscal Advisory Council, the Central Bank Governor and the European Commission&#x27;s 17 November forecast, and said even Finance Minister Clyde Caruana had flagged the risks. The party called for a shift towards a productivity-led model built on higher value-added sectors and better-quality jobs, and said the divisions over the country&#x27;s economic direction now expose splits within Labour itself.</p><p><img src="/img/34e7a2b504832d3857e2f30366b261e295d30c59-1795430128-dc66da45-1200x630.jpeg" alt="PN statement on Malta&#x27;s economic model" /></p><p><em>Sources: Times of Malta, MaltaToday, The Malta Independent</em></p>]]></content:encoded>
+    <pubDate>Mon, 23 Nov 2026 11:30:00 +0100</pubDate>
+    <guid isPermaLink="false">863a16342212158b1c48a27f633ed877</guid>
+    <category>Politics</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-23</source>
+    <media:content url="/img/34e7a2b504832d3857e2f30366b261e295d30c59-1795430128-dc66da45-1200x630.jpeg" medium="image" />
+    <enclosure url="/img/34e7a2b504832d3857e2f30366b261e295d30c59-1795430128-dc66da45-1200x630.jpeg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Ukraine claims responsibility for strikes on two Russian ships off Libya</title>
+    <link>https://timesofmalta.com/article/ukraine-claims-responsibility-strikes-russian-ships-off-libya.1137524</link>
+    <description>President Volodymyr Zelenskyy said Ukrainian naval drones sank the Russian corvette Merkury at the naval base in Benghazi and also struck the cargo ship MV Angara, which Kyiv says was carrying weapons. Libyan authorities said a Russian ship docked at the port was hit by drones on Sunday, causing a blast but no casualties, and reported a fire in an ammunition depot. The United Nations called for an independent investigation, and NATO and the UN were due to meet on the security situation in the region. The attacks came roughly 300km south of Malta.</description>
+    <content:encoded><![CDATA[<p>President Volodymyr Zelenskyy said Ukrainian naval drones sank the Russian corvette Merkury at the naval base in Benghazi and also struck the cargo ship MV Angara, which Kyiv says was carrying weapons. Libyan authorities said a Russian ship docked at the port was hit by drones on Sunday, causing a blast but no casualties, and reported a fire in an ammunition depot. The United Nations called for an independent investigation, and NATO and the UN were due to meet on the security situation in the region. The attacks came roughly 300km south of Malta.</p><p><img src="/img/0be07ab63c8ce11cd95e4e706435f32f1d915eb3-1795429222-e7f3ea5f-1200x630.jpg" alt="Russian vessel struck off the Libyan coast" /></p><p><em>Sources: Times of Malta, MaltaToday</em></p>]]></content:encoded>
+    <pubDate>Mon, 23 Nov 2026 11:15:00 +0100</pubDate>
+    <guid isPermaLink="false">259e31b228598ec2c788476ba85768c3</guid>
+    <category>Politics</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-23</source>
+    <media:content url="/img/0be07ab63c8ce11cd95e4e706435f32f1d915eb3-1795429222-e7f3ea5f-1200x630.jpg" medium="image" />
+    <enclosure url="/img/0be07ab63c8ce11cd95e4e706435f32f1d915eb3-1795429222-e7f3ea5f-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>"My son is not a monster": father of terrorism accused testifies</title>
+    <link>https://timesofmalta.com/article/father-terrorism-suspect-blames-online-searches-asperger-obsessions.1137522</link>
+    <description>The father of Daniel Spiteri, 21, who faces a series of terrorism-related charges, told the court his son was diagnosed with Asperger's as a child and became fixated on subjects, including EU affairs, which he said explained certain searches found on his devices. The defence asked for bail, with the father offering to act as third-party guarantor. Police believe Spiteri travelled to Syria for terrorist training, and found flight tickets plus a receipt for a taxi ride between Lebanon and Syria.</description>
+    <content:encoded><![CDATA[<p>The father of Daniel Spiteri, 21, who faces a series of terrorism-related charges, told the court his son was diagnosed with Asperger&#x27;s as a child and became fixated on subjects, including EU affairs, which he said explained certain searches found on his devices. The defence asked for bail, with the father offering to act as third-party guarantor. Police believe Spiteri travelled to Syria for terrorist training, and found flight tickets plus a receipt for a taxi ride between Lebanon and Syria.</p><p><img src="/img/388882e46d32c0642639075e6b5f6726a4f1d759-1795428544-e44e4c03-1200x630.jpg" alt="Malta court hearing" /></p><p><em>Sources: Times of Malta, MaltaToday, Newsbook</em></p>]]></content:encoded>
+    <pubDate>Mon, 23 Nov 2026 11:00:00 +0100</pubDate>
+    <guid isPermaLink="false">70c994bad182830f59b3fbaad1dcc71a</guid>
+    <category>Courts &amp; Crime</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-23</source>
+    <media:content url="/img/388882e46d32c0642639075e6b5f6726a4f1d759-1795428544-e44e4c03-1200x630.jpg" medium="image" />
+    <enclosure url="/img/388882e46d32c0642639075e6b5f6726a4f1d759-1795428544-e44e4c03-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Online gambling company fined nearly €140,000 over money laundering checks</title>
+    <link>https://newsbook.com.mt/kumpanija-tal-loghob-tal-azzard-immultata-kwazi-e140000/</link>
+    <description>N1 Interactive Limited, an online gambling company, agreed to pay a €139,602 administrative fine after the Financial Intelligence Analysis Unit identified serious and systematic shortcomings in its anti-money-laundering procedures. The FIAU said a 2022 compliance review found large deposits were made without adequate customer due diligence, and that the company failed to monitor transactions properly or assess money-laundering risk. The original penalty of €232,000 was reduced under the settlement.</description>
+    <content:encoded><![CDATA[<p>N1 Interactive Limited, an online gambling company, agreed to pay a €139,602 administrative fine after the Financial Intelligence Analysis Unit identified serious and systematic shortcomings in its anti-money-laundering procedures. The FIAU said a 2022 compliance review found large deposits were made without adequate customer due diligence, and that the company failed to monitor transactions properly or assess money-laundering risk. The original penalty of €232,000 was reduced under the settlement.</p><p><img src="/img/FIAU-Malta.jpeg" alt="Financial Intelligence Analysis Unit" /></p><p><em>Sources: Newsbook</em></p>]]></content:encoded>
+    <pubDate>Mon, 23 Nov 2026 10:36:00 +0100</pubDate>
+    <guid isPermaLink="false">702dc932570c66d545c1f32ff9e746aa</guid>
+    <category>Economy</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-23</source>
+    <media:content url="/img/FIAU-Malta.jpeg" medium="image" />
+    <enclosure url="/img/FIAU-Malta.jpeg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>69-year-old man grievously injured in three-car crash in Birkirkara</title>
+    <link>https://timesofmalta.com/article/man-grievously-injured-crash-birkirkara-bypass.1137518</link>
+    <description>A 69-year-old man from Iklin was grievously injured when a car he was driving was hit in a collision on Triq Dun Karm in Birkirkara at around 5am on Monday. Police said a Toyota Yaris driven by an 88-year-old from Birkirkara collided with an Audi A3 driven by a 35-year-old Croatian national, and the Audi was pushed into the opposite lane where it struck the 69-year-old's Mazda Demio. The injured man was taken to Mater Dei Hospital; the other two drivers were not hurt and police investigations are ongoing.</description>
+    <content:encoded><![CDATA[<p>A 69-year-old man from Iklin was grievously injured when a car he was driving was hit in a collision on Triq Dun Karm in Birkirkara at around 5am on Monday. Police said a Toyota Yaris driven by an 88-year-old from Birkirkara collided with an Audi A3 driven by a 35-year-old Croatian national, and the Audi was pushed into the opposite lane where it struck the 69-year-old&#x27;s Mazda Demio. The injured man was taken to Mater Dei Hospital; the other two drivers were not hurt and police investigations are ongoing.</p><p><img src="/img/924a3e579c5dabaf3ce5951fdc25143b67ed1773-1795425213-b4fc58a7-1200x630.jpeg" alt="Scene of the crash on the Birkirkara bypass" /></p><p><em>Sources: Times of Malta, MaltaToday, Lovin Malta, Newsbook</em></p>]]></content:encoded>
+    <pubDate>Mon, 23 Nov 2026 10:10:00 +0100</pubDate>
+    <guid isPermaLink="false">d146da188943ba42baca4cf52110c488</guid>
+    <category>Courts &amp; Crime</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-23</source>
+    <media:content url="/img/924a3e579c5dabaf3ce5951fdc25143b67ed1773-1795425213-b4fc58a7-1200x630.jpeg" medium="image" />
+    <enclosure url="/img/924a3e579c5dabaf3ce5951fdc25143b67ed1773-1795425213-b4fc58a7-1200x630.jpeg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Malta selected to host UN global chemicals conference in 2029</title>
+    <link>https://timesofmalta.com/article/malta-host-un-global-chemicals-conference-2029.1137515</link>
+    <description>Malta was selected unanimously on 20 November to host the second United Nations International Conference on the Global Framework on Chemicals in 2029, bringing ministers, industry experts and NGOs to the island to review progress on safe chemical and waste management. European Funds Minister Keith Azzopardi Tanti said the decision recognised Malta's ability to contribute to international discussions, and credited the Irish EU Council Presidency with helping secure it.</description>
+    <content:encoded><![CDATA[<p>Malta was selected unanimously on 20 November to host the second United Nations International Conference on the Global Framework on Chemicals in 2029, bringing ministers, industry experts and NGOs to the island to review progress on safe chemical and waste management. European Funds Minister Keith Azzopardi Tanti said the decision recognised Malta&#x27;s ability to contribute to international discussions, and credited the Irish EU Council Presidency with helping secure it.</p><p><img src="/img/55f7646a66d8c9a35e04ea421632eda7c769f7a2-1795423724-effcbd8a-1200x630.png" alt="United Nations chemicals conference announcement" /></p><p><em>Sources: Times of Malta, MaltaToday, Lovin Malta</em></p>]]></content:encoded>
+    <pubDate>Mon, 23 Nov 2026 09:45:00 +0100</pubDate>
+    <guid isPermaLink="false">1cedc6fc966fe74f2bfb2275b41e24d7</guid>
+    <category>Politics</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-23</source>
+    <media:content url="/img/55f7646a66d8c9a35e04ea421632eda7c769f7a2-1795423724-effcbd8a-1200x630.png" medium="image" />
+    <enclosure url="/img/55f7646a66d8c9a35e04ea421632eda7c769f7a2-1795423724-effcbd8a-1200x630.png" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Resident builds website to track construction noise complaints</title>
+    <link>https://timesofmalta.com/article/fed-construction-noise-resident-builds-tracking-site.1137461</link>
+    <description>After two months of construction noise, a resident launched maltanoiselog.org on 17 October, an independent platform where people can anonymously log noise disturbances in their area. It has recorded over 339 reports across 67 localities, with construction accounting for about 40% of them, followed by traffic, bars and motorbikes. Sliema, St Paul's Bay, Mosta, Mellieħa, St Julian's and Birkirkara have the most reports, and the creator stressed the site is not a government complaints channel.</description>
+    <content:encoded><![CDATA[<p>After two months of construction noise, a resident launched maltanoiselog.org on 17 October, an independent platform where people can anonymously log noise disturbances in their area. It has recorded over 339 reports across 67 localities, with construction accounting for about 40% of them, followed by traffic, bars and motorbikes. Sliema, St Paul&#x27;s Bay, Mosta, Mellieħa, St Julian&#x27;s and Birkirkara have the most reports, and the creator stressed the site is not a government complaints channel.</p><p><img src="/img/ef567c63a729237fadf243038e153ab65b0d904f-1795423291-44dc0372-1200x630.png" alt="Screenshot of the Malta Noise Log website" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Mon, 23 Nov 2026 09:40:00 +0100</pubDate>
+    <guid isPermaLink="false">0eb8d15d4d0c7c9e38a65ec57d1897e4</guid>
+    <category>Politics</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-23</source>
+    <media:content url="/img/ef567c63a729237fadf243038e153ab65b0d904f-1795423291-44dc0372-1200x630.png" medium="image" />
+    <enclosure url="/img/ef567c63a729237fadf243038e153ab65b0d904f-1795423291-44dc0372-1200x630.png" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Businesswoman faces 13 charges over alleged €87,000 fraud</title>
+    <link>https://www.maltatoday.com.mt/news/national/145899/businesswoman_faces_13_charges_over_alleged_87000_fraud</link>
+    <description>A 35-year-old self-employed Brazilian national resident in San Lawrenz, Gozo, pleaded not guilty to 13 charges including fraud, money laundering, document forgery and handling stolen property after allegedly defrauding a man of around €87,000. The prosecution said she offered to help him obtain documentation to run a business in Malta, then made payments to third parties and falsified transactions. The court froze her assets, allowing access to about €21,900, and she was also charged with breaching a 20 November court order and with recidivism.</description>
+    <content:encoded><![CDATA[<p>A 35-year-old self-employed Brazilian national resident in San Lawrenz, Gozo, pleaded not guilty to 13 charges including fraud, money laundering, document forgery and handling stolen property after allegedly defrauding a man of around €87,000. The prosecution said she offered to help him obtain documentation to run a business in Malta, then made payments to third parties and falsified transactions. The court froze her assets, allowing access to about €21,900, and she was also charged with breaching a 20 November court order and with recidivism.</p><p><img src="/img/undeclared-cash10b4359eb65a53e01994406a.jpg" alt="Cash, illustrating the alleged fraud case" /></p><p><em>Sources: MaltaToday, Newsbook, The Malta Independent</em></p>]]></content:encoded>
+    <pubDate>Mon, 23 Nov 2026 07:47:00 +0100</pubDate>
+    <guid isPermaLink="false">9994d641adc1ddbeb3f84bfc9cc00ad6</guid>
+    <category>Courts &amp; Crime</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-23</source>
+    <media:content url="/img/undeclared-cash10b4359eb65a53e01994406a.jpg" medium="image" />
+    <enclosure url="/img/undeclared-cash10b4359eb65a53e01994406a.jpg" length="0" type="image/jpeg" />
   </item>
   <item>
     <title>Abela and Labour president clash over budget measures for non-EU workers</title>
