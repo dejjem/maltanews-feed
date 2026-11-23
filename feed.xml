@@ -9,8 +9,8 @@
   <link>https://maltanews.pages.dev/</link>
   <description>Daily Malta news digest, automated. Curated from local Maltese news sources.</description>
   <language>en-mt</language>
-  <lastBuildDate>Sun, 22 Nov 2026 16:33:40 +0100</lastBuildDate>
-  <pubDate>Sun, 22 Nov 2026 15:12:00 +0100</pubDate>
+  <lastBuildDate>Mon, 23 Nov 2026 06:43:14 +0100</lastBuildDate>
+  <pubDate>Mon, 23 Nov 2026 12:00:00 +0100</pubDate>
   <generator>Hermes Malta News pipeline v3 + RSS</generator>
   <managingEditor>dejjem@gmail.com (Mark Micallef)</managingEditor>
   <atom:link href="https://maltanews.pages.dev/feed.xml" rel="self" type="application/rss+xml" />
@@ -20,352 +20,64 @@
     <link>https://maltanews.pages.dev/</link>
   </image>
   <item>
-    <title>Businesswoman charged with fraud, forgery and money laundering over €87,000</title>
-    <link>https://timesofmalta.com/article/businesswoman-pleads-guilty-fraud-forgery-money-laundering-charges.1137498</link>
-    <description>A self-employed businesswoman was arraigned in court on Sunday accused of fraud involving around €87,000. Jessika Ravara Zaneli Diniz, 35, a Brazilian national living in San Lawrenz, Gozo, pleaded not guilty to 13 charges including fraud, forgery and money laundering. A man reported to Sliema police that Diniz had taken his money after promising to help him obtain documents to do business in Malta. Police also found social media posts accusing her of scamming people by advertising apartments for rent. She was arrested in Ċirkewwa on 20 November and also faces breaching a restraining order and recidivism charges.</description>
-    <content:encoded><![CDATA[<p>A self-employed businesswoman was arraigned in court on Sunday accused of fraud involving around €87,000. Jessika Ravara Zaneli Diniz, 35, a Brazilian national living in San Lawrenz, Gozo, pleaded not guilty to 13 charges including fraud, forgery and money laundering. A man reported to Sliema police that Diniz had taken his money after promising to help him obtain documents to do business in Malta. Police also found social media posts accusing her of scamming people by advertising apartments for rent. She was arrested in Ċirkewwa on 20 November and also faces breaching a restraining order and recidivism charges.</p><p><img src="/img/43bda7e4091d9b7e33f70e5ecd71a8b8b2264e6d-1795357947-0126b503-1200x630.jpeg" alt="Businesswoman in court" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
-    <pubDate>Sun, 22 Nov 2026 15:12:00 +0100</pubDate>
-    <guid isPermaLink="false">40777afdf521d6da10bf7a7b1335aa9b</guid>
+    <title>Three critically injured in head-on crash in Luqa</title>
+    <link>https://timesofmalta.com/article/two-critically-injured-headon-collision-luqa.1137510</link>
+    <description>Three men were critically injured when two cars collided head-on in Vjal l-Avjazzjoni, Luqa, at around 6.15pm on Sunday. One car, a Honda Fit, was carrying three men while the other, a Citroën Aircross, was driven by one man who escaped unharmed. Mater Dei Hospital said five ambulances, four rapid response vehicles and more than 20 emergency workers were dispatched, with the Civil Protection Department, police and Transport Malta assisting. Transport Malta closed Birżebbuġa Road in Ħal Far and urged motorists to use alternative routes, and Magistrate Joe Mifsud opened an inquiry. Newsbook, which reported the same crash, said two men were in a critical condition, so the number of seriously injured men differs slightly between the two reports.</description>
+    <content:encoded><![CDATA[<p>Three men were critically injured when two cars collided head-on in Vjal l-Avjazzjoni, Luqa, at around 6.15pm on Sunday. One car, a Honda Fit, was carrying three men while the other, a Citroën Aircross, was driven by one man who escaped unharmed. Mater Dei Hospital said five ambulances, four rapid response vehicles and more than 20 emergency workers were dispatched, with the Civil Protection Department, police and Transport Malta assisting. Transport Malta closed Birżebbuġa Road in Ħal Far and urged motorists to use alternative routes, and Magistrate Joe Mifsud opened an inquiry. Newsbook, which reported the same crash, said two men were in a critical condition, so the number of seriously injured men differs slightly between the two reports.</p><p><img src="/img/4b07d895b81d4b387ce5d95e4ee36ac0996ab2ec-1795373954-d6347a00-1200x630.jpg" alt="Emergency response at the scene of a head-on collision in Luqa" /></p><p><em>Sources: Times of Malta, The Malta Independent, Newsbook</em></p>]]></content:encoded>
+    <pubDate>Mon, 23 Nov 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">61c3c116da2d6ee115e4e895ef06b84f</guid>
     <category>Courts &amp; Crime</category>
-    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-22</source>
-    <media:content url="/img/43bda7e4091d9b7e33f70e5ecd71a8b8b2264e6d-1795357947-0126b503-1200x630.jpeg" medium="image" />
-    <enclosure url="/img/43bda7e4091d9b7e33f70e5ecd71a8b8b2264e6d-1795357947-0126b503-1200x630.jpeg" length="0" type="image/jpeg" />
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-23</source>
+    <media:content url="/img/4b07d895b81d4b387ce5d95e4ee36ac0996ab2ec-1795373954-d6347a00-1200x630.jpg" medium="image" />
+    <enclosure url="/img/4b07d895b81d4b387ce5d95e4ee36ac0996ab2ec-1795373954-d6347a00-1200x630.jpg" length="0" type="image/jpeg" />
   </item>
   <item>
-    <title>Police stop 8,135 vehicles in October road checks, issue 575 contraventions</title>
-    <link>https://timesofmalta.com/article/575-contraventions-55-charges-issued-motorists-road-checks-october.1137496</link>
-    <description>Police said 8,135 vehicles were stopped during 380 road checks throughout October, resulting in 575 contraventions and 55 charges. Twenty-six tests were carried out on people suspected of driving under the influence of alcohol or drugs, with four testing positive for alcohol and one for drugs. The checks were carried out by different police units at different times of day and night. Marking World Day of Remembrance for Road Traffic Victims, the police paid tribute to those who died or were seriously injured in traffic accidents.</description>
-    <content:encoded><![CDATA[<p>Police said 8,135 vehicles were stopped during 380 road checks throughout October, resulting in 575 contraventions and 55 charges. Twenty-six tests were carried out on people suspected of driving under the influence of alcohol or drugs, with four testing positive for alcohol and one for drugs. The checks were carried out by different police units at different times of day and night. Marking World Day of Remembrance for Road Traffic Victims, the police paid tribute to those who died or were seriously injured in traffic accidents.</p><p><img src="/img/5cf732d56f8d6876d1236dda2a004cf8cfda84db-1795352200-f8d09d89-1200x630.jpg" alt="Police traffic road checks" /></p><p><em>Sources: Times of Malta, MaltaToday, Newsbook</em></p>]]></content:encoded>
-    <pubDate>Sun, 22 Nov 2026 13:55:00 +0100</pubDate>
-    <guid isPermaLink="false">4a98694d364ed06ecd7ee52c5fb88408</guid>
-    <category>Courts &amp; Crime</category>
-    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-22</source>
-    <media:content url="/img/5cf732d56f8d6876d1236dda2a004cf8cfda84db-1795352200-f8d09d89-1200x630.jpg" medium="image" />
-    <enclosure url="/img/5cf732d56f8d6876d1236dda2a004cf8cfda84db-1795352200-f8d09d89-1200x630.jpg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Drink-driver seven times over the limit denied bail after police confrontation</title>
-    <link>https://timesofmalta.com/article/drinkdriver-seven-times-legal-limit-denied-bail-police-confrontation.1137497</link>
-    <description>A 25-year-old Albanian construction worker was denied bail on Sunday after allegedly violently resisting arrest when police caught him driving seven times over the legal alcohol limit. Iridjon Zotaj, who lives in Luqa, faced nine charges including assaulting five police officers, driving without a licence or insurance and driving under the influence. His lawyers argued that denying bail could jeopardise his livelihood and that none of the officers were injured. The magistrate said her concern was the breathalyser reading, which showed seven times over the 0.5g/l limit.</description>
-    <content:encoded><![CDATA[<p>A 25-year-old Albanian construction worker was denied bail on Sunday after allegedly violently resisting arrest when police caught him driving seven times over the legal alcohol limit. Iridjon Zotaj, who lives in Luqa, faced nine charges including assaulting five police officers, driving without a licence or insurance and driving under the influence. His lawyers argued that denying bail could jeopardise his livelihood and that none of the officers were injured. The magistrate said her concern was the breathalyser reading, which showed seven times over the 0.5g/l limit.</p><p><img src="/img/ec824bf9a02752101ac57daf3f416170bd01e7a0-1795352330-84053436-1200x630.jpeg" alt="Drink-driver in court" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
-    <pubDate>Sun, 22 Nov 2026 13:51:00 +0100</pubDate>
-    <guid isPermaLink="false">91b1bfaa4dde0a5fe46f1a555d8e32b9</guid>
-    <category>Courts &amp; Crime</category>
-    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-22</source>
-    <media:content url="/img/ec824bf9a02752101ac57daf3f416170bd01e7a0-1795352330-84053436-1200x630.jpeg" medium="image" />
-    <enclosure url="/img/ec824bf9a02752101ac57daf3f416170bd01e7a0-1795352330-84053436-1200x630.jpeg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Hundreds join President's Walk in aid of the Malta Community Chest Fund</title>
-    <link>https://timesofmalta.com/article/hundreds-join-president-walk-aid-malta-community-chest-fund.1137492</link>
-    <description>Hundreds of people joined President Myriam Spiteri Debono for the third consecutive edition of the President's Walk, held from San Anton Palace and Paola to Valletta via Blata l-Bajda. Prime Minister Robert Abela, Speaker Carmelo Abela, Opposition Leader Alex Borg and Archbishop Charles Scicluna took part, with Special Olympics Malta athletes and band clubs joining the procession. The President stressed that the Community Chest Fund helps not only cancer patients but hundreds of others facing other illnesses, and that advances in care still bring monthly costs of thousands of euros.</description>
-    <content:encoded><![CDATA[<p>Hundreds of people joined President Myriam Spiteri Debono for the third consecutive edition of the President&#x27;s Walk, held from San Anton Palace and Paola to Valletta via Blata l-Bajda. Prime Minister Robert Abela, Speaker Carmelo Abela, Opposition Leader Alex Borg and Archbishop Charles Scicluna took part, with Special Olympics Malta athletes and band clubs joining the procession. The President stressed that the Community Chest Fund helps not only cancer patients but hundreds of others facing other illnesses, and that advances in care still bring monthly costs of thousands of euros.</p><p><img src="/img/00e5dd315e9dc739e8c0554c81f0a4f89efdbb78-1795348515-62443bcf-1200x630.jpg" alt="Participants in the President&#x27;s Walk in Valletta" /></p><p><em>Sources: Times of Malta, MaltaToday, Newsbook, Lovin Malta</em></p>]]></content:encoded>
-    <pubDate>Sun, 22 Nov 2026 12:30:00 +0100</pubDate>
-    <guid isPermaLink="false">0fbbc0beac41cd8f7fa8a5f5bc17bf3e</guid>
+    <title>Malta backs EU refusal to endorse COP31 climate deal</title>
+    <link>https://timesofmalta.com/article/malta-backs-eu-refusal-endorse-cop31-climate-deal.1137506</link>
+    <description>Malta joined the European Union in refusing to back the proposed text at the COP31 summit in Antalya, which ended without a consensus decision. The EU said the draft failed to credibly address emissions reductions or even refer to a transition away from fossil fuels. Energy and Environment Minister Miriam Dalli, who led the EU negotiating team on climate adaptation, said political compromise could not come at the expense of meaningful climate action and that commitments had to translate into tangible investments.</description>
+    <content:encoded><![CDATA[<p>Malta joined the European Union in refusing to back the proposed text at the COP31 summit in Antalya, which ended without a consensus decision. The EU said the draft failed to credibly address emissions reductions or even refer to a transition away from fossil fuels. Energy and Environment Minister Miriam Dalli, who led the EU negotiating team on climate adaptation, said political compromise could not come at the expense of meaningful climate action and that commitments had to translate into tangible investments.</p><p><img src="/img/ee7cf1a5f3480f2f190e3d630ee5aad504d5363d-1795368686-88ccdc1e-1200x630.png" alt="COP31 climate summit" /></p><p><em>Sources: Times of Malta, MaltaToday</em></p>]]></content:encoded>
+    <pubDate>Mon, 23 Nov 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">0f2597a49d8fdd3925d6128194f13565</guid>
     <category>Politics</category>
-    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-22</source>
-    <media:content url="/img/00e5dd315e9dc739e8c0554c81f0a4f89efdbb78-1795348515-62443bcf-1200x630.jpg" medium="image" />
-    <enclosure url="/img/00e5dd315e9dc739e8c0554c81f0a4f89efdbb78-1795348515-62443bcf-1200x630.jpg" length="0" type="image/jpeg" />
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-23</source>
+    <media:content url="/img/ee7cf1a5f3480f2f190e3d630ee5aad504d5363d-1795368686-88ccdc1e-1200x630.png" medium="image" />
+    <enclosure url="/img/ee7cf1a5f3480f2f190e3d630ee5aad504d5363d-1795368686-88ccdc1e-1200x630.png" length="0" type="image/jpeg" />
   </item>
   <item>
-    <title>Hundreds protest in Valletta against Budget 2027 measures on third-country nationals</title>
-    <link>https://timesofmalta.com/article/hundreds-unite-valletta-discrimination-protest-tcn-budget-measures.1137477</link>
-    <description>Hundreds of people marched through Valletta on Saturday evening in a "United Against Discrimination" protest against Budget 2027 measures that will place a financial burden on third-country nationals living and working in Malta. The march started at the Triton Fountain in Floriana and moved towards Parliament Square, where a concert protest featured live performances from six acts. Organisers estimated more than 1,000 people took part, with placards reading "we are people not numbers" and "dignity has no nationality". Groups behind the event, including TCNs United, TCN Alliance, Solidarjetà and Moviment Graffitti, say the measures are based on nationality and immigration status rather than service needs or tax contribution.</description>
-    <content:encoded><![CDATA[<p>Hundreds of people marched through Valletta on Saturday evening in a &quot;United Against Discrimination&quot; protest against Budget 2027 measures that will place a financial burden on third-country nationals living and working in Malta. The march started at the Triton Fountain in Floriana and moved towards Parliament Square, where a concert protest featured live performances from six acts. Organisers estimated more than 1,000 people took part, with placards reading &quot;we are people not numbers&quot; and &quot;dignity has no nationality&quot;. Groups behind the event, including TCNs United, TCN Alliance, Solidarjetà and Moviment Graffitti, say the measures are based on nationality and immigration status rather than service needs or tax contribution.</p><p><img src="/img/865f62e3c72eb8ece8c615f8c344c33bf11b02bb-1795280155-e0e0311a-1200x630.jpg" alt="Protesters holding placards during the United Against Discrimination march in Valletta" /></p><p><em>Sources: Times of Malta, Newsbook</em></p>]]></content:encoded>
-    <pubDate>Sun, 22 Nov 2026 12:00:00 +0100</pubDate>
-    <guid isPermaLink="false">6943fde68f20bc4338ed2915357bc75c</guid>
+    <title>1926 silent animation gets a Maltese score 100 years on</title>
+    <link>https://lovinmalta.com/news/local/worlds-oldest-surviving-animated-film-gets-a-maltese-twist-100-years-later/</link>
+    <description>The world's oldest surviving feature-length animated film, Lotte Reiniger's 1926 silent The Adventures of Prince Achmed, will be screened at Spazju Kreattiv on 8 December with a newly commissioned live score by Maltese musician Renzo Spiteri. Spiteri, an Emmy-nominated percussionist and electronic improviser, will combine percussion and improvisation with the paper-silhouette animation. The anniversary event is being staged in Malta on 8 December at 6pm.</description>
+    <content:encoded><![CDATA[<p>The world&#x27;s oldest surviving feature-length animated film, Lotte Reiniger&#x27;s 1926 silent The Adventures of Prince Achmed, will be screened at Spazju Kreattiv on 8 December with a newly commissioned live score by Maltese musician Renzo Spiteri. Spiteri, an Emmy-nominated percussionist and electronic improviser, will combine percussion and improvisation with the paper-silhouette animation. The anniversary event is being staged in Malta on 8 December at 6pm.</p><p><img src="/img/Dylan-Covers-3-1-1024x536.jpg" alt="Poster for the centenary screening of The Adventures of Prince Achmed" /></p><p><em>Sources: Lovin Malta</em></p>]]></content:encoded>
+    <pubDate>Mon, 23 Nov 2026 12:00:00 +0100</pubDate>
+    <guid isPermaLink="false">0bfa59dd8737396c2752154bf9bf5bf9</guid>
+    <category>General</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-23</source>
+    <media:content url="/img/Dylan-Covers-3-1-1024x536.jpg" medium="image" />
+    <enclosure url="/img/Dylan-Covers-3-1-1024x536.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Abela and Labour president clash over budget measures for non-EU workers</title>
+    <link>https://timesofmalta.com/article/robert-abela-labour-president-clash-budget-measures-noneu-workers.1137502</link>
+    <description>Prime Minister Robert Abela and Labour Party president Alex Sciberras are at odds over the Budget 2027 measures targeting non-EU workers, according to Labour insiders. Sources said Sciberras believes the measures discriminate unfairly between workers, and that meetings between the two at Castille last week were heated. Sciberras confirmed he has expressed reservations but described the talks as frank, constructive and ongoing, while the Office of the Prime Minister denied any rift. The measures, announced by Finance Minister Clyde Caruana, require third-country nationals to pay for childcare, face higher work permit renewal fees, and pay €83 monthly to drive and €33 monthly to use the bus.</description>
+    <content:encoded><![CDATA[<p>Prime Minister Robert Abela and Labour Party president Alex Sciberras are at odds over the Budget 2027 measures targeting non-EU workers, according to Labour insiders. Sources said Sciberras believes the measures discriminate unfairly between workers, and that meetings between the two at Castille last week were heated. Sciberras confirmed he has expressed reservations but described the talks as frank, constructive and ongoing, while the Office of the Prime Minister denied any rift. The measures, announced by Finance Minister Clyde Caruana, require third-country nationals to pay for childcare, face higher work permit renewal fees, and pay €83 monthly to drive and €33 monthly to use the bus.</p><p><img src="/img/0b94be518de55f3b89fd10c1b5de8ea5f9ed8a3e-1795364486-1f96ab2a-1200x630.jpg" alt="Alex Sciberras and Robert Abela" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Mon, 23 Nov 2026 06:30:00 +0100</pubDate>
+    <guid isPermaLink="false">94f39cf68d85d856cf1483b1bb816793</guid>
     <category>Politics</category>
-    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-22</source>
-    <media:content url="/img/865f62e3c72eb8ece8c615f8c344c33bf11b02bb-1795280155-e0e0311a-1200x630.jpg" medium="image" />
-    <enclosure url="/img/865f62e3c72eb8ece8c615f8c344c33bf11b02bb-1795280155-e0e0311a-1200x630.jpg" length="0" type="image/jpeg" />
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-23</source>
+    <media:content url="/img/0b94be518de55f3b89fd10c1b5de8ea5f9ed8a3e-1795364486-1f96ab2a-1200x630.jpg" medium="image" />
+    <enclosure url="/img/0b94be518de55f3b89fd10c1b5de8ea5f9ed8a3e-1795364486-1f96ab2a-1200x630.jpg" length="0" type="image/jpeg" />
   </item>
   <item>
-    <title>Four cars destroyed in Żabbar blaze; no injuries reported</title>
-    <link>https://timesofmalta.com/article/firefighters-put-blaze-engulfed-four-cars-zabbar.1137481</link>
-    <description>Firefighters from station four brought a blaze that engulfed four vehicles in Żabbar under control on Saturday afternoon, the Civil Protection Department said. Crews arrived to find four internal combustion engine vehicles on fire and no one was injured. The Rapid Intervention Unit and 4PD, a medical team from Mater Dei Hospital's emergency department and Transport Malta officials assisted at the scene. Home Affairs Minister Glenn Bedingfield publicly thanked the Civil Protection Department.</description>
-    <content:encoded><![CDATA[<p>Firefighters from station four brought a blaze that engulfed four vehicles in Żabbar under control on Saturday afternoon, the Civil Protection Department said. Crews arrived to find four internal combustion engine vehicles on fire and no one was injured. The Rapid Intervention Unit and 4PD, a medical team from Mater Dei Hospital&#x27;s emergency department and Transport Malta officials assisted at the scene. Home Affairs Minister Glenn Bedingfield publicly thanked the Civil Protection Department.</p><p><img src="/img/1849edb5511032e35a3afdaf3980f90ab972442c-1795286434-ed48aad2-1200x630.jpg" alt="Firefighters attending a vehicle blaze in Żabbar" /></p><p><em>Sources: Times of Malta, Lovin Malta, Newsbook</em></p>]]></content:encoded>
-    <pubDate>Sun, 22 Nov 2026 12:00:00 +0100</pubDate>
-    <guid isPermaLink="false">b4c071f95a2cc6470ce8bee0a0b29b9e</guid>
+    <title>Police revoked 79 firearm licences in three years</title>
+    <link>https://www.maltatoday.com.mt/news/national/145875/police_revoke_79_firearm_licences_in_three_years</link>
+    <description>Police revoked 79 firearm licences between 2024 and 2026, citing domestic violence, mental health issues, drug offences, theft and illegal hunting among the reasons for the action. Over the same period the force also recorded 53 refusals, seven suspensions and three disqualifications, with shotguns accounting for almost half of new weapons licensed in 2026. The Commissioner of Police may suspend or revoke a licence after convictions for specified offences or where safety reasons are recorded and reported to the minister.</description>
+    <content:encoded><![CDATA[<p>Police revoked 79 firearm licences between 2024 and 2026, citing domestic violence, mental health issues, drug offences, theft and illegal hunting among the reasons for the action. Over the same period the force also recorded 53 refusals, seven suspensions and three disqualifications, with shotguns accounting for almost half of new weapons licensed in 2026. The Commissioner of Police may suspend or revoke a licence after convictions for specified offences or where safety reasons are recorded and reported to the minister.</p><p><img src="/img/benelli_double-barrelled_shotgun_%5Bphoto_milos_jevtic_pexels%5D.jpg" alt="Shotgun, illustrating the police firearms licensing report" /></p><p><em>Sources: MaltaToday</em></p>]]></content:encoded>
+    <pubDate>Mon, 23 Nov 2026 06:00:00 +0100</pubDate>
+    <guid isPermaLink="false">b97117fda333613e0b42d63973b35618</guid>
     <category>Politics</category>
-    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-22</source>
-    <media:content url="/img/1849edb5511032e35a3afdaf3980f90ab972442c-1795286434-ed48aad2-1200x630.jpg" medium="image" />
-    <enclosure url="/img/1849edb5511032e35a3afdaf3980f90ab972442c-1795286434-ed48aad2-1200x630.jpg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Mercieca urges doctors to put patients first in testing dispute</title>
-    <link>https://timesofmalta.com/article/prioritise-patients-mercieca-urges-doctors-dispute-testing-clinics.1137469</link>
-    <description>The chair of the parliamentary health committee, Franco Mercieca, urged the Medical Association of Malta to prioritise patients and resolve concerns over new point-of-care testing equipment in health centres through dialogue rather than industrial action. The MAM registered a dispute with Primary Health Care Management in August, warning the equipment could delay treatment and lengthen waiting times. Health Minister Ian Borg has said the rollout will go ahead despite the objections.</description>
-    <content:encoded><![CDATA[<p>The chair of the parliamentary health committee, Franco Mercieca, urged the Medical Association of Malta to prioritise patients and resolve concerns over new point-of-care testing equipment in health centres through dialogue rather than industrial action. The MAM registered a dispute with Primary Health Care Management in August, warning the equipment could delay treatment and lengthen waiting times. Health Minister Ian Borg has said the rollout will go ahead despite the objections.</p><p><img src="/img/2fd8aa736a1f88883e84c72d58d31cf974647928-1795279271-34776f56-1200x630.jpg" alt="Health care and medical testing equipment" /></p><p><em>Sources: Times of Malta, Newsbook</em></p>]]></content:encoded>
-    <pubDate>Sun, 22 Nov 2026 12:00:00 +0100</pubDate>
-    <guid isPermaLink="false">15d5879aa8cdcc81dee47a88beb73375</guid>
-    <category>Politics</category>
-    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-22</source>
-    <media:content url="/img/2fd8aa736a1f88883e84c72d58d31cf974647928-1795279271-34776f56-1200x630.jpg" medium="image" />
-    <enclosure url="/img/2fd8aa736a1f88883e84c72d58d31cf974647928-1795279271-34776f56-1200x630.jpg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Man breached bail conditions after removing electronic tag, court told</title>
-    <link>https://newsbook.com.mt/kiser-il-kundizznonijiet-tal-qorti-erbat-ijiem-wara-li-sarlu-t-tag-elettroniku/</link>
-    <description>A 22-year-old man from Żabbar was remanded for four days after the court heard that he breached the conditions of his bail by removing his electronic monitoring tag. The accused had been arrested on 11 November on charges of domestic violence and a breach of provisional liberty conditions, and was ordered to wear the device. Police received four reports, three stating he was out of his home when he should have been locked in. The defence asked for bail with a Caritas condition; the case was adjourned to next Thursday.</description>
-    <content:encoded><![CDATA[<p>A 22-year-old man from Żabbar was remanded for four days after the court heard that he breached the conditions of his bail by removing his electronic monitoring tag. The accused had been arrested on 11 November on charges of domestic violence and a breach of provisional liberty conditions, and was ordered to wear the device. Police received four reports, three stating he was out of his home when he should have been locked in. The defence asked for bail with a Caritas condition; the case was adjourned to next Thursday.</p><p><img src="/img/electronic-tagging.jpg" alt="Electronic monitoring tag" /></p><p><em>Sources: Newsbook</em></p>]]></content:encoded>
-    <pubDate>Sun, 22 Nov 2026 12:00:00 +0100</pubDate>
-    <guid isPermaLink="false">4a765ecddc153842711dacbc0f1d0170</guid>
-    <category>Courts &amp; Crime</category>
-    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-22</source>
-    <media:content url="/img/electronic-tagging.jpg" medium="image" />
-    <enclosure url="/img/electronic-tagging.jpg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Government targets 2,000 specialised gaming jobs by 2035 as PLAYCON opens</title>
-    <link>https://lovinmalta.com/news/malta-aims-to-create-over-2000-gaming-jobs-as-playcon-2026-celebrates-sixth-edition/</link>
-    <description>GamingMalta's sixth PLAYCON edition opened at the weekend, with a Labour delegation including Minister Rosianne Cutajar, MEP Daniel Attard and MP Clint Azzopardi Flores touring the event. Government targets include more than 2,000 specialised jobs and at least 35 game development studios by 2035, with the sector expected to contribute 1% to 2% of Gross Value Added. Support schemes include a €200,000 Video Game Gateway Fund and a €2 million Video Game Production Rebate.</description>
-    <content:encoded><![CDATA[<p>GamingMalta&#x27;s sixth PLAYCON edition opened at the weekend, with a Labour delegation including Minister Rosianne Cutajar, MEP Daniel Attard and MP Clint Azzopardi Flores touring the event. Government targets include more than 2,000 specialised jobs and at least 35 game development studios by 2035, with the sector expected to contribute 1% to 2% of Gross Value Added. Support schemes include a €200,000 Video Game Gateway Fund and a €2 million Video Game Production Rebate.</p><p><img src="/img/FB-COVER-RIANA-12-1024x536.jpg" alt="PLAYCON 2026 gaming and esports event" /></p><p><em>Sources: Lovin Malta</em></p>]]></content:encoded>
-    <pubDate>Sun, 22 Nov 2026 12:00:00 +0100</pubDate>
-    <guid isPermaLink="false">e5226758054c4b0bdb3961474b112fdb</guid>
-    <category>Politics</category>
-    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-22</source>
-    <media:content url="/img/FB-COVER-RIANA-12-1024x536.jpg" medium="image" />
-    <enclosure url="/img/FB-COVER-RIANA-12-1024x536.jpg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Veteran Maltese broadcaster Eddie Darmanin dies aged 88</title>
-    <link>https://newsbook.com.mt/imut-ix-xandar-veteran-eddie-darmanin/</link>
-    <description>Veteran Maltese broadcaster Eddie Darmanin, known for a long career across Rediffusion, RTK and Radio Malta, died on 21 November at the age of 88. Born in Isla in 1938 as the eldest of six siblings, he began work with International Aeradio Limited as a communication officer in the airport control tower at Hal Luqa, where he was involved in communications during the 1973 and 1985 aircraft hijackings. His broadcasting career began at Rediffusion and continued on RTK and Radio Malta.</description>
-    <content:encoded><![CDATA[<p>Veteran Maltese broadcaster Eddie Darmanin, known for a long career across Rediffusion, RTK and Radio Malta, died on 21 November at the age of 88. Born in Isla in 1938 as the eldest of six siblings, he began work with International Aeradio Limited as a communication officer in the airport control tower at Hal Luqa, where he was involved in communications during the 1973 and 1985 aircraft hijackings. His broadcasting career began at Rediffusion and continued on RTK and Radio Malta.</p><p><img src="/img/Eddie-Darmanin.jpg" alt="Veteran Maltese broadcaster Eddie Darmanin" /></p><p><em>Sources: Newsbook</em></p>]]></content:encoded>
-    <pubDate>Sun, 22 Nov 2026 12:00:00 +0100</pubDate>
-    <guid isPermaLink="false">6af1fe782e1bad5608f8950ed0d0fa8d</guid>
-    <category>Infrastructure &amp; Transport</category>
-    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-22</source>
-    <media:content url="/img/Eddie-Darmanin.jpg" medium="image" />
-    <enclosure url="/img/Eddie-Darmanin.jpg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Film Commission to pass on Walliams book proceeds to charity 'when they have them'</title>
-    <link>https://timesofmalta.com/article/film-commission-send-walliams-book-proceeds-charity-when-them.1137467</link>
-    <description>Culture Minister Malcolm Paul Agius Galea said the Film Commission will pass proceeds from David Walliams' 2024 book The Golden Bee Adventure to the Malta Community Chest Fund once they are received, after the President's Office said no donations had yet arrived two years after publication. The minister said he was satisfied with the explanation given by the Commission's chairman and that nobody had said the proceeds would not go to the fund. The book was launched with proceeds intended for the President's charity.</description>
-    <content:encoded><![CDATA[<p>Culture Minister Malcolm Paul Agius Galea said the Film Commission will pass proceeds from David Walliams&#x27; 2024 book The Golden Bee Adventure to the Malta Community Chest Fund once they are received, after the President&#x27;s Office said no donations had yet arrived two years after publication. The minister said he was satisfied with the explanation given by the Commission&#x27;s chairman and that nobody had said the proceeds would not go to the fund. The book was launched with proceeds intended for the President&#x27;s charity.</p><p><img src="/img/3196a9a610481273e879207b90e19f8d270e6a44-1795344560-efc15254-1200x630.jpg" alt="Film Commission and publishing matters" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
-    <pubDate>Sun, 22 Nov 2026 11:40:00 +0100</pubDate>
-    <guid isPermaLink="false">3831ed73833bcd39e54ce0e85d00a8c1</guid>
-    <category>Politics</category>
-    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-22</source>
-    <media:content url="/img/3196a9a610481273e879207b90e19f8d270e6a44-1795344560-efc15254-1200x630.jpg" medium="image" />
-    <enclosure url="/img/3196a9a610481273e879207b90e19f8d270e6a44-1795344560-efc15254-1200x630.jpg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Attard calls for consensual sex between teenagers close in age to be decriminalised</title>
-    <link>https://lovinmalta.com/news/watch-ramona-attard-calls-for-decriminalisation-of-consensual-sex-between-teenagers-close-in-age/</link>
-    <description>Labour MP Ramona Attard told Parliament that Maltese law should distinguish between sexual abuse and consensual relationships between adolescents of a similar age. The age of consent is currently 16, so 14- and 15-year-olds can face criminal liability. Her appeal follows a 2024 magistrate's recommendation, after a case involving a 15-year-old boy and a 14-year-old girl, that legislators consider revising the age of consent or introducing exemptions. Attard said laws should protect children from abuse while recognising consensual adolescent relationships, and that justice must be proportionate.</description>
-    <content:encoded><![CDATA[<p>Labour MP Ramona Attard told Parliament that Maltese law should distinguish between sexual abuse and consensual relationships between adolescents of a similar age. The age of consent is currently 16, so 14- and 15-year-olds can face criminal liability. Her appeal follows a 2024 magistrate&#x27;s recommendation, after a case involving a 15-year-old boy and a 14-year-old girl, that legislators consider revising the age of consent or introducing exemptions. Attard said laws should protect children from abuse while recognising consensual adolescent relationships, and that justice must be proportionate.</p><p><img src="/img/FB-COVER-CHAR-8-1-1024x536.jpg" alt="Parliament debate on age of consent" /></p><p><em>Sources: Lovin Malta, MaltaToday</em></p>]]></content:encoded>
-    <pubDate>Sun, 22 Nov 2026 11:08:00 +0100</pubDate>
-    <guid isPermaLink="false">1c9e986564c7b540a44052aa545eae80</guid>
-    <category>Politics</category>
-    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-22</source>
-    <media:content url="/img/FB-COVER-CHAR-8-1-1024x536.jpg" medium="image" />
-    <enclosure url="/img/FB-COVER-CHAR-8-1-1024x536.jpg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Gambling firm fined €139,000 for anti-money laundering failings</title>
-    <link>https://timesofmalta.com/article/gambling-firm-fined-139000-antimoney-laundering-failings.1137478</link>
-    <description>The Financial Intelligence Analysis Unit fined a gambling company €139,000, reduced from an initial €232,000 under a settlement, after a 2022 compliance examination identified shortcomings in how it gathered information on players, monitored transactions and assessed money laundering risks. The FIAU found documentation on the source of players' wealth was missing for a substantial proportion of customers reviewed, and that information was often collected more than 30 days after players crossed the €2,000 deposit threshold. The company is owned by German national Hermann Werner, with lawyer Jacques Grima listed as director.</description>
-    <content:encoded><![CDATA[<p>The Financial Intelligence Analysis Unit fined a gambling company €139,000, reduced from an initial €232,000 under a settlement, after a 2022 compliance examination identified shortcomings in how it gathered information on players, monitored transactions and assessed money laundering risks. The FIAU found documentation on the source of players&#x27; wealth was missing for a substantial proportion of customers reviewed, and that information was often collected more than 30 days after players crossed the €2,000 deposit threshold. The company is owned by German national Hermann Werner, with lawyer Jacques Grima listed as director.</p><p><img src="/img/35f03a4b2bcec74c0a01c99fdcefaad9411118f1-1795282239-94dacc8d-1200x630.jpg" alt="Gaming and casino operations" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
-    <pubDate>Sun, 22 Nov 2026 10:50:00 +0100</pubDate>
-    <guid isPermaLink="false">1fde6536f229c9192ad9acdc7aee45a9</guid>
-    <category>Economy</category>
-    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-22</source>
-    <media:content url="/img/35f03a4b2bcec74c0a01c99fdcefaad9411118f1-1795282239-94dacc8d-1200x630.jpg" medium="image" />
-    <enclosure url="/img/35f03a4b2bcec74c0a01c99fdcefaad9411118f1-1795282239-94dacc8d-1200x630.jpg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Cassola asks standards commissioner to probe Abela over meeting with Judge Mintoff</title>
-    <link>https://www.maltatoday.com.mt/news/national/145890/momentum_seeks_ethics_probe_into_abela_over_chief_justice_talks</link>
-    <description>Momentum leader Arnold Cassola has asked Commissioner for Standards in Public Life Joseph Azzopardi to investigate Prime Minister Robert Abela over communications and a face-to-face meeting with Judge Wenzu Mintoff concerning the chief justice appointment. In a letter sent on Sunday, Cassola described the conduct as unlawful and unethical. The complaint follows Mintoff's February letter to cabinet, in which the judge claimed Abela had given several reasons why he would not be considered for the post. Abela has confirmed the meeting took place but rejects suggestions that it constituted an ethical breach, arguing discussions with candidates were necessary.</description>
-    <content:encoded><![CDATA[<p>Momentum leader Arnold Cassola has asked Commissioner for Standards in Public Life Joseph Azzopardi to investigate Prime Minister Robert Abela over communications and a face-to-face meeting with Judge Wenzu Mintoff concerning the chief justice appointment. In a letter sent on Sunday, Cassola described the conduct as unlawful and unethical. The complaint follows Mintoff&#x27;s February letter to cabinet, in which the judge claimed Abela had given several reasons why he would not be considered for the post. Abela has confirmed the meeting took place but rejects suggestions that it constituted an ethical breach, arguing discussions with candidates were necessary.</p><p><img src="/img/7891ff3942f6.jpg" alt="Judge Wenzu Mintoff and Prime Minister Robert Abela" /></p><p><em>Sources: MaltaToday</em></p>]]></content:encoded>
-    <pubDate>Sun, 22 Nov 2026 10:35:00 +0100</pubDate>
-    <guid isPermaLink="false">b9c619cb1b1d91d8df02c7991a07402d</guid>
-    <category>Politics</category>
-    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-22</source>
-    <media:content url="/img/7891ff3942f6.jpg" medium="image" />
-    <enclosure url="/img/7891ff3942f6.jpg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Fire damages four vehicles in Żabbar</title>
-    <link>https://www.maltatoday.com.mt/news/national/145888/fire_damages_four_vehicles_in_abbar</link>
-    <description>A fire that started in a street in Żabbar on Saturday evening damaged four vehicles, all with internal combustion engines. Civil Protection Malta said crews from Fire Station 4 found all four vehicles alight when they arrived and brought the situation under control. No injuries were reported. The police Rapid Intervention Unit and 4PD assisted at the scene alongside a medical team from Mater Dei Hospital's Emergency Department and Transport Malta officials.</description>
-    <content:encoded><![CDATA[<p>A fire that started in a street in Żabbar on Saturday evening damaged four vehicles, all with internal combustion engines. Civil Protection Malta said crews from Fire Station 4 found all four vehicles alight when they arrived and brought the situation under control. No injuries were reported. The police Rapid Intervention Unit and 4PD assisted at the scene alongside a medical team from Mater Dei Hospital&#x27;s Emergency Department and Transport Malta officials.</p><p><img src="/img/916944601_1130596409377841_2282346731047272689_n.jpeg" alt="Fire-damaged vehicles in Zabbar" /></p><p><em>Sources: MaltaToday</em></p>]]></content:encoded>
-    <pubDate>Sun, 22 Nov 2026 09:59:00 +0100</pubDate>
-    <guid isPermaLink="false">aa0be207ad78358e6b7e5ace4be064ed</guid>
-    <category>Courts &amp; Crime</category>
-    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-22</source>
-    <media:content url="/img/916944601_1130596409377841_2282346731047272689_n.jpeg" medium="image" />
-    <enclosure url="/img/916944601_1130596409377841_2282346731047272689_n.jpeg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Moviment Graffitti calls for solidarity march against violence towards women</title>
-    <link>https://www.independent.com.mt/articles/2026-11-22/local-news/Jiena-Jane-Doe-Moviment-Graffitti-calls-for-solidarity-against-violence-towards-women-6736294856</link>
-    <description>Moviment Graffitti is calling for a gathering and march in Valletta on Wednesday 25 November to mark the International Day for the Elimination of Violence against Women, under the theme 'Jiena Jane Doe'. The march starts at 6:30pm in front of Parliament, with participants asked to wear white. Organiser Francesca Vella said the theme aims to highlight how patriarchal violence affects women in Maltese society, pointing to misogynistic language directed at women, particularly online, and noting the march follows three femicides in recent months.</description>
-    <content:encoded><![CDATA[<p>Moviment Graffitti is calling for a gathering and march in Valletta on Wednesday 25 November to mark the International Day for the Elimination of Violence against Women, under the theme &#x27;Jiena Jane Doe&#x27;. The march starts at 6:30pm in front of Parliament, with participants asked to wear white. Organiser Francesca Vella said the theme aims to highlight how patriarchal violence affects women in Maltese society, pointing to misogynistic language directed at women, particularly online, and noting the march follows three femicides in recent months.</p><p><img src="/img/87a806559cfa.jpg" alt="Moviment Graffitti march for violence against women" /></p><p><em>Sources: Malta Independent</em></p>]]></content:encoded>
-    <pubDate>Sun, 22 Nov 2026 09:30:00 +0100</pubDate>
-    <guid isPermaLink="false">cb307520644118ccaf9b402ca5bd4bda</guid>
-    <category>Politics</category>
-    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-22</source>
-    <media:content url="/img/87a806559cfa.jpg" medium="image" />
-    <enclosure url="/img/87a806559cfa.jpg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Passenger grievously injured after BMW crashes into wall in Sliema</title>
-    <link>https://timesofmalta.com/article/two-rushed-hospital-car-crashed-wall.1137489</link>
-    <description>A 28-year-old Turkish national from St Paul's Bay suffered grievous injuries after a BMW he was travelling in lost control and hit a wall on Triq l-Imrabat, Sliema, at around 3am. The driver, a 23-year-old Turkish man also from Sliema, crashed into the wall, with police saying his condition was unknown on Sunday morning. Police investigations are ongoing.</description>
-    <content:encoded><![CDATA[<p>A 28-year-old Turkish national from St Paul&#x27;s Bay suffered grievous injuries after a BMW he was travelling in lost control and hit a wall on Triq l-Imrabat, Sliema, at around 3am. The driver, a 23-year-old Turkish man also from Sliema, crashed into the wall, with police saying his condition was unknown on Sunday morning. Police investigations are ongoing.</p><p><img src="/img/18260d756c6cb18ad583df85a43db3f4215a8a4b-1795335441-86c419bd-1200x630.jpeg" alt="Crash scene in Sliema" /></p><p><em>Sources: Times of Malta, MaltaToday, Lovin Malta</em></p>]]></content:encoded>
-    <pubDate>Sun, 22 Nov 2026 09:00:00 +0100</pubDate>
-    <guid isPermaLink="false">1c98b52425868ebb7f047c4cd9fce3e9</guid>
-    <category>Courts &amp; Crime</category>
-    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-22</source>
-    <media:content url="/img/18260d756c6cb18ad583df85a43db3f4215a8a4b-1795335441-86c419bd-1200x630.jpeg" medium="image" />
-    <enclosure url="/img/18260d756c6cb18ad583df85a43db3f4215a8a4b-1795335441-86c419bd-1200x630.jpeg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>€162.3 million for infrastructure, communities and quality of life in Budget 2027</title>
-    <link>https://www.independent.com.mt/articles/2026-11-22/local-news/162-3-million-investment-in-infrastructure-improvements-communities-and-people-s-quality-of-life-6736294870</link>
-    <description>Infrastructure, Planning and Labour Minister Jonathan Attard announced €162.3 million of investment for 2027, almost 20 per cent more than the previous year, during his ministry's budget estimates address. Key projects include completing the Msida Creek regeneration scheme, with a new square finished and a pedestrian link between Ta' Xbiex and the marina under development, plus 1.3km of new water pipes and drainage work, improvements to the Marsaskala promenade, the Vjal Kulħadd programme and significant investment in ports. The ministry also said it would step up consumer and worker protection and improve the planning system.</description>
-    <content:encoded><![CDATA[<p>Infrastructure, Planning and Labour Minister Jonathan Attard announced €162.3 million of investment for 2027, almost 20 per cent more than the previous year, during his ministry&#x27;s budget estimates address. Key projects include completing the Msida Creek regeneration scheme, with a new square finished and a pedestrian link between Ta&#x27; Xbiex and the marina under development, plus 1.3km of new water pipes and drainage work, improvements to the Marsaskala promenade, the Vjal Kulħadd programme and significant investment in ports. The ministry also said it would step up consumer and worker protection and improve the planning system.</p><p><img src="/img/c9b48e14d5ae.jpg" alt="Infrastructure works" /></p><p><em>Sources: Malta Independent</em></p>]]></content:encoded>
-    <pubDate>Sun, 22 Nov 2026 09:00:00 +0100</pubDate>
-    <guid isPermaLink="false">c9024b654011010d7983048e46af9922</guid>
-    <category>Politics</category>
-    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-22</source>
-    <media:content url="/img/c9b48e14d5ae.jpg" medium="image" />
-    <enclosure url="/img/c9b48e14d5ae.jpg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>'A second home': inside the Marsa centre that never closes its doors to the vulnerable</title>
-    <link>https://www.independent.com.mt/articles/2026-11-22/local-news/A-second-home-Inside-the-Marsa-centre-that-never-closes-its-doors-to-the-vulnerable-6736294857</link>
-    <description>The Meeting Place, a state-run centre in Marsa operating around the clock under the Ministry for Social Justice, has been used by more than 90,000 individuals and over 100 voluntary organisations since it opened in 2019, a cumulative total over six years. Director Saviour Grima said the centre hosted 436 supervised meetings this year, in which children meet a parent outside a courtroom, arranged by the Foundation for Social Welfare Services. The centre also hosts deaf community gatherings that run until 2am.</description>
-    <content:encoded><![CDATA[<p>The Meeting Place, a state-run centre in Marsa operating around the clock under the Ministry for Social Justice, has been used by more than 90,000 individuals and over 100 voluntary organisations since it opened in 2019, a cumulative total over six years. Director Saviour Grima said the centre hosted 436 supervised meetings this year, in which children meet a parent outside a courtroom, arranged by the Foundation for Social Welfare Services. The centre also hosts deaf community gatherings that run until 2am.</p><p><img src="/img/8798b27df7a6.jpg" alt="Community centre in Marsa" /></p><p><em>Sources: Malta Independent</em></p>]]></content:encoded>
-    <pubDate>Sun, 22 Nov 2026 09:00:00 +0100</pubDate>
-    <guid isPermaLink="false">5cf7c3389b6d830396b8ecca50f9f71f</guid>
-    <category>Courts &amp; Crime</category>
-    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-22</source>
-    <media:content url="/img/8798b27df7a6.jpg" medium="image" />
-    <enclosure url="/img/8798b27df7a6.jpg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Thousands protest in Valletta against Budget 2027 measures affecting TCNs</title>
-    <link>https://lovinmalta.com/news/thousands-gather-in-valletta-to-protest-budget-2027-measures-affecting-tcns/</link>
-    <description>Thousands of people gathered in Valletta on Saturday to protest against new Budget 2027 measures affecting third-country nationals and their families. The peaceful demonstration was organised by TCNs United, TCN Alliance, Solidarjetà and Moviment Graffitti, and marked the end of the week-long Green Ribbon Project campaign. Organisers argued that access to services should not depend on nationality or immigration status, warning the measures could increase poverty and fuel hostility towards foreign workers. MGRM, Caritas Malta, the Daphne Foundation and Repubblika were among the groups that expressed support.</description>
-    <content:encoded><![CDATA[<p>Thousands of people gathered in Valletta on Saturday to protest against new Budget 2027 measures affecting third-country nationals and their families. The peaceful demonstration was organised by TCNs United, TCN Alliance, Solidarjetà and Moviment Graffitti, and marked the end of the week-long Green Ribbon Project campaign. Organisers argued that access to services should not depend on nationality or immigration status, warning the measures could increase poverty and fuel hostility towards foreign workers. MGRM, Caritas Malta, the Daphne Foundation and Repubblika were among the groups that expressed support.</p><p><img src="/img/FB-COVER-CHAR-6-1-1024x536.jpg" alt="Protest in Valletta against Budget 2027 measures" /></p><p><em>Sources: Lovin Malta</em></p>]]></content:encoded>
-    <pubDate>Sun, 22 Nov 2026 08:51:00 +0100</pubDate>
-    <guid isPermaLink="false">aa49124bb0987b6d151ee6b7985e1b24</guid>
-    <category>Economy</category>
-    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-22</source>
-    <media:content url="/img/FB-COVER-CHAR-6-1-1024x536.jpg" medium="image" />
-    <enclosure url="/img/FB-COVER-CHAR-6-1-1024x536.jpg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Giovanni Bonello at 90: 'Life is negotiable. Principles and values are not'</title>
-    <link>https://timesofmalta.com/article/giovanni-bonello-90-life-negotiable-principles-values-not.1137471</link>
-    <description>Former European Court of Human Rights judge Giovanni Bonello marked his 90th birthday with a wide-ranging interview in which he did not hold back on the two jury trials that have shaken the country. He said the acquittal of Yorgen Fenech in the Daphne Caruana Galizia murder case shocked and outraged the nation, and questioned whether jury verdicts speak for the country, suggesting the justice system should not be democratic. Bonello began work in airport communications at Hal Luqa before his judicial career.</description>
-    <content:encoded><![CDATA[<p>Former European Court of Human Rights judge Giovanni Bonello marked his 90th birthday with a wide-ranging interview in which he did not hold back on the two jury trials that have shaken the country. He said the acquittal of Yorgen Fenech in the Daphne Caruana Galizia murder case shocked and outraged the nation, and questioned whether jury verdicts speak for the country, suggesting the justice system should not be democratic. Bonello began work in airport communications at Hal Luqa before his judicial career.</p><p><img src="/img/52732a3df6d574b98bbb9b0a2544e0b2c44c521f-1795277149-4617a9d1-1200x630.jpg" alt="Former ECHR judge Giovanni Bonello at 90" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
-    <pubDate>Sun, 22 Nov 2026 08:45:00 +0100</pubDate>
-    <guid isPermaLink="false">8c2b3e5f0a23479b789893ff3f969875</guid>
-    <category>Courts &amp; Crime</category>
-    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-22</source>
-    <media:content url="/img/52732a3df6d574b98bbb9b0a2544e0b2c44c521f-1795277149-4617a9d1-1200x630.jpg" medium="image" />
-    <enclosure url="/img/52732a3df6d574b98bbb9b0a2544e0b2c44c521f-1795277149-4617a9d1-1200x630.jpg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Nursing students weigh burnout and working abroad as public ward shortages bite</title>
-    <link>https://www.independent.com.mt/articles/2026-11-22/local-news/Trained-for-the-workload-not-the-shortages-nursing-students-weigh-burnout-and-going-abroad-6736294855</link>
-    <description>Nursing students at the University of Malta told The Malta Independent that combining placements, study and paid work leaves them wary of burnout, with several already considering specialisation or a spell working abroad. A nurse who qualified a year ago said training prepared them for the workload but not for staff shortages on public wards, where each nurse typically cares for four to five patients. None of those interviewed said they had been pushed to breaking point, but they described pre-dawn starts, long shifts and emotionally charged moments.</description>
-    <content:encoded><![CDATA[<p>Nursing students at the University of Malta told The Malta Independent that combining placements, study and paid work leaves them wary of burnout, with several already considering specialisation or a spell working abroad. A nurse who qualified a year ago said training prepared them for the workload but not for staff shortages on public wards, where each nurse typically cares for four to five patients. None of those interviewed said they had been pushed to breaking point, but they described pre-dawn starts, long shifts and emotionally charged moments.</p><p><img src="/img/0653d005cf0c.jpg" alt="Nursing students and hospital ward" /></p><p><em>Sources: Malta Independent</em></p>]]></content:encoded>
-    <pubDate>Sun, 22 Nov 2026 08:30:00 +0100</pubDate>
-    <guid isPermaLink="false">7b7390eb1ac9dd981215f4b0967a96a2</guid>
-    <category>Courts &amp; Crime</category>
-    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-22</source>
-    <media:content url="/img/0653d005cf0c.jpg" medium="image" />
-    <enclosure url="/img/0653d005cf0c.jpg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Doctors explain when a persistent cough warrants a check-up</title>
-    <link>https://newsbook.com.mt/ara-qed-thossok-ghajjien-it-tabiba-tispjega/</link>
-    <description>Doctors say persistent dry or chesty coughs lasting weeks, or appearing at night or on waking, need an orderly medical evaluation rather than self-medication. Possible causes include diet, low haemoglobin, an underactive thyroid, anxiety, stress and depression, and the symptom can be mental as well as physical. Patients are advised to request blood tests to check iron, kidneys, lungs, hormones and possible autoimmune conditions, with regular check-ups with their own doctor described as the most important step.</description>
-    <content:encoded><![CDATA[<p>Doctors say persistent dry or chesty coughs lasting weeks, or appearing at night or on waking, need an orderly medical evaluation rather than self-medication. Possible causes include diet, low haemoglobin, an underactive thyroid, anxiety, stress and depression, and the symptom can be mental as well as physical. Patients are advised to request blood tests to check iron, kidneys, lungs, hormones and possible autoimmune conditions, with regular check-ups with their own doctor described as the most important step.</p><p><img src="/img/Dr-Georgiana-L-ghejja-FEATURED.jpg" alt="Doctor explains persistent cough" /></p><p><em>Sources: Newsbook</em></p>]]></content:encoded>
-    <pubDate>Sun, 22 Nov 2026 08:30:00 +0100</pubDate>
-    <guid isPermaLink="false">df090126899e303f1fcaefd8c85fcaf5</guid>
-    <category>Infrastructure &amp; Transport</category>
-    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-22</source>
-    <media:content url="/img/Dr-Georgiana-L-ghejja-FEATURED.jpg" medium="image" />
-    <enclosure url="/img/Dr-Georgiana-L-ghejja-FEATURED.jpg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Survey: Labour leads Nationalist Party by 4.2 points after the Budget</title>
-    <link>https://newsbook.com.mt/il-labour-jerga-jiftah-vantagg-ta-4-2-punti-fuq-il-pn-wara-l-budget/</link>
-    <description>MaltaToday's first post-Budget poll shows Labour on 50% of the vote against 45.8% for the Nationalist Party, a 4.2 point lead, with other parties on 4.2%. Compared with October, Labour gained 1.8 points while the PN lost 2.2. Robert Abela remains the most trusted leader with 44.4%, ahead of Alex Borg on 36.2%, and the government performance barometer stands at 3.2 out of 5. The poll had 80.8% valid votes.</description>
-    <content:encoded><![CDATA[<p>MaltaToday&#x27;s first post-Budget poll shows Labour on 50% of the vote against 45.8% for the Nationalist Party, a 4.2 point lead, with other parties on 4.2%. Compared with October, Labour gained 1.8 points while the PN lost 2.2. Robert Abela remains the most trusted leader with 44.4%, ahead of Alex Borg on 36.2%, and the government performance barometer stands at 3.2 out of 5. The poll had 80.8% valid votes.</p><p><img src="/img/PL-PN.jpg" alt="Labour and Nationalist Party poll ratings" /></p><p><em>Sources: Newsbook, MaltaToday</em></p>]]></content:encoded>
-    <pubDate>Sun, 22 Nov 2026 08:24:00 +0100</pubDate>
-    <guid isPermaLink="false">413ace7845e3da9539d6e16ac718544c</guid>
-    <category>Politics</category>
-    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-22</source>
-    <media:content url="/img/PL-PN.jpg" medium="image" />
-    <enclosure url="/img/PL-PN.jpg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Fishermen reject Bengħajsa land reclamation plans, weighing protest and legal action</title>
-    <link>https://www.independent.com.mt/articles/2026-11-22/local-news/We-will-not-accept-compensation-Fishermen-reject-Benghajsa-land-reclamation-plans-6736294854</link>
-    <description>Għaqda Sajjieda Attivi president Jason Grixti said fishermen will not accept compensation or compromise over proposed land reclamation at the Bengħajsa shoal, and are prepared to consider protests and legal action. He said the association had not been consulted on the plans despite the reef's economic, social and ecological value, and that protected Posidonia seagrass meadows are at stake. The government has issued tender MIEA/02/2026 calling for a master plan for land reclamation on the shoal.</description>
-    <content:encoded><![CDATA[<p>Għaqda Sajjieda Attivi president Jason Grixti said fishermen will not accept compensation or compromise over proposed land reclamation at the Bengħajsa shoal, and are prepared to consider protests and legal action. He said the association had not been consulted on the plans despite the reef&#x27;s economic, social and ecological value, and that protected Posidonia seagrass meadows are at stake. The government has issued tender MIEA/02/2026 calling for a master plan for land reclamation on the shoal.</p><p><img src="/img/c650cabfd932.jpg" alt="Fishing grounds and sea reclamation" /></p><p><em>Sources: Malta Independent</em></p>]]></content:encoded>
-    <pubDate>Sun, 22 Nov 2026 07:30:00 +0100</pubDate>
-    <guid isPermaLink="false">622d8fc0b34a8d9426626f06dd8df269</guid>
-    <category>Politics</category>
-    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-22</source>
-    <media:content url="/img/c650cabfd932.jpg" medium="image" />
-    <enclosure url="/img/c650cabfd932.jpg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Who is Rodrick Grech, the man linked to a €153m fuel fraud scheme?</title>
-    <link>https://timesofmalta.com/article/rodrick-grech-man-linked-153m-fuel-fraud-scheme.1137480</link>
-    <description>The 45-year-old Maltese faces extradition to Spain as part of an investigation into an alleged criminal network suspected of laundering €153 million between 2021 and 2024 through a fuel fraud scheme. He denies wrongdoing and is fighting the extradition request. Documents indicate Grech has long been involved in international fuel trading, including plans to set up a company in the British Virgin Islands for a multimillion-euro clean petroleum business. His local company Six Seven Eight Limited faced a €852,000 tax bill demand from the tax commissioner in July.</description>
-    <content:encoded><![CDATA[<p>The 45-year-old Maltese faces extradition to Spain as part of an investigation into an alleged criminal network suspected of laundering €153 million between 2021 and 2024 through a fuel fraud scheme. He denies wrongdoing and is fighting the extradition request. Documents indicate Grech has long been involved in international fuel trading, including plans to set up a company in the British Virgin Islands for a multimillion-euro clean petroleum business. His local company Six Seven Eight Limited faced a €852,000 tax bill demand from the tax commissioner in July.</p><p><img src="/img/6e881743bd8837375f5f545ca1887fad026ac70f-1795284433-0ef72222-1200x630.jpg" alt="Fuel trading and petroleum business" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
-    <pubDate>Sun, 22 Nov 2026 06:40:00 +0100</pubDate>
-    <guid isPermaLink="false">2543e86bb39d5251ef3cc2f77ffa976f</guid>
-    <category>Politics</category>
-    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-22</source>
-    <media:content url="/img/6e881743bd8837375f5f545ca1887fad026ac70f-1795284433-0ef72222-1200x630.jpg" medium="image" />
-    <enclosure url="/img/6e881743bd8837375f5f545ca1887fad026ac70f-1795284433-0ef72222-1200x630.jpg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Judge and magistrate to face disciplinary proceedings over alleged ethical breaches</title>
-    <link>https://timesofmalta.com/article/judge-magistrate-face-disciplinary-action.1137482</link>
-    <description>Judge Wenzu Mintoff and Magistrate Donatella Frendo Dimech are to face disciplinary proceedings after separate reports by Judicial Standards Commissioner Toni Abela into alleged ethical breaches. The reports, submitted to the Chief Justice and the justice minister earlier this month, recommend action in both cases, with impeachment reportedly recommended in one. The Mintoff case stems from the five-page letter he sent to cabinet ministers in February after being passed over for chief justice. The Frendo Dimech case concerns a complaint filed in August alleging she tried to broker a meeting between Opposition Leader Alex Borg and a blogger. The files have been referred to the committee of judges and magistrates within the Commission for the Administration of Justice, which can cite, suspend or remove judicial members.</description>
-    <content:encoded><![CDATA[<p>Judge Wenzu Mintoff and Magistrate Donatella Frendo Dimech are to face disciplinary proceedings after separate reports by Judicial Standards Commissioner Toni Abela into alleged ethical breaches. The reports, submitted to the Chief Justice and the justice minister earlier this month, recommend action in both cases, with impeachment reportedly recommended in one. The Mintoff case stems from the five-page letter he sent to cabinet ministers in February after being passed over for chief justice. The Frendo Dimech case concerns a complaint filed in August alleging she tried to broker a meeting between Opposition Leader Alex Borg and a blogger. The files have been referred to the committee of judges and magistrates within the Commission for the Administration of Justice, which can cite, suspend or remove judicial members.</p><p><img src="/img/4df8c8b06795e8578574a0e683e239298a4aa320-1795287214-257d2e33-1200x630.jpg" alt="Judge and magistrate referred to disciplinary proceedings" /></p><p><em>Sources: Times of Malta, MaltaToday, Newsbook</em></p>]]></content:encoded>
-    <pubDate>Sun, 22 Nov 2026 06:30:00 +0100</pubDate>
-    <guid isPermaLink="false">f53bf4f2ed832d41cb05f3e751fc7a14</guid>
-    <category>Politics</category>
-    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-22</source>
-    <media:content url="/img/4df8c8b06795e8578574a0e683e239298a4aa320-1795287214-257d2e33-1200x630.jpg" medium="image" />
-    <enclosure url="/img/4df8c8b06795e8578574a0e683e239298a4aa320-1795287214-257d2e33-1200x630.jpg" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>Survey: public backs non-EU worker measures, rejects tourist eco tax rise</title>
-    <link>https://www.maltatoday.com.mt/news/data_and_surveys/145871/maltatoday_survey__strong_support_for_noneu_worker_measures_not_for_tourist_eco_tax</link>
-    <description>MaltaToday's November survey on Budget 2027 found 62% support withdrawing free public transport and childcare services from a substantial proportion of non-EU workers, against 23.9% who disagree, with support strongest among Labour voters. A relative majority, 48.1%, opposed the higher environmental contribution paid by tourists and locals in hotels or short-lets, while 37.4% agreed. The budget was rated 3.3 out of 5 for its effect on personal finances, 3.1 on the economy and 2.5 on social justice, with the finance minister rated 3.4.</description>
-    <content:encoded><![CDATA[<p>MaltaToday&#x27;s November survey on Budget 2027 found 62% support withdrawing free public transport and childcare services from a substantial proportion of non-EU workers, against 23.9% who disagree, with support strongest among Labour voters. A relative majority, 48.1%, opposed the higher environmental contribution paid by tourists and locals in hotels or short-lets, while 37.4% agreed. The budget was rated 3.3 out of 5 for its effect on personal finances, 3.1 on the economy and 2.5 on social justice, with the finance minister rated 3.4.</p><p><img src="/img/2027_budget_survey.png" alt="MaltaToday survey chart on Budget 2027" /></p><p><em>Sources: MaltaToday</em></p>]]></content:encoded>
-    <pubDate>Sun, 22 Nov 2026 06:10:00 +0100</pubDate>
-    <guid isPermaLink="false">68b34e8358302b78e9b7245213156aa0</guid>
-    <category>Politics</category>
-    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-22</source>
-    <media:content url="/img/2027_budget_survey.png" medium="image" />
-    <enclosure url="/img/2027_budget_survey.png" length="0" type="image/jpeg" />
-  </item>
-  <item>
-    <title>MaltaToday survey: Budget bounce puts Labour four points ahead</title>
-    <link>https://www.maltatoday.com.mt/news/data_and_surveys/145869/maltatoday_survey__budget_bounce_pushes_labour_four_points_ahead</link>
-    <description>A MaltaToday survey carried out after the budget found the Labour Party leading the Nationalist Party by 4.2 points, with 50% of the vote against 45.8%. The poll, run on 847 respondents between 4 and 19 November with a margin of error of ±3.4 points, puts Robert Abela's trust rating at 44.4% versus 36.2% for Alex Borg, and rates government performance at 3.2 out of 5. Some 80.8% of respondents said they would vote in an election now, up from 76% in October.</description>
-    <content:encoded><![CDATA[<p>A MaltaToday survey carried out after the budget found the Labour Party leading the Nationalist Party by 4.2 points, with 50% of the vote against 45.8%. The poll, run on 847 respondents between 4 and 19 November with a margin of error of ±3.4 points, puts Robert Abela&#x27;s trust rating at 44.4% versus 36.2% for Alex Borg, and rates government performance at 3.2 out of 5. Some 80.8% of respondents said they would vote in an election now, up from 76% in October.</p><p><img src="/img/mt_survey_26:27.png" alt="MaltaToday survey chart" /></p><p><em>Sources: MaltaToday</em></p>]]></content:encoded>
-    <pubDate>Sun, 22 Nov 2026 06:00:00 +0100</pubDate>
-    <guid isPermaLink="false">264f1c7d23186652814446ef5124d56c</guid>
-    <category>Politics</category>
-    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-22</source>
-    <media:content url="/img/mt_survey_26:27.png" medium="image" />
-    <enclosure url="/img/mt_survey_26:27.png" length="0" type="image/jpeg" />
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-23</source>
+    <media:content url="/img/benelli_double-barrelled_shotgun_%5Bphoto_milos_jevtic_pexels%5D.jpg" medium="image" />
+    <enclosure url="/img/benelli_double-barrelled_shotgun_%5Bphoto_milos_jevtic_pexels%5D.jpg" length="0" type="image/jpeg" />
   </item>
 </channel>
 </rss>
