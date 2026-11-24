@@ -9,8 +9,8 @@
   <link>https://maltanews.pages.dev/</link>
   <description>Daily Malta news digest, automated. Curated from local Maltese news sources.</description>
   <language>en-mt</language>
-  <lastBuildDate>Tue, 24 Nov 2026 06:32:25 +0100</lastBuildDate>
-  <pubDate>Tue, 24 Nov 2026 12:00:00 +0100</pubDate>
+  <lastBuildDate>Tue, 24 Nov 2026 13:30:55 +0100</lastBuildDate>
+  <pubDate>Tue, 24 Nov 2026 13:05:00 +0100</pubDate>
   <generator>Hermes Malta News pipeline v3 + RSS</generator>
   <managingEditor>dejjem@gmail.com (Mark Micallef)</managingEditor>
   <atom:link href="https://maltanews.pages.dev/feed.xml" rel="self" type="application/rss+xml" />
@@ -19,6 +19,54 @@
     <title>Malta News Today</title>
     <link>https://maltanews.pages.dev/</link>
   </image>
+  <item>
+    <title>Registered full-time employment up 5% in 12 months, NSO says</title>
+    <link>https://www.independent.com.mt/articles/2026-11-24/local-news/Registered-full-time-employment-up-5-in-12-months-NSO-6736294932</link>
+    <description>Registered full-time employment reached 312,504 people in June 2026, up 5.0% year on year, according to the National Statistics Office. Private-sector full-time jobs rose 5.4% while public-sector employment grew 3.6%, and part-time primary jobs increased 7.2% to 38,250, with transport and storage and accommodation and food services leading job creation.</description>
+    <content:encoded><![CDATA[<p>Registered full-time employment reached 312,504 people in June 2026, up 5.0% year on year, according to the National Statistics Office. Private-sector full-time jobs rose 5.4% while public-sector employment grew 3.6%, and part-time primary jobs increased 7.2% to 38,250, with transport and storage and accommodation and food services leading job creation.</p><p><img src="/img/93cd3886be71.jpg" alt="National Statistics Office employment figures" /></p><p><em>Sources: Malta Independent</em></p>]]></content:encoded>
+    <pubDate>Tue, 24 Nov 2026 13:05:00 +0100</pubDate>
+    <guid isPermaLink="false">2a569496ace067caf80f29084b4a0e13</guid>
+    <category>Infrastructure &amp; Transport</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-24</source>
+    <media:content url="/img/93cd3886be71.jpg" medium="image" />
+    <enclosure url="/img/93cd3886be71.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Central Bank says Malta's financial system remains resilient</title>
+    <link>https://www.maltatoday.com.mt/business/business_news/145923/maltas_financial_system_remains_resilient__central_bank</link>
+    <description>The Central Bank's interim financial stability report assesses the first half of 2026, finding the Maltese economy performing strongly on robust domestic demand, favourable labour market conditions and tourism. It flagged inflation upside risks, rising operating costs and the concentration of bank lending in property as structural vulnerabilities, while noting non-performing loans declined and stress tests supported the sector's resilience.</description>
+    <content:encoded><![CDATA[<p>The Central Bank&#x27;s interim financial stability report assesses the first half of 2026, finding the Maltese economy performing strongly on robust domestic demand, favourable labour market conditions and tourism. It flagged inflation upside risks, rising operating costs and the concentration of bank lending in property as structural vulnerabilities, while noting non-performing loans declined and stress tests supported the sector&#x27;s resilience.</p><p><img src="/img/2_housing_box.jpg" alt="Central Bank of Malta financial stability report" /></p><p><em>Sources: Malta Today</em></p>]]></content:encoded>
+    <pubDate>Tue, 24 Nov 2026 12:57:00 +0100</pubDate>
+    <guid isPermaLink="false">4875a5a9b9ec059b0252c78bb67aeed3</guid>
+    <category>Politics</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-24</source>
+    <media:content url="/img/2_housing_box.jpg" medium="image" />
+    <enclosure url="/img/2_housing_box.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Ex-inspector told police of irregularities in imported-car inspections before odometer scandal</title>
+    <link>https://timesofmalta.com/article/officer-says-flagged-irregularities-car-inspections-meter-scandal.1137583</link>
+    <description>A former police inspector told the court he flagged irregularities in the way cars imported from Japan were inspected, with vehicle-release stamps appearing on paperwork before cars had been inspected. Testifying in the case against two car dealerships accused of tampering with odometer readings on more than 400 imported Japanese cars, he said his 2020 report on the matter reached Police Commissioner Angelo Gafà and that Transport Malta initially resisted taking over the inspections. He said no Transport Malta official was ever charged over the kilometreage-fraud scandal.</description>
+    <content:encoded><![CDATA[<p>A former police inspector told the court he flagged irregularities in the way cars imported from Japan were inspected, with vehicle-release stamps appearing on paperwork before cars had been inspected. Testifying in the case against two car dealerships accused of tampering with odometer readings on more than 400 imported Japanese cars, he said his 2020 report on the matter reached Police Commissioner Angelo Gafà and that Transport Malta initially resisted taking over the inspections. He said no Transport Malta official was ever charged over the kilometreage-fraud scandal.</p><p><img src="/img/9559a35c924cabca0777cfc83da60157bd0a7985-1795519998-bb760850-1200x630.jpg" alt="Former police inspector testifies in the odometer tampering trial" /></p><p><em>Sources: Times of Malta, Newsbook</em></p>]]></content:encoded>
+    <pubDate>Tue, 24 Nov 2026 12:30:00 +0100</pubDate>
+    <guid isPermaLink="false">3b3b00588eec27daa733ec60329f4504</guid>
+    <category>Politics</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-24</source>
+    <media:content url="/img/9559a35c924cabca0777cfc83da60157bd0a7985-1795519998-bb760850-1200x630.jpg" medium="image" />
+    <enclosure url="/img/9559a35c924cabca0777cfc83da60157bd0a7985-1795519998-bb760850-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>MCCAA and OHSA sign agreement on workplace product safety</title>
+    <link>https://lovinmalta.com/news/mccaa-and-ohsa-team-up-to-strengthen-workplace-product-safety/</link>
+    <description>The Malta Competition and Consumer Affairs Authority and the Occupational Health and Safety Authority have signed a memorandum of understanding to work more closely on product safety in workplaces. OHSA officers will report suspect equipment, machinery and passenger lifts to the MCCAA, which will in return provide technical support and coordinate training.</description>
+    <content:encoded><![CDATA[<p>The Malta Competition and Consumer Affairs Authority and the Occupational Health and Safety Authority have signed a memorandum of understanding to work more closely on product safety in workplaces. OHSA officers will report suspect equipment, machinery and passenger lifts to the MCCAA, which will in return provide technical support and coordinate training.</p><p><img src="/img/FB-COVER-CHAR-6-2-1024x536.jpg" alt="MCCAA and OHSA agreement on workplace product safety" /></p><p><em>Sources: Lovin Malta</em></p>]]></content:encoded>
+    <pubDate>Tue, 24 Nov 2026 12:25:00 +0100</pubDate>
+    <guid isPermaLink="false">cf8a73776b9d46f22d12793cbaae3d78</guid>
+    <category>Infrastructure &amp; Transport</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-24</source>
+    <media:content url="/img/FB-COVER-CHAR-6-2-1024x536.jpg" medium="image" />
+    <enclosure url="/img/FB-COVER-CHAR-6-2-1024x536.jpg" length="0" type="image/jpeg" />
+  </item>
   <item>
     <title>Abela defends Malta's economic model as Nationalist Party attacks population projections</title>
     <link>https://timesofmalta.com/article/borg-questions-abelacaruana-rift-90000-population-report.1137562</link>
@@ -210,6 +258,114 @@
     <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-24</source>
     <media:content url="/img/e6909ffad655.png" medium="image" />
     <enclosure url="/img/e6909ffad655.png" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>13 projects funded in Esplora's Young Researchers' Grant 2026</title>
+    <link>https://lovinmalta.com/news/13-projects-awarded-funding-through-esploras-young-researchers-grant-2026/</link>
+    <description>Esplora Interactive Science Centre, part of Xjenza Malta, awarded funding to 13 projects benefiting 17 young researchers under its newly launched grant. Participants aged 13 to 21 in two categories receive up to €700 each, with mentors allocated grants of up to €1,000, and projects running for up to 12 months.</description>
+    <content:encoded><![CDATA[<p>Esplora Interactive Science Centre, part of Xjenza Malta, awarded funding to 13 projects benefiting 17 young researchers under its newly launched grant. Participants aged 13 to 21 in two categories receive up to €700 each, with mentors allocated grants of up to €1,000, and projects running for up to 12 months.</p><p><img src="/img/5M9A2363-1024x621.jpg" alt="Esplora Young Researchers Grant award event" /></p><p><em>Sources: Lovin Malta</em></p>]]></content:encoded>
+    <pubDate>Tue, 24 Nov 2026 11:45:00 +0100</pubDate>
+    <guid isPermaLink="false">6b7079068d99a71702cf238db24449ae</guid>
+    <category>General</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-24</source>
+    <media:content url="/img/5M9A2363-1024x621.jpg" medium="image" />
+    <enclosure url="/img/5M9A2363-1024x621.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Repeat offender jailed 135 days, faces deportation after driving stolen car</title>
+    <link>https://timesofmalta.com/article/repeat-offender-jailed-faces-deportation-driving-stolen-car.1137575</link>
+    <description>A 21-year-old man was jailed for 135 days after stealing a vehicle and driving it in Ħal Qormi without a licence or insurance. The court noted his earlier conviction for the same type of offence and that he is in Malta illegally, with the prosecution insisting on an effective prison term. The case was heard at the law courts this week.</description>
+    <content:encoded><![CDATA[<p>A 21-year-old man was jailed for 135 days after stealing a vehicle and driving it in Ħal Qormi without a licence or insurance. The court noted his earlier conviction for the same type of offence and that he is in Malta illegally, with the prosecution insisting on an effective prison term. The case was heard at the law courts this week.</p><p><img src="/img/d808c5241dda6bfc4542d2a25bedc74d4726466f-1795515821-3c123bab-1200x630.jpg" alt="Repeat offender jailed for driving stolen vehicle" /></p><p><em>Sources: Times of Malta, Malta Independent, Malta Today</em></p>]]></content:encoded>
+    <pubDate>Tue, 24 Nov 2026 11:30:00 +0100</pubDate>
+    <guid isPermaLink="false">69442ac598eb09e4f30f2aed4b9942ce</guid>
+    <category>Courts &amp; Crime</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-24</source>
+    <media:content url="/img/d808c5241dda6bfc4542d2a25bedc74d4726466f-1795515821-3c123bab-1200x630.jpg" medium="image" />
+    <enclosure url="/img/d808c5241dda6bfc4542d2a25bedc74d4726466f-1795515821-3c123bab-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Pickpocketing reports fall nationally but rise sharply in Valletta</title>
+    <link>https://lovinmalta.com/news/local/pickpocketing-cases-drop-across-malta-but-valletta-sees-sharp-rise-in-reports/</link>
+    <description>Figures tabled in Parliament show 302 pickpocketing cases were reported across Malta and Gozo between January and October 2026, with St Julian's recording the most at 109. St Julian's has fallen sharply from 475 cases in 2024 and 169 in 2025, while Valletta is moving the opposite way with 70 reports so far this year, ahead of Sliema on 26.</description>
+    <content:encoded><![CDATA[<p>Figures tabled in Parliament show 302 pickpocketing cases were reported across Malta and Gozo between January and October 2026, with St Julian&#x27;s recording the most at 109. St Julian&#x27;s has fallen sharply from 475 cases in 2024 and 169 in 2025, while Valletta is moving the opposite way with 70 reports so far this year, ahead of Sliema on 26.</p><p><img src="/img/Dylan-Covers-3-12-1-1024x536.jpg" alt="Pickpocketing statistics across Malta" /></p><p><em>Sources: Lovin Malta</em></p>]]></content:encoded>
+    <pubDate>Tue, 24 Nov 2026 11:25:00 +0100</pubDate>
+    <guid isPermaLink="false">069bebb010da5845d5052237e13ee730</guid>
+    <category>Politics</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-24</source>
+    <media:content url="/img/Dylan-Covers-3-12-1-1024x536.jpg" medium="image" />
+    <enclosure url="/img/Dylan-Covers-3-12-1-1024x536.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Maltese production among the winners at the Golden Knight film festival</title>
+    <link>https://newsbook.com.mt/produzzjoni-maltija-fost-ir-rebbieha-tal-golden-knight/</link>
+    <description>Fabrizio Fenech's Unur, Fama u Glorja was among the winners at the 64th edition of the Golden Knight Malta International Film Festival, with actor Peter Galea taking the best actor award for his role. The film also won best editing at the Lift-Off Berlin Film Festival, was selected for the Stockholm Film Festival, and reached the Venice short film semifinals.</description>
+    <content:encoded><![CDATA[<p>Fabrizio Fenech&#x27;s Unur, Fama u Glorja was among the winners at the 64th edition of the Golden Knight Malta International Film Festival, with actor Peter Galea taking the best actor award for his role. The film also won best editing at the Lift-Off Berlin Film Festival, was selected for the Stockholm Film Festival, and reached the Venice short film semifinals.</p><p><img src="/img/FAME.jpg" alt="Maltese film Unur, Fama u Glorja" /></p><p><em>Sources: Newsbook</em></p>]]></content:encoded>
+    <pubDate>Tue, 24 Nov 2026 11:24:00 +0100</pubDate>
+    <guid isPermaLink="false">b09c2c3f8d9c5fb7ba9ce5b58d8bb6c7</guid>
+    <category>General</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-24</source>
+    <media:content url="/img/FAME.jpg" medium="image" />
+    <enclosure url="/img/FAME.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Speaker Abela reaffirms Malta's commitment to strengthening ties with China</title>
+    <link>https://timesofmalta.com/article/malta-reaffirms-commitment-strengthening-relations-china.1137570</link>
+    <description>Speaker of the House Carmelo Abela reaffirmed Malta's commitment to its relationship with China during a meeting with Peng Qinghua, vice-chairperson of the standing committee of China's National People's Congress. The two discussed bilateral relations covering politics, trade, investment, maritime and air connectivity, education, culture and research, with Abela saying the relationship is built on trust, mutual respect and ongoing dialogue. The meeting was part of continuing parliamentary diplomacy, and a Chinese delegation was also received at Parliament.</description>
+    <content:encoded><![CDATA[<p>Speaker of the House Carmelo Abela reaffirmed Malta&#x27;s commitment to its relationship with China during a meeting with Peng Qinghua, vice-chairperson of the standing committee of China&#x27;s National People&#x27;s Congress. The two discussed bilateral relations covering politics, trade, investment, maritime and air connectivity, education, culture and research, with Abela saying the relationship is built on trust, mutual respect and ongoing dialogue. The meeting was part of continuing parliamentary diplomacy, and a Chinese delegation was also received at Parliament.</p><p><img src="/img/cc05b503e03d5568c36308d4314b467a4a85c3ad-1795513708-b86fbc24-1200x630.png" alt="Speaker Carmelo Abela meeting Chinese official Peng Qinghua" /></p><p><em>Sources: Times of Malta, Malta Today, Lovin Malta</em></p>]]></content:encoded>
+    <pubDate>Tue, 24 Nov 2026 11:10:00 +0100</pubDate>
+    <guid isPermaLink="false">14dc08935a110b6c14eceeff2b52f0ed</guid>
+    <category>Politics</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-24</source>
+    <media:content url="/img/cc05b503e03d5568c36308d4314b467a4a85c3ad-1795513708-b86fbc24-1200x630.png" medium="image" />
+    <enclosure url="/img/cc05b503e03d5568c36308d4314b467a4a85c3ad-1795513708-b86fbc24-1200x630.png" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Two jailed for two years after six-day dinghy crossing from Libya</title>
+    <link>https://timesofmalta.com/article/two-jailed-two-years-crossing-libya-malta-week.1137568</link>
+    <description>Two men who crossed from Libya to Malta in a dinghy were jailed for two years for illegal entry and for helping another to disembark illegally. The court heard that the three men, among them a 29-year-old Syrian and a 37-year-old Libyan, were caught at Wied iż-Żurrieq after a six-day journey in choppy seas, and that two kittens were found on the boat.</description>
+    <content:encoded><![CDATA[<p>Two men who crossed from Libya to Malta in a dinghy were jailed for two years for illegal entry and for helping another to disembark illegally. The court heard that the three men, among them a 29-year-old Syrian and a 37-year-old Libyan, were caught at Wied iż-Żurrieq after a six-day journey in choppy seas, and that two kittens were found on the boat.</p><p><img src="/img/10b8ac8bdbbd6ccd90cd6aa51421fb9513ec77ed-1795512111-c6b61b8f-1200x630.png" alt="Men who crossed from Libya by dinghy" /></p><p><em>Sources: Times of Malta, Malta Independent, Malta Today, Lovin Malta</em></p>]]></content:encoded>
+    <pubDate>Tue, 24 Nov 2026 10:22:00 +0100</pubDate>
+    <guid isPermaLink="false">73f58f0e2e82b5297fbca892d3ef77b7</guid>
+    <category>Courts &amp; Crime</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-24</source>
+    <media:content url="/img/10b8ac8bdbbd6ccd90cd6aa51421fb9513ec77ed-1795512111-c6b61b8f-1200x630.png" medium="image" />
+    <enclosure url="/img/10b8ac8bdbbd6ccd90cd6aa51421fb9513ec77ed-1795512111-c6b61b8f-1200x630.png" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Momentum urges objections to seven-storey elderly home in Mosta</title>
+    <link>https://timesofmalta.com/article/momentum-urges-objections-sevenstorey-elderly-care-home-mosta.1137566</link>
+    <description>Momentum is urging residents to object to a proposed seven-storey elderly care home overlooking Wied l-Isperanza in Mosta, warning that the 117-room, 200-plus bed project would dominate the valley. The party said it first objected on 27 August and that the representation window closes on 11 December.</description>
+    <content:encoded><![CDATA[<p>Momentum is urging residents to object to a proposed seven-storey elderly care home overlooking Wied l-Isperanza in Mosta, warning that the 117-room, 200-plus bed project would dominate the valley. The party said it first objected on 27 August and that the representation window closes on 11 December.</p><p><img src="/img/732b6276b43fec733d2f67baecec031b07577092-1795511272-fd126e71-1200x630.png" alt="Proposed seven-storey elderly care home site in Mosta" /></p><p><em>Sources: Times of Malta, Malta Independent, Malta Today</em></p>]]></content:encoded>
+    <pubDate>Tue, 24 Nov 2026 10:00:00 +0100</pubDate>
+    <guid isPermaLink="false">ca8a0cf819b64f42b8deddd8dcd4b812</guid>
+    <category>General</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-24</source>
+    <media:content url="/img/732b6276b43fec733d2f67baecec031b07577092-1795511272-fd126e71-1200x630.png" medium="image" />
+    <enclosure url="/img/732b6276b43fec733d2f67baecec031b07577092-1795511272-fd126e71-1200x630.png" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Two Pembroke public plots to become recreation area and dog park</title>
+    <link>https://www.independent.com.mt/articles/2026-11-24/local-news/Two-Pembroke-sites-to-be-transformed-into-recreation-area-and-dog-park-under-Lands-Authority-deal-6736294924</link>
+    <description>Two plots of public land spanning more than 13,500 square metres in Pembroke are being devolved to the local council under an agreement signed with the Lands Authority, for a recreation zone and a dog park. Ministers Owen Bonnici and Alison Zerafa Civelli signed the deal, and Pembroke Mayor Kaylon Zammit said the council will deliver a dedicated dog park and an equipped barbecue area.</description>
+    <content:encoded><![CDATA[<p>Two plots of public land spanning more than 13,500 square metres in Pembroke are being devolved to the local council under an agreement signed with the Lands Authority, for a recreation zone and a dog park. Ministers Owen Bonnici and Alison Zerafa Civelli signed the deal, and Pembroke Mayor Kaylon Zammit said the council will deliver a dedicated dog park and an equipped barbecue area.</p><p><img src="/img/032f69910987.jpg" alt="Pembroke public land devolution agreement" /></p><p><em>Sources: Malta Independent</em></p>]]></content:encoded>
+    <pubDate>Tue, 24 Nov 2026 09:06:00 +0100</pubDate>
+    <guid isPermaLink="false">b0863954f10fce46822516789814dc5e</guid>
+    <category>Politics</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-24</source>
+    <media:content url="/img/032f69910987.jpg" medium="image" />
+    <enclosure url="/img/032f69910987.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Planning Authority takes enforcement action over illegal restaurant in Floriana public garden</title>
+    <link>https://newsbook.com.mt/minn-kjosk-ghal-ristorant-illegali-fi-gnien-pubbliku-fil-furjana/</link>
+    <description>The Planning Authority began enforcement action after a small kiosk in the King George V public garden in Floriana was converted without permission into a restaurant with a large structure dominating the garden. The Floriana Local Council, which is responsible for the garden, has been named one of three contravenors in enforcement case EC/137/26, alongside the restaurant's owner and the Heritage Authority, with daily fines already being imposed.</description>
+    <content:encoded><![CDATA[<p>The Planning Authority began enforcement action after a small kiosk in the King George V public garden in Floriana was converted without permission into a restaurant with a large structure dominating the garden. The Floriana Local Council, which is responsible for the garden, has been named one of three contravenors in enforcement case EC/137/26, alongside the restaurant&#x27;s owner and the Heritage Authority, with daily fines already being imposed.</p><p><img src="/img/King-George-V-Cafe-Bistro-Floriana_2-scaled.jpg" alt="Illegal restaurant structure in King George V garden in Floriana" /></p><p><em>Sources: Newsbook</em></p>]]></content:encoded>
+    <pubDate>Tue, 24 Nov 2026 08:22:00 +0100</pubDate>
+    <guid isPermaLink="false">4751a8d75a66e80e6382ab186ddbb9b9</guid>
+    <category>General</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-24</source>
+    <media:content url="/img/King-George-V-Cafe-Bistro-Floriana_2-scaled.jpg" medium="image" />
+    <enclosure url="/img/King-George-V-Cafe-Bistro-Floriana_2-scaled.jpg" length="0" type="image/jpeg" />
   </item>
 </channel>
 </rss>
