@@ -9,7 +9,7 @@
   <link>https://maltanews.pages.dev/</link>
   <description>Daily Malta news digest, automated. Curated from local Maltese news sources.</description>
   <language>en-mt</language>
-  <lastBuildDate>Wed, 25 Nov 2026 16:30:57 +0100</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 16:34:13 +0100</lastBuildDate>
   <pubDate>Wed, 25 Nov 2026 15:49:00 +0100</pubDate>
   <generator>Hermes Malta News pipeline v3 + RSS</generator>
   <managingEditor>dejjem@gmail.com (Mark Micallef)</managingEditor>
@@ -95,7 +95,7 @@
     <title>Nine in ten students use AI weekly, many feel unprepared</title>
     <link>https://timesofmalta.com/article/nine-10-students-use-ai-feel-unprepared-future-job-market.1137646</link>
     <description>Two Malta Further and Higher Education Authority surveys found 91.5% of students use artificial intelligence weekly for learning, study and research, yet half say they feel unprepared to use it well. The reports, drawn from March and May, say AI adoption is outpacing institutional preparedness, identifying gaps in training, academic integrity and institutional policy.</description>
-    <content:encoded><![CDATA[<p>Two Malta Further and Higher Education Authority surveys found 91.5% of students use artificial intelligence weekly for learning, study and research, yet half say they feel unprepared to use it well. The reports, drawn from March and May, say AI adoption is outpacing institutional preparedness, identifying gaps in training, academic integrity and institutional policy.</p><p><img src="/img/ed46ba828a39473ef7020aa7fe3fbbea4d2d6f48-1795608987-3b9ea923-1200x630.jpg" alt="Students using AI in their studies" /></p><p><em>Sources: Times of Malta, Malta Independent, Newsbook</em></p>]]></content:encoded>
+    <content:encoded><![CDATA[<p>Two Malta Further and Higher Education Authority surveys found 91.5% of students use artificial intelligence weekly for learning, study and research, yet half say they feel unprepared to use it well. The reports, drawn from March and May, say AI adoption is outpacing institutional preparedness, identifying gaps in training, academic integrity and institutional policy.</p><p><img src="/img/ed46ba828a39473ef7020aa7fe3fbbea4d2d6f48-1795608987-3b9ea923-1200x630.jpg" alt="Students using AI in their studies" /></p><p><em>Sources: Times of Malta, Newsbook</em></p>]]></content:encoded>
     <pubDate>Wed, 25 Nov 2026 13:36:00 +0100</pubDate>
     <guid isPermaLink="false">60e2609043cf14056300ba14f8677e64</guid>
     <category>Infrastructure &amp; Transport</category>
@@ -119,7 +119,7 @@
     <title>EU medicines rules approved to widen Malta's supplier base</title>
     <link>https://timesofmalta.com/article/eu-approves-new-rules-improve-access-medicines-malta.1137643</link>
     <description>The European Parliament approved sweeping reforms to EU pharmaceutical legislation that will let Malta source medicines from a broader range of European suppliers. From 2028, small states will be able to require companies to supply specific medicines locally, with three years to comply or risk losing market exclusivity in Malta. Amendments proposed by MEP Peter Agius also aim to ease recurring shortages and, by increasing competition, potentially lower prices.</description>
-    <content:encoded><![CDATA[<p>The European Parliament approved sweeping reforms to EU pharmaceutical legislation that will let Malta source medicines from a broader range of European suppliers. From 2028, small states will be able to require companies to supply specific medicines locally, with three years to comply or risk losing market exclusivity in Malta. Amendments proposed by MEP Peter Agius also aim to ease recurring shortages and, by increasing competition, potentially lower prices.</p><p><img src="/img/8219fed5e3820d9c9f9ae7a5fa97e6987baa7d5b-1795608343-48cd2ee2-1200x630.png" alt="EU medicines legislation" /></p><p><em>Sources: Times of Malta, Malta Independent, Newsbook, Lovin Malta</em></p>]]></content:encoded>
+    <content:encoded><![CDATA[<p>The European Parliament approved sweeping reforms to EU pharmaceutical legislation that will let Malta source medicines from a broader range of European suppliers. From 2028, small states will be able to require companies to supply specific medicines locally, with three years to comply or risk losing market exclusivity in Malta. Amendments proposed by MEP Peter Agius also aim to ease recurring shortages and, by increasing competition, potentially lower prices.</p><p><img src="/img/8219fed5e3820d9c9f9ae7a5fa97e6987baa7d5b-1795608343-48cd2ee2-1200x630.png" alt="EU medicines legislation" /></p><p><em>Sources: Times of Malta, Newsbook, Lovin Malta</em></p>]]></content:encoded>
     <pubDate>Wed, 25 Nov 2026 13:05:00 +0100</pubDate>
     <guid isPermaLink="false">21a30b2d164c50cae564e43c12112882</guid>
     <category>Politics</category>
@@ -374,6 +374,18 @@
     <content:encoded><![CDATA[<p>BirdLife Malta called on the government to withdraw the country&#x27;s finch trapping derogation after the European Commission issued a second warning that the practice does not meet the requirements of genuine scientific research. The Commission gave Malta two months to address the issues before considering further legal action.</p><p><img src="/img/7fefa87c6464.jpg" alt="Finch trapping" /></p><p><em>Sources: Malta Independent, Newsbook</em></p>]]></content:encoded>
     <pubDate>Wed, 25 Nov 2026 10:21:00 +0100</pubDate>
     <guid isPermaLink="false">0e82e0859463d14059f3627f6dad6ec8</guid>
+    <category>Politics</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-25</source>
+    <media:content url="/img/7fefa87c6464.jpg" medium="image" />
+    <enclosure url="/img/7fefa87c6464.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>BirdLife urges end to finch trapping after EU warning</title>
+    <link>https://newsbook.com.mt/birdlife-tilqa-t-tieni-twissija-tal-ke-kontra-d-deroga-falza-ta-malta/</link>
+    <description>BirdLife Malta called on the government to withdraw the country's finch trapping derogation after the European Commission issued a second warning that the practice does not meet the requirements of genuine scientific research. The Commission gave Malta two months to address the issues before considering further legal action.</description>
+    <content:encoded><![CDATA[<p>BirdLife Malta called on the government to withdraw the country&#x27;s finch trapping derogation after the European Commission issued a second warning that the practice does not meet the requirements of genuine scientific research. The Commission gave Malta two months to address the issues before considering further legal action.</p><p><img src="/img/7fefa87c6464.jpg" alt="Finch trapping" /></p><p><em>Sources: Newsbook</em></p>]]></content:encoded>
+    <pubDate>Wed, 25 Nov 2026 10:21:00 +0100</pubDate>
+    <guid isPermaLink="false">a066930cea2849aec94defb47ec7bc59</guid>
     <category>Politics</category>
     <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-25</source>
     <media:content url="/img/7fefa87c6464.jpg" medium="image" />
