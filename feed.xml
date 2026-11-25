@@ -9,8 +9,8 @@
   <link>https://maltanews.pages.dev/</link>
   <description>Daily Malta news digest, automated. Curated from local Maltese news sources.</description>
   <language>en-mt</language>
-  <lastBuildDate>Wed, 25 Nov 2026 06:33:52 +0100</lastBuildDate>
-  <pubDate>Wed, 25 Nov 2026 12:00:00 +0100</pubDate>
+  <lastBuildDate>Wed, 25 Nov 2026 13:31:03 +0100</lastBuildDate>
+  <pubDate>Wed, 25 Nov 2026 12:42:00 +0100</pubDate>
   <generator>Hermes Malta News pipeline v3 + RSS</generator>
   <managingEditor>dejjem@gmail.com (Mark Micallef)</managingEditor>
   <atom:link href="https://maltanews.pages.dev/feed.xml" rel="self" type="application/rss+xml" />
@@ -19,6 +19,42 @@
     <title>Malta News Today</title>
     <link>https://maltanews.pages.dev/</link>
   </image>
+  <item>
+    <title>Maltas business community grew by around 4,000 companies last year</title>
+    <link>https://thebusinesspicture.com/2026/11/25/maltas-business-community-grew-by-around-4000-companies-last-year/</link>
+    <description>Malta had just over 65,700 active businesses last year, up from just under 61,800 a year earlier, according to provisional National Statistics Office figures published on Wednesday. Those businesses accounted for almost 290,000 jobs, an increase of around 5% on the previous year. Transport and storage, financial and insurance businesses registered the strongest proportional growth at around 12%, while 94% of active enterprises still employed fewer than 10 people each.</description>
+    <content:encoded><![CDATA[<p>Malta had just over 65,700 active businesses last year, up from just under 61,800 a year earlier, according to provisional National Statistics Office figures published on Wednesday. Those businesses accounted for almost 290,000 jobs, an increase of around 5% on the previous year. Transport and storage, financial and insurance businesses registered the strongest proportional growth at around 12%, while 94% of active enterprises still employed fewer than 10 people each.</p><p><img src="/img/cZQsDHcgSGruPfAk-e1795606598273.jpg" alt="Malta&#x27;s business community grew by around 4,000 companies last year" /></p><p><em>Sources: The Business Picture</em></p>]]></content:encoded>
+    <pubDate>Wed, 25 Nov 2026 12:42:00 +0100</pubDate>
+    <guid isPermaLink="false">2e27cf8ef8e4945966cd46472eac11ad</guid>
+    <category>Economy</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-25</source>
+    <media:content url="/img/cZQsDHcgSGruPfAk-e1795606598273.jpg" medium="image" />
+    <enclosure url="/img/cZQsDHcgSGruPfAk-e1795606598273.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Police Commissioner refers ex-inspector claims to complaints board</title>
+    <link>https://timesofmalta.com/article/police-commissioner-refers-inspector-claims-used-car-fraud-board.1137642</link>
+    <description>Police Commissioner Angelo Gafa has asked the Independent Police Complaints Board to examine claims by a former inspector that his 2020 report on tampered import paperwork for second-hand vehicles was ignored. Home Affairs Minister Glenn Bedingfield confirmed the referral on Wednesday. The former inspector, Jeffrey Scicluna Briffa, testified on Tuesday that documents authorising the release of imported vehicles were in some cases stamped before the required inspections were carried out. The allegations centre on an odometer-tampering racket involving Japanese-imported cars, first exposed in 2022, in which several police officers were charged and five were acquitted earlier this year.</description>
+    <content:encoded><![CDATA[<p>Police Commissioner Angelo Gafa has asked the Independent Police Complaints Board to examine claims by a former inspector that his 2020 report on tampered import paperwork for second-hand vehicles was ignored. Home Affairs Minister Glenn Bedingfield confirmed the referral on Wednesday. The former inspector, Jeffrey Scicluna Briffa, testified on Tuesday that documents authorising the release of imported vehicles were in some cases stamped before the required inspections were carried out. The allegations centre on an odometer-tampering racket involving Japanese-imported cars, first exposed in 2022, in which several police officers were charged and five were acquitted earlier this year.</p><p><img src="/img/74c31a1c614ad3fcb131294340be43f13454347d-1795606018-a8997994-1200x630.jpg" alt="Police Commissioner refers ex-inspector claims to complaints board" /></p><p><em>Sources: Times of Malta, Newsbook</em></p>]]></content:encoded>
+    <pubDate>Wed, 25 Nov 2026 12:20:00 +0100</pubDate>
+    <guid isPermaLink="false">f0e0e9eb426655b9d71b9e4f8ec600d7</guid>
+    <category>Politics</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-25</source>
+    <media:content url="/img/74c31a1c614ad3fcb131294340be43f13454347d-1795606018-a8997994-1200x630.jpg" medium="image" />
+    <enclosure url="/img/74c31a1c614ad3fcb131294340be43f13454347d-1795606018-a8997994-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>KSU criticises threat to withhold university exam results</title>
+    <link>https://lovinmalta.com/news/local/students-are-not-your-pawns-ksu-slams-threat-to-withhold-university-exam-results/</link>
+    <description>The University of Maltas student council said students must not be used as bargaining tools in the dispute over unpaid lecturer salaries. KSU said in a Facebook post on Wednesday that it was concerned examination results could be withheld, noting that assurances to the contrary were given last year. The move follows a directive from the University of Malta Academic Staff Association instructing academics not to publish results until guarantees are provided over outstanding payments under a new collective agreement. The dispute concerns salary arrears, with no guarantee the full amounts will be paid by 28 January 2027.</description>
+    <content:encoded><![CDATA[<p>The University of Maltas student council said students must not be used as bargaining tools in the dispute over unpaid lecturer salaries. KSU said in a Facebook post on Wednesday that it was concerned examination results could be withheld, noting that assurances to the contrary were given last year. The move follows a directive from the University of Malta Academic Staff Association instructing academics not to publish results until guarantees are provided over outstanding payments under a new collective agreement. The dispute concerns salary arrears, with no guarantee the full amounts will be paid by 28 January 2027.</p><p><img src="/img/Dylan-Covers-3-24-1024x536.jpg" alt="KSU criticises threat to withhold university exam results" /></p><p><em>Sources: Lovin Malta</em></p>]]></content:encoded>
+    <pubDate>Wed, 25 Nov 2026 12:05:00 +0100</pubDate>
+    <guid isPermaLink="false">c51d0ca0b9c5bd8606530d572a0ff76c</guid>
+    <category>Health &amp; Education</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-25</source>
+    <media:content url="/img/Dylan-Covers-3-24-1024x536.jpg" medium="image" />
+    <enclosure url="/img/Dylan-Covers-3-24-1024x536.jpg" length="0" type="image/jpeg" />
+  </item>
   <item>
     <title>European Commission warns Malta's budget risks breaching EU spending limits</title>
     <link>https://timesofmalta.com/article/european-commission-concerned-malta-government-spending-growth.1137614</link>
@@ -126,6 +162,102 @@
     <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-25</source>
     <media:content url="/img/FB-COVER-RIANA-4-4-1024x536.jpg" medium="image" />
     <enclosure url="/img/FB-COVER-RIANA-4-4-1024x536.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Nine in ten students use AI for study every week, survey finds</title>
+    <link>https://www.maltatoday.com.mt/news/national/145952/over_90_of_students_use_ai_weekly_in_coursework_survey_shows</link>
+    <description>More than nine in ten further and higher education students use artificial intelligence for learning, study or research in a typical week, but only around one in four say their curriculum covers AI topics relevant to their field. The findings come from two Malta Further and Higher Education Authority surveys run in March and April 2026, covering 1,306 students and 232 education providers. Some 56% of students said they do not feel sufficiently trained in AI for the future job market, with both educators and students calling for standardised national direction.</description>
+    <content:encoded><![CDATA[<p>More than nine in ten further and higher education students use artificial intelligence for learning, study or research in a typical week, but only around one in four say their curriculum covers AI topics relevant to their field. The findings come from two Malta Further and Higher Education Authority surveys run in March and April 2026, covering 1,306 students and 232 education providers. Some 56% of students said they do not feel sufficiently trained in AI for the future job market, with both educators and students calling for standardised national direction.</p><p><img src="/img/2_classroom_education_teacher_ethics.jpg" alt="Nine in ten students use AI for study every week, survey finds" /></p><p><em>Sources: MaltaToday</em></p>]]></content:encoded>
+    <pubDate>Wed, 25 Nov 2026 11:53:00 +0100</pubDate>
+    <guid isPermaLink="false">8df51c04f92205dc4c0240d04121f6cc</guid>
+    <category>Health &amp; Education</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-25</source>
+    <media:content url="/img/2_classroom_education_teacher_ethics.jpg" medium="image" />
+    <enclosure url="/img/2_classroom_education_teacher_ethics.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Call it what it is: national campaign launched for 16 days of activism against domestic violence</title>
+    <link>https://www.independent.com.mt/articles/2026-11-25/local-news/Call-it-what-it-is-National-campaign-launched-for-16-Days-of-activism-against-domestic-violence-6736294955</link>
+    <description>A national campaign under the theme Call it what it is was launched on Wednesday to mark the 16 Days of Activism against domestic violence. Social Policy and Family Minister Michael Falzon said prevention, awareness, access to justice and stronger support services are essential so victims feel safe seeking help. Equality and Civil Rights Minister Rosianne Cutajar said the campaign targets the root causes of gender-based violence, including harmful gender stereotypes, sexism and gender inequalities.</description>
+    <content:encoded><![CDATA[<p>A national campaign under the theme Call it what it is was launched on Wednesday to mark the 16 Days of Activism against domestic violence. Social Policy and Family Minister Michael Falzon said prevention, awareness, access to justice and stronger support services are essential so victims feel safe seeking help. Equality and Civil Rights Minister Rosianne Cutajar said the campaign targets the root causes of gender-based violence, including harmful gender stereotypes, sexism and gender inequalities.</p><p><img src="/img/0e0263ae3dda.jpg" alt="&#x27;Call it what it is&#x27;: national campaign launched for 16 days of activism against domestic violence" /></p><p><em>Sources: Malta Independent</em></p>]]></content:encoded>
+    <pubDate>Wed, 25 Nov 2026 11:46:00 +0100</pubDate>
+    <guid isPermaLink="false">0af8ccb99dc84da09ef4614a4d356734</guid>
+    <category>Politics</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-25</source>
+    <media:content url="/img/0e0263ae3dda.jpg" medium="image" />
+    <enclosure url="/img/0e0263ae3dda.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Robert Agius Tal-Maksar found with another mobile phone in prison cell</title>
+    <link>https://timesofmalta.com/article/maksar-brother-found-another-phone-prison-cell-second-time-month.1137629</link>
+    <description>Robert Agius, known as Ta Maksar, was the inmate found with a mobile phone during a Tuesday evening raid on his cell at the Corradino Correctional Facility, Times of Malta can confirm. It is the second time in just over a month that Agius has been caught with a phone, having been among three inmates found with phones last month. He is serving a life sentence for supplying the bomb that killed investigative journalist Daphne Caruana Galizia, and was being questioned by police on Wednesday morning. How the phones reached the prison remains unclear.</description>
+    <content:encoded><![CDATA[<p>Robert Agius, known as Ta Maksar, was the inmate found with a mobile phone during a Tuesday evening raid on his cell at the Corradino Correctional Facility, Times of Malta can confirm. It is the second time in just over a month that Agius has been caught with a phone, having been among three inmates found with phones last month. He is serving a life sentence for supplying the bomb that killed investigative journalist Daphne Caruana Galizia, and was being questioned by police on Wednesday morning. How the phones reached the prison remains unclear.</p><p><img src="/img/32023310bba01b7117984769c48ac56313dab5aa-1795602738-ff115fb9-1200x630.png" alt="Robert Agius &#x27;Tal-Maksar&#x27; found with another mobile phone in prison cell" /></p><p><em>Sources: Times of Malta, MaltaToday, Lovin Malta</em></p>]]></content:encoded>
+    <pubDate>Wed, 25 Nov 2026 11:40:00 +0100</pubDate>
+    <guid isPermaLink="false">dd802df3146e0af290a6dbe0918d5dea</guid>
+    <category>Courts &amp; Crime</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-25</source>
+    <media:content url="/img/32023310bba01b7117984769c48ac56313dab5aa-1795602738-ff115fb9-1200x630.png" medium="image" />
+    <enclosure url="/img/32023310bba01b7117984769c48ac56313dab5aa-1795602738-ff115fb9-1200x630.png" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Four HSBC Malta investment funds hit record highs</title>
+    <link>https://thebusinesspicture.com/2026/11/25/four-hsbc-malta-investment-funds-hit-record-highs/</link>
+    <description>Four funds managed by HSBC Global Asset Managements Malta team reached record unit prices this year, with two posting returns of 9% or more in the first ten months. The Equity Growth Fund returned 12.6% between January and October, reaching a record EUR 528, while the Maltese Assets Fund returned 9% to a record EUR 698. The Malta Bond Fund hit EUR 700 in August and the International Bond Fund EUR 485 in July. By end-October the team managed and distributed more than EUR 1 billion in assets, up 13.8% year on year.</description>
+    <content:encoded><![CDATA[<p>Four funds managed by HSBC Global Asset Managements Malta team reached record unit prices this year, with two posting returns of 9% or more in the first ten months. The Equity Growth Fund returned 12.6% between January and October, reaching a record EUR 528, while the Maltese Assets Fund returned 9% to a record EUR 698. The Malta Bond Fund hit EUR 700 in August and the International Bond Fund EUR 485 in July. By end-October the team managed and distributed more than EUR 1 billion in assets, up 13.8% year on year.</p><p><img src="/img/42hjLrOPhLvNOGmt-e1795600516283.jpg" alt="Four HSBC Malta investment funds hit record highs" /></p><p><em>Sources: The Business Picture</em></p>]]></content:encoded>
+    <pubDate>Wed, 25 Nov 2026 10:56:00 +0100</pubDate>
+    <guid isPermaLink="false">154ee77f8acef94d13e6d59cf587032d</guid>
+    <category>Economy</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-25</source>
+    <media:content url="/img/42hjLrOPhLvNOGmt-e1795600516283.jpg" medium="image" />
+    <enclosure url="/img/42hjLrOPhLvNOGmt-e1795600516283.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Court hears mother say Tristan B conned family out of daughters cremation fund</title>
+    <link>https://timesofmalta.com/article/tristan-b-fooled-us-vulnerable-moment-grieving-parents-tricked-55.1137630</link>
+    <description>A mother who lost her child in 2024 told a court on Wednesday that singer Tristan B took advantage of her familys vulnerability and convinced them to lend him EUR 5,500 from their daughters cremation fund. The testimony was given during the compilation of evidence against Emanuel Balzan, better known by his stage name, who is charged with defrauding eight individuals and forging the signatures of well-known Maltese singers and businesses to validate fictitious projects. The witness said she found the singer on Facebook after her daughters death and asked him to sing at a mass.</description>
+    <content:encoded><![CDATA[<p>A mother who lost her child in 2024 told a court on Wednesday that singer Tristan B took advantage of her familys vulnerability and convinced them to lend him EUR 5,500 from their daughters cremation fund. The testimony was given during the compilation of evidence against Emanuel Balzan, better known by his stage name, who is charged with defrauding eight individuals and forging the signatures of well-known Maltese singers and businesses to validate fictitious projects. The witness said she found the singer on Facebook after her daughters death and asked him to sing at a mass.</p><p><img src="/img/a0babb0e0dd3b15fac59ba8218c6e922fddfd8e3-1795602778-908adafd-1200x630.jpg" alt="Court hears mother say Tristan B conned family out of daughter&#x27;s cremation fund" /></p><p><em>Sources: Times of Malta, MaltaToday</em></p>]]></content:encoded>
+    <pubDate>Wed, 25 Nov 2026 10:55:00 +0100</pubDate>
+    <guid isPermaLink="false">d8e1caff2b25ad5e4afb1573731c9037</guid>
+    <category>Courts &amp; Crime</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-25</source>
+    <media:content url="/img/a0babb0e0dd3b15fac59ba8218c6e922fddfd8e3-1795602778-908adafd-1200x630.jpg" medium="image" />
+    <enclosure url="/img/a0babb0e0dd3b15fac59ba8218c6e922fddfd8e3-1795602778-908adafd-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>BirdLife calls for end to finch trapping after second EU warning</title>
+    <link>https://newsbook.com.mt/birdlife-tilqa-t-tieni-twissija-tal-ke-kontra-d-deroga-falza-ta-malta/</link>
+    <description>BirdLife Malta has called on the government to withdraw the finch trapping derogation after the European Commission issued a second warning over its continued authorisation under the guise of scientific research. In a reasoned opinion dated 19 November, the Commission said the derogation did not meet the requirements of genuine scientific research and allowed trapping for recreational purposes, and that Malta had not shown there were no satisfactory alternatives. The Commission has given Malta two months to address the issues before considering further legal action.</description>
+    <content:encoded><![CDATA[<p>BirdLife Malta has called on the government to withdraw the finch trapping derogation after the European Commission issued a second warning over its continued authorisation under the guise of scientific research. In a reasoned opinion dated 19 November, the Commission said the derogation did not meet the requirements of genuine scientific research and allowed trapping for recreational purposes, and that Malta had not shown there were no satisfactory alternatives. The Commission has given Malta two months to address the issues before considering further legal action.</p><p><img src="/img/Insib-trapping-birdlife.jpeg" alt="BirdLife calls for end to finch trapping after second EU warning" /></p><p><em>Sources: Newsbook</em></p>]]></content:encoded>
+    <pubDate>Wed, 25 Nov 2026 10:21:00 +0100</pubDate>
+    <guid isPermaLink="false">0d7d5121aaca43163f95c8c2ef5e8ad0</guid>
+    <category>Politics</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-25</source>
+    <media:content url="/img/Insib-trapping-birdlife.jpeg" medium="image" />
+    <enclosure url="/img/Insib-trapping-birdlife.jpeg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>MCCAA and OHSA join forces on workplace product safety</title>
+    <link>https://www.independent.com.mt/articles/2026-11-25/business-news/MCCAA-and-OHSA-join-forces-to-strengthen-product-safety-in-the-workplace-6736294952</link>
+    <description>The Malta Competition and Consumer Affairs Authority and the Occupational Health and Safety Authority have signed a Memorandum of Understanding to strengthen cooperation on product safety in the workplace. The agreement sets out a framework for exchanging information, technical expertise and resources to identify products that may pose safety risks or fail to meet product safety requirements, covering equipment and machinery, chemical products and biocides used across work sectors.</description>
+    <content:encoded><![CDATA[<p>The Malta Competition and Consumer Affairs Authority and the Occupational Health and Safety Authority have signed a Memorandum of Understanding to strengthen cooperation on product safety in the workplace. The agreement sets out a framework for exchanging information, technical expertise and resources to identify products that may pose safety risks or fail to meet product safety requirements, covering equipment and machinery, chemical products and biocides used across work sectors.</p><p><img src="/img/49edae786822.jpg" alt="MCCAA and OHSA join forces on workplace product safety" /></p><p><em>Sources: Malta Independent</em></p>]]></content:encoded>
+    <pubDate>Wed, 25 Nov 2026 10:19:00 +0100</pubDate>
+    <guid isPermaLink="false">f80f6b72e6e0d9d8a9af9305a2427982</guid>
+    <category>Health &amp; Education</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-25</source>
+    <media:content url="/img/49edae786822.jpg" medium="image" />
+    <enclosure url="/img/49edae786822.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Malta secures cruising privileges in the United States</title>
+    <link>https://www.independent.com.mt/articles/2026-11-25/local-news/Malta-secures-cruising-privileges-in-the-United-States-A-new-milestone-for-the-Maltese-yacht-flag-6736294947</link>
+    <description>The United States has extended reciprocal cruising privileges to Maltese-flagged pleasure yachts, a significant milestone for Maltas maritime and yachting sector. US Customs and Border Protection formally amended its regulations on 29 October 2026 to add Malta to the list of countries whose pleasure vessels may be issued cruising licences in the US. Under the regime, qualifying foreign-flagged yachts used exclusively for pleasure can benefit from simplified customs formalities when navigating between US ports, strengthening the competitiveness of the Maltese flag.</description>
+    <content:encoded><![CDATA[<p>The United States has extended reciprocal cruising privileges to Maltese-flagged pleasure yachts, a significant milestone for Maltas maritime and yachting sector. US Customs and Border Protection formally amended its regulations on 29 October 2026 to add Malta to the list of countries whose pleasure vessels may be issued cruising licences in the US. Under the regime, qualifying foreign-flagged yachts used exclusively for pleasure can benefit from simplified customs formalities when navigating between US ports, strengthening the competitiveness of the Maltese flag.</p><p><img src="/img/bf3412428346.jpg" alt="Malta secures cruising privileges in the United States" /></p><p><em>Sources: Malta Independent</em></p>]]></content:encoded>
+    <pubDate>Wed, 25 Nov 2026 08:06:00 +0100</pubDate>
+    <guid isPermaLink="false">96dcd0a08db8a04ff60dcd28c6210267</guid>
+    <category>Infrastructure &amp; Transport</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-25</source>
+    <media:content url="/img/bf3412428346.jpg" medium="image" />
+    <enclosure url="/img/bf3412428346.jpg" length="0" type="image/jpeg" />
   </item>
   <item>
     <title>Public Works objects to two Qormi rezoning applications over flood risk</title>
