@@ -9,8 +9,8 @@
   <link>https://maltanews.pages.dev/</link>
   <description>Daily Malta news digest, automated. Curated from local Maltese news sources.</description>
   <language>en-mt</language>
-  <lastBuildDate>Wed, 25 Nov 2026 13:31:03 +0100</lastBuildDate>
-  <pubDate>Wed, 25 Nov 2026 12:42:00 +0100</pubDate>
+  <lastBuildDate>Wed, 25 Nov 2026 16:30:57 +0100</lastBuildDate>
+  <pubDate>Wed, 25 Nov 2026 15:49:00 +0100</pubDate>
   <generator>Hermes Malta News pipeline v3 + RSS</generator>
   <managingEditor>dejjem@gmail.com (Mark Micallef)</managingEditor>
   <atom:link href="https://maltanews.pages.dev/feed.xml" rel="self" type="application/rss+xml" />
@@ -20,12 +20,132 @@
     <link>https://maltanews.pages.dev/</link>
   </image>
   <item>
+    <title>Malta airport hit by 3.7 million cyberattack attempts in six months</title>
+    <link>https://timesofmalta.com/article/airport-targeted-37-million-hacking-attempts-six-months.1137660</link>
+    <description>Malta International Airport was targeted by more than 3.7 million attempted cyber-attacks in the first six months of the year, its head of IT management said. Phishing emails aimed at harvesting login details were described as the airport's biggest threat, with the head of IT noting that attackers are using AI to craft more targeted, correctly punctuated messages that mimic genuine communication styles. The disclosure was made in the Malta Stock Exchange plc Business Review.</description>
+    <content:encoded><![CDATA[<p>Malta International Airport was targeted by more than 3.7 million attempted cyber-attacks in the first six months of the year, its head of IT management said. Phishing emails aimed at harvesting login details were described as the airport&#x27;s biggest threat, with the head of IT noting that attackers are using AI to craft more targeted, correctly punctuated messages that mimic genuine communication styles. The disclosure was made in the Malta Stock Exchange plc Business Review.</p><p><img src="/img/20e84bdd257879bc34711651616e518387b8287a-1795618147-993df001-1200x630.jpg" alt="Malta International Airport" /></p><p><em>Sources: Times of Malta, The Business Picture, Lovin Malta</em></p>]]></content:encoded>
+    <pubDate>Wed, 25 Nov 2026 15:49:00 +0100</pubDate>
+    <guid isPermaLink="false">fe7f3fc01369ea22461d4c88fb81fdd3</guid>
+    <category>Economy</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-25</source>
+    <media:content url="/img/20e84bdd257879bc34711651616e518387b8287a-1795618147-993df001-1200x630.jpg" medium="image" />
+    <enclosure url="/img/20e84bdd257879bc34711651616e518387b8287a-1795618147-993df001-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Man accused of blackmailing girls granted bail</title>
+    <link>https://timesofmalta.com/article/man-accused-blackmailing-girls-granted-bail-electronic-monitoring.1137658</link>
+    <description>Gian-Luke Gambin, 27, from Victoria, Gozo, was granted bail subject to electronic monitoring, nearly six months after his 8 June arraignment. He faces 56 criminal charges including sexual exploitation and corruption of minors, blackmail and the production of indecent material, alleged to have been carried out through fake social media profiles. Bail was ordered against a EUR10,000 deposit and a EUR40,000 personal guarantee.</description>
+    <content:encoded><![CDATA[<p>Gian-Luke Gambin, 27, from Victoria, Gozo, was granted bail subject to electronic monitoring, nearly six months after his 8 June arraignment. He faces 56 criminal charges including sexual exploitation and corruption of minors, blackmail and the production of indecent material, alleged to have been carried out through fake social media profiles. Bail was ordered against a EUR10,000 deposit and a EUR40,000 personal guarantee.</p><p><img src="/img/09ddb877b8d4f5ef39141aebb1af2ac1c6388285-1795618579-7704da89-1200x630.jpg" alt="Court bail hearing" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Wed, 25 Nov 2026 15:41:00 +0100</pubDate>
+    <guid isPermaLink="false">b9b9721fc832e3fdd3e6dd2389596afd</guid>
+    <category>General</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-25</source>
+    <media:content url="/img/09ddb877b8d4f5ef39141aebb1af2ac1c6388285-1795618579-7704da89-1200x630.jpg" medium="image" />
+    <enclosure url="/img/09ddb877b8d4f5ef39141aebb1af2ac1c6388285-1795618579-7704da89-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Auditors flag persistent failings in councils</title>
+    <link>https://timesofmalta.com/article/auditors-flag-persistent-failing.1137657</link>
+    <description>Five local councils face uncertainty over meeting their financial obligations, a National Audit Office report tabled in parliament shows. Attard, Dingli, Kalkara, Victoria and Zebbug may need extra income and better cash-flow management, while auditors flagged persistent shortcomings in accounting, procurement and administrative practice.</description>
+    <content:encoded><![CDATA[<p>Five local councils face uncertainty over meeting their financial obligations, a National Audit Office report tabled in parliament shows. Attard, Dingli, Kalkara, Victoria and Zebbug may need extra income and better cash-flow management, while auditors flagged persistent shortcomings in accounting, procurement and administrative practice.</p><p><img src="/img/e799bef2d30b2e4ad7c89b47d2289e23d09b0347-1795617604-d5ad54c9-1200x630.png" alt="Local councils finances" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Wed, 25 Nov 2026 15:34:00 +0100</pubDate>
+    <guid isPermaLink="false">37b0cf0b683a4975ef41e413f452cd6a</guid>
+    <category>Politics</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-25</source>
+    <media:content url="/img/e799bef2d30b2e4ad7c89b47d2289e23d09b0347-1795617604-d5ad54c9-1200x630.png" medium="image" />
+    <enclosure url="/img/e799bef2d30b2e4ad7c89b47d2289e23d09b0347-1795617604-d5ad54c9-1200x630.png" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>68% of Gozitans expect religious life to decline</title>
+    <link>https://www.independent.com.mt/articles/2026-11-25/local-news/68-of-Gozitans-expect-religious-life-to-decline-over-next-decade-survey-finds-6736294968</link>
+    <description>A survey commissioned by the Diocese of Gozo, conducted among more than 400 people in summer 2026, found that 68% believe religious life on the island will decline over the next decade, despite 70.6% of respondents saying they attend Sunday Mass regularly and a further 17.7% attending frequently.</description>
+    <content:encoded><![CDATA[<p>A survey commissioned by the Diocese of Gozo, conducted among more than 400 people in summer 2026, found that 68% believe religious life on the island will decline over the next decade, despite 70.6% of respondents saying they attend Sunday Mass regularly and a further 17.7% attending frequently.</p><p><img src="/img/99daffcdf2f1.jpg" alt="Gozo religious life survey" /></p><p><em>Sources: Malta Independent, Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Wed, 25 Nov 2026 15:31:00 +0100</pubDate>
+    <guid isPermaLink="false">f6df5beaaf5ad55d1dd257963a229119</guid>
+    <category>Sports</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-25</source>
+    <media:content url="/img/99daffcdf2f1.jpg" medium="image" />
+    <enclosure url="/img/99daffcdf2f1.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Heritage NGOs urge PA to refuse Siggiewi reservoir plan</title>
+    <link>https://timesofmalta.com/article/refuse-application-reservoir-siggiewi-archaeological-site.1137651</link>
+    <description>The Archaeological Society Malta and Din l-Art Helwa are urging the Planning Authority to refuse an application to excavate a water reservoir and reinstate a roof over a pre-1967 structure at Ghar il-Kbir, Siggiewi, next to a scheduled cave site. The application, PA/08170/25, is filed by Simon Mizzi.</description>
+    <content:encoded><![CDATA[<p>The Archaeological Society Malta and Din l-Art Helwa are urging the Planning Authority to refuse an application to excavate a water reservoir and reinstate a roof over a pre-1967 structure at Ghar il-Kbir, Siggiewi, next to a scheduled cave site. The application, PA/08170/25, is filed by Simon Mizzi.</p><p><img src="/img/4354373deb19203b13564cbe2f0d4fb9c370fa3a-1795612249-1bf374db-1200x630.jpg" alt="Archaeological site in Siggiewi" /></p><p><em>Sources: Times of Malta, Malta Independent</em></p>]]></content:encoded>
+    <pubDate>Wed, 25 Nov 2026 13:55:00 +0100</pubDate>
+    <guid isPermaLink="false">fcf590ca7df93e8272a7adb0962e8603</guid>
+    <category>General</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-25</source>
+    <media:content url="/img/4354373deb19203b13564cbe2f0d4fb9c370fa3a-1795612249-1bf374db-1200x630.jpg" medium="image" />
+    <enclosure url="/img/4354373deb19203b13564cbe2f0d4fb9c370fa3a-1795612249-1bf374db-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>MEP David Casa secures ESF mandate in Parliament</title>
+    <link>https://www.independent.com.mt/articles/2026-11-25/local-news/Casa-defeats-far-right-challenge-to-the-ESF-EPP-says-6736294961</link>
+    <description>MEPs voted overwhelmingly in favour of the negotiating mandate for the post-2027 European Social Fund secured by David Casa, the EPP said, defeating a far-right objection to the text. Casa will enter negotiations with national governments in Council early next year before the new ESF measures are rolled out.</description>
+    <content:encoded><![CDATA[<p>MEPs voted overwhelmingly in favour of the negotiating mandate for the post-2027 European Social Fund secured by David Casa, the EPP said, defeating a far-right objection to the text. Casa will enter negotiations with national governments in Council early next year before the new ESF measures are rolled out.</p><p><img src="/img/1cf02a7d9d11.jpg" alt="European Parliament vote" /></p><p><em>Sources: Malta Independent</em></p>]]></content:encoded>
+    <pubDate>Wed, 25 Nov 2026 13:42:00 +0100</pubDate>
+    <guid isPermaLink="false">28d2f5e5181601358532dba5f5ee25b3</guid>
+    <category>Politics</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-25</source>
+    <media:content url="/img/1cf02a7d9d11.jpg" medium="image" />
+    <enclosure url="/img/1cf02a7d9d11.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Nine in ten students use AI weekly, many feel unprepared</title>
+    <link>https://timesofmalta.com/article/nine-10-students-use-ai-feel-unprepared-future-job-market.1137646</link>
+    <description>Two Malta Further and Higher Education Authority surveys found 91.5% of students use artificial intelligence weekly for learning, study and research, yet half say they feel unprepared to use it well. The reports, drawn from March and May, say AI adoption is outpacing institutional preparedness, identifying gaps in training, academic integrity and institutional policy.</description>
+    <content:encoded><![CDATA[<p>Two Malta Further and Higher Education Authority surveys found 91.5% of students use artificial intelligence weekly for learning, study and research, yet half say they feel unprepared to use it well. The reports, drawn from March and May, say AI adoption is outpacing institutional preparedness, identifying gaps in training, academic integrity and institutional policy.</p><p><img src="/img/ed46ba828a39473ef7020aa7fe3fbbea4d2d6f48-1795608987-3b9ea923-1200x630.jpg" alt="Students using AI in their studies" /></p><p><em>Sources: Times of Malta, Malta Independent, Newsbook</em></p>]]></content:encoded>
+    <pubDate>Wed, 25 Nov 2026 13:36:00 +0100</pubDate>
+    <guid isPermaLink="false">60e2609043cf14056300ba14f8677e64</guid>
+    <category>Infrastructure &amp; Transport</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-25</source>
+    <media:content url="/img/ed46ba828a39473ef7020aa7fe3fbbea4d2d6f48-1795608987-3b9ea923-1200x630.jpg" medium="image" />
+    <enclosure url="/img/ed46ba828a39473ef7020aa7fe3fbbea4d2d6f48-1795608987-3b9ea923-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>PN calls for stronger action on violence against women</title>
+    <link>https://www.independent.com.mt/articles/2026-11-25/local-news/PN-calls-for-greater-investment-in-prevention-and-support-services-to-combat-violence-against-women-6736294960</link>
+    <description>Marking the International Day for the Elimination of Violence against Women, the Nationalist Party called for greater investment in prevention, education grounded in respect and equality, and stronger support services for victims, including attention to emerging forms of abuse such as digital violence. A national campaign against domestic violence was also launched on Wednesday.</description>
+    <content:encoded><![CDATA[<p>Marking the International Day for the Elimination of Violence against Women, the Nationalist Party called for greater investment in prevention, education grounded in respect and equality, and stronger support services for victims, including attention to emerging forms of abuse such as digital violence. A national campaign against domestic violence was also launched on Wednesday.</p><p><img src="/img/6cbcda57d14f.jpg" alt="Domestic violence" /></p><p><em>Sources: Malta Independent, Malta Independent</em></p>]]></content:encoded>
+    <pubDate>Wed, 25 Nov 2026 13:35:00 +0100</pubDate>
+    <guid isPermaLink="false">c4c3b2d3c7946089696c13dee752b71c</guid>
+    <category>Politics</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-25</source>
+    <media:content url="/img/6cbcda57d14f.jpg" medium="image" />
+    <enclosure url="/img/6cbcda57d14f.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>EU medicines rules approved to widen Malta's supplier base</title>
+    <link>https://timesofmalta.com/article/eu-approves-new-rules-improve-access-medicines-malta.1137643</link>
+    <description>The European Parliament approved sweeping reforms to EU pharmaceutical legislation that will let Malta source medicines from a broader range of European suppliers. From 2028, small states will be able to require companies to supply specific medicines locally, with three years to comply or risk losing market exclusivity in Malta. Amendments proposed by MEP Peter Agius also aim to ease recurring shortages and, by increasing competition, potentially lower prices.</description>
+    <content:encoded><![CDATA[<p>The European Parliament approved sweeping reforms to EU pharmaceutical legislation that will let Malta source medicines from a broader range of European suppliers. From 2028, small states will be able to require companies to supply specific medicines locally, with three years to comply or risk losing market exclusivity in Malta. Amendments proposed by MEP Peter Agius also aim to ease recurring shortages and, by increasing competition, potentially lower prices.</p><p><img src="/img/8219fed5e3820d9c9f9ae7a5fa97e6987baa7d5b-1795608343-48cd2ee2-1200x630.png" alt="EU medicines legislation" /></p><p><em>Sources: Times of Malta, Malta Independent, Newsbook, Lovin Malta</em></p>]]></content:encoded>
+    <pubDate>Wed, 25 Nov 2026 13:05:00 +0100</pubDate>
+    <guid isPermaLink="false">21a30b2d164c50cae564e43c12112882</guid>
+    <category>Politics</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-25</source>
+    <media:content url="/img/8219fed5e3820d9c9f9ae7a5fa97e6987baa7d5b-1795608343-48cd2ee2-1200x630.png" medium="image" />
+    <enclosure url="/img/8219fed5e3820d9c9f9ae7a5fa97e6987baa7d5b-1795608343-48cd2ee2-1200x630.png" length="0" type="image/jpeg" />
+  </item>
+  <item>
     <title>Maltas business community grew by around 4,000 companies last year</title>
     <link>https://thebusinesspicture.com/2026/11/25/maltas-business-community-grew-by-around-4000-companies-last-year/</link>
     <description>Malta had just over 65,700 active businesses last year, up from just under 61,800 a year earlier, according to provisional National Statistics Office figures published on Wednesday. Those businesses accounted for almost 290,000 jobs, an increase of around 5% on the previous year. Transport and storage, financial and insurance businesses registered the strongest proportional growth at around 12%, while 94% of active enterprises still employed fewer than 10 people each.</description>
     <content:encoded><![CDATA[<p>Malta had just over 65,700 active businesses last year, up from just under 61,800 a year earlier, according to provisional National Statistics Office figures published on Wednesday. Those businesses accounted for almost 290,000 jobs, an increase of around 5% on the previous year. Transport and storage, financial and insurance businesses registered the strongest proportional growth at around 12%, while 94% of active enterprises still employed fewer than 10 people each.</p><p><img src="/img/cZQsDHcgSGruPfAk-e1795606598273.jpg" alt="Malta&#x27;s business community grew by around 4,000 companies last year" /></p><p><em>Sources: The Business Picture</em></p>]]></content:encoded>
     <pubDate>Wed, 25 Nov 2026 12:42:00 +0100</pubDate>
     <guid isPermaLink="false">2e27cf8ef8e4945966cd46472eac11ad</guid>
+    <category>Economy</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-25</source>
+    <media:content url="/img/cZQsDHcgSGruPfAk-e1795606598273.jpg" medium="image" />
+    <enclosure url="/img/cZQsDHcgSGruPfAk-e1795606598273.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Active Maltese businesses up by nearly 4,000 in 2025</title>
+    <link>https://thebusinesspicture.com/2026/11/25/maltas-business-community-grew-by-around-4000-companies-last-year/</link>
+    <description>Provisional NSO figures show Malta had 65,732 active enterprises at end-2025, up 6.4% on the previous year and nearly 4,000 more than a year earlier. The firms sustained 289,943 jobs, an increase of about 5%, with transport, financial services and real estate showing the strongest proportional growth. About 94% of active enterprises employed fewer than ten people.</description>
+    <content:encoded><![CDATA[<p>Provisional NSO figures show Malta had 65,732 active enterprises at end-2025, up 6.4% on the previous year and nearly 4,000 more than a year earlier. The firms sustained 289,943 jobs, an increase of about 5%, with transport, financial services and real estate showing the strongest proportional growth. About 94% of active enterprises employed fewer than ten people.</p><p><img src="/img/cZQsDHcgSGruPfAk-e1795606598273.jpg" alt="Malta business community" /></p><p><em>Sources: The Business Picture, Newsbook</em></p>]]></content:encoded>
+    <pubDate>Wed, 25 Nov 2026 12:42:00 +0100</pubDate>
+    <guid isPermaLink="false">8ec0bc0fc898a4c007581e0a8aac80da</guid>
     <category>Economy</category>
     <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-25</source>
     <media:content url="/img/cZQsDHcgSGruPfAk-e1795606598273.jpg" medium="image" />
@@ -54,6 +174,18 @@
     <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-25</source>
     <media:content url="/img/Dylan-Covers-3-24-1024x536.jpg" medium="image" />
     <enclosure url="/img/Dylan-Covers-3-24-1024x536.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>KSU warns over threat to withhold exam results</title>
+    <link>https://www.independent.com.mt/articles/2026-11-25/local-news/KSU-criticises-potential-withholding-of-exam-results-amid-lecturers-wage-dispute-6736294957</link>
+    <description>The Kunsill Studenti Universitarji criticised the possibility that students' examination results could be withheld amid the dispute over lecturers' wages and payment schedules, saying students are not bargaining tools and should not be used as leverage in a dispute that is not theirs.</description>
+    <content:encoded><![CDATA[<p>The Kunsill Studenti Universitarji criticised the possibility that students&#x27; examination results could be withheld amid the dispute over lecturers&#x27; wages and payment schedules, saying students are not bargaining tools and should not be used as leverage in a dispute that is not theirs.</p><p><img src="/img/d0ecaecc444b.jpg" alt="University students" /></p><p><em>Sources: Malta Independent, Lovin Malta</em></p>]]></content:encoded>
+    <pubDate>Wed, 25 Nov 2026 12:05:00 +0100</pubDate>
+    <guid isPermaLink="false">94f4972b4f330ac1767c3f39a46c24f2</guid>
+    <category>Health &amp; Education</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-25</source>
+    <media:content url="/img/d0ecaecc444b.jpg" medium="image" />
+    <enclosure url="/img/d0ecaecc444b.jpg" length="0" type="image/jpeg" />
   </item>
   <item>
     <title>European Commission warns Malta's budget risks breaching EU spending limits</title>
@@ -234,6 +366,18 @@
     <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-25</source>
     <media:content url="/img/Insib-trapping-birdlife.jpeg" medium="image" />
     <enclosure url="/img/Insib-trapping-birdlife.jpeg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>BirdLife urges end to finch trapping after EU warning</title>
+    <link>https://www.independent.com.mt/articles/2026-11-25/local-news/BirdLife-calls-for-end-to-finch-trapping-following-second-EU-Commission-warning-6736294953</link>
+    <description>BirdLife Malta called on the government to withdraw the country's finch trapping derogation after the European Commission issued a second warning that the practice does not meet the requirements of genuine scientific research. The Commission gave Malta two months to address the issues before considering further legal action.</description>
+    <content:encoded><![CDATA[<p>BirdLife Malta called on the government to withdraw the country&#x27;s finch trapping derogation after the European Commission issued a second warning that the practice does not meet the requirements of genuine scientific research. The Commission gave Malta two months to address the issues before considering further legal action.</p><p><img src="/img/7fefa87c6464.jpg" alt="Finch trapping" /></p><p><em>Sources: Malta Independent, Newsbook</em></p>]]></content:encoded>
+    <pubDate>Wed, 25 Nov 2026 10:21:00 +0100</pubDate>
+    <guid isPermaLink="false">0e82e0859463d14059f3627f6dad6ec8</guid>
+    <category>Politics</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-25</source>
+    <media:content url="/img/7fefa87c6464.jpg" medium="image" />
+    <enclosure url="/img/7fefa87c6464.jpg" length="0" type="image/jpeg" />
   </item>
   <item>
     <title>MCCAA and OHSA join forces on workplace product safety</title>
