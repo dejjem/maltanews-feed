@@ -9,8 +9,8 @@
   <link>https://maltanews.pages.dev/</link>
   <description>Daily Malta news digest, automated. Curated from local Maltese news sources.</description>
   <language>en-mt</language>
-  <lastBuildDate>Fri, 27 Nov 2026 06:34:47 +0100</lastBuildDate>
-  <pubDate>Fri, 27 Nov 2026 12:00:00 +0100</pubDate>
+  <lastBuildDate>Fri, 27 Nov 2026 13:31:19 +0100</lastBuildDate>
+  <pubDate>Fri, 27 Nov 2026 13:04:00 +0100</pubDate>
   <generator>Hermes Malta News pipeline v3 + RSS</generator>
   <managingEditor>dejjem@gmail.com (Mark Micallef)</managingEditor>
   <atom:link href="https://maltanews.pages.dev/feed.xml" rel="self" type="application/rss+xml" />
@@ -19,6 +19,66 @@
     <title>Malta News Today</title>
     <link>https://maltanews.pages.dev/</link>
   </image>
+  <item>
+    <title>Five arrested in major drug trafficking operation</title>
+    <link>https://newsbook.com.mt/5-arrestati-brabta-ma-traffikar-ta-droga/</link>
+    <description>Five people, four men and a woman, were arrested in a drug trafficking operation across Żejtun, Ħal Tarxien, Raħal Ġdid, il-Fgura, Birkirkara and Ħaż-Żebbuġ, together with a further arrest in Marsaxlokk. Interior Minister Glenn Bedingfield said the seized items included cocaine, crack cocaine and heroin, about €8,000 in cash, luxury vehicles, phones, SIM cards, electronic equipment, weapons, documents and business stock.</description>
+    <content:encoded><![CDATA[<p>Five people, four men and a woman, were arrested in a drug trafficking operation across Żejtun, Ħal Tarxien, Raħal Ġdid, il-Fgura, Birkirkara and Ħaż-Żebbuġ, together with a further arrest in Marsaxlokk. Interior Minister Glenn Bedingfield said the seized items included cocaine, crack cocaine and heroin, about €8,000 in cash, luxury vehicles, phones, SIM cards, electronic equipment, weapons, documents and business stock.</p><p><img src="/img/droga-flus-arresti.jpg" alt="Police drug trafficking arrests" /></p><p><em>Sources: Newsbook</em></p>]]></content:encoded>
+    <pubDate>Fri, 27 Nov 2026 13:04:00 +0100</pubDate>
+    <guid isPermaLink="false">349c81dbde351d5383dfbdb230012631</guid>
+    <category>Politics</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-27</source>
+    <media:content url="/img/droga-flus-arresti.jpg" medium="image" />
+    <enclosure url="/img/droga-flus-arresti.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Abela says EU budget financing and fairness still need work after revised plan</title>
+    <link>https://timesofmalta.com/article/abela-says-eu-budget-financing-fairness-still-need-work-revised-plan.1137774</link>
+    <description>Prime Minister Robert Abela said further work is needed on how the EU's 2028-2034 long-term budget is financed after an extraordinary European Council session on the multi-annual financial framework. He said the revised proposal tabled by Council President António Costa addressed a number of Malta's concerns, but that a balance and fair outcome still have to be struck. Before the summit, Abela joined the 17-member Friends of Cohesion group, which reaffirmed that Cohesion Policy must remain central to the EU's future budget. No agreement was reached.</description>
+    <content:encoded><![CDATA[<p>Prime Minister Robert Abela said further work is needed on how the EU&#x27;s 2028-2034 long-term budget is financed after an extraordinary European Council session on the multi-annual financial framework. He said the revised proposal tabled by Council President António Costa addressed a number of Malta&#x27;s concerns, but that a balance and fair outcome still have to be struck. Before the summit, Abela joined the 17-member Friends of Cohesion group, which reaffirmed that Cohesion Policy must remain central to the EU&#x27;s future budget. No agreement was reached.</p><p><img src="/img/f7bff9521d86ef1e50f45775671d50133ede7237-1795781065-4f6e5913-1200x630.jpg" alt="Robert Abela at the European Council on the EU long-term budget" /></p><p><em>Sources: Times of Malta, Malta Independent, Lovin Malta</em></p>]]></content:encoded>
+    <pubDate>Fri, 27 Nov 2026 13:01:00 +0100</pubDate>
+    <guid isPermaLink="false">49022206c06a64a392567f03aed4c962</guid>
+    <category>Politics</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-27</source>
+    <media:content url="/img/f7bff9521d86ef1e50f45775671d50133ede7237-1795781065-4f6e5913-1200x630.jpg" medium="image" />
+    <enclosure url="/img/f7bff9521d86ef1e50f45775671d50133ede7237-1795781065-4f6e5913-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>SDM secures first-ever majority at MCAST student council</title>
+    <link>https://newsbook.com.mt/ktibna-l-istorja-l-sdm-jirbah-l-elezzjoni-tal-kunsill-tal-istudenti-tal-mcast/</link>
+    <description>Student organisation SDM won seven of the 13 seats on MCAST's student council, with 6,694 votes, in the first time it has secured a majority at the institution. Five seats went to independent candidates with 4,533 votes and Pulse took one with 2,429. The result follows SDM's sweep of the Junior College student council a week earlier.</description>
+    <content:encoded><![CDATA[<p>Student organisation SDM won seven of the 13 seats on MCAST&#x27;s student council, with 6,694 votes, in the first time it has secured a majority at the institution. Five seats went to independent candidates with 4,533 votes and Pulse took one with 2,429. The result follows SDM&#x27;s sweep of the Junior College student council a week earlier.</p><p><img src="/img/SDM-elezzjoni-MCAST.jpeg" alt="SDM victory at MCAST student council election" /></p><p><em>Sources: Newsbook, Malta Today, Lovin Malta</em></p>]]></content:encoded>
+    <pubDate>Fri, 27 Nov 2026 12:20:00 +0100</pubDate>
+    <guid isPermaLink="false">a6565ca1306a3551d7b0a5837631ddd8</guid>
+    <category>Health &amp; Education</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-27</source>
+    <media:content url="/img/SDM-elezzjoni-MCAST.jpeg" medium="image" />
+    <enclosure url="/img/SDM-elezzjoni-MCAST.jpeg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Judge asks to see Ricky Caruana's PBS contract as PN impartiality case continues</title>
+    <link>https://timesofmalta.com/article/judge-ricky-caruana-pbs-contract-pn-impartiality-case.1137763</link>
+    <description>The judge in the Nationalist Party's impartiality case against PBS and the Broadcasting Authority asked to see presenter Ricky Caruana's contract with the public broadcaster before allowing questions about his social media posts. Separately, the Broadcasting Authority told the court it took no further action against PBS over earlier impartiality rulings, with the PBS CEO saying privately contracted presenters are not questioned about their political ties.</description>
+    <content:encoded><![CDATA[<p>The judge in the Nationalist Party&#x27;s impartiality case against PBS and the Broadcasting Authority asked to see presenter Ricky Caruana&#x27;s contract with the public broadcaster before allowing questions about his social media posts. Separately, the Broadcasting Authority told the court it took no further action against PBS over earlier impartiality rulings, with the PBS CEO saying privately contracted presenters are not questioned about their political ties.</p><p><img src="/img/5eaa3e721e12f9431d8dc81874f2182fc897daed-1795777039-01311db6-1200x630.jpg" alt="Court proceedings over PBS impartiality" /></p><p><em>Sources: Times of Malta, Malta Today, Malta Independent</em></p>]]></content:encoded>
+    <pubDate>Fri, 27 Nov 2026 12:16:00 +0100</pubDate>
+    <guid isPermaLink="false">4316098b548880672c46e020e05db4b3</guid>
+    <category>Politics</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-27</source>
+    <media:content url="/img/5eaa3e721e12f9431d8dc81874f2182fc897daed-1795777039-01311db6-1200x630.jpg" medium="image" />
+    <enclosure url="/img/5eaa3e721e12f9431d8dc81874f2182fc897daed-1795777039-01311db6-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Thunderstorms, rain and temperatures as low as 12°C expected this weekend</title>
+    <link>https://lovinmalta.com/news/local/thunderstorms-rain-and-temperatures-as-low-as-12c-expected-across-malta-in-coming-days/</link>
+    <description>The Meteorological Office forecasts possible thunderstorms on Friday with a high of 21°C and a low of 16°C, isolated showers on Saturday with a high of 19°C and a low of 14°C, and partly cloudy skies on Sunday with temperatures dropping as low as 12°C and a daytime high of 19°C.</description>
+    <content:encoded><![CDATA[<p>The Meteorological Office forecasts possible thunderstorms on Friday with a high of 21°C and a low of 16°C, isolated showers on Saturday with a high of 19°C and a low of 14°C, and partly cloudy skies on Sunday with temperatures dropping as low as 12°C and a daytime high of 19°C.</p><p><img src="/img/GABE-FB-COVER-2026-11-27T114253.161-1024x536.jpg" alt="Cold and stormy weather forecast for Malta" /></p><p><em>Sources: Lovin Malta</em></p>]]></content:encoded>
+    <pubDate>Fri, 27 Nov 2026 12:15:00 +0100</pubDate>
+    <guid isPermaLink="false">4072760ef10551fbf5aa8a718e9cafae</guid>
+    <category>General</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-27</source>
+    <media:content url="/img/GABE-FB-COVER-2026-11-27T114253.161-1024x536.jpg" medium="image" />
+    <enclosure url="/img/GABE-FB-COVER-2026-11-27T114253.161-1024x536.jpg" length="0" type="image/jpeg" />
+  </item>
   <item>
     <title>Government launches Malta's second National AI Strategy with 86 measures for 2026-2030</title>
     <link>https://lovinmalta.com/news/minister-silvio-schembri-opens-techxpo-and-launches-maltas-ai-strategy-2-0/</link>
@@ -150,6 +210,162 @@
     <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-27</source>
     <media:content url="/img/2f51db919fe1d2e407762bc1ffbdc578e693fe13-1795707162-99646269-1200x630.jpg" medium="image" />
     <enclosure url="/img/2f51db919fe1d2e407762bc1ffbdc578e693fe13-1795707162-99646269-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Government deficit nearly doubles to €695 million as debt passes €12 billion</title>
+    <link>https://timesofmalta.com/article/government-deficit-nearly-doubles-spending-outpaces-revenue.1137756</link>
+    <description>Malta's Consolidated Fund deficit stood at €695.4 million at the end of October, up €321.5 million (about 86%) from €373.9 million a year earlier, as spending grew faster than revenue. Recurrent revenue rose to €7,129.2 million, led by income tax, VAT and social security contributions, while total expenditure climbed €1,069.3 million to €7,824.5 million, with social security benefits, energy support measures and medicines among the largest increases. Central Government debt reached €12,182.7 million, almost €1 billion more than a year earlier.</description>
+    <content:encoded><![CDATA[<p>Malta&#x27;s Consolidated Fund deficit stood at €695.4 million at the end of October, up €321.5 million (about 86%) from €373.9 million a year earlier, as spending grew faster than revenue. Recurrent revenue rose to €7,129.2 million, led by income tax, VAT and social security contributions, while total expenditure climbed €1,069.3 million to €7,824.5 million, with social security benefits, energy support measures and medicines among the largest increases. Central Government debt reached €12,182.7 million, almost €1 billion more than a year earlier.</p><p><img src="/img/5026a0f476801abc2034b4f6777b1d416ab40739-1795774968-f75976ae-1200x630.jpg" alt="Malta government deficit and debt data" /></p><p><em>Sources: Times of Malta, Lovin Malta, Malta Independent</em></p>]]></content:encoded>
+    <pubDate>Fri, 27 Nov 2026 11:16:00 +0100</pubDate>
+    <guid isPermaLink="false">3ca7d98a4e8d074f9e322ec883d405a1</guid>
+    <category>Politics</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-27</source>
+    <media:content url="/img/5026a0f476801abc2034b4f6777b1d416ab40739-1795774968-f75976ae-1200x630.jpg" medium="image" />
+    <enclosure url="/img/5026a0f476801abc2034b4f6777b1d416ab40739-1795774968-f75976ae-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Planning Authority approves 122-unit block in Żurrieq's contested Nigret area</title>
+    <link>https://timesofmalta.com/article/pa-approves-122-apartments-maisonettes-penthouses-nigret.1137705</link>
+    <description>The Planning Authority approved the 122-unit Block D development in Żurrieq's Nigret area by six votes to one, with environmental NGO representative Romano Cassar casting the sole vote against. The project by Best Deal Zurrieq Ltd comprises 23 maisonettes, 78 apartments and 21 penthouses, with 276 garages and parking for 336 cars, plus landscaped public open space. The approval follows a separate permit for a 68-unit Block B1 on the same site, awarded on 23 November.</description>
+    <content:encoded><![CDATA[<p>The Planning Authority approved the 122-unit Block D development in Żurrieq&#x27;s Nigret area by six votes to one, with environmental NGO representative Romano Cassar casting the sole vote against. The project by Best Deal Zurrieq Ltd comprises 23 maisonettes, 78 apartments and 21 penthouses, with 276 garages and parking for 336 cars, plus landscaped public open space. The approval follows a separate permit for a 68-unit Block B1 on the same site, awarded on 23 November.</p><p><img src="/img/d4681ba6a61b79f8abb1a93e30175d0fd900a557-1795696631-ace4c2aa-1200x630.jpg" alt="Planning Authority approval of residential block in Nigret, Zurrieq" /></p><p><em>Sources: Times of Malta, Malta Independent, Newsbook</em></p>]]></content:encoded>
+    <pubDate>Fri, 27 Nov 2026 11:15:00 +0100</pubDate>
+    <guid isPermaLink="false">99adf8a7c0bc738f7580d855c62a9bbf</guid>
+    <category>Infrastructure &amp; Transport</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-27</source>
+    <media:content url="/img/d4681ba6a61b79f8abb1a93e30175d0fd900a557-1795696631-ace4c2aa-1200x630.jpg" medium="image" />
+    <enclosure url="/img/d4681ba6a61b79f8abb1a93e30175d0fd900a557-1795696631-ace4c2aa-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Abortion documentary 'Dear Decision Makers' premieres and is released online</title>
+    <link>https://timesofmalta.com/article/abortion-documentary-dear-decision-makers-premieres-released-online.1137754</link>
+    <description>The documentary 'Dear Decision Makers', which brings hidden stories behind Malta's abortion laws to the screen, premiered and was released online on Friday. The film had been previewed by Lovin Malta earlier in the week and follows Malta's abortion legislation debate.</description>
+    <content:encoded><![CDATA[<p>The documentary &#x27;Dear Decision Makers&#x27;, which brings hidden stories behind Malta&#x27;s abortion laws to the screen, premiered and was released online on Friday. The film had been previewed by Lovin Malta earlier in the week and follows Malta&#x27;s abortion legislation debate.</p><p><img src="/img/a5b4440b9b68e78aaeeb0b5878a59c7111a1070f-1795773703-5b33d05c-1200x630.jpg" alt="Dear Decision Makers documentary premiere" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Fri, 27 Nov 2026 10:57:00 +0100</pubDate>
+    <guid isPermaLink="false">dc83a25e4337df99423927db897ca6d7</guid>
+    <category>Sports</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-27</source>
+    <media:content url="/img/a5b4440b9b68e78aaeeb0b5878a59c7111a1070f-1795773703-5b33d05c-1200x630.jpg" medium="image" />
+    <enclosure url="/img/a5b4440b9b68e78aaeeb0b5878a59c7111a1070f-1795773703-5b33d05c-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Tourism Minister declines to comment on calls to postpone eco-tax hike</title>
+    <link>https://timesofmalta.com/article/my-line-government-line-minister-mum-raising-ecotax-concerns.1137753</link>
+    <description>Tourism Minister Jo Etienne Abela refused to comment on growing industry concerns about the 2027 Budget eco-contribution increase, saying the government line stands and discussions are ongoing. From 1 January the tourist accommodation eco-contribution rises from €1.50 to €8 per night for hotels (capped at €64) and to €10 per night for short lets (capped at €80). The Malta Hotels and Restaurants Association and the Gozo Tourism Association are lobbying to postpone the hike.</description>
+    <content:encoded><![CDATA[<p>Tourism Minister Jo Etienne Abela refused to comment on growing industry concerns about the 2027 Budget eco-contribution increase, saying the government line stands and discussions are ongoing. From 1 January the tourist accommodation eco-contribution rises from €1.50 to €8 per night for hotels (capped at €64) and to €10 per night for short lets (capped at €80). The Malta Hotels and Restaurants Association and the Gozo Tourism Association are lobbying to postpone the hike.</p><p><img src="/img/1c49086a39221f0873b2545463a2e46d1831efe2-1795775157-d0563c48-1200x630.jpeg" alt="Tourism Minister on the eco-contribution increase" /></p><p><em>Sources: Times of Malta, Newsbook</em></p>]]></content:encoded>
+    <pubDate>Fri, 27 Nov 2026 10:53:00 +0100</pubDate>
+    <guid isPermaLink="false">a3bbaae9dd60db4b9547a4b184b342a3</guid>
+    <category>Politics</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-27</source>
+    <media:content url="/img/1c49086a39221f0873b2545463a2e46d1831efe2-1795775157-d0563c48-1200x630.jpeg" medium="image" />
+    <enclosure url="/img/1c49086a39221f0873b2545463a2e46d1831efe2-1795775157-d0563c48-1200x630.jpeg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Minister Camilleri puts mental health and wellbeing at the heart of education</title>
+    <link>https://www.independent.com.mt/articles/2026-11-27/local-news/Mental-health-and-wellbeing-at-the-heart-of-education-says-Minister-Byron-Camilleri-6736295038</link>
+    <description>Education Minister Byron Camilleri said education can only succeed if mental health and wellbeing sit at the centre of everything done for students and educators, speaking at the second edition of the national EduVoices conference. The event, themed 'Your Voice. Your Wellbeing. Our Future', brought together students, educators, parents and experts including representatives from UNESCO and the OECD.</description>
+    <content:encoded><![CDATA[<p>Education Minister Byron Camilleri said education can only succeed if mental health and wellbeing sit at the centre of everything done for students and educators, speaking at the second edition of the national EduVoices conference. The event, themed &#x27;Your Voice. Your Wellbeing. Our Future&#x27;, brought together students, educators, parents and experts including representatives from UNESCO and the OECD.</p><p><img src="/img/3b57302b52e6.jpg" alt="EduVoices education conference" /></p><p><em>Sources: Malta Independent</em></p>]]></content:encoded>
+    <pubDate>Fri, 27 Nov 2026 10:48:00 +0100</pubDate>
+    <guid isPermaLink="false">07f83dc50d60c86ff193811a347057f7</guid>
+    <category>Politics</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-27</source>
+    <media:content url="/img/3b57302b52e6.jpg" medium="image" />
+    <enclosure url="/img/3b57302b52e6.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Contractor delays held up Triq tal-Qares repaving, Enemalta says</title>
+    <link>https://www.maltatoday.com.mt/news/national/145986/contractor_delays_held_up_triq_talqares_repaving_after_works_enemalta_says</link>
+    <description>Enemalta said reinstatement works on a section of Triq tal-Qares in Mosta will begin in the coming days after delays by the private contractor engaged for them. Parts of the road were left with a concrete surface following underground works carried out by Enemalta in August 2026. The paving will be restored to its original state once the works are completed.</description>
+    <content:encoded><![CDATA[<p>Enemalta said reinstatement works on a section of Triq tal-Qares in Mosta will begin in the coming days after delays by the private contractor engaged for them. Parts of the road were left with a concrete surface following underground works carried out by Enemalta in August 2026. The paving will be restored to its original state once the works are completed.</p><p><img src="/img/triq_tal-qares_mosta.png" alt="Triq tal-Qares repaving works in Mosta" /></p><p><em>Sources: Malta Today</em></p>]]></content:encoded>
+    <pubDate>Fri, 27 Nov 2026 10:33:00 +0100</pubDate>
+    <guid isPermaLink="false">94d8024743690d3e9c02440c8d9943a6</guid>
+    <category>Infrastructure &amp; Transport</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-27</source>
+    <media:content url="/img/triq_tal-qares_mosta.png" medium="image" />
+    <enclosure url="/img/triq_tal-qares_mosta.png" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Business activity remains below historic average, Central Bank says</title>
+    <link>https://www.independent.com.mt/articles/2026-11-27/local-news/Business-activity-remains-somewhat-below-historic-average-Central-Bank-says-6736295036</link>
+    <description>The Central Bank of Malta said economic conditions were broadly unchanged in October compared with September, with business activity still below its long-term average. The bank's Business Conditions Index showed industrial production and retail trade accelerating while growth in tourism expenditure slowed, and consumer sentiment declined but remained strong by historical standards.</description>
+    <content:encoded><![CDATA[<p>The Central Bank of Malta said economic conditions were broadly unchanged in October compared with September, with business activity still below its long-term average. The bank&#x27;s Business Conditions Index showed industrial production and retail trade accelerating while growth in tourism expenditure slowed, and consumer sentiment declined but remained strong by historical standards.</p><p><img src="/img/b455b7395a9c.jpg" alt="Central Bank economic activity indicators" /></p><p><em>Sources: Malta Independent</em></p>]]></content:encoded>
+    <pubDate>Fri, 27 Nov 2026 10:23:00 +0100</pubDate>
+    <guid isPermaLink="false">05d45cd447b488b5b1cc01a8556f81b8</guid>
+    <category>Courts &amp; Crime</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-27</source>
+    <media:content url="/img/b455b7395a9c.jpg" medium="image" />
+    <enclosure url="/img/b455b7395a9c.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>KM Malta Airlines and Air India sign codeshare deal from 1 December</title>
+    <link>https://timesofmalta.com/article/km-malta-airlines-air-india-sign-codeshare-deal.1137750</link>
+    <description>KM Malta Airlines and Air India will launch a codeshare agreement on 1 December, allowing passengers to book journeys between India and Malta on a single ticket. Air India will place its code on selected KM Malta Airlines flights from Malta to Amsterdam, Paris, Rome, London Gatwick, London Heathrow and Zurich, with baggage checked through. The deal builds on an existing interline partnership and does not introduce direct Malta-India flights.</description>
+    <content:encoded><![CDATA[<p>KM Malta Airlines and Air India will launch a codeshare agreement on 1 December, allowing passengers to book journeys between India and Malta on a single ticket. Air India will place its code on selected KM Malta Airlines flights from Malta to Amsterdam, Paris, Rome, London Gatwick, London Heathrow and Zurich, with baggage checked through. The deal builds on an existing interline partnership and does not introduce direct Malta-India flights.</p><p><img src="/img/e1058c6166afed5b1f0dfe9ac1c7a39d0c49cf04-1795771537-e3387f99-1200x630.jpg" alt="KM Malta Airlines and Air India codeshare announcement" /></p><p><em>Sources: Times of Malta, Lovin Malta, Malta Independent</em></p>]]></content:encoded>
+    <pubDate>Fri, 27 Nov 2026 10:18:00 +0100</pubDate>
+    <guid isPermaLink="false">3395ae0807306f38fe5fcb124ac83604</guid>
+    <category>General</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-27</source>
+    <media:content url="/img/e1058c6166afed5b1f0dfe9ac1c7a39d0c49cf04-1795771537-e3387f99-1200x630.jpg" medium="image" />
+    <enclosure url="/img/e1058c6166afed5b1f0dfe9ac1c7a39d0c49cf04-1795771537-e3387f99-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>€3.4 million in payments to 882 people under 2026 anomalies scheme</title>
+    <link>https://www.independent.com.mt/articles/2026-11-27/local-news/Government-issues-3-4-million-in-payments-under-schemes-addressing-past-injustices-6736295035</link>
+    <description>A total of 882 people, or their heirs, will receive €3.4 million in compensation payments under the government's 2026 anomalies scheme, Social Policy and Family Minister Michael Falzon said. Two additional schemes were introduced to address past employment injustices affecting former workers of International Aeradio Ltd and the Rediffusion Group of Companies, whose pension-related benefit claims were previously rejected by the courts.</description>
+    <content:encoded><![CDATA[<p>A total of 882 people, or their heirs, will receive €3.4 million in compensation payments under the government&#x27;s 2026 anomalies scheme, Social Policy and Family Minister Michael Falzon said. Two additional schemes were introduced to address past employment injustices affecting former workers of International Aeradio Ltd and the Rediffusion Group of Companies, whose pension-related benefit claims were previously rejected by the courts.</p><p><img src="/img/5025a9a7b355.jpg" alt="Government compensation scheme announcement" /></p><p><em>Sources: Malta Independent</em></p>]]></content:encoded>
+    <pubDate>Fri, 27 Nov 2026 10:13:00 +0100</pubDate>
+    <guid isPermaLink="false">06367f538d6ac88117d6f19b94b9ace2</guid>
+    <category>Politics</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-27</source>
+    <media:content url="/img/5025a9a7b355.jpg" medium="image" />
+    <enclosure url="/img/5025a9a7b355.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Msida Creek works: no access to Birkirkara from Triq il-Wied tal-Imsida from Sunday</title>
+    <link>https://timesofmalta.com/article/msida-creek-project-no-access-birkirkara-starting-sunday.1137748</link>
+    <description>Infrastructure Malta has advised that there will be no access towards Birkirkara from Triq il-Wied tal-Imsida starting Sunday because of works on the Msida Creek Project. Motorists are asked to follow temporary traffic signs and use alternative routes, with no indication given of when the road will reopen.</description>
+    <content:encoded><![CDATA[<p>Infrastructure Malta has advised that there will be no access towards Birkirkara from Triq il-Wied tal-Imsida starting Sunday because of works on the Msida Creek Project. Motorists are asked to follow temporary traffic signs and use alternative routes, with no indication given of when the road will reopen.</p><p><img src="/img/08df595248da20e2b012a2038578a8704f4180f7-1795770567-e879cea1-1200x630.png" alt="Msida Creek road works affecting access to Birkirkara" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Fri, 27 Nov 2026 10:06:00 +0100</pubDate>
+    <guid isPermaLink="false">10284b3ae7d152c25571cb14fd07eb7a</guid>
+    <category>Infrastructure &amp; Transport</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-27</source>
+    <media:content url="/img/08df595248da20e2b012a2038578a8704f4180f7-1795770567-e879cea1-1200x630.png" medium="image" />
+    <enclosure url="/img/08df595248da20e2b012a2038578a8704f4180f7-1795770567-e879cea1-1200x630.png" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Mother appeals jail term over son's use of her passport in illegal migration scheme</title>
+    <link>https://timesofmalta.com/article/pregnant-mother-jail-son-passport-migration-scheme.1137465</link>
+    <description>A pregnant mother with seven children appealed a three-month prison sentence for helping a relative enter Malta illegally using someone else's passport, arguing the court did not consider the children dependent on her care. She and her eldest son admitted transferring passport details to help a cousin's wife enter Malta without documentation; the cousin was also jailed for three months.</description>
+    <content:encoded><![CDATA[<p>A pregnant mother with seven children appealed a three-month prison sentence for helping a relative enter Malta illegally using someone else&#x27;s passport, arguing the court did not consider the children dependent on her care. She and her eldest son admitted transferring passport details to help a cousin&#x27;s wife enter Malta without documentation; the cousin was also jailed for three months.</p><p><img src="/img/17a43264ae70d171c0748428614e37faa4c8214a-1795268011-a41a60df-1200x630.jpg" alt="Court case over illegal migration using a passport" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Fri, 27 Nov 2026 10:00:00 +0100</pubDate>
+    <guid isPermaLink="false">458f0e551eeacdaab0835b8bddad26ab</guid>
+    <category>Courts &amp; Crime</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-27</source>
+    <media:content url="/img/17a43264ae70d171c0748428614e37faa4c8214a-1795268011-a41a60df-1200x630.jpg" medium="image" />
+    <enclosure url="/img/17a43264ae70d171c0748428614e37faa4c8214a-1795268011-a41a60df-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Gozo tourism body objects to higher accommodation licence fees</title>
+    <link>https://timesofmalta.com/article/gozo-tourism-body-objects-higher-accommodation-licence-fees.1137742</link>
+    <description>The Gozo Tourism Association has objected to the higher accommodation licence fees announced in the 2027 Budget, adding to calls from tourism lobby groups for the eco-contribution increase to be deferred. The association has proposed a flat €4 eco-contribution for all accommodation and warned of cancellations in 2027 if the current terms stand.</description>
+    <content:encoded><![CDATA[<p>The Gozo Tourism Association has objected to the higher accommodation licence fees announced in the 2027 Budget, adding to calls from tourism lobby groups for the eco-contribution increase to be deferred. The association has proposed a flat €4 eco-contribution for all accommodation and warned of cancellations in 2027 if the current terms stand.</p><p><img src="/img/8e7446a9c1742a2d8181df92593fd45b6fbfa947-1795765142-dd40ce14-1200x630.jpg" alt="Gozo tourism operators objecting to accommodation licence fees" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Fri, 27 Nov 2026 08:33:00 +0100</pubDate>
+    <guid isPermaLink="false">05b6487cc7d551663fde540880e88987</guid>
+    <category>Economy</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-27</source>
+    <media:content url="/img/8e7446a9c1742a2d8181df92593fd45b6fbfa947-1795765142-dd40ce14-1200x630.jpg" medium="image" />
+    <enclosure url="/img/8e7446a9c1742a2d8181df92593fd45b6fbfa947-1795765142-dd40ce14-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Motorcyclist grievously injured in Mġarr crash</title>
+    <link>https://www.maltatoday.com.mt/news/court_and_police/145984/motorcyclist_seriously_injured_in_marr_crash</link>
+    <description>A 30-year-old man residing in San Ġwann was grievously injured after losing control of his Znen motorcycle in Triq l-Imġarr, Mġarr, at about 9:15pm on Thursday. Police were informed and a medical team transported the rider to Mater Dei Hospital, where he was later certified to be suffering from grievous injuries. Police investigations are ongoing.</description>
+    <content:encoded><![CDATA[<p>A 30-year-old man residing in San Ġwann was grievously injured after losing control of his Znen motorcycle in Triq l-Imġarr, Mġarr, at about 9:15pm on Thursday. Police were informed and a medical team transported the rider to Mater Dei Hospital, where he was later certified to be suffering from grievous injuries. Police investigations are ongoing.</p><p><img src="/img/dsc05712.jpg" alt="Motorcycle crash in Mgarr" /></p><p><em>Sources: Malta Today, Malta Independent</em></p>]]></content:encoded>
+    <pubDate>Fri, 27 Nov 2026 08:33:00 +0100</pubDate>
+    <guid isPermaLink="false">038599268fba3272c1544151948deaa9</guid>
+    <category>Courts &amp; Crime</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-27</source>
+    <media:content url="/img/dsc05712.jpg" medium="image" />
+    <enclosure url="/img/dsc05712.jpg" length="0" type="image/jpeg" />
   </item>
 </channel>
 </rss>
