@@ -9,8 +9,8 @@
   <link>https://maltanews.pages.dev/</link>
   <description>Daily Malta news digest, automated. Curated from local Maltese news sources.</description>
   <language>en-mt</language>
-  <lastBuildDate>Fri, 27 Nov 2026 13:34:47 +0100</lastBuildDate>
-  <pubDate>Fri, 27 Nov 2026 13:04:00 +0100</pubDate>
+  <lastBuildDate>Fri, 27 Nov 2026 16:31:07 +0100</lastBuildDate>
+  <pubDate>Fri, 27 Nov 2026 16:03:00 +0100</pubDate>
   <generator>Hermes Malta News pipeline v3 + RSS</generator>
   <managingEditor>dejjem@gmail.com (Mark Micallef)</managingEditor>
   <atom:link href="https://maltanews.pages.dev/feed.xml" rel="self" type="application/rss+xml" />
@@ -19,6 +19,90 @@
     <title>Malta News Today</title>
     <link>https://maltanews.pages.dev/</link>
   </image>
+  <item>
+    <title>Malta ranks last in EU for share of tertiary students studying STEM subjects</title>
+    <link>https://timesofmalta.com/article/malta-ranks-last-eu-share-tertiary-students-pursuing-stem-subjects.1137783</link>
+    <description>Eurostat data released last week shows that only 13.2 per cent of Maltese tertiary students studied science, technology, engineering and mathematics in 2024, the lowest share in the EU and less than half the EU average of 27.1 per cent. Malta also recorded the sharpest fall between 2015 and 2024, down 8.2 percentage points, prompting the Nationalist Party to question the government on what steps will be taken to encourage more young people to take up STEM subjects.</description>
+    <content:encoded><![CDATA[<p>Eurostat data released last week shows that only 13.2 per cent of Maltese tertiary students studied science, technology, engineering and mathematics in 2024, the lowest share in the EU and less than half the EU average of 27.1 per cent. Malta also recorded the sharpest fall between 2015 and 2024, down 8.2 percentage points, prompting the Nationalist Party to question the government on what steps will be taken to encourage more young people to take up STEM subjects.</p><p><img src="/img/b124574753d7cfe4ca79d0802c05cfc019cdc2f6-1795791891-501e3c4c-1200x630.jpg" alt="Eurostat data on STEM students in EU tertiary education" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Fri, 27 Nov 2026 16:03:00 +0100</pubDate>
+    <guid isPermaLink="false">da07c36098eff78ac3bb2dd6eb56124c</guid>
+    <category>Politics</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-27</source>
+    <media:content url="/img/b124574753d7cfe4ca79d0802c05cfc019cdc2f6-1795791891-501e3c4c-1200x630.jpg" medium="image" />
+    <enclosure url="/img/b124574753d7cfe4ca79d0802c05cfc019cdc2f6-1795791891-501e3c4c-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>PN cites conflicting figures on broadcasters political coverage</title>
+    <link>https://lovinmalta.com/news/local/pn-raises-concerns-over-conflicting-figures-on-political-coverage-by-national-broadcaster/</link>
+    <description>The Nationalist Party said the Broadcasting Authority told the court that for every recorded comment from a PN representative the national broadcaster aired 15 from the Government, while the minister responsible for broadcasting had previously said the ratio was eight. The figures were raised in the PNs ongoing court case against PBS and the Broadcasting Authority, where the court also heard that no further action is being taken despite repeated impartiality complaints.</description>
+    <content:encoded><![CDATA[<p>The Nationalist Party said the Broadcasting Authority told the court that for every recorded comment from a PN representative the national broadcaster aired 15 from the Government, while the minister responsible for broadcasting had previously said the ratio was eight. The figures were raised in the PNs ongoing court case against PBS and the Broadcasting Authority, where the court also heard that no further action is being taken despite repeated impartiality complaints.</p><p><img src="/img/GABE-FB-COVER-2026-11-27T154808.593-1024x536.jpg" alt="Nationalist Party statement on broadcaster political coverage figures" /></p><p><em>Sources: Lovin Malta</em></p>]]></content:encoded>
+    <pubDate>Fri, 27 Nov 2026 15:59:00 +0100</pubDate>
+    <guid isPermaLink="false">1c5000ad10589b14ecd1aeefc627e2f6</guid>
+    <category>Politics</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-27</source>
+    <media:content url="/img/GABE-FB-COVER-2026-11-27T154808.593-1024x536.jpg" medium="image" />
+    <enclosure url="/img/GABE-FB-COVER-2026-11-27T154808.593-1024x536.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Man denied bail over alleged knife attack at Qormi snack bar</title>
+    <link>https://timesofmalta.com/article/man-denied-bail-alleged-knife-attack-qormi-snack-bar.1137782</link>
+    <description>A 34-year-old man was remanded in custody after pleading not guilty to injuring another man with a knife during an argument at a snack bar in Qormi on Tuesday. He was charged with slight bodily harm, threatening and insulting, breaching the public peace, carrying a cutting and pointed weapon outside his residence and recidivism. The prosecution and the alleged victim opposed bail, and a knife was seized from the scene.</description>
+    <content:encoded><![CDATA[<p>A 34-year-old man was remanded in custody after pleading not guilty to injuring another man with a knife during an argument at a snack bar in Qormi on Tuesday. He was charged with slight bodily harm, threatening and insulting, breaching the public peace, carrying a cutting and pointed weapon outside his residence and recidivism. The prosecution and the alleged victim opposed bail, and a knife was seized from the scene.</p><p><img src="/img/6e1f32e4c94a86e5d1e11a8d73b9fbae615dca55-1795789373-8e9cf861-1200x630.jpeg" alt="Court proceedings over an alleged knife attack in Qormi" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Fri, 27 Nov 2026 15:21:00 +0100</pubDate>
+    <guid isPermaLink="false">b527b1d317de75a9110b9d21992b7e3f</guid>
+    <category>Courts &amp; Crime</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-27</source>
+    <media:content url="/img/6e1f32e4c94a86e5d1e11a8d73b9fbae615dca55-1795789373-8e9cf861-1200x630.jpeg" medium="image" />
+    <enclosure url="/img/6e1f32e4c94a86e5d1e11a8d73b9fbae615dca55-1795789373-8e9cf861-1200x630.jpeg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Transport Malta set to suspend major cab fleet My Planet over public service garage rules</title>
+    <link>https://timesofmalta.com/article/transport-malta-set-suspend-major-cab-fleet-my-planet-garage-rules.1137780</link>
+    <description>Transport Malta is expected to suspend My Planet Cab Ride Limited, one of Maltas largest ride-hailing fleets with more than 100 cars, over alleged infringements of public service garage rules. Under the rules, fleets of more than five cars must hold a garage with enough spaces for every vehicle, and industry sources said the companys fleet has grown sharply since it was formed in January 2025. My Planet said it intends to contest the decision before the Administrative Review Tribunal.</description>
+    <content:encoded><![CDATA[<p>Transport Malta is expected to suspend My Planet Cab Ride Limited, one of Maltas largest ride-hailing fleets with more than 100 cars, over alleged infringements of public service garage rules. Under the rules, fleets of more than five cars must hold a garage with enough spaces for every vehicle, and industry sources said the companys fleet has grown sharply since it was formed in January 2025. My Planet said it intends to contest the decision before the Administrative Review Tribunal.</p><p><img src="/img/5689622389c1150be6b3a70cb2e51f3c64edaaa3-1795788037-68dde20e-1200x630.jpg" alt="Cab fleet vehicles operating on ride-hailing platforms" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Fri, 27 Nov 2026 14:59:00 +0100</pubDate>
+    <guid isPermaLink="false">9d97a9772c021264dce76165244c56ff</guid>
+    <category>Infrastructure &amp; Transport</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-27</source>
+    <media:content url="/img/5689622389c1150be6b3a70cb2e51f3c64edaaa3-1795788037-68dde20e-1200x630.jpg" medium="image" />
+    <enclosure url="/img/5689622389c1150be6b3a70cb2e51f3c64edaaa3-1795788037-68dde20e-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Two shops catch fire in St Georges Square in Gozo; police open investigation</title>
+    <link>https://lovinmalta.com/news/local/two-shops-catch-fire-in-gozos-st-georges-square-as-police-launch-investigation/</link>
+    <description>Two shops caught fire in St Georges Square in the early hours of Friday, with the blaze starting in one shop before spreading to a neighbouring establishment. Civil Protection Department members attended and brought the flames under control, and police said they are investigating the circumstances. No information on injuries or the extent of the damage has been confirmed.</description>
+    <content:encoded><![CDATA[<p>Two shops caught fire in St Georges Square in the early hours of Friday, with the blaze starting in one shop before spreading to a neighbouring establishment. Civil Protection Department members attended and brought the flames under control, and police said they are investigating the circumstances. No information on injuries or the extent of the damage has been confirmed.</p><p><img src="/img/Dylan-Covers-3-45-1024x536.jpg" alt="Fire at shops in St George’s Square in Gozo" /></p><p><em>Sources: Lovin Malta</em></p>]]></content:encoded>
+    <pubDate>Fri, 27 Nov 2026 14:47:00 +0100</pubDate>
+    <guid isPermaLink="false">0b3257869907d788f9c0586d0f601441</guid>
+    <category>Courts &amp; Crime</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-27</source>
+    <media:content url="/img/Dylan-Covers-3-45-1024x536.jpg" medium="image" />
+    <enclosure url="/img/Dylan-Covers-3-45-1024x536.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Man remanded over theft of car batteries from eCabs garage in St Julians</title>
+    <link>https://timesofmalta.com/article/two-accused-stealing-car-batteries-ecabs-garage.1137779</link>
+    <description>Lydon Gravina, 37, was remanded in custody while Yanika Barbara, 22, was granted bail after both pleaded not guilty to stealing around 400 worth of car batteries from an eCabs garage in St Julians on the night of 20 November. Police acted after eCabs reviewed CCTV footage, and Gravina was also charged with breaching a probation order and with recidivism.</description>
+    <content:encoded><![CDATA[<p>Lydon Gravina, 37, was remanded in custody while Yanika Barbara, 22, was granted bail after both pleaded not guilty to stealing around 400 worth of car batteries from an eCabs garage in St Julians on the night of 20 November. Police acted after eCabs reviewed CCTV footage, and Gravina was also charged with breaching a probation order and with recidivism.</p><p><img src="/img/b1cb8daf6b030b7d178059dbe3c98dc6ed72d24b-1795785490-e2f694f4-1200x630.jpeg" alt="Car batteries stolen from an eCabs garage in St Julian’s" /></p><p><em>Sources: Times of Malta, Malta Today</em></p>]]></content:encoded>
+    <pubDate>Fri, 27 Nov 2026 14:17:00 +0100</pubDate>
+    <guid isPermaLink="false">a2d45c7b66d9a408f776ef44b2ac1688</guid>
+    <category>Courts &amp; Crime</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-27</source>
+    <media:content url="/img/b1cb8daf6b030b7d178059dbe3c98dc6ed72d24b-1795785490-e2f694f4-1200x630.jpeg" medium="image" />
+    <enclosure url="/img/b1cb8daf6b030b7d178059dbe3c98dc6ed72d24b-1795785490-e2f694f4-1200x630.jpeg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Court rules it is too early to rule on Yorgen Fenechs fair-trial claim over Theuma pardon</title>
+    <link>https://timesofmalta.com/article/early-rule-fenech-fair-trial-claim-theuma-pardon-judge-says.1137778</link>
+    <description>Judge Audrey Demicoli said it is premature to decide whether Yorgen Fenechs right to a fair trial was breached when Melvin Theuma kept his presidential pardon after refusing to answer questions about his phantom government job. Fenech remains the subject of criminal proceedings relating to that pardon, and both his acquittals in the phantom-job case and in the Daphne Caruana Galizia murder case are under appeal.</description>
+    <content:encoded><![CDATA[<p>Judge Audrey Demicoli said it is premature to decide whether Yorgen Fenechs right to a fair trial was breached when Melvin Theuma kept his presidential pardon after refusing to answer questions about his phantom government job. Fenech remains the subject of criminal proceedings relating to that pardon, and both his acquittals in the phantom-job case and in the Daphne Caruana Galizia murder case are under appeal.</p><p><img src="/img/462506f880a2939a00c80becc672eb6da219183b-1795784568-ac3bcdd5-1200x630.png" alt="Court ruling on the Theuma pardon and the Fenech fair-trial claim" /></p><p><em>Sources: Times of Malta, Malta Independent, Lovin Malta, Malta Today</em></p>]]></content:encoded>
+    <pubDate>Fri, 27 Nov 2026 14:05:00 +0100</pubDate>
+    <guid isPermaLink="false">988e09f06592ff38a20dfce97e627b63</guid>
+    <category>Politics</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-27</source>
+    <media:content url="/img/462506f880a2939a00c80becc672eb6da219183b-1795784568-ac3bcdd5-1200x630.png" medium="image" />
+    <enclosure url="/img/462506f880a2939a00c80becc672eb6da219183b-1795784568-ac3bcdd5-1200x630.png" length="0" type="image/jpeg" />
+  </item>
   <item>
     <title>Five arrested in major drug trafficking operation</title>
     <link>https://newsbook.com.mt/5-arrestati-brabta-ma-traffikar-ta-droga/</link>
@@ -234,6 +318,18 @@
     <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-27</source>
     <media:content url="/img/d4681ba6a61b79f8abb1a93e30175d0fd900a557-1795696631-ace4c2aa-1200x630.jpg" medium="image" />
     <enclosure url="/img/d4681ba6a61b79f8abb1a93e30175d0fd900a557-1795696631-ace4c2aa-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Education minister sets date for academics to receive 33 million in arrears</title>
+    <link>https://www.maltatoday.com.mt/news/court_and_police/145988/watch__date_set_for_university_academics_to_receive_3_million_in_arrears_minister_says</link>
+    <description>Education Minister Byron Camilleri said a date has been set for University of Malta and Junior College academics to receive around 33 million in outstanding arrears owed under their collective agreement. The government gave assurances to the University of Malta Academic Staff Association on Thursday evening, after academics had earlier threatened to withhold examinations and assignments.</description>
+    <content:encoded><![CDATA[<p>Education Minister Byron Camilleri said a date has been set for University of Malta and Junior College academics to receive around 33 million in outstanding arrears owed under their collective agreement. The government gave assurances to the University of Malta Academic Staff Association on Thursday evening, after academics had earlier threatened to withhold examinations and assignments.</p><p><img src="/img/byron_university.png" alt="Education Minister Byron Camilleri speaking on television" /></p><p><em>Sources: Malta Today</em></p>]]></content:encoded>
+    <pubDate>Fri, 27 Nov 2026 11:10:00 +0100</pubDate>
+    <guid isPermaLink="false">9daad00641c63e29d565e9dc7a72c2e1</guid>
+    <category>Politics</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-27</source>
+    <media:content url="/img/byron_university.png" medium="image" />
+    <enclosure url="/img/byron_university.png" length="0" type="image/jpeg" />
   </item>
   <item>
     <title>Abortion documentary 'Dear Decision Makers' premieres and is released online</title>
