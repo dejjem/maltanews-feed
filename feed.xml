@@ -9,8 +9,8 @@
   <link>https://maltanews.pages.dev/</link>
   <description>Daily Malta news digest, automated. Curated from local Maltese news sources.</description>
   <language>en-mt</language>
-  <lastBuildDate>Sat, 28 Nov 2026 06:33:47 +0100</lastBuildDate>
-  <pubDate>Sat, 28 Nov 2026 12:00:00 +0100</pubDate>
+  <lastBuildDate>Sat, 28 Nov 2026 13:30:59 +0100</lastBuildDate>
+  <pubDate>Sat, 28 Nov 2026 13:00:00 +0100</pubDate>
   <generator>Hermes Malta News pipeline v3 + RSS</generator>
   <managingEditor>dejjem@gmail.com (Mark Micallef)</managingEditor>
   <atom:link href="https://maltanews.pages.dev/feed.xml" rel="self" type="application/rss+xml" />
@@ -19,6 +19,54 @@
     <title>Malta News Today</title>
     <link>https://maltanews.pages.dev/</link>
   </image>
+  <item>
+    <title>Transport Malta suspends licence of cab operator running over 100 vehicles</title>
+    <link>https://newsbook.com.mt/transport-malta-tissospendi-l-licenzja-ta-operatur-baktar-minn-100-taxi/</link>
+    <description>Transport Malta suspended the operating licence of My Planet Cab Ride Limited with immediate effect after inspections found several of the company's vehicles did not meet public service vehicle regulations and were not being used exclusively for the company's services. The operator runs more than 100 vehicles across platforms such as Bolt and Uber, and its vehicles may no longer offer cab services under that licence. The company may appeal to the Administrative Review Tribunal.</description>
+    <content:encoded><![CDATA[<p>Transport Malta suspended the operating licence of My Planet Cab Ride Limited with immediate effect after inspections found several of the company&#x27;s vehicles did not meet public service vehicle regulations and were not being used exclusively for the company&#x27;s services. The operator runs more than 100 vehicles across platforms such as Bolt and Uber, and its vehicles may no longer offer cab services under that licence. The company may appeal to the Administrative Review Tribunal.</p><p><img src="/img/taxi-stand-portomaso-san-giljan-scaled.jpg" alt="Taxis at a Malta taxi stand" /></p><p><em>Sources: Newsbook</em></p>]]></content:encoded>
+    <pubDate>Sat, 28 Nov 2026 13:00:00 +0100</pubDate>
+    <guid isPermaLink="false">75d80411dc2ca5fc3d0820f27f2d9f81</guid>
+    <category>Infrastructure &amp; Transport</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-28</source>
+    <media:content url="/img/taxi-stand-portomaso-san-giljan-scaled.jpg" medium="image" />
+    <enclosure url="/img/taxi-stand-portomaso-san-giljan-scaled.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Labour Party President: budget measures on non-EU workers stirred anti-foreigner sentiment</title>
+    <link>https://www.maltatoday.com.mt/news/national/146011/pl_president_believes_budget_measures_unintentionally_stirred_antiforeigner_sentiment</link>
+    <description>Alex Sciberras said the government's budget measures targeting non-EU workers have unintentionally spread anti-foreigner sentiment, while acknowledging that infrastructure and overpopulation concerns must be addressed. Speaking on Campus103.7, he also criticised former prime minister Joseph Muscat's description of "foreigners serving the Maltese" and urged caution in the language used, saying many in the party were uncomfortable with the revelations of the Yorgen Fenech trial.</description>
+    <content:encoded><![CDATA[<p>Alex Sciberras said the government&#x27;s budget measures targeting non-EU workers have unintentionally spread anti-foreigner sentiment, while acknowledging that infrastructure and overpopulation concerns must be addressed. Speaking on Campus103.7, he also criticised former prime minister Joseph Muscat&#x27;s description of &quot;foreigners serving the Maltese&quot; and urged caution in the language used, saying many in the party were uncomfortable with the revelations of the Yorgen Fenech trial.</p><p><img src="/img/alex_sciberras_pl_2.jpg" alt="Labour Party President Alex Sciberras" /></p><p><em>Sources: Malta Today</em></p>]]></content:encoded>
+    <pubDate>Sat, 28 Nov 2026 12:54:00 +0100</pubDate>
+    <guid isPermaLink="false">8a47a6099a66a7bd29762566c19743b9</guid>
+    <category>Politics</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-28</source>
+    <media:content url="/img/alex_sciberras_pl_2.jpg" medium="image" />
+    <enclosure url="/img/alex_sciberras_pl_2.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>GWU condemns assault on staff at Sports Direct Qormi outlet</title>
+    <link>https://www.maltatoday.com.mt/news/national/146010/gwu_condemns_assault_on_workers_carrying_out_their_duties</link>
+    <description>The General Workers' Union condemned the assault on employees on duty at the Sports Direct outlet in Qormi, calling for those responsible to be held accountable. Police said one person suffered light injuries and that both parties filed separate reports. The GWU said workers should be able to perform their duties without violence, intimidation or abuse, and called for stronger protection for staff in roles more exposed to confrontation.</description>
+    <content:encoded><![CDATA[<p>The General Workers&#x27; Union condemned the assault on employees on duty at the Sports Direct outlet in Qormi, calling for those responsible to be held accountable. Police said one person suffered light injuries and that both parties filed separate reports. The GWU said workers should be able to perform their duties without violence, intimidation or abuse, and called for stronger protection for staff in roles more exposed to confrontation.</p><p><img src="/img/91_copy_of_article_covers_-_new_(1).png" alt="General Workers Union statement" /></p><p><em>Sources: Malta Today</em></p>]]></content:encoded>
+    <pubDate>Sat, 28 Nov 2026 12:26:00 +0100</pubDate>
+    <guid isPermaLink="false">94d95894026ca3710ef09d5beb0fe908</guid>
+    <category>Courts &amp; Crime</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-28</source>
+    <media:content url="/img/91_copy_of_article_covers_-_new_(1).png" medium="image" />
+    <enclosure url="/img/91_copy_of_article_covers_-_new_(1).png" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>15 prisoners deported from Malta over the past two months, minister says</title>
+    <link>https://lovinmalta.com/news/15-prisoners-deported-from-malta-over-the-past-two-months-after-serving-prison-sentences/</link>
+    <description>Home Affairs and Security Minister Glenn Bedingfield said 15 prisoners had been deported from Malta during October and November after serving their sentences. The individuals, who came from Europe, Asia, Africa and North America, were returned to their respective countries; four had reached the end of their sentences while the other 11 had already served their time. Bedingfield said the process would continue, adding that the country's security is an absolute priority.</description>
+    <content:encoded><![CDATA[<p>Home Affairs and Security Minister Glenn Bedingfield said 15 prisoners had been deported from Malta during October and November after serving their sentences. The individuals, who came from Europe, Asia, Africa and North America, were returned to their respective countries; four had reached the end of their sentences while the other 11 had already served their time. Bedingfield said the process would continue, adding that the country&#x27;s security is an absolute priority.</p><p><img src="/img/FB-COVER-CHAR-5-2-1024x536.jpg" alt="Prisoners deported from Malta" /></p><p><em>Sources: Lovin Malta</em></p>]]></content:encoded>
+    <pubDate>Sat, 28 Nov 2026 12:24:00 +0100</pubDate>
+    <guid isPermaLink="false">9b1a5e9467461b9bed99a8d78030eccc</guid>
+    <category>Politics</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-28</source>
+    <media:content url="/img/FB-COVER-CHAR-5-2-1024x536.jpg" medium="image" />
+    <enclosure url="/img/FB-COVER-CHAR-5-2-1024x536.jpg" length="0" type="image/jpeg" />
+  </item>
   <item>
     <title>International arrest warrant issued for former Steward Healthcare CEO Ralph de la Torre</title>
     <link>https://timesofmalta.com/article/international-arrest-warrant-former-steward-ceo-ralph-de-la-torre.1137798</link>
@@ -126,6 +174,78 @@
     <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-28</source>
     <media:content url="/img/cff91e65e02d63f6de8d429e5bcb2a703bac4d32-1795804531-fc27af23-1200x630.jpg" medium="image" />
     <enclosure url="/img/cff91e65e02d63f6de8d429e5bcb2a703bac4d32-1795804531-fc27af23-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>President visits Multigas as the Kirkop company marks a century</title>
+    <link>https://timesofmalta.com/article/president-visits-multigas-company-marks-centenary.1137818</link>
+    <description>President Myriam Spiteri Debono visited Multigas at its Kirkop plant as the company marks 100 years of industrial gas manufacturing in Malta, tracing its origins to L. Farrugia Sons in Ħamrun in 1926. She was welcomed by chairman Louis Farrugia and CEO Noel Micallef, and a bronze sculpture by Christopher Chetcuti was commissioned for the centenary. The firm supplies medicinal oxygen to hospitals, clinics and home patients.</description>
+    <content:encoded><![CDATA[<p>President Myriam Spiteri Debono visited Multigas at its Kirkop plant as the company marks 100 years of industrial gas manufacturing in Malta, tracing its origins to L. Farrugia Sons in Ħamrun in 1926. She was welcomed by chairman Louis Farrugia and CEO Noel Micallef, and a bronze sculpture by Christopher Chetcuti was commissioned for the centenary. The firm supplies medicinal oxygen to hospitals, clinics and home patients.</p><p><img src="/img/b6cfaca1b10b76c56ffc19367518240d63243e1e-1795862490-217093b8-1200x630.jpg" alt="President Myriam Spiteri Debono at the Multigas plant in Kirkop" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Sat, 28 Nov 2026 11:37:00 +0100</pubDate>
+    <guid isPermaLink="false">69bf57d9d9912613bc9e580a38f78079</guid>
+    <category>Politics</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-28</source>
+    <media:content url="/img/b6cfaca1b10b76c56ffc19367518240d63243e1e-1795862490-217093b8-1200x630.jpg" medium="image" />
+    <enclosure url="/img/b6cfaca1b10b76c56ffc19367518240d63243e1e-1795862490-217093b8-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Stop works order after viral video of excavator operator working from a crane</title>
+    <link>https://timesofmalta.com/article/watch-authorities-probe-dangling-excavator-operator-video-goes-viral.1137816</link>
+    <description>The Building and Construction Authority and the Occupational Health and Safety Authority halted work at a Santa Venera construction site after a video showed an operator using a hydraulic breaker on a building while the mini-excavator was suspended in mid-air from a crane. The operator was not wearing a hard hat and the machine was not visibly harnessed. The project, under permit PA 08473/24, involves demolishing an existing property for 57 apartments and 16 garages.</description>
+    <content:encoded><![CDATA[<p>The Building and Construction Authority and the Occupational Health and Safety Authority halted work at a Santa Venera construction site after a video showed an operator using a hydraulic breaker on a building while the mini-excavator was suspended in mid-air from a crane. The operator was not wearing a hard hat and the machine was not visibly harnessed. The project, under permit PA 08473/24, involves demolishing an existing property for 57 apartments and 16 garages.</p><p><img src="/img/d15dc0334db470bc78db760b418bc115048fbf5c-1795856685-9375e052-1200x630.png" alt="Excavator suspended from a crane during demolition work" /></p><p><em>Sources: Times of Malta, Newsbook</em></p>]]></content:encoded>
+    <pubDate>Sat, 28 Nov 2026 10:04:00 +0100</pubDate>
+    <guid isPermaLink="false">457075110b79ce6f6adf5bbec7c71811</guid>
+    <category>Infrastructure &amp; Transport</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-28</source>
+    <media:content url="/img/d15dc0334db470bc78db760b418bc115048fbf5c-1795856685-9375e052-1200x630.png" medium="image" />
+    <enclosure url="/img/d15dc0334db470bc78db760b418bc115048fbf5c-1795856685-9375e052-1200x630.png" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>KM Malta Airlines in talks with Chinese carriers over codeshare</title>
+    <link>https://timesofmalta.com/article/km-malta-eyes-china-new-airline-partnerships.1137815</link>
+    <description>KM Malta Airlines is discussing a codeshare agreement with several Chinese airlines to reach the Asian market, executive chairman David Curmi said at the 11th Mediterranean Tourism Forum. Curmi acknowledged that Chinese tourist numbers in Malta are "not big" but said the airline is talking to Chinese carriers serving European airports the national carrier already flies to, adding that Malta should look east as well as west to increase Asian connections.</description>
+    <content:encoded><![CDATA[<p>KM Malta Airlines is discussing a codeshare agreement with several Chinese airlines to reach the Asian market, executive chairman David Curmi said at the 11th Mediterranean Tourism Forum. Curmi acknowledged that Chinese tourist numbers in Malta are &quot;not big&quot; but said the airline is talking to Chinese carriers serving European airports the national carrier already flies to, adding that Malta should look east as well as west to increase Asian connections.</p><p><img src="/img/aec3b84e7366225320f1cb5e2d376dabe30a25f1-1795855185-460b79fd-1200x630.png" alt="KM Malta Airlines at the Mediterranean Tourism Forum" /></p><p><em>Sources: Times of Malta</em></p>]]></content:encoded>
+    <pubDate>Sat, 28 Nov 2026 09:36:00 +0100</pubDate>
+    <guid isPermaLink="false">a0ab0d12e31ced2cf83b1c8b38dd9745</guid>
+    <category>Infrastructure &amp; Transport</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-28</source>
+    <media:content url="/img/aec3b84e7366225320f1cb5e2d376dabe30a25f1-1795855185-460b79fd-1200x630.png" medium="image" />
+    <enclosure url="/img/aec3b84e7366225320f1cb5e2d376dabe30a25f1-1795855185-460b79fd-1200x630.png" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>65-year-old man dies after being crushed between a van and a concrete mixer truck in Ħal Farruġ</title>
+    <link>https://timesofmalta.com/article/man-crushed-death-hal-farrug-factory-tragedy.1137814</link>
+    <description>A 65-year-old Italian national died on Saturday morning after being pinned between a concrete mixer truck and a van at an industrial site in Ħal Farruġ. Police were alerted at around 7.15am and the man was pronounced dead at the scene despite efforts by medical personnel. The van was driven by a 57-year-old man from Żebbuġ. Magistrate Philip Galea Farrugia opened an inquiry, with police and the Occupational Health and Safety Authority also investigating.</description>
+    <content:encoded><![CDATA[<p>A 65-year-old Italian national died on Saturday morning after being pinned between a concrete mixer truck and a van at an industrial site in Ħal Farruġ. Police were alerted at around 7.15am and the man was pronounced dead at the scene despite efforts by medical personnel. The van was driven by a 57-year-old man from Żebbuġ. Magistrate Philip Galea Farrugia opened an inquiry, with police and the Occupational Health and Safety Authority also investigating.</p><p><img src="/img/a33356ee8881a465284af94caf3435ec4080118e-1795863921-dd4ea987-1200x630.jpeg" alt="Fatal workplace accident at an industrial site in Hal Farrug" /></p><p><em>Sources: Times of Malta, Malta Today, Newsbook</em></p>]]></content:encoded>
+    <pubDate>Sat, 28 Nov 2026 09:14:00 +0100</pubDate>
+    <guid isPermaLink="false">c834c876bc4cdb54c927b265972a6224</guid>
+    <category>Courts &amp; Crime</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-28</source>
+    <media:content url="/img/a33356ee8881a465284af94caf3435ec4080118e-1795863921-dd4ea987-1200x630.jpeg" medium="image" />
+    <enclosure url="/img/a33356ee8881a465284af94caf3435ec4080118e-1795863921-dd4ea987-1200x630.jpeg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>European Court of Justice refuses to rule on Malta's disputed Bill 55 gaming law</title>
+    <link>https://timesofmalta.com/article/ecj-bill-55-ruling-thrown-malta-gaming-sector.1137788</link>
+    <description>The Court of Justice of the European Union rejected a request from an Austrian court to rule on whether Malta's gaming law, known as Bill 55, breaches EU law. Malta had objected that the referral was a "fictitious dispute" between two Austrian parties. Bill 55, introduced in 2023, allows Maltese gaming companies to refuse to enforce sentences handed down against them in foreign jurisdictions. The dispute reached the ECJ after Spielerschutz Sigma, a company suing Austrian gamblers, was told its legal advisers could not rely on the law.</description>
+    <content:encoded><![CDATA[<p>The Court of Justice of the European Union rejected a request from an Austrian court to rule on whether Malta&#x27;s gaming law, known as Bill 55, breaches EU law. Malta had objected that the referral was a &quot;fictitious dispute&quot; between two Austrian parties. Bill 55, introduced in 2023, allows Maltese gaming companies to refuse to enforce sentences handed down against them in foreign jurisdictions. The dispute reached the ECJ after Spielerschutz Sigma, a company suing Austrian gamblers, was told its legal advisers could not rely on the law.</p><p><img src="/img/61b32420116750b18ad385bad09d0969a2b4ab37-1795796994-28a16d2f-1200x630.jpg" alt="European Court of Justice building in Luxembourg" /></p><p><em>Sources: Times of Malta, Malta Today</em></p>]]></content:encoded>
+    <pubDate>Sat, 28 Nov 2026 06:45:00 +0100</pubDate>
+    <guid isPermaLink="false">9ff368e872e8538e2529e3e939489865</guid>
+    <category>Courts &amp; Crime</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-28</source>
+    <media:content url="/img/61b32420116750b18ad385bad09d0969a2b4ab37-1795796994-28a16d2f-1200x630.jpg" medium="image" />
+    <enclosure url="/img/61b32420116750b18ad385bad09d0969a2b4ab37-1795796994-28a16d2f-1200x630.jpg" length="0" type="image/jpeg" />
+  </item>
+  <item>
+    <title>Libyan institute withdraws court appeal over planned Ta' Ġiorni mosque</title>
+    <link>https://timesofmalta.com/article/libyan-institute-withdraw-court-appeal-ta-giorni-mosque.1137789</link>
+    <description>The Libyan Higher Vocational Institute in Ta' Ġiorni has instructed its lawyers to withdraw the court appeal against the refusal of its 2024 planning application for a two-storey mosque with a minaret for students, staff and administrators. The Planning Authority rejected the application and the planning appeals tribunal upheld the refusal in late September, after which the institute filed a court appeal on 19 October.</description>
+    <content:encoded><![CDATA[<p>The Libyan Higher Vocational Institute in Ta&#x27; Ġiorni has instructed its lawyers to withdraw the court appeal against the refusal of its 2024 planning application for a two-storey mosque with a minaret for students, staff and administrators. The Planning Authority rejected the application and the planning appeals tribunal upheld the refusal in late September, after which the institute filed a court appeal on 19 October.</p><p><img src="/img/8c5e4780ecc6acdc6a8a3de2e9e49c05286f648f-1795797146-e2440147-1200x630.jpg" alt="Libyan Higher Vocational Institute premises in Ta&#x27; Giorni" /></p><p><em>Sources: Times of Malta, Malta Today</em></p>]]></content:encoded>
+    <pubDate>Sat, 28 Nov 2026 06:30:00 +0100</pubDate>
+    <guid isPermaLink="false">e937164409a987fa106b34407959726f</guid>
+    <category>Courts &amp; Crime</category>
+    <source url="https://maltanews.pages.dev/feed.xml">Malta News — 2026-11-28</source>
+    <media:content url="/img/8c5e4780ecc6acdc6a8a3de2e9e49c05286f648f-1795797146-e2440147-1200x630.jpg" medium="image" />
+    <enclosure url="/img/8c5e4780ecc6acdc6a8a3de2e9e49c05286f648f-1795797146-e2440147-1200x630.jpg" length="0" type="image/jpeg" />
   </item>
 </channel>
 </rss>
